@@ -1,0 +1,8 @@
+{
+  "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.433/dados?formato=json&dataInicial=01/01/2026",
+  "captured_at": "2026-10-10T01:08:07.869914+00:00",
+  "status": 200,
+  "content_type": "application/json; charset=utf-8",
+  "bytes": 335,
+  "sha256": "e19bcd0cc4f167c29d6969164cbec266da72a460f1d3bc8caaf68f84d62658c7"
+}

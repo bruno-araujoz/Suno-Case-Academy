@@ -1,0 +1,66 @@
+# Registro declarativo das fontes do scraper.
+# Feeds de notícia são só configuração (sem código). Fontes com lógica própria (bcb_copom,
+# cvm_ipe, ibge, bcb_sgs) ficam em src/scraper/sources/ e são ligadas/desligadas aqui.
+# Endpoints verificados ao vivo em 2026-10-09.
+
+official:
+  bcb_copom: {enabled: true}
+  cvm_ipe:
+    enabled: true
+    max_pdfs_per_run: 150        # backlog restante fica pending_enrich para as próximas rodadas
+    categories: [Fato Relevante]
+    types: [Press-release]       # Tipo dentro de 'Dados Econômico-Financeiros' (releases de resultados)
+  ibge: {enabled: true}
+  bcb_sgs: {enabled: true}
+
+feeds:
+  - name: suno
+    kind: rss
+    url: https://www.suno.com.br/noticias/feed/
+    homepage: https://www.suno.com.br/noticias/
+  - name: infomoney
+    kind: wpjson
+    url: https://www.infomoney.com.br/wp-json/wp/v2/posts
+    homepage: https://www.infomoney.com.br/
+    params: {categories: 1}            # 1 = Mercados
+  - name: moneytimes
+    kind: rss
+    url: https://www.moneytimes.com.br/feed/
+    homepage: https://www.moneytimes.com.br/
+  - name: exame
+    kind: rss
+    url: https://exame.com/feed/
+    homepage: https://exame.com/
+  - name: estadao_economia
+    kind: rss
+    url: https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/economia/
+    homepage: https://www.estadao.com.br/economia/
+  - name: einvestidor
+    kind: rss
+    url: https://einvestidor.estadao.com.br/feed/
+    homepage: https://einvestidor.estadao.com.br/
+  - name: seudinheiro
+    kind: rss
+    url: https://www.seudinheiro.com/feed/
+    homepage: https://www.seudinheiro.com/
+  - name: braziljournal
+    kind: rss
+    url: https://braziljournal.com/feed/
+    homepage: https://braziljournal.com/
+  - name: valor
+    kind: rss
+    url: https://valor.globo.com/rss/valor/
+    homepage: https://valor.globo.com/
+  - name: bloomberglinea
+    kind: rss
+    url: https://www.bloomberglinea.com.br/arc/outboundfeeds/rss/?outputType=xml
+    homepage: https://www.bloomberglinea.com.br/
+
+# Só manchetes (sem texto): alimentam o sinal de cobertura da relevância.
+# (Valor saiu daqui: o feed traz texto no description — mediana 2,3 mil caracteres.)
+coverage:
+  - name: google_news
+    kind: google_news
+    window: 3d
+    queries: [Copom Selic, IPCA inflação, fato relevante, resultado trimestral balanço,
+              Ibovespa, dividendos, Banco Central juros, fusão aquisição empresa]

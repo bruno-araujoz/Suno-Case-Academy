@@ -1,0 +1,8 @@
+{
+  "url": "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/einvestidor/?body=%7B%22layout%22:%22google-news%22%7D",
+  "captured_at": "2026-10-10T02:05:21.902330+00:00",
+  "status": 200,
+  "content_type": "application/xml; charset=utf-8",
+  "bytes": 128407,
+  "sha256": "83a4801236568960f22406167db8099695519ecfd591d18ff03e22f8c81cb84f"
+}

@@ -1,0 +1,8 @@
+{
+  "url": "https://www.infomoney.com.br/wp-json/wp/v2/posts?categories=1&per_page=5&_fields=id,date_gmt,modified_gmt,link,title,excerpt,content",
+  "captured_at": "2026-10-10T01:11:10.647480+00:00",
+  "status": 200,
+  "content_type": "application/json; charset=UTF-8",
+  "bytes": 48808,
+  "sha256": "640ba7cd3d861dca444d5d7ae4b829c2e5cba4bedc6087a30f895dedf32c194d"
+}

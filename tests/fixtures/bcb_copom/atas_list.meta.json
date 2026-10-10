@@ -1,0 +1,8 @@
+{
+  "url": "https://www.bcb.gov.br/api/servico/sitebcb/copom/atas?quantidade=3",
+  "captured_at": "2026-10-10T01:07:59.811761+00:00",
+  "status": 200,
+  "content_type": "application/json; charset=utf-8",
+  "bytes": 391,
+  "sha256": "27fc37d0bc367f148c07acda068a037e3aeda1fe0fb7ba16055c521a64938978"
+}

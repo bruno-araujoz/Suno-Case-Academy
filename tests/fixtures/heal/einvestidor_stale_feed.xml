@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Estadão E-Investidor &#8211; As principais notícias do mercado financeiro</title>
+	<atom:link href="https://einvestidor.estadao.com.br/feed/" rel="self" type="application/rss+xml" />
+	<link>https://einvestidor.estadao.com.br</link>
+	<description>Fique por dentro das últimas notícias sobre a Bolsa, Mercado Financeiro e dinheiro. Confira também dicas de investimentos e educação financeira no E-Investidor.</description>
+	<lastBuildDate>Wed, 27 May 2026 21:59:36 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.9.7</generator>
+	<item>
+		<title>Ascenty anuncia investimento de US$ 1,2 bilhão em primeiro data center de IA da América Latina</title>
+		<link>https://einvestidor.estadao.com.br/investimentos/ascenty-investimento-12-bilhao-primeiro-data-center-inteligencia-artificial-ia-america-latina/</link>
+		
+		<dc:creator><![CDATA[Estadão Conteúdo]]></dc:creator>
+		<pubDate>Wed, 27 May 2026 21:59:36 +0000</pubDate>
+				<category><![CDATA[américa latina]]></category>
+		<category><![CDATA[data centers]]></category>
+		<category><![CDATA[inteligência artificial (IA)]]></category>
+		<guid isPermaLink="false">https://einvestidor.estadao.com.br/?p=791986</guid>
+
+					<description><![CDATA[A operadora de data centers Ascenty anunciou investimentos de US$ 1,2 bilhão para a construção de quatro novos data centers no Estado de São Paulo. Os contratos somam 150 megawatts (MW) de capacidade de processamento,]]></description>
+										<content:encoded><![CDATA[<body><p>A operadora de <a href="https://einvestidor.estadao.com.br/tag/data-centers/" target="_blank" rel="noopener nofollow"><strong>data centers</strong></a> <strong>Ascenty</strong> anunciou investimentos de US$ 1,2 bilhão para a construção de quatro novos data centers no Estado de São Paulo. Os contratos somam 150 megawatts (MW) de capacidade de processamento, o que representa um aumento de 40% em relação ao parque atual da companhia.</p>
+<p>Os novos contratos foram assinados a despeito da não aprovação do Regime de Tributação Especial para Data Centers (ReData), que é amplamente aguardado pelo setor.</p>
+<p>De acordo com <strong>Chris Torto</strong>, <strong>CEO da Ascenty</strong>, para os US$ 1,2 bilhão investidos em infraestrutura, serão mais de US$ 5 bilhões alocados em equipamentos para processamento (incluindo as unidades mais modernas, as unidades de processamento gráfico, ou GPUs). É neste investimento, feito pelas empresas clientes dos data centers, que a eventual vantagem tributária será vista.</p>
+<div class="area-publicidade-rectangular hmeio ">
+                <p>Publicidade</p>
+                <div class="area-publicidade">
+                    <div id="hmeio1" class="handle-ads" data-ext-params="" data-formato="hmeio" data-index="1">
+                    </div>
+                </div>
+            </div>
+        
+<div data-home="https://einvestidor.estadao.com.br" data-edi="" class="cta-fim-materia"></div>
+<p>O <strong>projeto Sumaré 3</strong> é o de maior destaque. Segundo a Ascenty, é o <strong>primeiro data center da <a href="https://einvestidor.estadao.com.br/tag/america-latina/" target="_blank" rel="noopener nofollow">América Latina</a></strong> concebido desde a origem exclusivamente para cargas de trabalho de <a href="https://einvestidor.estadao.com.br/tag/inteligencia-artificial-ia/" target="_blank" rel="noopener nofollow"><strong>inteligência artificial</strong></a>. Com capacidade inicial de 90 MW – expansível para outros 90 MW -, a unidade ficará ao lado de dois prédios já operacionais da empresa. As obras começaram em março de 2026 e a entrega está prevista para o terceiro trimestre de 2027.</p>
+<p>A instalação operará com um único cliente global de tecnologia, que não foi revelado. O projeto usará sistema de resfriamento líquido direto (<em>liquid cooling</em>) nos processadores, o mais avançado para a computação voltada à IA.</p>
+
+<p>A arquitetura de refrigeração tem consumo de água em circuito fechado, sem uso contínuo de água externo. As instalações da Ascenty já são 100% neste modelo, de acordo com <strong>Marcos Siqueira</strong>, líder da área de receitas e estratégia na companhia.</p>
+<p>Em paralelo, a Ascenty amplia o campus de Vinhedo. O data center <strong>Vinhedo 2</strong> terá sua capacidade elevada de 50 MW para 80 MW. O Vinhedo 3, com 80 MW e dedicado a cargas de IA para um único cliente, está em construção. Os projetos <strong>Vinhedo 4</strong> e <strong>Vinhedo 5</strong>, com 45 MW cada, foram anunciados como planos de expansão, sem contratos assinados ainda.</p>
+<div class="area-publicidade-rectangular hmeio ">
+                <p>Publicidade</p>
+                <div class="area-publicidade">
+                    <div id="hmeio2" class="handle-ads" data-ext-params="" data-formato="hmeio" data-index="2">
+                    </div>
+                </div>
+            </div>
+        
+<p>Para viabilizar o fornecimento de energia à região, a Ascenty investiu US$ 50 milhões na construção de uma linha de transmissão de aproximadamente 32 quilômetros, ligando uma subestação da <a href="https://einvestidor.estadao.com.br/tag/cpfl-energia-cpfe3/" target="_blank" rel="noopener nofollow">CPFL</a> em Santa Bárbara do Oeste até Sumaré.</p>
+<p>As novas unidades devem apresentar a métrica de eficiência energética em Data Centers (PUE, na sigla em inglês) de 1,45, em uma escala de 1 a 2 em que quanto menor o valor, mais eficiente é o sistema.</p>
+</body>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Ibovespa hoje: Usiminas (USIM5) lidera altas e já sobe quase 72% no ano; Cosan (CSAN3) cai</title>
+		<link>https://einvestidor.estadao.com.br/mercado/ibovespa-hoje-usiminas-usim5-lidera-altas-cosan-csan3-cai/</link>
+		
+		<dc:creator><![CDATA[Beatriz Rocha]]></dc:creator>
+		<pubDate>Wed, 27 May 2026 21:47:03 +0000</pubDate>
+				<category><![CDATA[Bolsa de valores]]></category>
+		<category><![CDATA[Copasa (CSMG3)]]></category>
+		<category><![CDATA[Cosan (CSAN3)]]></category>
+		<category><![CDATA[CSN Mineração (CMIN3)]]></category>
+		<category><![CDATA[Ibovespa]]></category>
+		<category><![CDATA[natura]]></category>
+		<category><![CDATA[RD Saúde (RADL3)]]></category>
+		<category><![CDATA[Usiminas (USIM5)]]></category>
+		<guid isPermaLink="false">https://einvestidor.estadao.com.br/?p=791959</guid>
+
+					<description><![CDATA[O Ibovespa hoje fechou em queda, em movimento contrário ao dos índices de Nova York, que encerraram em alta. Nesta quarta-feira (27), a principal referência da B3 cedeu 0,48% aos 175.744,37 pontos, com volume negociado]]></description>
+										<content:encoded><![CDATA[<body><p>O <strong><a href="https://einvestidor.estadao.com.br/tag/ibovespa" target="_blank" rel="noopener nofollow">Ibovespa</a> hoje</strong> fechou em queda, em movimento contrário ao dos índices de Nova York, que encerraram em alta. Nesta quarta-feira (27), a principal referência da B3 cedeu 0,48% aos 175.744,37 pontos, com volume negociado de R$ 22,7 bilhões.</p>
+<p>Negociado na New York Mercantile Exchange (Nymex), o <strong>petróleo WTI para julho</strong> fechou em queda de 5,55% a US$ 88,68 o barril, depois de bater o menor nível desde 21 de abril, a US$ 87,77. Já o <strong>Brent para agosto</strong>, na Intercontinental Exchange de Londres (ICE), encerrou em baixa de 4,57% a US$ 92,25 o barril, após atingir mínima desde 17 de abril, a US$ 91,75.</p>
+<p>Segundo a mídia iraniana, Teerã teria em mãos um rascunho de um arcabouço inicial para um memorando de entendimento com os EUA para restabelecer o tráfego marítimo comercial pelo Estreito de Ormuz em níveis pré-guerra dentro de um mês. Do lado americano, contudo, a Casa Branca negou a autenticidade do documento.</p>
+<div class="area-publicidade-rectangular hmeio ">
+                <p>Publicidade</p>
+                <div class="area-publicidade">
+                    <div id="hmeio1" class="handle-ads" data-ext-params="" data-formato="hmeio" data-index="1">
+                    </div>
+                </div>
+            </div>
+        
+<div data-home="https://einvestidor.estadao.com.br" data-edi="" class="cta-fim-materia"></div>
+<p>Na <strong>B3</strong>, as ações da <strong>Petrobras (<a href="https://einvestidor.estadao.com.br/cotacoes/petrobras-petr3/" target="_blank" rel="noopener nofollow nofollow nofollow nofollow">PETR3</a>; <a href="https://einvestidor.estadao.com.br/cotacoes/petrobras-petr4" target="_blank" rel="noopener nofollow nofollow nofollow nofollow">PETR4</a>)</strong> acompanharam o movimento da commodity e sofreram perdas de 1,62% nas ordinárias e de 1,43% nas preferenciais. Os papéis da <a href="https://einvestidor.estadao.com.br/cotacoes/vale-vale3/" target="_blank" rel="noopener nofollow nofollow"><strong>Vale (VALE3)</strong></a>, por sua vez, fecharam em valorização de 0,46%, mesmo com a performance negativa do minério de ferro na China e em Cingapura.</p>
+<p>No cenário doméstico, ficou ainda no radar o Índice Nacional de Preços ao Consumidor Amplo 15 (IPCA-15), que subiu 0,62% em maio, resultado acima da mediana das estimativas dos analistas do mercado financeiro consultados pelo <strong>Projeções Broadcast</strong>, que esperavam avanço de 0,56%. O intervalo das estimativas ia de 0,44% a 0,68%.</p>
+
+<p>“O mercado já vinha reduzindo apostas de cortes de juros no curto prazo e um IPCA-15 acima do esperado fortalece o discurso de manutenção de uma política monetária restritiva até que haja sinais mais consistentes de desaceleração da inflação, especialmente nos serviços”, diz Pablo Spyer, conselheiro da ANCORD.</p>
+<p><a href="https://einvestidor.estadao.com.br/ultimas/dow-jones-hoje-bolsas-de-ny-fuuros-pregao-27-eua-ira/" target="_blank" rel="noopener nofollow">Em Nova York</a>, <strong>S&amp;P 500</strong>, <strong>Dow Jones</strong> e <strong>Nasdaq</strong> subiram 0,02%, 0,36% e 0,07%, respectivamente. Entre os destaques, esteve a alta de 3,74% das ações da Meta. A empresa de Mark Zuckerberg estaria vendendo assinaturas para consumidores do seu chatbot Meta AI pela primeira vez, segundo a <em>Bloomberg</em>.</p>
+<div class="area-publicidade-rectangular hmeio ">
+                <p>Publicidade</p>
+                <div class="area-publicidade">
+                    <div id="hmeio2" class="handle-ads" data-ext-params="" data-formato="hmeio" data-index="2">
+                    </div>
+                </div>
+            </div>
+        
+<p>O <strong><a href="https://einvestidor.estadao.com.br/tag/dolar" target="_blank" rel="noopener nofollow">dólar</a> hoje</strong> fechou em alta de 0,67% cotado a R$ 5,0609. “Apesar da queda do petróleo e de sinais pontuais de avanço diplomático, o mercado segue sensível com o risco de prolongamento do conflito no Oriente Médio, o que ainda mantém demanda por proteção”, explica Bruno Shahini, especialista em investimentos da Nomad.</p>
+<h2>As maiores altas do Ibovespa hoje</h2>
+<p>As três ações que mais valorizaram no dia foram <a href="https://einvestidor.estadao.com.br/tag/usiminas-usim5" target="_blank" rel="noopener nofollow">Usiminas (USIM5)</a>, <a href="https://einvestidor.estadao.com.br/tag/rd-saude-radl3" target="_blank" rel="noopener nofollow">RD Saúde (RADL3)</a> e <a href="https://einvestidor.estadao.com.br/tag/csn-mineracao-cmin3" target="_blank" rel="noopener nofollow">CSN Mineração (CMIN3)</a>.</p>
+<h3>Usiminas (USIM5): 5,9%, R$ 10,23</h3>
+<p>As ações da Usiminas (USIM5) registraram a <strong>maior alta do Ibovespa hoje</strong> e avançaram 5,9% a R$ 10,23, após sofrerem perdas por duas sessões seguidas.</p>
+<p>A USIM5 está em alta de 23,4% no mês. No ano, acumula uma valorização de 71,93%.</p>
+<h3>RD Saúde (RADL3): 2,72%, R$ 18,5</h3>
+<p>Outro destaque positivo foi a RD Saúde (RADL3), com alta de 2,72% a R$ 18,5.</p>
+<p>A RADL3 está em baixa de 15,5% no mês. No ano, acumula uma desvalorização de 20,43%.</p>
+<h3>CSN Mineração (CMIN3): 2,66%, R$ 4,63</h3>
+<p>Apesar do recuo do minério de ferro, as ações da CSN Mineração (CMIN3) avançaram 2,66% a R$ 4,63.</p>
+<p>A CMIN3 está em baixa de 0,64% no mês. No ano, acumula uma desvalorização de 11,11%.</p>
+<h2>As maiores quedas do Ibovespa hoje</h2>
+<p>As três ações que mais desvalorizaram no dia foram <a href="https://einvestidor.estadao.com.br/tag/cosan-csan3" target="_blank" rel="noopener nofollow">Cosan (CSAN3)</a>, <a href="https://einvestidor.estadao.com.br/tag/copasa-csmg3" target="_blank" rel="noopener nofollow">Copasa (CSMG3)</a> e <a href="https://einvestidor.estadao.com.br/tag/natura" target="_blank" rel="noopener nofollow">Natura (NATU3)</a>.</p>
+<h3>Cosan (CSAN3): -6,31%, R$ 4,01</h3>
+<p>Os papéis da Cosan (CSAN3) sofreram a <strong>pior queda do Ibovespa hoje</strong> e tombaram 6,31% a R$ 4,01.</p>
+<div class="area-publicidade-rectangular hmeio ">
+                <p>Publicidade</p>
+                <div class="area-publicidade">
+                    <div id="hmeio3" class="handle-ads" data-ext-params="" data-formato="hmeio" data-index="3">
+                    </div>
+                </div>
+            </div>
+        
+<p>A CSAN3 está em baixa de 20,44% no mês. No ano, acumula uma desvalorização de 24,62%.</p>
+<h3>Copasa (CSMG3): -4,96%, R$ 50,62</h3>
+<p>As ações da Copasa (CSMG3), por sua vez, cederam 4,96% a R$ 50,62. O <em>Broadcast</em> apurou que o governo de Minas Gerais decidiu rever a privatização da estatal diante de propostas abaixo do preço mínimo esperado para a operação. <a href="https://einvestidor.estadao.com.br/mercado/acoes-copasa-csmg3-privatizacao-oferta-preco-ibovespa-hoje/" target="_blank" rel="noopener nofollow">Veja os detalhes aqui</a>.</p>
+<p>A CSMG3 está em baixa de 6,33% no mês. No ano, acumula uma valorização de 16,1%.</p>
+<h3>Natura (NATU3): -3,94%, R$ 9,99</h3>
+<p>As ações da Natura (NATU3) completaram os destaques negativos do <strong>Ibovespa hoje</strong> e recuaram 3,94% a R$ 9,99. Em relatório, o Citi avaliou que o cenário para a empresa segue “ainda turbulento”.</p>
+<p>A NATU3 está em baixa de 1,96% no mês. No ano, acumula uma valorização de 34,09%.</p>
+<p><em>*Com informações do Broadcast</em></p>
+
+<div class="area-publicidade-rectangular hmeio ">
+                <p>Publicidade</p>
+                <div class="area-publicidade">
+                    <div id="hmeio4" class="handle-ads" data-ext-params="" data-formato="hmeio" data-index="4">
+                    </div>
+                </div>
+            </div>
+        </body>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Mercados globais mantêm cautela com cenário geopolítico indefinido e queda forte do petróleo</title>
+		<link>https://einvestidor.estadao.com.br/videos/mercados-globais-ritmo-cautela-cenario-geopolitico-incerto-queda-petroleo-ibovespa-hoje/</link>
+		
+		<dc:creator><![CDATA[Ágora Investimentos]]></dc:creator>
+		<pubDate>Wed, 27 May 2026 21:39:52 +0000</pubDate>
+				<category><![CDATA[Ágora Investimentos | E-Investidor]]></category>
+		<category><![CDATA[Conteúdo E-Investidor]]></category>
+		<category><![CDATA[Fechamento de Mercado]]></category>
+		<category><![CDATA[geopolítica]]></category>
+		<category><![CDATA[Ibovespa hoje]]></category>
+		<category><![CDATA[mercados globais]]></category>
+		<category><![CDATA[Petróleo]]></category>
+		<guid isPermaLink="false">https://einvestidor.estadao.com.br/?p=791969</guid>
+
+					<description><![CDATA[Ouça aqui o fechamento de mercado no Spotify Os mercados globais encerraram a sessão em tom de cautela, mesmo diante da forte queda do petróleo, que recuou cerca de 5% no dia e passou a]]></description>
+										<content:encoded><![CDATA[<body><p><strong>Ouça aqui o fechamento de mercado no Spotify</strong></p>
+<p>Os <a href="https://einvestidor.estadao.com.br/tag/mercados-globais/" target="_blank" rel="noopener nofollow"><strong>mercados globais</strong></a> encerraram a sessão em tom de cautela, mesmo diante da <a href="https://einvestidor.estadao.com.br/mercado/petroleo-hoje-queda-ormuz-ipca15-inflacao-juros/" target="_blank" rel="noopener nofollow">forte queda do petróleo</a>, que recuou cerca de 5% no dia e passou a acumular perda próxima de 10% na semana. O movimento ocorreu em meio a sinais mistos envolvendo negociações entre Estados Unidos e Irã, mantendo os investidores em postura defensiva.</p>
+<p>Ao longo do pregão, os rendimentos dos <a href="https://einvestidor.estadao.com.br/tag/treasuries/" target="_blank" rel="noopener nofollow"><strong><em>Treasuries</em></strong></a> (títulos de renda fixa de dívida pública americana) chegaram a recuar de forma mais intensa, mas perderam força na etapa final, enquanto o dólar medido pelo DXY permaneceu praticamente estável, refletindo um ambiente de baixa convicção para ativos de risco. Em <a href="https://einvestidor.estadao.com.br/ultimas/dow-jones-hoje-bolsas-de-ny-fuuros-pregao-27-eua-ira/" target="_blank" rel="noopener nofollow"><strong>Nova York</strong></a>, os índices tiveram fôlego limitado, com destaque positivo apenas para o Dow Jones.</p>
+<div class="area-publicidade-rectangular hmeio ">
+                <p>Publicidade</p>
+                <div class="area-publicidade">
+                    <div id="hmeio1" class="handle-ads" data-ext-params="" data-formato="hmeio" data-index="1">
+                    </div>
+                </div>
+            </div>
+        
+<div data-home="https://einvestidor.estadao.com.br" data-edi="" class="cta-fim-materia"></div>
+<p>No Brasil, o <a href="https://einvestidor.estadao.com.br/tag/ibovespa-hoje/" target="_blank" rel="noopener nofollow"><strong>Ibovespa</strong></a> acompanhou o viés mais defensivo e encerrou em queda de 0,48%, aos 175.744 pontos, com giro financeiro de R$ 22,7 bilhões. A forte retração do petróleo pressionou as ações do setor de energia, enquanto os papéis mais sensíveis ao cenário doméstico também registraram desempenho mais fraco, em meio à volatilidade da curva de juros.</p>
+<p>Os juros futuros fecharam com leve inclinação de alta, refletindo a leitura do <a href="https://einvestidor.estadao.com.br/tag/ipca-15/" target="_blank" rel="noopener nofollow">Índice Nacional de Preços ao Consumidor Amplo 15 (IPCA-15)</a> de maio, cuja composição mostrou pressão mais intensa em alimentação no domicílio e serviços, reforçando a percepção de inflação ainda resiliente. No <a href="https://einvestidor.estadao.com.br/tag/Dolar/" target="_blank" rel="noopener nofollow">câmbio</a>, o dólar avançou frente ao real, cotado a R$ 5,06, acompanhando o ambiente de maior cautela.</p>
+
+</body>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Citi mantém cautela com Natura (NATU3) após resultado fraco e corta projeções</title>
+		<link>https://einvestidor.estadao.com.br/ultimas/citi-natura-natu3-turbulento-expectativa-avanco-margem-recomendacao-neutra/</link>
+		
+		<dc:creator><![CDATA[Estadão Conteúdo]]></dc:creator>
+		<pubDate>Wed, 27 May 2026 21:38:58 +0000</pubDate>
+				<category><![CDATA[Citibank]]></category>
+		<category><![CDATA[natura]]></category>
+		<category><![CDATA[recomendação]]></category>
+		<guid isPermaLink="false">https://einvestidor.estadao.com.br/?p=791958</guid>
+
+					<description><![CDATA[O Citi manteve uma visão cautelosa para a Natura (NATU3) após um primeiro trimestre de 2026 abaixo do esperado e reduziu levemente suas projeções para a companhia. O banco cortou em 1% as estimativas de]]></description>
+										<content:encoded><![CDATA[<body><p>O <a href="https://einvestidor.estadao.com.br/tag/citibank/" target="_blank" rel="noopener nofollow"><strong>Citi</strong></a> manteve uma visão cautelosa para a <strong>Natura (<a href="https://einvestidor.estadao.com.br/tag/natura/" target="_blank" rel="noopener nofollow">NATU3</a>)</strong> após um <a href="https://einvestidor.estadao.com.br/ultimas/balanco-1t26-natura-natu3-prejuizo-liquido-445-milhoes-alta-7876-variacao-cambial/" target="_blank" rel="noopener nofollow">primeiro trimestre de 2026</a> abaixo do esperado e reduziu levemente suas projeções para a companhia. O banco cortou em 1% as estimativas de receita para 2026 e 2027 e ajustou para baixo o lucro, reforçando um cenário ainda desafiador para a empresa.</p>
+<p>Ainda de acordo com o Citi, o mercado mantém o foco no segundo semestre de 2026, quando a Natura projeta “uma expansão significativa da margem”. Ainda assim, o banco diz não estar totalmente convencido de que a empresa conseguirá superar a <a href="https://einvestidor.estadao.com.br/tag/ebitda/" target="_blank" rel="noopener nofollow">margem E</a><a href="https://einvestidor.estadao.com.br/tag/ebitda/" target="_blank" rel="noopener nofollow">bitda</a> (sigla em inglês para Lucro antes de Juros, Impostos, Depreciação e Amortização) ajustada de 14,1% do ano fiscal de 2025, que inclui indenizações de aproximadamente R$ 330 milhões.</p>
+<p>Em relatório, aponta, porém, fatores que limitariam o risco de queda, como redução de despesas operacionais e a potencial aquisição pela <strong>Advent</strong>, que se comprometeu a comprar uma participação de 8% a 10% na companhia.</p>
+<div class="area-publicidade-rectangular hmeio ">
+                <p>Publicidade</p>
+                <div class="area-publicidade">
+                    <div id="hmeio1" class="handle-ads" data-ext-params="" data-formato="hmeio" data-index="1">
+                    </div>
+                </div>
+            </div>
+        
+<div data-home="https://einvestidor.estadao.com.br" data-edi="" class="cta-fim-materia"></div>
+<p>O Citi reiterou <strong>recomendação Neutra</strong>, mas de Alto Risco, e preço-alvo de R$ 12 por ação, o que sugere possibilidade de alta de 15,38% em 12 meses. O banco vê potencial de valorização, mas considera que ainda não é suficiente para recomendar compra, apesar de notar espaço para alta a um preço/lucro (P/L) de cerca de 9 vezes para 2027.</p>
+<p><em>*Conteúdo elaborado com auxílio de Inteligência Artificial, revisado e editado pela Redação da Broadcast</em></p>
+
+</body>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Loteria Federal 06069-0: NOVO HORÁRIO HOJE (27)! Veja que horas saem os novos bilhetes</title>
+		<link>https://einvestidor.estadao.com.br/loterias/sorteio-loteria-federal-06069-0-horario/</link>
+		
+		<dc:creator><![CDATA[Jéssica Anjos]]></dc:creator>
+		<pubDate>Wed, 27 May 2026 21:00:57 +0000</pubDate>
+				<category><![CDATA[Loteria]]></category>
+		<category><![CDATA[Loteria Federal]]></category>
+		<category><![CDATA[sorteio]]></category>
+		<guid isPermaLink="false">https://einvestidor.estadao.com.br/?p=791804</guid>
+
+					<description><![CDATA[A Loteria Federal realiza, nesta quarta-feira (27), o sorteio do concurso 06069-0. O prêmio da vez está estimado em mais de R$ 1,5 milhão. O evento será realizado, como de costume, no Espaço da Sorte,]]></description>
+										<content:encoded><![CDATA[<body><p>A <strong>Loteria Federal</strong> realiza, nesta quarta-feira (27), o sorteio do concurso 06069-0. O prêmio da vez está estimado em mais de R$ 1,5 milhão. O evento será realizado, como de costume, no Espaço da Sorte, em São Paulo (SP), e transmitido ao vivo pelo <a href="https://www.youtube.com/canalcaixa" target="_blank" rel="noopener nofollow">canal oficial da Caixa no YouTube</a>, permitindo que os apostadores acompanhem cada etapa do sorteio.</p>
+<h3>Mudanças no horário do sorteio</h3>
+<p><a href="https://caixanoticias.caixa.gov.br/Paginas/Not%C3%ADcias/2025/10-OUTUBRO/CAIXA-altera-horarios-de-sorteios-das-Loterias.aspx" target="_blank" rel="noopener nofollow">A Caixa Econômica Federal anunciou alterações nos horários das extrações no final do ano passado</a>: agora todas as modalidades de loterias tiveram o início adiado em uma hora. Assim, <strong>o concurso 06069-0 começará às 20h</strong> (horário de Brasília). Os resultados também poderão ser conferidos em tempo real pelo portal E-Investidor.</p>
+<p><iframe title="Como jogar na Loteca e aumentar suas chances de ganhar?" width="500" height="281" src="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy" data-src="https://www.youtube.com/embed/3xXSa7pKh6I?start=5&amp;feature=oembed"></iframe></p>
+<h3>Quando acontecem os sorteios?</h3>
+<p>As extrações regulares da <strong>Loteria Federal</strong> ocorrem duas vezes por semana, sempre às quartas e aos sábados, com exceção de <a href="https://einvestidor.estadao.com.br/webstories/4-feriados-nacionais-primeiro-semestre-2026/" target="_blank" rel="noopener nofollow">feriados nacionais</a>, em que o prêmio mínimo costuma superar R$ 1,5 milhão.</p>
+<p>Além disso, existe a <a href="https://einvestidor.estadao.com.br/loterias/loteria-federal-chances-de-ganhar-extracao-sabado/" target="_blank" rel="noopener nofollow">extração Enricou</a>, realizada um sábado por mês, que oferece um prêmio ainda mais alto, acima de R$ 3,4 milhões, atraindo um grande número de apostadores em busca de prêmios maiores.</p>
+<h3>Como funciona a Loteria Federal</h3>
+<p>Diferente de outras loterias da Caixa, que utilizam o sorteio de dezenas, a Loteria Federal se baseia em bilhetes numerados. <strong>Cada concurso premia cinco bilhetes principais</strong>, mas existem outras maneiras de ser contemplado, aumentando as chances de prêmio:</p>
+<ul>
+<li>Milhar: bilhetes cujos quatro últimos dígitos coincidam com os quatro últimos de um dos cinco bilhetes sorteados.</li>
+<li>Centena: bilhetes com os três últimos dígitos iguais aos três últimos de algum bilhete premiado.</li>
+<li>Dezena: bilhetes com os dois últimos dígitos idênticos aos dois últimos de um dos bilhetes sorteados.</li>
+<li>Aproximações: bilhetes numerados imediatamente antes ou depois do primeiro bilhete premiado.</li>
+<li>Dezenas finais: bilhetes cujas últimas dezenas coincidem com as três primeiras ou três últimas dezenas imediatamente anteriores ou posteriores à última dezena do primeiro bilhete sorteado.</li>
+<li>Unidade do primeiro prêmio: bilhetes com a mesma unidade numérica do primeiro bilhete sorteado.</li>
+</ul>
+<p><em>Colaborou: Giovana Sedano. </em></p>
+
+<div class="area-publicidade-rectangular hmeio ">
+                <p>Publicidade</p>
+                <div class="area-publicidade">
+                    <div id="hmeio1" class="handle-ads" data-ext-params="" data-formato="hmeio" data-index="1">
+                    </div>
+                </div>
+            </div>
+        
+<div data-home="https://einvestidor.estadao.com.br" data-edi="" class="cta-fim-materia"></div></body>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Resultado da Quina 7036: O HORÁRIO DOS R$ 9 MILHÕES MUDOU; veja quando saem as dezenas</title>
+		<link>https://einvestidor.estadao.com.br/loterias/resultado-quina-7036-horario-sorteio/</link>
+		
+		<dc:creator><![CDATA[Jéssica Anjos]]></dc:creator>
+		<pubDate>Wed, 27 May 2026 21:00:46 +0000</pubDate>
+				<category><![CDATA[Loteria]]></category>
+		<category><![CDATA[quina]]></category>
+		<category><![CDATA[sorteio]]></category>
+		<guid isPermaLink="false">https://einvestidor.estadao.com.br/?p=791801</guid>
+
+					<description><![CDATA[O sorteio do concurso 7036 da Quina, que tem prêmio estimado em R$ 9 milhões, será realizado nesta quarta-feira (27) no novo horário. Isso é resultado de uma mudança que ocorreu ano passado no cronograma]]></description>
+										<content:encoded><![CDATA[<body><p>O sorteio do concurso 7036 da <strong>Quina</strong>, que tem prêmio estimado em R$ 9 milhões, será realizado nesta quarta-feira (27) no novo horário. Isso é resultado de uma mudança que ocorreu ano passado no cronograma das loterias da Caixa Econômica Federal.</p>
+<h3>Novo horário do sorteio</h3>
+<p><a href="https://caixanoticias.caixa.gov.br/Paginas/Not%C3%ADcias/2025/10-OUTUBRO/CAIXA-altera-horarios-de-sorteios-das-Loterias.aspx" target="_blank" rel="noopener nofollow">De acordo com comunicado da Caixa</a>, os sorteios de diversas modalidades passaram a ser realizados uma hora mais tarde, medida que entrou em vigor no dia 03 de novembro de 2025. Assim, <strong>a Quina 7036 terá seus números divulgados a partir das 21h</strong> (horário de Brasília).</p>
+<p><iframe title="Como jogar na Loteca e aumentar suas chances de ganhar?" width="500" height="281" src="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy" data-src="https://www.youtube.com/embed/3xXSa7pKh6I?start=5&amp;feature=oembed"></iframe></p>
+<h3>Como apostar na Quina</h3>
+<p>A Quina utiliza um volante com 80 números, dos quais <strong>o apostador deve selecionar de 5 a 15 dezenas para registrar a aposta</strong>. Além disso, a aposta mínima, com cinco números, custa R$ 3,00.</p>
+<p><strong>Para facilitar, a Caixa oferece duas ferramentas:</strong></p>
+<ul>
+<li><a href="https://einvestidor.estadao.com.br/loterias/mega-da-virada-2024-como-funciona-surpresinha/" target="_blank" rel="noopener nofollow">Surpresinha</a>: o sistema escolhe os números de forma aleatória;</li>
+<li>Teimosinha: permite repetir a mesma combinação em 3 a 24 concursos consecutivos, sem necessidade de registrar novas apostas.</li>
+</ul>
+<h3>Como funciona a premiação?</h3>
+<p>A Quina <strong>distribui prêmios para quem acerta 2, 3, 4 ou 5 números</strong>, com o valor maior destinado a quem consegue acertar as cinco dezenas sorteadas.</p>
+<h3>O sorteio</h3>
+<p>A extração será transmitida <a href="https://www.youtube.com/canalcaixa" target="_blank" rel="noopener nofollow">ao vivo pelo canal oficial da Caixa no YouTube</a>. Além disso, os resultados podem ser consultados em tempo real pelo portal do E-Investidor, permitindo que os jogadores verifiquem as combinações sorteadas, em seus volantes, assim que forem divulgadas.</p>
+<h3>Resgate dos prêmios</h3>
+<p>Os ganhadores têm 90 dias a partir da data do sorteio para retirar os valores. Caso o prazo expire, o montante é revertido ao Tesouro Nacional, destinado ao Fundo de Financiamento ao Estudante do Ensino Superior (<a href="https://einvestidor.estadao.com.br/webstories/fies-passo-a-passo-inscricao/" target="_blank" rel="noopener nofollow">FIES</a>), que auxilia estudantes no custeio do ensino superior.</p>
+<h3>Frequência dos sorteios</h3>
+<p>A Quina realiza <strong>concursos seis vezes por semana, de segunda a sábado</strong>. Os sorteios são feitos no Espaço da Sorte, localizado na Avenida Paulista, em São Paulo (SP), e transmitidos pelo YouTube da Caixa Econômica Federal.</p>
+<div class="area-publicidade-rectangular hmeio ">
+                <p>Publicidade</p>
+                <div class="area-publicidade">
+                    <div id="hmeio1" class="handle-ads" data-ext-params="" data-formato="hmeio" data-index="1">
+                    </div>
+                </div>
+            </div>
+        
+<div data-home="https://einvestidor.estadao.com.br" data-edi="" class="cta-fim-materia"></div>
+<p><em>Colaborou: Giovana Sedano. </em></p>
+</body>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Resultado da Lotofácil 3696: NO HORÁRIO NOVO HOJE (27)! Saiba que horas conferir o seu jogo</title>
+		<link>https://einvestidor.estadao.com.br/loterias/sorteio-lotofacil-3696-horario/</link>
+		
+		<dc:creator><![CDATA[Jéssica Anjos]]></dc:creator>
+		<pubDate>Wed, 27 May 2026 21:00:30 +0000</pubDate>
+				<category><![CDATA[Loteria]]></category>
+		<category><![CDATA[Lotofácil]]></category>
+		<category><![CDATA[sorteio]]></category>
+		<guid isPermaLink="false">https://einvestidor.estadao.com.br/?p=791786</guid>
+
+					<description><![CDATA[A Lotofácil volta a chamar a atenção dos jogadores nesta quarta-feira (27) com o sorteio do concurso 3696. Considerada uma das loterias mais queridas do Brasil, a modalidade, organizada pela Caixa Econômica Federal, tem prêmio]]></description>
+										<content:encoded><![CDATA[<body><p>A <strong>Lotofácil</strong> volta a chamar a atenção dos jogadores nesta quarta-feira (27) com o sorteio do concurso 3696. Considerada uma das loterias mais queridas do Brasil, a modalidade, organizada pela Caixa Econômica Federal, tem prêmio estimado em R$ 5 milhões.</p>
+<h3>Quando e onde acontece o sorteio</h3>
+<p><a href="https://caixanoticias.caixa.gov.br/Paginas/Not%C3%ADcias/2025/10-OUTUBRO/CAIXA-altera-horarios-de-sorteios-das-Loterias.aspx" target="_blank" rel="noopener nofollow">Desde as mudanças promovidas pela Caixa Econômica Federal</a> no calendário das loterias, no fim de 2025, os sorteios passaram a seguir horários fixos. No caso da <a href="https://einvestidor.estadao.com.br/loterias/resultado-lotofacil-3655-segunda-faixa-14-acertos-ganhadores/" target="_blank" rel="noopener nofollow">Lotofácil</a>, <strong>a revelação dos números irá ocorrer às 21h (horário de Brasília) de hoje (27)</strong>, diretamente do Espaço da Sorte.</p>
+<p><iframe title="Como jogar na Loteca e aumentar suas chances de ganhar?" width="500" height="281" src="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy" data-src="https://www.youtube.com/embed/3xXSa7pKh6I?start=5&amp;feature=oembed"></iframe></p>
+<p>Quem quiser acompanhar pode assistir à transmissão ao vivo pelo <a href="https://www.youtube.com/canalcaixa" target="_blank" rel="noopener nofollow">canal oficial da Caixa no YouTube</a>. Além disso, o E-Investidor confere a revelação das dezenas e atualiza no site, assim que o sorteio é finalizado.</p>
+<h3>Até que horas é possível apostar?</h3>
+<p><strong>As apostas simples do concurso 3696 podem ser registradas até às 20h do próprio dia do sorteio</strong>. Já os <a href="https://einvestidor.estadao.com.br/loterias/lotofacil-onde-adquirir-cotas-boloes/" target="_blank" rel="noopener nofollow">bolões</a> feitos pela internet contam com um limite um pouco mais estendido para os interessados, permitindo confirmações até às 20h30.</p>
+<h3>Quem pode participar?</h3>
+<p>A participação segue as regras gerais das loterias no Brasil. Portanto, <strong>somente pessoas com 18 anos ou mais podem apostar</strong>, conforme determina a legislação vigente brasileira.</p>
+<h3>Entenda como funciona a Lotofácil</h3>
+<p>A <a href="https://loterias.caixa.gov.br/Paginas/Lotofacil.aspx" target="_blank" rel="noopener nofollow">Lotofácil</a> é conhecida pela simplicidade e pelas chances relativamente mais altas de premiação em comparação a outras loterias. Nela, <strong>o jogador deve selecionar entre 15 e 20 números, dentre os 25 disponíveis</strong> no volante na hora do preenchimento.</p>
+<div class="area-publicidade-rectangular hmeio ">
+                <p>Publicidade</p>
+                <div class="area-publicidade">
+                    <div id="hmeio1" class="handle-ads" data-ext-params="" data-formato="hmeio" data-index="1">
+                    </div>
+                </div>
+            </div>
+        
+<div data-home="https://einvestidor.estadao.com.br" data-edi="" class="cta-fim-materia"></div>
+<p>A aposta mínima, com 15 dezenas, oferece uma probabilidade de acerto do prêmio principal de 1 em 3.268.760. Já para quem deseja aumentar as chances, é possível escolher mais números, o que eleva significativamente a probabilidade de ganhar, mas também aumenta o valor da aposta.</p>
+<p>Por exemplo, ao marcar 20 dezenas, <strong>as chances de acertar o prêmio principal sobem consideravelmente</strong>, embora o custo da aposta também possa aumentar.</p>
+
+<p><em>Colaborou: Giovana Sedano.</em></p>
+</body>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Por que Greg Abel pode ser melhor que Buffett para a Berkshire hoje</title>
+		<link>https://einvestidor.estadao.com.br/comportamento/greg-abel-melhor-que-warren-buffett-berkshire-hathaway/</link>
+		
+		<dc:creator><![CDATA[E-Investidor]]></dc:creator>
+		<pubDate>Wed, 27 May 2026 20:27:06 +0000</pubDate>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Berkshire Hathaway]]></category>
+		<category><![CDATA[CEO]]></category>
+		<category><![CDATA[Charlie Munger]]></category>
+		<category><![CDATA[Greg Abel]]></category>
+		<category><![CDATA[Warren Buffett]]></category>
+		<guid isPermaLink="false">https://einvestidor.estadao.com.br/?p=791345</guid>
+
+					<description><![CDATA[Greg Abel pode ser um encaixe melhor para a Berkshire Hathaway de hoje do que o próprio Warren Buffett. À medida que o conglomerado se torna mais complexo e operacional, o perfil do sucessor —]]></description>
+										<content:encoded><![CDATA[<body><p><a href="https://einvestidor.estadao.com.br/tag/greg-abel/" target="_blank" rel="noopener nofollow"><strong>Greg Abel</strong></a> pode ser um encaixe melhor para a <a href="https://einvestidor.estadao.com.br/tag/Berkshire-Hathaway/" target="_blank" rel="noopener nofollow"><strong>Berkshire Hathaway</strong></a> de hoje do que o próprio <a href="https://einvestidor.estadao.com.br/tag/Warren-Buffett/" target="_blank" rel="noopener nofollow"><strong>Warren Buffett</strong></a>. À medida que o conglomerado se torna mais complexo e operacional, o perfil do sucessor — menos investidor e mais gestor — tende a ganhar relevância.</p>
+<p>Abel é o CEO certo para a Berkshire de hoje — na verdade, um encaixe melhor para a Berkshire atual do que o próprio Buffett seria. Minha visão mudou quando comecei a pensar em <a href="https://einvestidor.estadao.com.br/tag/tim-cook/" target="_blank" rel="noopener nofollow">Tim Cook</a>, que recentemente anunciou sua saída do cargo de CEO da <a href="https://einvestidor.estadao.com.br/tag/apple/" target="_blank" rel="noopener nofollow"><strong>Apple</strong></a>.</p>
+<p>Tim Cook não é <a href="https://einvestidor.estadao.com.br/tag/steve-jobs/" target="_blank" rel="noopener nofollow">Steve Jobs</a>. Mas não existe outro Steve Jobs. A probabilidade de outro Steve Jobs substituir Steve Jobs é praticamente zero. Quando olho para a gestão de Tim Cook, percebo que, se ele e Steve tivessem comandado a Apple juntos, a empresa poderia ter sido ainda mais bem-sucedida. Tim, como o próprio Jobs o descreveu, “não é um cara de produto”, e por isso não conseguiu criar outro produto da magnitude do iPhone.</p>
+<div class="area-publicidade-rectangular hmeio ">
+                <p>Publicidade</p>
+                <div class="area-publicidade">
+                    <div id="hmeio1" class="handle-ads" data-ext-params="" data-formato="hmeio" data-index="1">
+                    </div>
+                </div>
+            </div>
+        
+<div data-home="https://einvestidor.estadao.com.br" data-edi="" class="cta-fim-materia"></div>
+<p>O Apple Car, que poderia ter sido esse produto, foi um fracasso gigantesco, marcado por várias mudanças de direção e eventual cancelamento.</p>
+<p>O Apple Vision Pro pareceu inacabado — não tenho certeza de que Steve Jobs teria permitido seu lançamento. A Siri, revolucionária quando estreou no iPhone, hoje tem o QI de uma torradeira comparada a outros modelos de IA. A Apple acabou de fechar um acordo em uma ação coletiva por exagerar as capacidades de <a href="https://einvestidor.estadao.com.br/tag/inteligencia-artificial-ia/" target="_blank" rel="noopener nofollow">IA</a> de seus iPhones mais recentes.</p>
+
+<p>E ainda assim, Tim Cook fez um trabalho incrível comandando a Apple. Por meio de pequenas melhorias incrementais, ele consolidou o iPhone como um dispositivo indispensável. Na era Jobs, o ecossistema da Apple já era sua maior vantagem competitiva — Cook dobrou a aposta nisso, fazendo todos os dispositivos funcionarem perfeitamente juntos. Ele também expandiu a vantagem da Apple em software para o hardware, abandonando a Intel pelos chips próprios da linha M, que alimentam os MacBooks com múltiplas vezes a duração de bateria dos processadores Intel que substituíram, sem sacrificar desempenho. A Apple já não é mais a empresa mais criativa do <a href="https://einvestidor.estadao.com.br/tag/vale-do-silicio/" target="_blank" rel="noopener nofollow">Vale do Silício</a>, mas tudo funciona. As receitas da Apple cresceram quase quatro vezes desde a morte de Jobs.</p>
+<p>Lembro de ler na biografia de Steve Jobs escrita por Walter Isaacson que o conselho de Jobs a Cook (parafraseando) era: não pergunte o que Steve faria — faça do seu jeito. Foi exatamente isso que os executivos da <a href="https://einvestidor.estadao.com.br/tag/walt-disney/" target="_blank" rel="noopener nofollow">The Walt Disney Company</a> não fizeram depois da morte de Walt Disney, e quase levaram a empresa ao colapso.</p>
+<div class="area-publicidade-rectangular hmeio ">
+                <p>Publicidade</p>
+                <div class="area-publicidade">
+                    <div id="hmeio2" class="handle-ads" data-ext-params="" data-formato="hmeio" data-index="2">
+                    </div>
+                </div>
+            </div>
+        
+<p>Eu diria que, se tivéssemos de escolher entre a criatividade e a visão de Jobs e a capacidade de Cook de administrar uma cadeia de suprimentos e uma operação industrial absurdamente complexas, Cook era mais importante para a Apple no momento da morte de Jobs. E, ainda assim, um talento como o de Jobs é quase impossível de replicar, enquanto o talento de Cook é muito mais fácil de reproduzir.</p>
+<h3>Buffett amava investir, não gerir pessoas</h3>
+<p>Empresas precisam de CEOs diferentes em diferentes fases de suas vidas, porque estão resolvendo problemas diferentes. Isso me leva de volta à Berkshire Hathaway.</p>
+<p>Hoje, a Berkshire é composta pela GEICO, uma seguradora de automóveis; pelas operações de resseguro administradas brilhantemente durante décadas por Ajit Jain — que agora já nomeou Charlie Shamieh, da General Re, como sucessor; pela BNSF Railway, uma das maiores ferrovias do país; por uma coleção de outros negócios operacionais; por uma carteira de ações negociadas em bolsa (Apple, The <a href="https://einvestidor.estadao.com.br/tag/coca-cola/" target="_blank" rel="noopener nofollow">Coca-Cola Company</a>, <a href="https://einvestidor.estadao.com.br/tag/american-express/" target="_blank" rel="noopener nofollow">American Express</a> etc.); e por cerca de US$ 400 bilhões em caixa.</p>
+<p>A Berkshire hoje exige três conjuntos de habilidades. O primeiro é <strong>substituir Ajit Jain</strong>, que será muito difícil de substituir — embora a sucessão já esteja definida. O trabalho do novo CEO é garantir que as pessoas certas estejam comandando esse negócio. O segundo é <strong>administrar o restante da carteira de empresas privadas da Berkshire</strong>, e é aí que a companhia mais precisa de ajuda. Buffett nunca foi um CEO tradicional. Ele amava investir (alocação de capital), não gerir pessoas, e evitava conflitos a qualquer custo. Ele comprava empresas, deixava os gestores trabalharem, recolhia os fluxos de caixa e reinvestia o dinheiro. Hoje, a Berkshire reúne mais de 100 negócios operacionais. BNSF e GEICO são os mais importantes — e ambos se tornaram símbolos de mediocridade.</p>
+<p>A GEICO está sendo atropelada pela Progressive Corporation, que vem dominando o mercado. A Progressive ultrapassou a GEICO como a segunda maior seguradora automotiva dos EUA. Enquanto a GEICO investia em marketing, a Progressive investia em tecnologia, e agora a GEICO está presa a centenas de sistemas legados de TI, enquanto a rival consegue reajustar preços praticamente todos os dias. A BNSF, por sua vez, é uma das ferrovias Classe I menos bem administradas e menos lucrativas dos EUA.</p>
+<div class="area-publicidade-rectangular hmeio ">
+                <p>Publicidade</p>
+                <div class="area-publicidade">
+                    <div id="hmeio3" class="handle-ads" data-ext-params="" data-formato="hmeio" data-index="3">
+                    </div>
+                </div>
+            </div>
+        
+<p>Buffett dizia, de forma célebre, que o ideal é possuir negócios que até um idiota consiga administrar, porque um dia isso inevitavelmente acontecerá. Tanto a GEICO quanto a BNSF têm fossos competitivos substanciais e sobreviveram à má gestão, mas a frase de Buffett é menos verdadeira hoje do que era décadas atrás. A meia-vida de um fosso competitivo está encolhendo muito mais rápido na era da IA.</p>
+<h3>Abel provou ser um operador habilidoso</h3>
+<p>Como analista, consigo olhar para os números da BNSF e da GEICO e perceber que elas são mal administradas. Como consumidor, consigo observar que a Dairy Queen, empresa comprada pela Berkshire no fim dos anos 1990, foi substancialmente mal gerida. A Dairy Queen é um negócio lindo: a maior parte das lojas é franqueada, então não exige capital. Sob a gestão correta, poderia ter triplicado de tamanho. A qualidade do sorvete não mudou, mas a inovação nos alimentos e a aparência dos restaurantes pioraram sob o controle da Berkshire. Todas as lojas que visitei parecem administradas por pequenos comerciantes independentes. Mas, em vez de microgerenciar a Dairy Queen, Buffett tinha decisões mais importantes para tomar, como comprar Apple ou conglomerados comerciais japoneses.</p>
+<p>A Berkshire atingiu um tamanho em que, salvo uma grande desorganização financeira, a alocação de capital dificilmente será a fonte dos retornos futuros. O fruto mais acessível agora é melhorar o desempenho dos principais ativos da companhia — e talvez até vender empresas que não deveriam fazer parte do <a href="https://einvestidor.estadao.com.br/tag/portfolio/" target="_blank" rel="noopener nofollow">portfólio</a> da Berkshire. Greg, bilionário e grande acionista da Berkshire, provou ser um operador habilidoso do negócio de energia da empresa.</p>
+<p>Escolhê-lo foi uma das decisões mais importantes tomadas por Buffett em décadas. Em sua primeira reunião anual, ficou claro o motivo. Um “Sr. Conserta-Tudo” corporativo está passando por cada negócio, identificando indicadores-chave de desempenho, instalando os incentivos corretos, levando tecnologia para as operações e substituindo gestores que precisam ser substituídos — fazendo coisas que Buffett não podia nem queria fazer, mas que precisam ser feitas.</p>
+<p>Abel não é Buffett — e tudo bem. Na verdade, isso é algo positivo. Greg Abel talvez não leve 40 mil pessoas a Omaha para a reunião anual. Mas ele tomará as decisões difíceis que Buffett não queria tomar. Ele fará os trens funcionarem no horário, literalmente e metaforicamente.</p>
+<div class="area-publicidade-rectangular hmeio ">
+                <p>Publicidade</p>
+                <div class="area-publicidade">
+                    <div id="hmeio4" class="handle-ads" data-ext-params="" data-formato="hmeio" data-index="4">
+                    </div>
+                </div>
+            </div>
+        
+<p><em>As opiniões expressas nos artigos de opinião do Fortune.com refletem exclusivamente a visão de seus autores e não necessariamente representam as opiniões e crenças da Fortune.</em></p>
+<p><i><span style="font-weight: 400;">Esta história foi originalmente apresentada em </span></i><a href="https://fortune.com/2026/05/14/greg-abel-berkshire-hathaway-ceo-buffett-tim-cook-geico-bnsf-analysis/" target="_blank" rel="noopener nofollow"><i><span style="font-weight: 400;">Fortune.com</span></i></a><i><span style="font-weight: 400;"> e foi traduzido com o auxílio de ferramentas de inteligência artificial e revisado por nossa equipe editorial. Saiba mais em nossa </span></i><a rel="nofollow" href="https://www.estadao.com.br/link/estadao-define-politica-de-uso-de-ferramentas-de-inteligencia-artificial-por-seus-jornalistas-veja/?_gl=1*1bqtf3r*_gcl_aw*R0NMLjE3NTAxMzgzNjUuQ2p3S0NBandwTVRDQmhBLUVpd0FfLU1zbVE1NlBrZGoxckRoY0hfMldRcGx3OGNxWmsxYWZyblpiZEd3V0VuM2RsUW1HWXA4bTMySTVCb0MwNFlRQXZEX0J3RQ..*_gcl_au*NDg4NjI5NTUyLjE3NDgyODY1NTk.*_ga*OTUzNDU0NjQyLjE3MjEyMjIzOTM.*_ga_H1D7PSZ1DW*czE3NTI1ODg3MzIkbzMzOCRnMSR0MTc1MjU5MDM2NSRqNTUkbDAkaDE2NDY0NTQwOTI."><i><span style="font-weight: 400;">Política de IA</span></i></a></p>
+</body>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

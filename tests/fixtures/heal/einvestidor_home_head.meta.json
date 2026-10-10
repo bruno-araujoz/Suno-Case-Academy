@@ -1,0 +1,9 @@
+{
+  "url": "https://einvestidor.estadao.com.br/",
+  "captured_at": "2026-10-10T02:04:26.351559+00:00",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 1696176,
+  "sha256": "1074831673095db46ae6d1bf042771c5910b5373da6267a2057088156e0bffca",
+  "note": "reduzido ao <head> real (link rel=alternate); página completa tinha 1,7 MB"
+}

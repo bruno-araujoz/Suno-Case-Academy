@@ -1,0 +1,4 @@
+{
+  "derived_from": "moneytimes_listing.html",
+  "note": "mesmo HTML real com classes renomeadas (news-item->card, news-item__title->card-headline, news-list->feed-grid) para simular redesign"
+}

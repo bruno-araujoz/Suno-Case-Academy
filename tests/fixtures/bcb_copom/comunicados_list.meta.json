@@ -1,0 +1,8 @@
+{
+  "url": "https://www.bcb.gov.br/api/servico/sitebcb/copom/comunicados?quantidade=3",
+  "captured_at": "2026-10-10T01:08:04.981214+00:00",
+  "status": 200,
+  "content_type": "application/json; charset=utf-8",
+  "bytes": 375,
+  "sha256": "0fe9fc3b10577546552f1e1d03cb51ecd3f24d24dc03cbd731320637678e4b19"
+}

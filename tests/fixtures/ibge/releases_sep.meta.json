@@ -1,0 +1,8 @@
+{
+  "url": "https://servicodados.ibge.gov.br/api/v3/noticias/?tipo=release&de=09-01-2026&qtd=100&page=1",
+  "captured_at": "2026-10-10T02:45:08.909191+00:00",
+  "status": 200,
+  "content_type": "application/json",
+  "bytes": 18504,
+  "sha256": "dbbf385583b364f3c03570f119bd929e10fefe3d4aa3cf1af3868fbcedcb2223"
+}

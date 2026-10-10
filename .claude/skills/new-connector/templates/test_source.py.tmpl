@@ -1,0 +1,24 @@
+from datetime import UTC, datetime
+
+from scraper.sources.base import MemoryStateStore, SourceContext
+from scraper.sources.<fonte> import <Fonte>Source
+from tests.helpers import fixture_client
+
+SINCE = datetime(2026, 1, 1, tzinfo=UTC)
+
+
+async def test_<fonte>_yields_valid_documents(settings):
+    http, calls = fixture_client(settings, {r"<regex-da-url>": "<fonte>/<arquivo>.json"})
+    async with http:
+        source = <Fonte>Source(SourceContext(http=http, state=MemoryStateStore(), since=SINCE))
+        docs = [d async for d in source.collect()]
+    assert docs and source.report.status == "ok"
+    assert all(d.published_at.tzinfo and d.title for d in docs)
+
+
+async def test_<fonte>_failure_is_reported_not_raised(settings):
+    http, _ = fixture_client(settings, {r".*": (503, b"")})
+    async with http:
+        source = <Fonte>Source(SourceContext(http=http, state=MemoryStateStore(), since=SINCE))
+        assert [d async for d in source.collect()] == []
+    assert source.report.status == "failed"

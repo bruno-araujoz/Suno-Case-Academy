@@ -1,0 +1,8 @@
+{
+  "url": "https://www.bcb.gov.br/api/servico/sitebcb/copom/atas_detalhes?nro_reuniao=281",
+  "captured_at": "2026-10-10T01:08:01.385708+00:00",
+  "status": 200,
+  "content_type": "application/json; charset=utf-8",
+  "bytes": 19791,
+  "sha256": "fa402b27a6424c01d96fccce81f58347cc35dcb390e23d1fa31f2207792eba98"
+}

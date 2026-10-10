@@ -1,0 +1,66 @@
+# Glossário de EVENTOS de mercado (relevância do scraper). Peso 0–1 = quanto o termo indica um
+# acontecimento que importa para investidores. Formas sem acento/minúsculas; casam por palavra.
+# Base também para o glossário em camadas do avaliador do TAPI (fase futura).
+politica_monetaria:
+  copom: 1.0
+  selic: 0.9
+  taxa de juros: 0.7
+  corte de juros: 1.0
+  alta de juros: 1.0
+  forward guidance: 0.9
+  ata do copom: 1.0
+  comunicado do copom: 1.0
+  banco central: 0.6
+  politica monetaria: 0.8
+  fed: 0.6
+  fomc: 0.8
+inflacao_atividade:
+  ipca: 0.9
+  ipca-15: 0.9
+  inflacao: 0.7
+  pib: 0.8
+  desemprego: 0.6
+  caged: 0.6
+  boletim focus: 0.8
+  hiato do produto: 0.9
+  arcabouco fiscal: 0.8
+  divida publica: 0.6
+  meta fiscal: 0.7
+empresas_resultados:
+  fato relevante: 1.0
+  resultado trimestral: 0.9
+  balanco: 0.7
+  lucro liquido: 0.8
+  ebitda: 0.8
+  receita liquida: 0.7
+  guidance: 0.8
+  prejuizo: 0.7
+  1t26: 0.7
+  2t26: 0.7
+  3t26: 0.8
+  4t26: 0.7
+  margem: 0.4
+eventos_corporativos:
+  dividendos: 0.8
+  juros sobre capital proprio: 0.8
+  jcp: 0.8
+  recompra de acoes: 0.8
+  aquisicao: 0.8
+  fusao: 0.9
+  ipo: 0.9
+  follow-on: 0.9
+  oferta de acoes: 0.8
+  recuperacao judicial: 1.0
+  rebaixamento: 0.8
+  rating: 0.6
+  debentures: 0.6
+  covenants: 0.8
+mercado:
+  ibovespa: 0.6
+  dolar: 0.5
+  curva de juros: 0.8
+  di futuro: 0.7
+  juros futuros: 0.7
+  tesouro direto: 0.5
+  cdi: 0.4
+  fundos imobiliarios: 0.4

@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+
+# Segredos
+.env
+.env.*
+!.env.example
+
+# Claude Code — pessoal
+CLAUDE.local.md
+.claude/settings.local.json
+.claude/worktrees/
+
+# Dados locais
+data/
+*.log
+
+# Estado local dos hooks
+.claude/.state/

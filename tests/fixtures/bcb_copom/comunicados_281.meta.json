@@ -1,0 +1,8 @@
+{
+  "url": "https://www.bcb.gov.br/api/servico/sitebcb/copom/comunicados_detalhes?nro_reuniao=281",
+  "captured_at": "2026-10-10T01:08:06.893613+00:00",
+  "status": 200,
+  "content_type": "application/json; charset=utf-8",
+  "bytes": 6503,
+  "sha256": "c32e5fccaba8d550544472f72f03222eb880fbb543674f77eb89d565d4dc9b66"
+}

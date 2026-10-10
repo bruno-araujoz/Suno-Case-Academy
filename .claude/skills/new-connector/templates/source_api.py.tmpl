@@ -1,0 +1,41 @@
+"""<FONTE> — <o que fornece>. Ficha: docs/sources/<fonte>.md"""
+
+from __future__ import annotations
+
+from collections.abc import AsyncIterator
+
+from ..core.models import Document, first, iter_items
+from .base import Source
+
+URL = "https://..."  # confirmado na ficha
+TITLE_KEYS = ("titulo", "title")  # chaves candidatas: tolerância a mudança de schema
+URL_KEYS = ("link", "url")
+DATE_KEYS = ("data_publicacao", "dataPublicacao", "date")
+
+
+class <Fonte>Source(Source):
+    name = "<fonte>"
+
+    async def _collect(self) -> AsyncIterator[Document]:
+        result = await self.ctx.http.get(URL)  # use etag/last_modified do state se a API suportar
+        self.report.http_status = result.status
+        if not result.ok:
+            self.fail(result, "listagem")
+            return
+        items = iter_items(result.json())
+        self.report.items_seen += len(items)
+        for item in items:
+            url = first(item, URL_KEYS)
+            if not url or self.is_known(str(url)):
+                continue
+            doc = self.build(
+                doc_type="<doc_type>",  # adicione em DocType (core/models.py) se for novo
+                tier="official",
+                url=url,
+                title=first(item, TITLE_KEYS),
+                published_at=first(item, DATE_KEYS),
+                content_text=first(item, ("texto", "content")),
+                extraction_level="api",
+            )
+            if doc:
+                yield doc

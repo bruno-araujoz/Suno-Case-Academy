@@ -1,0 +1,5 @@
+{
+  "derived_from": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/IPE/DADOS/ipe_cia_aberta_2026.zip",
+  "note": "amostra real reduzida: 12 FR + 8 press-release recentes, 10 assembleias, 5 FR antigos",
+  "rows": 30
+}
