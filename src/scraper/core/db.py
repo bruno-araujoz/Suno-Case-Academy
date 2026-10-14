@@ -138,11 +138,15 @@ class Database:
         return len(rows)
 
     async def known_url_hashes(self, since: datetime | None = None) -> set[str]:
-        """Hashes already stored (with final status) — preloaded so the dedupe gate is in-memory."""
-        query = "SELECT url_hash FROM documents WHERE status = 'ready'"
+        """Every stored hash, any status — preloaded so the dedupe gate is in-memory.
+
+        Pending documents are included on purpose: they are retried by the backlog loader
+        (`pending_documents`), not re-emitted by their source as if they were new.
+        """
+        query = "SELECT url_hash FROM documents"
         args: list[object] = []
         if since is not None:
-            query += " AND published_at >= $1"
+            query += " WHERE published_at >= $1"
             args.append(since)
         async with self.pool.acquire() as conn:
             return {r["url_hash"] for r in await conn.fetch(query, *args)}

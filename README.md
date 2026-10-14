@@ -28,7 +28,20 @@ uv run python scrape.py run                         # incremental, grava no Post
 uv run python scrape.py run --watch 15m             # contínuo
 uv run python scrape.py backfill --source cvm_ipe --year 2025
 uv run python scrape.py health                       # saúde por fonte
+uv run python scrape.py heal-demo                    # self-healing ao vivo (não grava nada)
 ```
+
+`heal-demo` quebra fontes reais de propósito e mostra a escada de reparo funcionando:
+
+| Cenário | O que quebra | Reparo esperado |
+|---|---|---|
+| `404` | URL do feed da Suno trocada por uma inexistente | L2: acha `/noticias/feed/` anunciado na home |
+| `stale` | feed real do E-Investidor, parado desde maio/2026 | L2: adota o feed Arc vivo anunciado na home |
+| `html` | listagem do Money Times com schema de um layout antigo | L4: gera schema v2 validado (LLM real com o extra `browser` + chave; senão, simulado e avisado) |
+
+Rode um cenário com `--scenario 404`. Para o L4 usar o LLM real: `uv sync --extra browser` e ao
+menos uma chave no `.env` (`GROQ_API_KEY`, `GROQ_API_KEY_2`, `GEMINI_API_KEY` ou
+`OPENROUTER_API_KEY_1/2`); a cadeia tenta na ordem e pula provedores sem chave. A versão automatizada é `uv run pytest -m live tests/heal/test_demo_live.py`.
 
 Arquitetura (detalhes e decisões: [`docs/plans/01-scraper.md`](docs/plans/01-scraper.md)):
 ```

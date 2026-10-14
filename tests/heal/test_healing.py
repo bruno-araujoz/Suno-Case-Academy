@@ -206,3 +206,14 @@ async def test_incremental_wordpress_with_nothing_new_is_not_a_problem(healing_s
         assert diagnose(source.report, healing_settings) is None
         assert await Healer(ctx, healing_settings).heal(source) is None
     assert len(calls) == 1  # no rediscovery requests
+
+
+def test_l2_ignores_comment_and_story_feeds():
+    from scraper.heal.rediscover import advertised_feeds
+
+    html = """<head>
+    <link rel="alternate" type="application/rss+xml" href="https://s.test/noticias/comments/feed/">
+    <link rel="alternate" type="application/rss+xml" href="https://s.test/noticias/web-stories/feed/">
+    <link rel="alternate" type="application/rss+xml" href="https://s.test/noticias/feed/">
+    </head>"""
+    assert advertised_feeds(html, "https://s.test/noticias/") == ["https://s.test/noticias/feed/"]

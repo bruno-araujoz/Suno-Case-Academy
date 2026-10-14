@@ -14,7 +14,7 @@ REGISTRY_PATH = ROOT / "sources.yaml"
 
 class FeedConfig(BaseModel):
     name: str
-    kind: Literal["rss", "wpjson", "google_news"]
+    kind: Literal["rss", "wpjson", "html", "google_news"]  # html = listagem + schema CSS
     url: str | None = None
     homepage: str | None = None
     params: dict[str, Any] = Field(default_factory=dict)

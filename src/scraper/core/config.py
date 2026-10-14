@@ -47,14 +47,17 @@ class Settings(BaseSettings):
     relevance_half_life_hours: float = 48.0
     high_priority_threshold: float = 0.55
 
-    # LLM (only used by the L4 healer). "<litellm provider>|<ENV with the key>", fallback order;
+    # LLM (only used by the L4 healer); models checked against the providers on 2026-10-14.
+    # "<litellm provider>|<ENV with the key>", fallback order;
     # entries whose ENV is unset are skipped. Ollama (local, no key) is the last resort.
     llm_providers: list[str] = Field(
         default_factory=lambda: [
             "openrouter/meta-llama/llama-3.3-70b-instruct|OPENROUTER_API_KEY_1",
             "openrouter/meta-llama/llama-3.3-70b-instruct|OPENROUTER_API_KEY_2",
-            "groq/llama-3.3-70b-versatile|GROQ_API_KEY",
-            "gemini/gemini-2.0-flash|GEMINI_API_KEY",
+            "groq/openai/gpt-oss-120b|GROQ_API_KEY",
+            "groq/openai/gpt-oss-120b|GROQ_API_KEY_1",
+            "groq/openai/gpt-oss-120b|GROQ_API_KEY_2",
+            "gemini/gemini-2.5-flash|GEMINI_API_KEY",
             "ollama/llama3.2|",
         ]
     )

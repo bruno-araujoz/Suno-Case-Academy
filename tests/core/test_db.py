@@ -33,9 +33,9 @@ async def test_upsert_dedupes_and_updates_content(db):
     assert [r["content_text"] for r in rows] == ["texto novo"]
 
 
-async def test_known_hashes_only_ready(db):
+async def test_known_hashes_include_pending_which_backlog_retries(db):
     await db.upsert_documents([make(), make(url="https://a.com/2", status="pending_enrich")])
-    assert await db.known_url_hashes() == {make().url_hash}
+    assert await db.known_url_hashes() == {make().url_hash, make(url="https://a.com/2").url_hash}
     pending = await db.pending_documents()
     assert [d.url for d in pending] == ["https://a.com/2"]
 

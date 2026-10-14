@@ -62,8 +62,8 @@ docs/                   TAPI.md, plans/, sources/
 ## Regras de ouro
 - Teste offline **nunca** acessa a rede; o que acessa leva `@pytest.mark.live`.
 - **Nunca** edite `tests/fixtures/` para fazer um teste passar — corrija o código ou recapture.
-- O fetcher nunca deixa exceção de rede vazar: loga e retorna `None`; uma fonte quebrada não
-  derruba as outras.
+- O `HttpClient` nunca deixa exceção de rede vazar: devolve `FetchResult` (status 0 = falha de
+  rede; 4xx/5xx com `error`); uma fonte quebrada não derruba as outras.
 - LLM é último recurso no scraping (camada 3 / healer), nunca no caminho quente.
 - Não invente endpoints ou campos de API: confirme (ficha em `docs/sources/` ou `source-scout`).
 

@@ -113,19 +113,43 @@ def save_schema(source: str, schema: Schema) -> int:
 # ------------------------------------------------------------------ LLM generator (Crawl4AI)
 
 
-def _clean_html(html: str, limit: int = 60_000) -> str:
+_KEEP_ATTRS = {"class", "id", "href", "datetime"}
+_SPACES = re.compile(r">\s+<")
+
+
+def _clean_html(html: str, limit: int = 15_000) -> str:
+    """Shrink a listing page to what a selector-writing LLM needs (~4k tokens).
+
+    Free LLM tiers cap requests (Groq: 8k tokens/min), and the raw page is 25k+ tokens. Page
+    chrome, scripts, media and non-structural attributes go; the main content area is kept.
+    """
     tree = LexborHTMLParser(html)
-    for node in tree.css("script, style, noscript, svg, iframe, head"):
+    for node in tree.css("script, style, noscript, svg, iframe, head, nav, header, footer, "
+                         "aside, form, img, picture, source, video, figure, button, input"):
         node.decompose()
-    return (tree.body.html if tree.body else tree.html or "")[:limit]
+    for node in tree.css("*"):
+        for attr in [a for a in node.attributes if a not in _KEEP_ATTRS]:
+            del node.attrs[attr]
+    root = tree.css_first("main") or tree.body or tree.root
+    markup = _SPACES.sub("><", root.html or "") if root is not None else ""
+    return markup[:limit]
+
+
+def _secrets() -> dict[str, str]:
+    """Environment + .env (pydantic-settings reads .env into fields only, not os.environ)."""
+    from dotenv import dotenv_values
+
+    values = {k: v for k, v in dotenv_values(ROOT / ".env").items() if v}
+    return {**values, **{k: v for k, v in os.environ.items() if v}}
 
 
 def llm_providers(settings: Settings) -> list[tuple[str, str | None]]:
     """[(litellm provider string, api token)] in fallback order; skips providers without key."""
+    secrets = _secrets()
     out: list[tuple[str, str | None]] = []
     for entry in settings.llm_providers:
         provider, _, env = entry.partition("|")
-        token = os.environ.get(env) if env else None
+        token = secrets.get(env) if env else None
         if env and not token:
             continue
         out.append((provider, token))

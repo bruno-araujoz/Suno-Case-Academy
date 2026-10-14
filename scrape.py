@@ -135,6 +135,14 @@ async def cmd_health(_: argparse.Namespace) -> int:
     return 0
 
 
+async def cmd_heal_demo(args: argparse.Namespace) -> int:
+    from scraper.heal.demo import SCENARIOS, run_demo
+
+    scenarios = args.scenario or list(SCENARIOS)
+    print("Demonstração de self-healing ao vivo — nada é gravado (estado em memória).")
+    return await run_demo(get_settings(), scenarios)
+
+
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(
         prog="scrape.py", description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter
@@ -157,6 +165,15 @@ def main(argv: list[str] | None = None) -> int:
     add_run_args(backfill)
     backfill.add_argument("--year", type=int, required=True)
     backfill.set_defaults(func=cmd_run, since=None, watch=None)
+
+    demo = sub.add_parser("heal-demo", help="quebra fontes reais de propósito e mostra o reparo")
+    demo.add_argument(
+        "--scenario",
+        action="append",
+        choices=["404", "stale", "html"],
+        help="cenário (repetível); padrão: todos",
+    )
+    demo.set_defaults(func=cmd_heal_demo)
 
     health = sub.add_parser("health", help="saúde das fontes")
     health.set_defaults(func=cmd_health)

@@ -32,6 +32,8 @@ FEED_TYPES = (
 )
 COMMON_PATHS = ("feed/", "rss/", "rss.xml", "feed.xml", "atom.xml", "index.xml")
 MIN_ENTRIES = 3
+# Feeds a homepage advertises that are not the news stream (comments, web stories, podcasts).
+_NOT_NEWS = ("comments", "comentarios", "web-stories", "/stories", "podcast")
 
 
 @dataclass
@@ -54,7 +56,11 @@ def advertised_feeds(html: str, base_url: str) -> list[str]:
     for link in tree.css('link[rel="alternate"]'):
         kind = (link.attributes.get("type") or "").lower()
         href = link.attributes.get("href")
-        if href and any(t in kind for t in FEED_TYPES):
+        if (
+            href
+            and any(t in kind for t in FEED_TYPES)
+            and not any(n in href.lower() for n in _NOT_NEWS)
+        ):
             urls.append(urljoin(base_url, href))
     return urls
 

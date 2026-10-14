@@ -216,6 +216,12 @@ sources.yaml · glossary/events.yaml · schemas/ · sql/ · scrape.py (CLI)
     porque o rodapé inflava o tamanho. Corrigido: `clean_feed_text` remove boilerplate e marca
     teasers para enriquecimento (Exame: mediana 4,4 mil caracteres via artigo). Também: rodapé
     "The post … appeared first on" removido; SGS usa a data de São Paulo no fim da janela.
+  - **L4 com LLM real validado (2026-10-14)**: modelos padrão estavam descontinuados
+    (`llama-3.3-70b-versatile` no Groq, `gemini-2.0-flash`) → trocados por `openai/gpt-oss-120b`
+    e `gemini-2.5-flash` (checados na API dos provedores). Chaves agora lidas do `.env` (antes só de
+    `os.environ`, que o pydantic-settings não preenche). HTML enviado ao LLM reduzido de ~99 mil
+    para ~12 mil caracteres (limite gratuito do Groq: 8k tokens/min); falha de uma chave cai
+    para a próxima (Groq 1 → Groq 2 → Gemini). Crawl4AI (extra `browser`) instalado e testado.
   - Pendências conhecidas: e-mail do autor/"IM Trader" no fim de textos do InfoMoney (ruído
     menor); OCR para PDFs escaneados da CVM; o agente `scrape-verifier` só carrega em sessões
     abertas dentro do repositório.
