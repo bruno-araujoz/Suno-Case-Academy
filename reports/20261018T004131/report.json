@@ -1,0 +1,942 @@
+{
+ "generated_at": "2026-10-18 00:41 UTC",
+ "events": [
+  {
+   "cluster_id": "91b702407884c944",
+   "title": "Petrobras (PETR4) sobe mais de 6% e escapa do tombo do Ibovespa; veja o que movimentou a bolsa na semana"
+  },
+  {
+   "cluster_id": "cov:5d5c678e44fb960b",
+   "title": "Caixa Seguridade (CXSE3): XP atualiza prévia do trimestre com impactos da greve"
+  },
+  {
+   "cluster_id": "cov:c29c1b98d0c21795",
+   "title": "Dólar hoje sobe a R$ 5,09, à espera de Datafolha após reação à pesquisa Quaest"
+  }
+ ],
+ "levels_version": "levels@d9b73f1399",
+ "glossary_reviewed": false,
+ "new_generations": 9,
+ "cached_generations": 0,
+ "output_matrix_event": "Petrobras (PETR4) sobe mais de 6% e escapa do tombo do Ibovespa; veja o que movimentou a bolsa na semana",
+ "output_matrix": {
+  "artigo": {
+   "avancado": "Ibovespa recua 1,7% com inflação nos EUA e risco fiscal, mas alta do Brent impulsiona petroleiras  O Ibovespa recuou 1,7% em reais na semana, encerrando aos 205.430 pontos após atingir máximas históricas. O movimento refletiu o avanço de 0,33% no núcleo do CPI nos Estados Unidos e incertezas políticas e fiscais no Brasil. O impacto negativo foi atenuado pela alta de cerca de 6,…"
+  },
+  "carrossel": {
+   "avancado": "Ibovespa recua com juros nos EUA e fiscal. O Ibovespa acumulou queda de 1,7% em reais na semana, encerrando aos 205.430 pontos, pressionado pelo cenário externo e doméstico.  Inflação nos Estados Unidos surpreende. O núcleo do CPI nos Estados Unidos avançou 0,33% em setembro, acima do esperado pelo mercado, acelerando apostas sobre o Fed.  Petróleo Brent registra forte alta sem…"
+  },
+  "roteiro": {
+   "avancado": "O Ibovespa acumulou queda de 1,7% em reais na semana, encerrando aos 205.430 pontos, pressionado pela reprecificação da curva de juros.  O núcleo do CPI nos Estados Unidos avançou 0,33% em setembro, acima do esperado, acelerando apostas sobre a atuação do Fed.  Em contrapartida, a cotação do barril Brent subiu cerca de 6,2% no acumulado semanal, atingindo patamar próximo de US$…"
+  }
+ },
+ "pass_rate": {
+  "avancado": {
+   "artigo": "1/3",
+   "carrossel": "0/3",
+   "roteiro": "1/3"
+  }
+ },
+ "confusion": {
+  "spec": {
+   "iniciante": {
+    "iniciante": 0,
+    "intermediario": 0,
+    "avancado": 0
+   },
+   "intermediario": {
+    "iniciante": 0,
+    "intermediario": 0,
+    "avancado": 0
+   },
+   "avancado": {
+    "iniciante": 0,
+    "intermediario": 6,
+    "avancado": 3
+   }
+  },
+  "centroid": {
+   "iniciante": {
+    "iniciante": 0,
+    "intermediario": 0,
+    "avancado": 0
+   },
+   "intermediario": {
+    "iniciante": 0,
+    "intermediario": 0,
+    "avancado": 0
+   },
+   "avancado": {
+    "iniciante": 0,
+    "intermediario": 5,
+    "avancado": 4
+   }
+  }
+ },
+ "accuracy": {
+  "spec": 0.333,
+  "centroid": 0.444
+ },
+ "classifier_sources": {
+  "avancado": "171 atas/comunicados do Copom",
+  "intermediario": "200 notícias de portais",
+  "iniciante": "PROVISÓRIO: prior da escala de Martins (sem conjunto rotulado)"
+ },
+ "classifier_centroids": {
+  "avancado": {
+   "flesch": 30.0,
+   "densidade_tecnica": 4.03,
+   "analogias_100": 0.0,
+   "nao_explicados_pct": 0.9473684210526315
+  },
+  "intermediario": {
+   "flesch": 45.7,
+   "densidade_tecnica": 0.745,
+   "analogias_100": 0.0,
+   "nao_explicados_pct": 1.0
+  },
+  "iniciante": {
+   "flesch": 65.0,
+   "densidade_tecnica": 1.0,
+   "analogias_100": 1.5,
+   "nao_explicados_pct": 0.0
+  }
+ },
+ "judge": {
+  "checked": 9,
+  "with_unsupported": 1,
+  "unsupported_total": 1,
+  "examples": [
+   "Outubro de 2026 registra movimentações acionárias relevantes e prévias operacionais de companhias listadas, impactando a dinâmica da curva de juros e alocações institucionais."
+  ]
+ },
+ "reflection": {
+  "total": 9,
+  "rewritten": 8,
+  "fixed_by_rewrite": 1,
+  "first_score": 0.78,
+  "final_score": 0.855,
+  "common_failures": [
+   [
+    "densidade técnica (interm.+avanç.)",
+    5
+   ],
+   [
+    "afirmações sem número não apoiadas (juiz)",
+    4
+   ],
+   [
+    "legibilidade (Flesch-PT)",
+    3
+   ]
+  ]
+ },
+ "cost": {
+  "calls": 61,
+  "failed_calls": 13,
+  "in_tokens": 74385,
+  "out_tokens": 30452,
+  "by_purpose": {
+   "judge": {
+    "calls": 29,
+    "tokens": 37042,
+    "p50_ms": 1492
+   },
+   "write": {
+    "calls": 32,
+    "tokens": 67795,
+    "p50_ms": 2053
+   }
+  },
+  "latency_by_format": {
+   "artigo": 11.6,
+   "carrossel": 15.2,
+   "roteiro": 9.5
+  }
+ },
+ "rows": [
+  {
+   "event": "Petrobras (PETR4) sobe mais de 6% e escapa do tombo do Ibovespa; veja o que movimentou a bolsa na semana",
+   "cluster_id": "91b702407884c944",
+   "fmt": "artigo",
+   "level": "avancado",
+   "passed": true,
+   "score": 1.0,
+   "attempts": 2,
+   "cached": false,
+   "latency_ms": 22426,
+   "metrics": {
+    "flesch": 43.2,
+    "palavras": 377,
+    "palavras_por_frase": 18.9,
+    "silabas_por_palavra": 2.2,
+    "termos": {
+     "intermediario": 10,
+     "basico": 7
+    },
+    "densidade_avancado": 0.0,
+    "densidade_intermediario": 2.65,
+    "densidade_tecnica": 2.65,
+    "nao_explicados": {
+     "intermediario": [
+      "Ibovespa",
+      "Fed",
+      "IBC-Br"
+     ],
+     "basico": [
+      "Inflação",
+      "Petróleo Brent"
+     ]
+    },
+    "analogias": 0,
+    "numeros_sem_lastro": [],
+    "cobertura_ancoras": 1.0,
+    "fatos_faltando": [],
+    "afirmacoes_nao_apoiadas": []
+   },
+   "first_score": 0.833,
+   "first_flesch": 44.3,
+   "first_failures": [
+    "afirmações sem número não apoiadas (juiz)"
+   ],
+   "spec_level": "avancado",
+   "centroid_level": "intermediario",
+   "features": {
+    "flesch": 43.2,
+    "densidade_tecnica": 2.65,
+    "analogias_100": 0.0,
+    "nao_explicados_pct": 1.0
+   },
+   "content": {
+    "titulo": "Ibovespa recua 1,7% com inflação nos EUA e risco fiscal, mas alta do Brent impulsiona petroleiras",
+    "lead": "O Ibovespa recuou 1,7% em reais na semana, encerrando aos 205.430 pontos após atingir máximas históricas. O movimento refletiu o avanço de 0,33% no núcleo do CPI nos Estados Unidos e incertezas políticas e fiscais no Brasil. O impacto negativo foi atenuado pela alta de cerca de 6,2% do petróleo Brent, próximo de US$ 110, que impulsionou petroleiras como Prio e Petrobras.",
+    "secoes": [
+     {
+      "subtitulo": "Inflação nos EUA e aperto na política monetária do Fed",
+      "texto": "O núcleo do CPI nos Estados Unidos registrou alta de 0,33% em setembro, superando o esperado pelo mercado. Esse resultado acelerou apostas de que o Federal Reserve volte a aumentar os juros no final de outubro. A perspectiva de aperto monetário global reduziu a atratividade por ativos emergentes e influenciou a valorização do dólar, que encerrou a semana a R$ 5,07 após superar a marca de R$ 5."
+     },
+     {
+      "subtitulo": "Prêmios de risco no Brasil e desaceleração de setores sensíveis ao crédito",
+      "texto": "A conjuntura doméstica, marcada por temores fiscais e incertezas do cenário eleitoral, provocou a elevação dos prêmios de risco exigidos pelos investidores. Esse ambiente desfavorável levou à redução de exposição dos agentes em setores diretamente dependentes do crédito doméstico, com destaque para construtoras e varejistas, alimentando a realização de lucros no índice acionário."
+     },
+     {
+      "subtitulo": "Alta do petróleo sustentou desempenho de Prio e Petrobras",
+      "texto": "Em sentido oposto, o barril de petróleo Brent avançou cerca de 6,2% na semana, atingindo patamar próximo de US$ 110. O desempenho da commodity evitou uma queda mais expressiva do Ibovespa. As ações da Prio registraram alta de 8,8%, enquanto Petrobras teve ganho de 6,6%, figurando entre os principais destaques positivos da bolsa."
+     },
+     {
+      "subtitulo": "Atividade econômica nacional e o indicador IBC-Br",
+      "texto": "No plano da atividade econômica doméstica, o índice IBC-Br registrou crescimento de 0,3% em agosto. Apesar do dado positivo de atividade, o mercado acionário permaneceu pressionado pelas incertezas macroeconômicas vigentes no cenário local e internacional."
+     }
+    ],
+    "conclusao": "A conjuntura da semana combinou o avanço da inflação norte-americana e a elevação das taxas do Fed com temores fiscais no Brasil, resultando na perda de 1,7% do Ibovespa para os 205.430 pontos. Embora o índice IBC-Br tenha crescido 0,3% em agosto, o prêmio de risco exigido reduziu posições em construtoras e varejistas, sendo contrabalançado apenas pela valorização do petróleo Brent para US$ 110, que sustentou a alta das petroleiras."
+   }
+  },
+  {
+   "event": "Petrobras (PETR4) sobe mais de 6% e escapa do tombo do Ibovespa; veja o que movimentou a bolsa na semana",
+   "cluster_id": "91b702407884c944",
+   "fmt": "carrossel",
+   "level": "avancado",
+   "passed": false,
+   "score": 0.857,
+   "attempts": 3,
+   "cached": false,
+   "latency_ms": 15182,
+   "metrics": {
+    "flesch": 55.8,
+    "palavras": 175,
+    "palavras_por_frase": 13.5,
+    "silabas_por_palavra": 2.12,
+    "termos": {
+     "intermediario": 6,
+     "basico": 7
+    },
+    "densidade_avancado": 0.0,
+    "densidade_intermediario": 3.43,
+    "densidade_tecnica": 3.43,
+    "nao_explicados": {
+     "intermediario": [
+      "Ibovespa",
+      "Fed",
+      "IBC-Br"
+     ],
+     "basico": [
+      "Inflação",
+      "Petróleo Brent",
+      "Taxa de câmbio",
+      "Mercado de câmbio"
+     ]
+    },
+    "analogias": 0,
+    "numeros_sem_lastro": [],
+    "cobertura_ancoras": 1.0,
+    "fatos_faltando": [],
+    "afirmacoes_nao_apoiadas": []
+   },
+   "first_score": 0.857,
+   "first_flesch": 55.8,
+   "first_failures": [
+    "legibilidade (Flesch-PT)"
+   ],
+   "spec_level": "intermediario",
+   "centroid_level": "intermediario",
+   "features": {
+    "flesch": 55.8,
+    "densidade_tecnica": 3.43,
+    "analogias_100": 0.0,
+    "nao_explicados_pct": 1.0
+   },
+   "content": {
+    "slides": [
+     {
+      "papel": "gancho",
+      "titulo": "Ibovespa recua com juros nos EUA e fiscal",
+      "texto": "O Ibovespa acumulou queda de 1,7% em reais na semana, encerrando aos 205.430 pontos, pressionado pelo cenário externo e doméstico."
+     },
+     {
+      "papel": "corpo",
+      "titulo": "Inflação nos Estados Unidos surpreende",
+      "texto": "O núcleo do CPI nos Estados Unidos avançou 0,33% em setembro, acima do esperado pelo mercado, acelerando apostas sobre o Fed."
+     },
+     {
+      "papel": "corpo",
+      "titulo": "Petróleo Brent registra forte alta semanal",
+      "texto": "A cotação do barril Brent subiu cerca de 6,2% no acumulado semanal, atingindo patamar próximo de US$ 110."
+     },
+     {
+      "papel": "corpo",
+      "titulo": "Desempenho positivo das petroleiras",
+      "texto": "As ações das petroleiras Prio e Petrobras se destacaram entre as maiores altas do Ibovespa na semana, evitando queda mais acentuada."
+     },
+     {
+      "papel": "corpo",
+      "titulo": "Câmbio e atividade econômica doméstica",
+      "texto": "O dólar encerrou a semana cotado a R$ 5,07 após voltar a superar R$ 5, enquanto o IBC-Br registrou crescimento de 0,3% em agosto."
+     },
+     {
+      "papel": "conclusao",
+      "titulo": "Implicações para a alocação de ativos",
+      "texto": "O avanço da inflação externa e os temores fiscais elevam prêmios de risco e geram realização de lucros, impactando os ativos locais."
+     }
+    ],
+    "legenda": "Resumo semanal do Ibovespa e os principais fatores que influenciaram o mercado financeiro, incluindo a inflação nos EUA e a alta do petróleo.",
+    "hashtags": [
+     "#Ibovespa",
+     "#MercadoFinanceiro",
+     "#Economia",
+     "#Petroleo",
+     "#Investimentos"
+    ]
+   }
+  },
+  {
+   "event": "Petrobras (PETR4) sobe mais de 6% e escapa do tombo do Ibovespa; veja o que movimentou a bolsa na semana",
+   "cluster_id": "91b702407884c944",
+   "fmt": "roteiro",
+   "level": "avancado",
+   "passed": true,
+   "score": 1.0,
+   "attempts": 1,
+   "cached": false,
+   "latency_ms": 3040,
+   "metrics": {
+    "flesch": 56.1,
+    "palavras": 99,
+    "palavras_por_frase": 19.8,
+    "silabas_por_palavra": 2.04,
+    "termos": {
+     "intermediario": 4,
+     "avancado": 1,
+     "basico": 2
+    },
+    "densidade_avancado": 1.01,
+    "densidade_intermediario": 4.04,
+    "densidade_tecnica": 5.05,
+    "nao_explicados": {
+     "intermediario": [
+      "Ibovespa",
+      "Fed",
+      "IBC-Br"
+     ],
+     "avancado": [
+      "juros futuros"
+     ],
+     "basico": [
+      "Taxa de câmbio",
+      "Petróleo Brent"
+     ]
+    },
+    "analogias": 0,
+    "numeros_sem_lastro": [],
+    "cobertura_ancoras": 1.0,
+    "fatos_faltando": [],
+    "afirmacoes_nao_apoiadas": []
+   },
+   "first_score": 1.0,
+   "first_flesch": 56.1,
+   "first_failures": [],
+   "spec_level": "avancado",
+   "centroid_level": "avancado",
+   "features": {
+    "flesch": 56.1,
+    "densidade_tecnica": 5.05,
+    "analogias_100": 0.0,
+    "nao_explicados_pct": 1.0
+   },
+   "content": {
+    "titulo": "Análise Semanal do Ibovespa e Fatores Macroeconômicos",
+    "blocos": [
+     {
+      "inicio_s": 0,
+      "fim_s": 10,
+      "gancho_visual": "Grafico do Ibovespa em queda na tela",
+      "fala": "O Ibovespa acumulou queda de 1,7% em reais na semana, encerrando aos 205.430 pontos, pressionado pela reprecificação da curva de juros."
+     },
+     {
+      "inicio_s": 10,
+      "fim_s": 22,
+      "gancho_visual": "Dados do CPI norte-americano em destaque",
+      "fala": "O núcleo do CPI nos Estados Unidos avançou 0,33% em setembro, acima do esperado, acelerando apostas sobre a atuação do Fed."
+     },
+     {
+      "inicio_s": 22,
+      "fim_s": 35,
+      "gancho_visual": "Cotacao do petroleo Brent subindo",
+      "fala": "Em contrapartida, a cotação do barril Brent subiu cerca de 6,2% no acumulado semanal, atingindo patamar próximo de US$ 110."
+     },
+     {
+      "inicio_s": 35,
+      "fim_s": 48,
+      "gancho_visual": "Acoes da Petrobras e Prio em destaque positivo",
+      "fala": "As ações das petroleiras Prio e Petrobras se destacaram entre as maiores altas do Ibovespa na semana, mitigando perdas mais severas."
+     },
+     {
+      "inicio_s": 48,
+      "fim_s": 60,
+      "gancho_visual": "Indicadores economicos e cambio na tela",
+      "fala": "Enquanto o IBC-Br registrou crescimento de 0,3% em agosto, o dólar encerrou a semana cotado a R$ 5,07 após voltar a superar R$ 5."
+     }
+    ]
+   }
+  },
+  {
+   "event": "Caixa Seguridade (CXSE3): XP atualiza prévia do trimestre com impactos da greve",
+   "cluster_id": "cov:5d5c678e44fb960b",
+   "fmt": "artigo",
+   "level": "avancado",
+   "passed": false,
+   "score": 0.833,
+   "attempts": 3,
+   "cached": false,
+   "latency_ms": 11581,
+   "metrics": {
+    "flesch": 23.3,
+    "palavras": 256,
+    "palavras_por_frase": 21.3,
+    "silabas_por_palavra": 2.41,
+    "termos": {
+     "intermediario": 6,
+     "basico": 2
+    },
+    "densidade_avancado": 0.0,
+    "densidade_intermediario": 2.34,
+    "densidade_tecnica": 2.34,
+    "nao_explicados": {
+     "intermediario": [
+      "lucro líquido",
+      "guidance"
+     ],
+     "basico": [
+      "Aplicações financeiras"
+     ]
+    },
+    "analogias": 0,
+    "numeros_sem_lastro": [],
+    "cobertura_ancoras": 1.0,
+    "fatos_faltando": [],
+    "afirmacoes_nao_apoiadas": []
+   },
+   "first_score": 0.667,
+   "first_flesch": 17.4,
+   "first_failures": [
+    "densidade técnica (interm.+avanç.)",
+    "afirmações sem número não apoiadas (juiz)"
+   ],
+   "spec_level": "intermediario",
+   "centroid_level": "avancado",
+   "features": {
+    "flesch": 23.3,
+    "densidade_tecnica": 2.34,
+    "analogias_100": 0.0,
+    "nao_explicados_pct": 1.0
+   },
+   "content": {
+    "titulo": "Movimentações Acionárias, Prévias de Lucro Líquido e Alocações Estratégicas na B3",
+    "lead": "O mercado acionário brasileiro em outubro de 2026 registra eventos corporativos relevantes, incluindo a aquisição de participação acionária da BlackRock na Suzano, projeções de lucro líquido da XP Investimentos para a Caixa Seguridade, transferências de ativos societários pela Cosan e descobertas exploratórias da Brava Energia.",
+    "secoes": [
+     {
+      "subtitulo": "Participação Acionária da BlackRock na Suzano",
+      "texto": "A BlackRock adquiriu participação acionária equivalente a 5,003% das ações ordinárias da Suzano, totalizando 62.366.570 ações ordinárias, 876.317 ADRs e 63.242.887 instrumentos financeiros derivativos. A gestora esclareceu que o objetivo das participações societárias é estritamente de investimento, sem intenção de alterar o controle acionário ou a estrutura administrativa da companhia."
+     },
+     {
+      "subtitulo": "Projeções e Prévias para a Caixa Seguridade",
+      "texto": "A XP Investimentos projeta um lucro líquido de R$ 1,161 milhão para a Caixa Seguridade no terceiro trimestre de 2026, com variação estimada de 2%. A greve da Caixa Econômica Federal deve pesar sobre as novas vendas de produtos de bancassurance da Caixa Seguridade."
+     },
+     {
+      "subtitulo": "Reestruturação Patrimonial da Cosan e Operações da Brava Energia",
+      "texto": "O conselho de administração da Cosan aprovou a transferência de 377,8 milhões de ações ordinárias da Rumo para um fundo de investimento, representando 20% do capital. A Brava Energia identificou a presença de hidrocarbonetos no poço exploratório onshore 3-SAN-6D-RN na Bacia Potiguar, atingindo 2.230 metros de profundidade."
+     }
+    ],
+    "conclusao": "O fluxo de comunicados corporativos de outubro de 2026 evidencia a dinâmica de alocação institucional e movimentações acionárias na B3, abrangendo a posição da BlackRock na Suzano, as estimativas de lucro líquido para a Caixa Seguridade, a gestão de portfólio da Cosan e a perfuração da Brava Energia."
+   }
+  },
+  {
+   "event": "Caixa Seguridade (CXSE3): XP atualiza prévia do trimestre com impactos da greve",
+   "cluster_id": "cov:5d5c678e44fb960b",
+   "fmt": "carrossel",
+   "level": "avancado",
+   "passed": false,
+   "score": 0.857,
+   "attempts": 3,
+   "cached": false,
+   "latency_ms": 38468,
+   "metrics": {
+    "flesch": 23.8,
+    "palavras": 214,
+    "palavras_por_frase": 15.3,
+    "silabas_por_palavra": 2.48,
+    "termos": {
+     "avancado": 2,
+     "intermediario": 4,
+     "basico": 1
+    },
+    "densidade_avancado": 0.93,
+    "densidade_intermediario": 1.87,
+    "densidade_tecnica": 2.8,
+    "nao_explicados": {
+     "avancado": [
+      "juros futuros",
+      "ADR"
+     ],
+     "intermediario": [
+      "cenário prospectivo",
+      "lucro líquido",
+      "guidance"
+     ],
+     "basico": [
+      "Aplicações financeiras"
+     ]
+    },
+    "analogias": 0,
+    "numeros_sem_lastro": [],
+    "cobertura_ancoras": 1.0,
+    "fatos_faltando": [],
+    "afirmacoes_nao_apoiadas": [
+     "Outubro de 2026 registra movimentações acionárias relevantes e prévias operacionais de companhias listadas, impactando a dinâmica da curva de juros e alocações institucionais."
+    ]
+   },
+   "first_score": 0.857,
+   "first_flesch": 23.8,
+   "first_failures": [
+    "afirmações sem número não apoiadas (juiz)"
+   ],
+   "spec_level": "avancado",
+   "centroid_level": "avancado",
+   "features": {
+    "flesch": 23.8,
+    "densidade_tecnica": 2.8000000000000003,
+    "analogias_100": 0.0,
+    "nao_explicados_pct": 1.0
+   },
+   "content": {
+    "slides": [
+     {
+      "papel": "gancho",
+      "titulo": "Movimentações societárias e prévias na B3",
+      "texto": "Outubro de 2026 registra movimentações acionárias relevantes e prévias operacionais de companhias listadas, impactando a dinâmica da curva de juros e alocações institucionais."
+     },
+     {
+      "papel": "corpo",
+      "titulo": "Participação relevante da BlackRock na Suzano",
+      "texto": "A BlackRock adquiriu participação acionária equivalente a 5,003% das ações ordinárias da Suzano, totalizando 62.366.570 ações ordinárias e 876.317 American Depositary Receipts, alcançando 63.242.887 ações ordinárias."
+     },
+     {
+      "papel": "corpo",
+      "titulo": "Projeção de lucro líquido da Caixa Seguridade",
+      "texto": "A XP Investimentos projeta um lucro líquido de R$ 1,161 milhão para a Caixa Seguridade no terceiro trimestre de 2026, com variação estimada de 2% frente ao período anterior."
+     },
+     {
+      "papel": "corpo",
+      "titulo": "Reestruturação patrimonial e ativos da Cosan",
+      "texto": "O conselho de administração da Cosan aprovou a transferência de 377,8 milhões de ações ordinárias da Rumo para um fundo de investimento, representando 20% do capital social."
+     },
+     {
+      "papel": "corpo",
+      "titulo": "Atividade exploratória da Brava Energia",
+      "texto": "A Brava Energia identificou a presença de hidrocarbonetos no poço exploratório onshore 3-SAN-6D-RN na Bacia Potiguar, atingindo profundidade de 2.230 metros."
+     },
+     {
+      "papel": "conclusao",
+      "titulo": "Implicações para o mercado corporativo",
+      "texto": "A greve da Caixa Econômica Federal deve pesar sobre as novas vendas de bancassurance da Caixa Seguridade. A BlackRock esclareceu que o objetivo é estritamente de investimento, sem alterar o controle."
+     }
+    ],
+    "legenda": "Análise técnica dos comunicados corporativos da bolsa brasileira em outubro de 2026, abrangendo movimentações acionárias da BlackRock na Suzano, projeções para a Caixa Seguridade, transferências patrimoniais da Cosan e operações da Brava Energia.",
+    "hashtags": [
+     "#MercadoFinanceiro",
+     "#B3",
+     "#Suzano",
+     "#Cosan",
+     "#CaixaSeguridade"
+    ]
+   }
+  },
+  {
+   "event": "Caixa Seguridade (CXSE3): XP atualiza prévia do trimestre com impactos da greve",
+   "cluster_id": "cov:5d5c678e44fb960b",
+   "fmt": "roteiro",
+   "level": "avancado",
+   "passed": false,
+   "score": 0.875,
+   "attempts": 3,
+   "cached": false,
+   "latency_ms": 32476,
+   "metrics": {
+    "flesch": 30.5,
+    "palavras": 134,
+    "palavras_por_frase": 22.3,
+    "silabas_por_palavra": 2.31,
+    "termos": {
+     "basico": 1,
+     "intermediario": 1
+    },
+    "densidade_avancado": 0.0,
+    "densidade_intermediario": 0.75,
+    "densidade_tecnica": 0.75,
+    "nao_explicados": {
+     "basico": [
+      "Aplicações financeiras"
+     ],
+     "intermediario": [
+      "lucro líquido"
+     ]
+    },
+    "analogias": 0,
+    "numeros_sem_lastro": [],
+    "cobertura_ancoras": 1.0,
+    "fatos_faltando": [],
+    "afirmacoes_nao_apoiadas": []
+   },
+   "first_score": 0.875,
+   "first_flesch": 30.5,
+   "first_failures": [
+    "densidade técnica (interm.+avanç.)"
+   ],
+   "spec_level": "intermediario",
+   "centroid_level": "intermediario",
+   "features": {
+    "flesch": 30.5,
+    "densidade_tecnica": 0.75,
+    "analogias_100": 0.0,
+    "nao_explicados_pct": 1.0
+   },
+   "content": {
+    "titulo": "Análises Corporativas da B3 – Outubro/2026",
+    "blocos": [
+     {
+      "inicio_s": 0,
+      "fim_s": 3,
+      "gancho_visual": "Logotipo da B3 com ticker de cada empresa em destaque",
+      "fala": "Resumo de anúncios corporativos da bolsa brasileira em outubro de 2026."
+     },
+     {
+      "inicio_s": 3,
+      "fim_s": 12,
+      "gancho_visual": "Slide da BlackRock e Suzano, destaque para percentual de participação",
+      "fala": "A BlackRock adquiriu 5,003% das ações ordinárias da Suzano, totalizando 62.366.570 ações, com 876.317 ações adicionais em reserva, somando 63.242.887 ações emitidas."
+     },
+     {
+      "inicio_s": 12,
+      "fim_s": 22,
+      "gancho_visual": "Gráfico de projeção de lucro da Caixa Seguridade, destaque para R$ 1.161 milhão",
+      "fala": "A XP Investimentos projeta lucro líquido de R$ 1.161 milhão para a Caixa Seguridade no terceiro trimestre de 2026, representando crescimento de 2% frente ao período anterior."
+     },
+     {
+      "inicio_s": 22,
+      "fim_s": 32,
+      "gancho_visual": "Documento do conselho da Cosan, seta indicando transferência de ações",
+      "fala": "O conselho da Cosan aprovou a transferência de 377,8 milhões de ações ordinárias da Rumo para um fundo de investimento, equivalente a 20% do capital da controlada."
+     },
+     {
+      "inicio_s": 32,
+      "fim_s": 42,
+      "gancho_visual": "Mapa da Bacia Potiguar com localização do poço 3‑SAN‑6D‑RN",
+      "fala": "A Brava Energia detectou hidrocarbonetos no poço onshore 3‑SAN‑6D‑RN, a 2.230 metros de profundidade, na Bacia Potiguar."
+     },
+     {
+      "inicio_s": 42,
+      "fim_s": 55,
+      "gancho_visual": "Timeline de greves e impactos nos produtos bancassurance",
+      "fala": "A greve da Caixa Econômica Federal deve pressionar as novas vendas de produtos de bancassurance da Caixa Seguridade, enquanto a BlackRock reafirma que sua participação na Suzano visa exclusivamente investimento, sem intenção de alterar controle acionário ou estrutura administrativa."
+     }
+    ]
+   }
+  },
+  {
+   "event": "Dólar hoje sobe a R$ 5,09, à espera de Datafolha após reação à pesquisa Quaest",
+   "cluster_id": "cov:c29c1b98d0c21795",
+   "fmt": "artigo",
+   "level": "avancado",
+   "passed": false,
+   "score": 0.833,
+   "attempts": 3,
+   "cached": false,
+   "latency_ms": 10447,
+   "metrics": {
+    "flesch": 36.5,
+    "palavras": 295,
+    "palavras_por_frase": 22.7,
+    "silabas_por_palavra": 2.24,
+    "termos": {
+     "avancado": 6,
+     "basico": 1,
+     "intermediario": 1
+    },
+    "densidade_avancado": 2.03,
+    "densidade_intermediario": 0.34,
+    "densidade_tecnica": 2.37,
+    "nao_explicados": {
+     "avancado": [
+      "juros futuros",
+      "Dólar futuro",
+      "Futuros",
+      "covenants",
+      "hiato do produto"
+     ],
+     "basico": [
+      "Taxa de câmbio"
+     ],
+     "intermediario": [
+      "guidance"
+     ]
+    },
+    "analogias": 0,
+    "numeros_sem_lastro": [],
+    "cobertura_ancoras": 1.0,
+    "fatos_faltando": [],
+    "afirmacoes_nao_apoiadas": []
+   },
+   "first_score": 0.833,
+   "first_flesch": 36.5,
+   "first_failures": [
+    "densidade técnica (interm.+avanç.)"
+   ],
+   "spec_level": "intermediario",
+   "centroid_level": "avancado",
+   "features": {
+    "flesch": 36.5,
+    "densidade_tecnica": 2.3699999999999997,
+    "analogias_100": 0.0,
+    "nao_explicados_pct": 1.0
+   },
+   "content": {
+    "titulo": "Alta da Curva de Juros e Volatilidade Cambial Frente ao Empate Técnico nas Eleições Presidenciais",
+    "lead": "O dólar à vista encerrou a sessão com elevação de 1,17%, cotado a R$ 5,0885, impulsionado pela volatilidade na curva de juros e pela divulgação de pesquisas eleitorais para o segundo turno que apontam cenário de empate técnico entre os candidatos, alterando a precificação dos ativos locais e as expectativas dos agentes quanto à política fiscal.",
+    "secoes": [
+     {
+      "subtitulo": "Precificação Cambial e Dinâmica do Dólar à Vista",
+      "texto": "O dólar à vista encerrou a sessão com elevação de 1,17%, cotado a R$ 5,0885. Simultaneamente, o Dólar futuro para novembro subia 0,79% na B3, negociado a R$ 5,1040 às 17h15. No acumulado do ano, a divisa registrava baixa de 7,30%, refletindo o comportamento anterior da taxa de câmbio frente aos fundamentos macroeconômicos e aos fluxos cambiais."
+     },
+     {
+      "subtitulo": "Leituras das Pesquisas Eleitorais e Hiato nas Intenções de Voto",
+      "texto": "A pesquisa Quaest evidenciou um cenário de empate técnico, mostrando Flávio Bolsonaro com 46% das intenções de voto e Lula com 44% no segundo turno. A margem estreita e a volatilidade nos preços dos ativos refletem a sensibilidade do mercado às diretrizes fiscais e ao prêmio de risco embutido nos contratos futuros."
+     },
+     {
+      "subtitulo": "Rejeição Eleitoral e Impacto nos Spreads e Taxas dos DIs",
+      "texto": "Os indicadores de rejeição dos candidatos apontada pela pesquisa atingiram 54% para Flávio e 53% para Lula. Tal patamar de rejeição intensificou a reprecificação dos ativos e o impulso nas taxas dos DIs (Depósitos Interfinanceiros), refletindo na inclinação da curva a termo e nas exigências de prêmio de liquidez pelos participantes do mercado."
+     }
+    ],
+    "conclusao": "A conjuntura atual demonstra a alta correlação entre a volatilidade cambial, as projeções da política fiscal e os desdobramentos das pesquisas eleitorais, exigindo dos investidores o monitoramento contínuo dos covenants, do hiato do produto e da sustentabilidade da dívida pública diante do novo cenário político."
+   }
+  },
+  {
+   "event": "Dólar hoje sobe a R$ 5,09, à espera de Datafolha após reação à pesquisa Quaest",
+   "cluster_id": "cov:c29c1b98d0c21795",
+   "fmt": "carrossel",
+   "level": "avancado",
+   "passed": false,
+   "score": 0.714,
+   "attempts": 3,
+   "cached": false,
+   "latency_ms": 13419,
+   "metrics": {
+    "flesch": 66.5,
+    "palavras": 190,
+    "palavras_por_frase": 11.2,
+    "silabas_por_palavra": 2.02,
+    "termos": {
+     "avancado": 3,
+     "basico": 1
+    },
+    "densidade_avancado": 1.58,
+    "densidade_intermediario": 0.0,
+    "densidade_tecnica": 1.58,
+    "nao_explicados": {
+     "avancado": [
+      "Dólar futuro"
+     ],
+     "basico": [
+      "Mercado de câmbio"
+     ]
+    },
+    "analogias": 0,
+    "numeros_sem_lastro": [],
+    "cobertura_ancoras": 1.0,
+    "fatos_faltando": [],
+    "afirmacoes_nao_apoiadas": []
+   },
+   "first_score": 0.571,
+   "first_flesch": 61.3,
+   "first_failures": [
+    "legibilidade (Flesch-PT)",
+    "densidade técnica (interm.+avanç.)",
+    "afirmações sem número não apoiadas (juiz)"
+   ],
+   "spec_level": "intermediario",
+   "centroid_level": "intermediario",
+   "features": {
+    "flesch": 66.5,
+    "densidade_tecnica": 1.58,
+    "analogias_100": 0.0,
+    "nao_explicados_pct": 1.0
+   },
+   "content": {
+    "slides": [
+     {
+      "papel": "gancho",
+      "titulo": "Dólar à vista encerra a R$ 5,0885",
+      "texto": "O dólar à vista encerrou a sessão com elevação de 1,17%, cotado a R$ 5,0885, influenciado pelas expectativas de mercado e pesquisas eleitorais."
+     },
+     {
+      "papel": "corpo",
+      "titulo": "Pesquisa Quaest no segundo turno",
+      "texto": "A pesquisa Quaest mostrou Flávio Bolsonaro com 46% das intenções de voto e Lula com 44% no segundo turno da disputa presidencial."
+     },
+     {
+      "papel": "corpo",
+      "titulo": "Dólar futuro na B3",
+      "texto": "O dólar futuro para novembro subia 0,79% na B3, negociado a R$ 5,1040 às 17h15, refletindo a dinâmica do câmbio na sessão."
+     },
+     {
+      "papel": "corpo",
+      "titulo": "Desempenho acumulado no ano",
+      "texto": "No ano, a divisa acumulava baixa de 7,30%, conforme os registros estatísticos consolidados para o período."
+     },
+     {
+      "papel": "corpo",
+      "titulo": "Índices de rejeição dos candidatos",
+      "texto": "A rejeição dos candidatos apontada pela pesquisa foi de 54% para Flávio e 53% para Lula na avaliação do eleitorado."
+     },
+     {
+      "papel": "conclusao",
+      "titulo": "Implicações nas taxas dos DIs",
+      "texto": "O contexto eleitoral gerou impulso nas taxas dos DIs e alta do dólar ante o real, com foco no controle de contas públicas."
+     }
+    ],
+    "legenda": "O dólar fechou em alta superior a 1% frente ao real, cotado a R$ 5,0885, impulsionado por pesquisas eleitorais. A pesquisa Quaest apontou Flávio Bolsonaro com 46% e Lula com 44%. O dólar futuro subiu 0,79% a R$ 5,1040. No ano, a baixa acumulada era de 7,30%. A rejeição atingiu 54% e 53%.",
+    "hashtags": [
+     "#MercadoFinanceiro",
+     "#Cambio",
+     "#B3",
+     "#Economia",
+     "#Eleicoes"
+    ]
+   }
+  },
+  {
+   "event": "Dólar hoje sobe a R$ 5,09, à espera de Datafolha após reação à pesquisa Quaest",
+   "cluster_id": "cov:c29c1b98d0c21795",
+   "fmt": "roteiro",
+   "level": "avancado",
+   "passed": false,
+   "score": 0.875,
+   "attempts": 3,
+   "cached": false,
+   "latency_ms": 9474,
+   "metrics": {
+    "flesch": 62.7,
+    "palavras": 100,
+    "palavras_por_frase": 20.0,
+    "silabas_por_palavra": 1.96,
+    "termos": {
+     "avancado": 1,
+     "intermediario": 1
+    },
+    "densidade_avancado": 1.0,
+    "densidade_intermediario": 1.0,
+    "densidade_tecnica": 2.0,
+    "nao_explicados": {
+     "avancado": [
+      "Dólar futuro"
+     ],
+     "intermediario": [
+      "DI"
+     ]
+    },
+    "analogias": 0,
+    "numeros_sem_lastro": [],
+    "cobertura_ancoras": 1.0,
+    "fatos_faltando": [],
+    "afirmacoes_nao_apoiadas": []
+   },
+   "first_score": 0.75,
+   "first_flesch": 78.9,
+   "first_failures": [
+    "legibilidade (Flesch-PT)",
+    "densidade técnica (interm.+avanç.)"
+   ],
+   "spec_level": "intermediario",
+   "centroid_level": "intermediario",
+   "features": {
+    "flesch": 62.7,
+    "densidade_tecnica": 2.0,
+    "analogias_100": 0.0,
+    "nao_explicados_pct": 1.0
+   },
+   "content": {
+    "titulo": "Dólar em alta frente ao real: impacto das pesquisas eleitorais",
+    "blocos": [
+     {
+      "inicio_s": 0,
+      "fim_s": 3,
+      "gancho_visual": "Ticker de cotação do dólar à vista subindo 1,17% até R$5,0885",
+      "fala": "O dólar à vista encerrou a sessão com alta de 1,17%, cotado a R$5,0885."
+     },
+     {
+      "inicio_s": 4,
+      "fim_s": 12,
+      "gancho_visual": "Gráfico da pesquisa Quaest com barras 46% e 44%",
+      "fala": "A pesquisa Quaest indica Flávio Bolsonaro com 46% e Lula com 44% no segundo turno, diferença de 2 pontos percentuais."
+     },
+     {
+      "inicio_s": 13,
+      "fim_s": 22,
+      "gancho_visual": "Tela da B3 mostrando dólar futuro de novembro a R$5,1040 (+0,79%)",
+      "fala": "O dólar futuro para novembro subia 0,79% na B3, negociado a R$5,1040 às 17h15."
+     },
+     {
+      "inicio_s": 23,
+      "fim_s": 34,
+      "gancho_visual": "Linha de tendência da cotação anual com baixa acumulada de 7,30%",
+      "fala": "No acumulado do ano, a divisa apresentava baixa de 7,30%, mas reverteu diante das pesquisas que sugerem maior controle das contas públicas caso Flávio Bolsonaro vença."
+     },
+     {
+      "inicio_s": 35,
+      "fim_s": 45,
+      "gancho_visual": "Indicadores de taxa DI em alta e manchete sobre fim da escala 6×1",
+      "fala": "A expectativa de controle fiscal impulsionou a taxa DI e elevou o dólar, ao passo que o Senado aprovou o fim da escala de trabalho 6 × 1 e a redução da jornada semanal."
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -57,6 +57,8 @@ class Settings(BaseSettings):
             "groq/openai/gpt-oss-120b|GROQ_API_KEY",
             "groq/openai/gpt-oss-120b|GROQ_API_KEY_1",
             "groq/openai/gpt-oss-120b|GROQ_API_KEY_2",
+            "gemini/gemini-3.5-flash|GEMINI_API_KEY",
+            "gemini/gemini-3.5-flash-lite|GEMINI_API_KEY",  # most available in tests (2026-10-14)
             "gemini/gemini-2.5-flash|GEMINI_API_KEY",
             "ollama/llama3.2|",
         ]

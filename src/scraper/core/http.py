@@ -175,3 +175,37 @@ class HttpClient:
 
         log.warning("GET %s falhou após %d tentativas: %s", url, attempts, error)
         return FetchResult(url=url, status=status, error=error)
+
+    async def post_json(
+        self,
+        url: str,
+        body: dict[str, Any],
+        *,
+        headers: dict[str, str] | None = None,
+        read_timeout: float = 120.0,
+    ) -> FetchResult:
+        """Single POST, no retries (callers such as the LLM router fail over instead).
+
+        Never raises: transport errors come back as status 0.
+        """
+        start = time.perf_counter()
+        try:
+            async with self._limiter(url):
+                response = await self._client.post(
+                    url, json=body, headers=headers or {}, timeout=read_timeout
+                )
+        except httpx.HTTPError as exc:
+            return FetchResult(
+                url=url,
+                status=0,
+                error=f"{type(exc).__name__}: {exc}",
+                elapsed_ms=(time.perf_counter() - start) * 1000,
+            )
+        return FetchResult(
+            url=str(response.url),
+            status=response.status_code,
+            content=response.content,
+            headers={k.lower(): v for k, v in response.headers.items()},
+            error=None if response.status_code < 400 else f"HTTP {response.status_code}",
+            elapsed_ms=(time.perf_counter() - start) * 1000,
+        )

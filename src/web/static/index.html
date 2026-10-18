@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Suno Content</title>
+  <meta name="description" content="Conteúdo financeiro adaptado ao seu público, avaliado por métricas.">
+  <link rel="icon" href="img/favicon.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap">
+  <link rel="stylesheet" href="css/tokens.css">
+  <link rel="stylesheet" href="css/app.css">
+</head>
+<body>
+  <a class="skip" href="#app">Pular para o conteúdo</a>
+  <header class="topbar">
+    <div class="topbar__inner">
+      <a class="brand" href="#/" aria-label="Suno Content — início">
+        <img src="img/suno-logo-black.png" alt="Suno" width="83" height="24">
+        <span class="brand__product">Content</span>
+      </a>
+      <nav class="nav" aria-label="Principal">
+        <a href="#/" data-route="create">Criar</a>
+        <a href="#/historico" data-route="history">Histórico</a>
+        <a href="#/relatorio" data-route="report">Relatório</a>
+      </nav>
+    </div>
+  </header>
+  <main id="app" class="container" tabindex="-1"></main>
+  <footer class="foot">
+    <div class="container">
+      Protótipo acadêmico · Case Suno × Academy. Conteúdo gerado por IA a partir de fontes
+      públicas e avaliado por métricas determinísticas — não é recomendação de investimento.
+    </div>
+  </footer>
+  <script type="module" src="js/main.js"></script>
+</body>
+</html>

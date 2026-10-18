@@ -1,0 +1,5259 @@
+# Gerado por scripts/build_glossary.py. Revise: corrija nível/definição/analogia e
+# marque `revisado: true`; depois rode `promote`. Não apague linhas rejeitadas:
+# marque `rejeitado: true` (evita repropor).
+- termo: Inflação
+  nivel: basico
+  variantes:
+  - inflação
+  categoria: inflacao_atividade
+  definicao: Aumento generalizado e contínuo dos preços de bens e serviços, reduzindo o poder de compra
+    da moeda.
+  analogia: ''
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Ibovespa
+  nivel: intermediario
+  variantes:
+  - IBOV
+  - Ibov
+  - Ibovespa
+  categoria: mercado
+  definicao: Principal índice que mede o desempenho médio das ações negociadas na bolsa brasileira.
+  analogia: É como o termômetro que mede a saúde das ações brasileiras.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: EUA
+  nivel: basico
+  variantes:
+  - Estados Unidos
+  - EE. UU.
+  - US
+  categoria: outros
+  definicao: Estados Unidos da América.
+  analogia: ''
+  fonte: bcb
+  e_jargao: false
+  revisado: false
+- termo: Copom
+  nivel: intermediario
+  variantes:
+  - COPOM
+  - Comitê de Política Monetária
+  categoria: politica_monetaria
+  definicao: Comitê de Política Monetária do Banco Central, responsável por definir a meta da taxa Selic.
+  analogia: É como o comitê que decide a taxa de juros do país.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Futuros
+  nivel: avancado
+  variantes:
+  - contratos futuros
+  - futuros
+  categoria: mercado
+  definicao: Contratos derivativos que obrigam a comprar ou vender um ativo a preço e data futuros pré-estabelecidos.
+  analogia: É como apostar no preço de um produto antes de ele ser vendido.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Reuters
+  nivel: basico
+  variantes:
+  - Reuters
+  categoria: outros
+  definicao: Agência internacional de notícias e informações, inclusive cotações de ativos.
+  analogia: ''
+  fonte: bcb
+  e_jargao: false
+  revisado: false
+- termo: CVM
+  nivel: intermediario
+  variantes:
+  - CVM
+  - Comissão de Valores Mobiliários
+  categoria: regulacao
+  definicao: Comissão de Valores Mobiliários, órgão que regula e fiscaliza o mercado de capitais no Brasil.
+  analogia: É como o fiscalizador que vigia o mercado de capitais.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Fed
+  nivel: intermediario
+  variantes:
+  - Fed
+  - Federal Reserve
+  categoria: politica_monetaria
+  definicao: Banco Central dos Estados Unidos, responsável por conduzir a política monetária americana.
+  analogia: É como o banco central que controla a política monetária dos EUA.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Emissão
+  nivel: intermediario
+  variantes:
+  - emissão de moeda
+  - emissão monetária
+  categoria: politica_monetaria
+  definicao: Ato de colocar cédulas e moedas em circulação por instituições financeiras para atender à
+    demanda do público.
+  analogia: É como colocar novas notas e moedas em circulação para atender a demanda.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Bloomberg
+  nivel: basico
+  variantes:
+  - Bloomberg
+  categoria: outros
+  definicao: Agência internacional de notícias e informações, inclusive cotações de ativos.
+  analogia: ''
+  fonte: bcb
+  e_jargao: false
+  revisado: false
+- termo: Bradesco
+  nivel: basico
+  variantes:
+  - Bradesco
+  categoria: outros
+  definicao: Banco Bradesco S.A., instituição financeira brasileira.
+  analogia: ''
+  fonte: bcb
+  e_jargao: false
+  revisado: false
+- termo: Selic
+  nivel: intermediario
+  variantes:
+  - Selic
+  - Sistema Especial de Liquidação e Custódia
+  categoria: politica_monetaria
+  definicao: Sistema Especial de Liquidação e Custódia, usado para registrar e liquidar operações com
+    títulos públicos.
+  analogia: É como o sistema que registra e liquida as operações com títulos públicos.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Era
+  nivel: basico
+  variantes:
+  - era
+  categoria: outros
+  definicao: Ano de cunhagem de uma moeda.
+  analogia: ''
+  fonte: bcb
+  e_jargao: false
+  revisado: false
+- termo: PIB
+  nivel: basico
+  variantes:
+  - PIB
+  - Produto Interno Bruto
+  categoria: inflacao_atividade
+  definicao: Produto Interno Bruto, soma de todos os bens e serviços produzidos em um país em determinado
+    período.
+  analogia: ''
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Nasdaq
+  nivel: basico
+  variantes:
+  - NASDAQ
+  - Nasdaq
+  categoria: mercado
+  definicao: Bolsa de valores dos EUA focada em empresas de alta tecnologia.
+  analogia: ''
+  fonte: bcb
+  e_jargao: false
+  revisado: false
+- termo: a.a
+  nivel: basico
+  variantes:
+  - a.a.
+  - ao ano
+  categoria: outros
+  definicao: Abreviação de 'ao ano', usada em taxas e juros.
+  analogia: ''
+  fonte: bcb
+  e_jargao: false
+  revisado: false
+- termo: IPCA
+  nivel: intermediario
+  variantes:
+  - IPCA
+  - Índice de Preços ao Consumidor Amplo
+  categoria: inflacao_atividade
+  definicao: Índice Nacional de Preços ao Consumidor Amplo, mede a variação de preços para famílias de
+    baixa renda.
+  analogia: É como o termômetro que mede a variação de preços para famílias de baixa renda.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: BBA
+  nivel: basico
+  variantes:
+  - BBA
+  - British Banker’s Association
+  categoria: outros
+  definicao: British Banker’s Association, associação que divulga a taxa LIBOR.
+  analogia: ''
+  fonte: bcb
+  e_jargao: false
+  revisado: false
+- termo: Segmento
+  nivel: intermediario
+  variantes:
+  - segmento
+  - segmentos
+  categoria: mercado
+  definicao: Agrupamento de instituições ou empresas segundo objetivo social ou atividade econômica.
+  analogia: É como agrupar empresas por tipo de atividade, como bancos ou varejistas.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: CNPJ
+  nivel: basico
+  variantes:
+  - CNPJ
+  - Cadastro Nacional da Pessoa Jurídica
+  categoria: regulacao
+  definicao: Código de identificação de empresas emitido pela Receita Federal do Brasil.
+  analogia: ''
+  fonte: bcb
+  e_jargao: false
+  revisado: false
+- termo: Resolução
+  nivel: intermediario
+  variantes:
+  - Res.
+  - Resolução CMN
+  categoria: regulacao
+  definicao: Documento que divulga a deliberação do Conselho Monetário Nacional sobre assuntos financeiros.
+  analogia: Como um comunicado oficial que define regras para o mercado, parecido com um regulamento de
+    condomínio.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Taxa de câmbio
+  nivel: basico
+  variantes:
+  - cotação
+  - FX rate
+  - taxa de câmbio
+  categoria: politica_monetaria
+  definicao: Preço de uma moeda estrangeira expresso em unidades da moeda nacional, indicando quanto se
+    paga ou recebe na troca.
+  analogia: ''
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: DE
+  nivel: intermediario
+  variantes:
+  - DE
+  - Darf‑Eletrônico
+  categoria: regulacao
+  definicao: Darf‑Eletrônico, documento usado para recolhimento de tributos e contribuições federais via
+    internet.
+  analogia: É como um boleto digital que você paga online para quitar impostos.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Série
+  nivel: basico
+  variantes:
+  - série temporal
+  - série histórica
+  categoria: outros
+  definicao: Sequência de dados organizados cronologicamente que mostra a evolução de um indicador ao
+    longo do tempo.
+  analogia: ''
+  fonte: bcb
+  e_jargao: false
+  revisado: false
+- termo: Agência
+  nivel: basico
+  variantes:
+  - agência bancária
+  - filial
+  categoria: outros
+  definicao: Dependência de instituições financeiras autorizada pelo Banco Central para exercer suas atividades.
+  analogia: ''
+  fonte: bcb
+  e_jargao: false
+  revisado: false
+- termo: BB
+  nivel: basico
+  variantes:
+  - BB
+  - Banco do Brasil
+  categoria: outros
+  definicao: Banco do Brasil S.A., instituição financeira pública brasileira.
+  analogia: ''
+  fonte: bcb
+  e_jargao: false
+  revisado: false
+- termo: Petróleo Brent
+  nivel: basico
+  variantes:
+  - Brent
+  - Petróleo Brent
+  categoria: mercado
+  definicao: Barrel de petróleo negociado no mercado de Londres, referência internacional de preços.
+  analogia: ''
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Inadimplência
+  nivel: basico
+  variantes:
+  - inadimplência
+  - default
+  - não pagamento
+  categoria: mercado
+  definicao: Situação em que o devedor não cumpre o pagamento de dívida nos termos acordados.
+  analogia: ''
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Taxa Selic
+  nivel: intermediario
+  variantes:
+  - Selic
+  - Taxa Selic
+  - Taxa básica de juros
+  categoria: politica_monetaria
+  definicao: Taxa média dos juros das operações compromissadas de um dia com lastro em títulos públicos
+    federais.
+  analogia: É como a taxa de juros básica que o governo usa para controlar o custo do dinheiro no país.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: CSN
+  nivel: basico
+  variantes:
+  - CSN
+  - Companhia Siderúrgica Nacional
+  categoria: outros
+  definicao: Companhia Siderúrgica Nacional, empresa brasileira do setor de siderurgia.
+  analogia: ''
+  fonte: bcb
+  e_jargao: false
+  revisado: false
+- termo: Indice de preços
+  nivel: intermediario
+  variantes:
+  - índice de preços
+  - price index
+  - IPCA
+  - INPC
+  categoria: inflacao_atividade
+  definicao: Número que agrega e representa os preços de uma cesta de produtos, medindo a variação média
+    desses preços.
+  analogia: Como uma média dos preços de itens do supermercado para acompanhar a inflação.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Dólar futuro
+  nivel: avancado
+  variantes:
+  - Dólar Futuro
+  - Futuro de Dólar
+  - USD Futures
+  categoria: mercado
+  definicao: Contrato negociado na BM&F que fixa a taxa de câmbio do dólar para liquidação em data futura.
+  analogia: É como reservar hoje o preço do dólar para comprar ou vender no futuro, semelhante a comprar
+    um ingresso antecipado.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Liquidação
+  nivel: intermediario
+  variantes:
+  - liquidação
+  - settlement
+  - acerto
+  categoria: mercado
+  definicao: Processo de extinção de obrigações mediante transferência de recursos financeiros ou títulos
+    entre agentes.
+  analogia: Como o pagamento final que encerra uma compra, garantindo que o dinheiro chega ao vendedor.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Alívio
+  nivel: avancado
+  variantes:
+  - Alívio
+  - Operação de alívio
+  - cash relief
+  categoria: regulacao
+  definicao: Operação em que o custodiante recolhe dinheiro em espécie ao Banco Central, reduzindo o saldo
+    custodiado.
+  analogia: Como um alívio de caixa onde o banco devolve dinheiro ao BC para melhorar sua liquidez.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: DI
+  nivel: intermediario
+  variantes:
+  - DI
+  - Depósito Interfinanceiro
+  - Taxa DI
+  categoria: renda_fixa
+  definicao: Sigla para Depósito Interfinanceiro, taxa de referência usada em operações de renda fixa
+    no Brasil.
+  analogia: É a taxa que serve como base para calcular juros de investimentos como CDBs e fundos de renda
+    fixa.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Garantia
+  nivel: basico
+  variantes:
+  - garantia
+  - colateral
+  - caução
+  categoria: mercado
+  definicao: Ativo entregue para assegurar o cumprimento de uma obrigação por quem recebe a garantia.
+  analogia: ''
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Preços administrados
+  nivel: avancado
+  variantes:
+  - preços administrados
+  - preços regulados
+  - preços por contrato
+  categoria: regulacao
+  definicao: Preços fixados por contrato ou órgão público, menos sensíveis à oferta e demanda, muitas
+    vezes ajustados pela inflação passada.
+  analogia: Como tarifas de energia que são definidas por contrato e só mudam conforme índices oficiais.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Curva de juros
+  nivel: avancado
+  variantes:
+  - curva de juros
+  - yield curve
+  - curva de rendimento
+  categoria: politica_monetaria
+  definicao: Relação entre os rendimentos dos títulos e seus respectivos prazos de vencimento.
+  analogia: Como um gráfico que mostra quanto rende um título conforme o tempo que ele fica em vigor.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: BCE
+  nivel: basico
+  variantes:
+  - BCE
+  - Banco Central Europeu
+  categoria: outros
+  definicao: Banco Central Europeu, instituição responsável pela política monetária da zona do euro.
+  analogia: ''
+  fonte: bcb
+  e_jargao: false
+  revisado: false
+- termo: Paridade
+  nivel: intermediario
+  variantes:
+  - paridade
+  - exchange parity
+  - taxa de paridade
+  categoria: politica_monetaria
+  definicao: Relação de preço entre duas moedas estrangeiras, indicando quantas unidades de uma são necessárias
+    para comprar a outra.
+  analogia: Como a taxa que diz quantos reais você precisa para comprar um dólar.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Valor de mercado
+  nivel: intermediario
+  variantes:
+  - valor de mercado
+  - market value
+  - valor de reposição
+  categoria: mercado
+  definicao: Custo ou lucro obtido ao substituir um contrato pelos preços vigentes no mercado, também
+    chamado de valor de reposição.
+  analogia: É como trocar um carro usado pelo preço que ele tem hoje no mercado.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: IBGE
+  nivel: basico
+  variantes:
+  - IBGE
+  - Instituto Brasileiro de Geografia e Estatística
+  categoria: outros
+  definicao: Instituto Brasileiro de Geografia e Estatística, órgão oficial de estatísticas do Brasil.
+  analogia: ''
+  fonte: bcb
+  e_jargao: false
+  revisado: false
+- termo: CAC
+  nivel: basico
+  variantes:
+  - CAC
+  - Cláusulas de Ação Coletiva
+  categoria: outros
+  definicao: Cláusulas de Ação Coletiva, disposições legais que permitem a defesa coletiva de direitos.
+  analogia: ''
+  fonte: bcb
+  e_jargao: false
+  revisado: false
+- termo: Zona do Euro
+  nivel: basico
+  variantes:
+  - Zona do Euro
+  - Eurozona
+  - Área do Euro
+  categoria: politica_monetaria
+  definicao: Região que reúne os países da UE que adotaram o euro como moeda oficial.
+  analogia: ''
+  fonte: bcb
+  e_jargao: false
+  revisado: false
+- termo: Petróleo WTI
+  nivel: basico
+  variantes:
+  - Petróleo WTI
+  - WTI
+  - West Texas Intermediate
+  categoria: mercado
+  definicao: Barril de petróleo negociado na bolsa de Nova York (NYMEX), referência mundial de preço.
+  analogia: ''
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Cade
+  nivel: basico
+  variantes:
+  - CADE
+  - Conselho Administrativo de Defesa Econômica
+  categoria: regulacao
+  definicao: Conselho Administrativo de Defesa Econômica, órgão brasileiro de defesa da concorrência.
+  analogia: ''
+  fonte: bcb
+  e_jargao: false
+  revisado: false
+- termo: Reservas internacionais
+  nivel: intermediario
+  variantes:
+  - reservas internacionais
+  - foreign exchange reserves
+  - FX reserves
+  categoria: politica_monetaria
+  definicao: Ativos em moeda estrangeira, ouro e direitos especiais de saque mantidos pelo Banco Central.
+  analogia: É como a poupança do país em moedas estrangeiras e ouro.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Concessões
+  nivel: intermediario
+  variantes:
+  - concessões
+  - concessões de crédito
+  categoria: outros
+  definicao: Descontos ou condições especiais concedidas em operações de crédito a tomadores.
+  analogia: É como um desconto que o banco oferece ao cliente ao conceder crédito.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: VaR
+  nivel: avancado
+  variantes:
+  - VaR
+  - Value at Risk
+  categoria: mercado
+  definicao: Value at Risk, medida que estima a perda máxima esperada de um ativo ou portfólio em determinado
+    horizonte e nível de confiança.
+  analogia: ''
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: CBO
+  nivel: basico
+  variantes:
+  - CBO
+  - Congressional Budget Office
+  categoria: outros
+  definicao: Congressional Budget Office, agência dos EUA que analisa o orçamento federal.
+  analogia: ''
+  fonte: bcb
+  e_jargao: false
+  revisado: false
+- termo: Valor nominal
+  nivel: intermediario
+  variantes:
+  - valor nominal
+  - nominal value
+  categoria: renda_fixa
+  definicao: Valor unitário de uma quota ou ação, indicado no estatuto ou contrato social.
+  analogia: É como o valor impresso na nota de dinheiro que você recebe.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Saneamento
+  nivel: basico
+  variantes:
+  - saneamento
+  categoria: outros
+  definicao: Conjunto de processos que mantêm o dinheiro em circulação em condições seguras, como remoção
+    de cédulas falsas.
+  analogia: ''
+  fonte: bcb
+  e_jargao: false
+  revisado: false
+- termo: bpd
+  nivel: basico
+  variantes:
+  - bpd
+  - barril por dia
+  - barrels per day
+  categoria: mercado
+  definicao: Abreviação de barris por dia, medida de produção ou consumo de petróleo.
+  analogia: ''
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Capital de giro
+  nivel: intermediario
+  variantes:
+  - capital de giro
+  - working capital
+  categoria: empresas_resultados
+  definicao: Recursos de crédito destinados ao financiamento de curto prazo das operações de uma empresa.
+  analogia: É o dinheiro que a empresa usa para pagar contas do dia a dia.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: BDR
+  nivel: intermediario
+  variantes:
+  - BDR
+  - Brazilian Depositary Receipts
+  categoria: renda_variavel
+  definicao: Brazilian Depositary Receipts, títulos que representam valores mobiliários estrangeiros negociados
+    no Brasil.
+  analogia: ''
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: DAX
+  nivel: intermediario
+  variantes:
+  - DAX
+  - Deutscher Aktienindex
+  categoria: renda_variavel
+  definicao: Deutscher Aktienindex, principal índice de ações da Alemanha.
+  analogia: ''
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: PTAX
+  nivel: intermediario
+  variantes:
+  - PTAX
+  - Taxa PTAX
+  categoria: mercado
+  definicao: Taxa média de compra e venda do dólar calculada a partir de consultas diárias aos dealers
+    de câmbio.
+  analogia: É como a cotação média do dólar usada pelos bancos para operações.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Mensagem
+  nivel: intermediario
+  variantes:
+  - mensagem
+  - message
+  categoria: regulacao
+  definicao: Informação trocada entre participantes do Sistema Financeiro Nacional para solicitar ou comunicar
+    operações.
+  analogia: É como um e‑mail que bancos enviam para confirmar uma transação.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Hedge
+  nivel: intermediario
+  variantes:
+  - hedge
+  - hedging
+  categoria: mercado
+  definicao: Operação que protege contra variações de preços, juros ou câmbio, funcionando como um seguro
+    financeiro.
+  analogia: É como comprar um seguro contra a variação de preço de um ativo.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Protocolo
+  nivel: basico
+  variantes:
+  - protocolo
+  - número de protocolo
+  categoria: outros
+  definicao: Número atribuído pelo aplicativo PSTAW10 ao documento transmitido por uma instituição ou
+    empresa.
+  analogia: ''
+  fonte: bcb
+  e_jargao: false
+  revisado: false
+- termo: ETF
+  nivel: intermediario
+  variantes:
+  - ETF
+  - ETFs
+  - Exchange Traded Fund
+  categoria: renda_variavel
+  definicao: Fundos de índice negociados em bolsa que replicam a performance de um conjunto de ativos,
+    como ações de um índice.
+  analogia: Como uma cesta de frutas que reúne várias frutas diferentes, o ETF reúne várias ações em um
+    único fundo.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: PEC
+  nivel: basico
+  variantes:
+  - PEC
+  - Proposta de Emenda Constitucional
+  categoria: regulacao
+  definicao: Proposta de Emenda à Constituição que altera o texto constitucional.
+  analogia: ''
+  fonte: bcb
+  e_jargao: false
+  revisado: false
+- termo: CDI
+  nivel: intermediario
+  variantes:
+  - CDI
+  - Certificado de Depósito Interfinanceiro
+  categoria: renda_fixa
+  definicao: Certificado de Depósito Interfinanceiro, taxa de referência para empréstimos entre instituições
+    financeiras no Brasil.
+  analogia: É como a taxa de juros que os bancos usam para emprestar dinheiro entre si, servindo de referência
+    para investimentos.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Nymex
+  nivel: basico
+  variantes:
+  - NYMEX
+  - New York Mercantile Exchange
+  categoria: mercado
+  definicao: Bolsa de Mercadorias de Nova York, onde são negociados contratos futuros de commodities.
+  analogia: ''
+  fonte: bcb
+  e_jargao: false
+  revisado: false
+- termo: IPCA-15
+  nivel: intermediario
+  variantes:
+  - IPCA-15
+  - IPCA 15
+  categoria: inflacao_atividade
+  definicao: Índice de Preços ao Consumidor Amplo calculado pelo IBGE com coleta de preços até o dia 15
+    de cada mês.
+  analogia: É como medir a variação dos preços de um supermercado, mas com coleta feita 15 dias antes
+    do mês.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Swap
+  nivel: avancado
+  variantes:
+  - Swap
+  - Swap (derivativo)
+  categoria: mercado
+  definicao: Derivativo que permite a troca de fluxos de pagamento entre duas partes, como juros variáveis
+    por taxa fixa.
+  analogia: Como trocar a cor de um carro por outro sem mudar o carro, o swap troca a forma de remuneração
+    de um ativo.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Bônus
+  nivel: intermediario
+  variantes:
+  - Bônus
+  - Bonos
+  - Bonds
+  categoria: renda_fixa
+  definicao: Título de dívida emitido por empresas, bancos ou governos que paga juros periódicos ao investidor.
+  analogia: Semelhante a um empréstimo que você faz a uma empresa, que paga juros periódicos até o vencimento.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: CME
+  nivel: basico
+  variantes:
+  - CME
+  - Chicago Mercantile Exchange
+  categoria: mercado
+  definicao: Bolsa de Mercadorias de Chicago, especializada em contratos futuros e opções de commodities.
+  analogia: ''
+  fonte: bcb
+  e_jargao: false
+  revisado: false
+- termo: IBC-Br
+  nivel: intermediario
+  variantes:
+  - IBC-Br
+  - IBCBR
+  categoria: inflacao_atividade
+  definicao: Índice de Atividade Econômica do Banco Central que mede a produção dos setores agropecuário,
+    industrial e de serviços.
+  analogia: É como um termômetro que mede a temperatura da economia todo mês, antes do PIB.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Opep
+  nivel: basico
+  variantes:
+  - OPEP
+  - Organização dos Países Exportadores de Petróleo
+  categoria: outros
+  definicao: Organização dos Países Exportadores de Petróleo, grupo que coordena políticas de produção
+    de petróleo.
+  analogia: ''
+  fonte: bcb
+  e_jargao: false
+  revisado: false
+- termo: FMI
+  nivel: basico
+  variantes:
+  - FMI
+  - Fundo Monetário Internacional
+  - IMF
+  categoria: outros
+  definicao: Fundo Monetário Internacional, instituição que promove cooperação monetária e estabilidade
+    cambial entre países.
+  analogia: ''
+  fonte: bcb
+  e_jargao: false
+  revisado: false
+- termo: Pix
+  nivel: basico
+  variantes:
+  - Pix
+  - PIX
+  categoria: regulacao
+  definicao: Sistema de pagamentos instantâneos do Banco Central que permite transferências 24/7 entre
+    contas.
+  analogia: ''
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Cisão
+  nivel: intermediario
+  variantes:
+  - Cisão
+  - Cisão societária
+  categoria: eventos_corporativos
+  definicao: Operação em que uma empresa divide seu patrimônio, criando novas sociedades ou transferindo
+    ativos.
+  analogia: Como dividir uma empresa em duas partes, cada uma com seu próprio patrimônio.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Spread
+  nivel: intermediario
+  variantes:
+  - Spread
+  - Spread de juros
+  - Spread de crédito
+  categoria: mercado
+  definicao: Diferença entre a taxa de juros recebida em um investimento e a taxa paga em um financiamento.
+  analogia: É a diferença entre o que você paga para pegar dinheiro emprestado e o que recebe ao investir.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: BoJ
+  nivel: basico
+  variantes:
+  - BoJ
+  - Bank of Japan
+  categoria: regulacao
+  definicao: Banco Central do Japão, responsável pela política monetária do país.
+  analogia: ''
+  fonte: bcb
+  e_jargao: false
+  revisado: false
+- termo: NYSE
+  nivel: basico
+  variantes:
+  - NYSE
+  - New York Stock Exchange
+  categoria: mercado
+  definicao: Bolsa de Valores de Nova York, principal mercado de ações dos Estados Unidos.
+  analogia: ''
+  fonte: bcb
+  e_jargao: false
+  revisado: false
+- termo: Custódia
+  nivel: intermediario
+  variantes:
+  - Custódia
+  - Custody
+  categoria: mercado
+  definicao: Serviço de guarda e administração de ativos financeiros oferecido por instituições.
+  analogia: Como um cofre onde bancos guardam seus documentos e valores, a custódia guarda ativos para
+    investidores.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: BNDES
+  nivel: basico
+  variantes:
+  - BNDES
+  - Banco Nacional de Desenvolvimento Econômico e Social
+  categoria: regulacao
+  definicao: Banco público federal que financia projetos de longo prazo para o desenvolvimento econômico
+    e social.
+  analogia: ''
+  fonte: bcb
+  e_jargao: false
+  revisado: false
+- termo: Consórcio
+  nivel: basico
+  variantes:
+  - Consórcio
+  - Consórcio de compra
+  categoria: outros
+  definicao: Sistema de compra coletiva em que participantes contribuem mensalmente para adquirir bens
+    ou serviços.
+  analogia: ''
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: CSLL
+  nivel: intermediario
+  variantes:
+  - CSLL
+  - Contribuição Social sobre o Lucro Líquido
+  categoria: regulacao
+  definicao: Contribuição social cobrada das empresas sobre o lucro líquido apurado.
+  analogia: É um imposto que as empresas pagam sobre o lucro que obtêm, semelhante ao imposto de renda
+    de pessoa física.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Beta
+  nivel: avancado
+  variantes:
+  - Coeficiente beta
+  categoria: renda_variavel
+  definicao: Métrica que mede a volatilidade esperada de um ativo em relação ao mercado de ações.
+  analogia: Se o mercado é uma maré que sobe e desce, o beta mede o tamanho da onda que balança o seu
+    barco.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Compensação
+  nivel: intermediario
+  variantes:
+  - Clearing
+  - Compensação de ordens
+  categoria: mercado
+  definicao: Acordo para liquidar e compensar posições ou obrigações entre participantes de um mercado.
+  analogia: É como juntar todas as contas que você deve e que te devem para pagar apenas a diferença final.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Prova
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Termo técnico gráfico ou moeda de teste para comparação de legitimidade.
+  analogia: ''
+  fonte: bcb
+  e_jargao: false
+  revisado: false
+- termo: BP
+  nivel: intermediario
+  variantes:
+  - Benefícios previdenciários
+  categoria: outros
+  definicao: Sigla para Benefícios Previdenciários pagos pela previdência social.
+  analogia: É o dinheiro que o trabalhador recebe quando se aposenta ou precisa de auxílio do governo.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Resultado operacional
+  nivel: avancado
+  variantes: []
+  categoria: politica_monetaria
+  definicao: Resultado financeiro do setor público ajustado para expurgar os efeitos da inflação.
+  analogia: É como calcular quanto você economizou no mês descontando apenas o aumento geral dos preços.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: BoE
+  nivel: avancado
+  variantes:
+  - Bank of England
+  categoria: politica_monetaria
+  definicao: Banco Central do Reino Unido, responsável pela política monetária do país.
+  analogia: É o equivalente britânico ao Banco Central do Brasil.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: CMN
+  nivel: intermediario
+  variantes:
+  - Conselho Monetário Nacional
+  categoria: regulacao
+  definicao: Conselho Monetário Nacional, órgão deliberativo máximo do Sistema Financeiro Nacional.
+  analogia: É o grande conselho que dita as regras e diretrizes principais de toda a economia do país.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: IGP-M
+  nivel: intermediario
+  variantes:
+  - Índice Geral de Preços do Mercado
+  categoria: inflacao_atividade
+  definicao: Índice de preços calculado pela FGV, muito usado para reajustar contratos de aluguel.
+  analogia: É um termômetro que mede a inflação considerando custos do atacado, construção e consumidor.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Resultado primário
+  nivel: avancado
+  variantes:
+  - Superávit primário
+  - Déficit primário
+  categoria: politica_monetaria
+  definicao: Diferença entre receitas e despesas do governo antes do pagamento dos juros da dívida.
+  analogia: É o dinheiro que sobra no orçamento da sua casa antes de pagar os juros do cartão de crédito.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: IPC
+  nivel: intermediario
+  variantes:
+  - Índice de Preços ao Consumidor
+  categoria: inflacao_atividade
+  definicao: Índice que mede a variação de preços de uma cesta de bens e serviços consumidos pelas famílias.
+  analogia: É a pesquisa que acompanha quanto custa encher o carrinho de compras do mês.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Rating
+  nivel: intermediario
+  variantes:
+  - Classificação de risco
+  categoria: renda_fixa
+  definicao: Nota de classificação de risco de crédito atribuída a um emissor de dívida.
+  analogia: É como o score de crédito, mas avaliando se uma empresa ou país é bom pagador.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Emissor
+  nivel: intermediario
+  variantes:
+  - Emissora
+  categoria: renda_fixa
+  definicao: Entidade ou governo responsável por colocar dinheiro ou títulos em circulação.
+  analogia: É quem fabrica e vende o vale-compras ou o título de dívida no mercado.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: IGP-DI
+  nivel: avancado
+  variantes:
+  - Índice Geral de Preços - Disponibilidade Interna
+  categoria: inflacao_atividade
+  definicao: Índice Geral de Preços com disponibilidade interna calculado mensalmente pela FGV.
+  analogia: Um termômetro inflacionário abrangente que mede custos desde a fábrica até o consumidor final.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Controladores
+  nivel: avancado
+  variantes:
+  - Grupo controlador
+  categoria: regulacao
+  definicao: Pessoas físicas ou jurídicas que detêm o poder de controle societário de uma instituição.
+  analogia: São os acionistas majoritários que mandam e tomam as decisões finais na empresa.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Cofins
+  nivel: intermediario
+  variantes: []
+  categoria: outros
+  definicao: Contribuição social federal destinada ao financiamento da seguridade social.
+  analogia: É um imposto embutido no preço que ajuda a pagar a previdência e a saúde pública.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Ajuste sazonal
+  nivel: avancado
+  variantes:
+  - Dessazonalização
+  categoria: inflacao_atividade
+  definicao: Tratamento estatístico para remover variações cíclicas e de calendário de dados econômicos.
+  analogia: É tirar o efeito do Natal para conseguir comparar se as vendas de janeiro foram realmente
+    boas.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Painel
+  nivel: basico
+  variantes:
+  - Vinheta
+  categoria: outros
+  definicao: Elemento visual ou artístico presente em cédulas de dinheiro.
+  analogia: ''
+  fonte: bcb
+  e_jargao: false
+  revisado: false
+- termo: OCDE
+  nivel: intermediario
+  variantes:
+  - OECD
+  categoria: mercado
+  definicao: Organização internacional que promove políticas para o desenvolvimento econômico global.
+  analogia: É como um clube de boas práticas econômicas seguido pelos países mais desenvolvidos.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: ADR
+  nivel: avancado
+  variantes:
+  - American Depositary Receipts
+  categoria: renda_variavel
+  definicao: Certificado de depósito de ações de empresas estrangeiras negociado em bolsas dos EUA.
+  analogia: É um recibo negociado em Nova York que representa as ações de uma empresa brasileira lá fora.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Lavagem de dinheiro
+  nivel: basico
+  variantes:
+  - Ocultação de bens
+  categoria: regulacao
+  definicao: Crime financiero para ocultar a origem ilícita de recursos financeiros.
+  analogia: É tentar transformar o dinheiro sujo de um crime em dinheiro com aparência de legal.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: CNT
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Confederação Nacional do Transporte
+  analogia: ''
+  fonte: bcb
+  e_jargao: false
+  revisado: false
+- termo: Recolhimento
+  nivel: intermediario
+  variantes: []
+  categoria: politica_monetaria
+  definicao: Retirada definitiva de numerário de circulação.
+  analogia: É como tirar de circulação notas rasgadas ou antigas do cofre do banco.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Prazo médio
+  nivel: avancado
+  variantes: []
+  categoria: renda_fixa
+  definicao: Média ponderada dos prazos de vencimento de operações financeiras.
+  analogia: É como calcular o tempo médio que falta para você receber todas as parcelas de um carnê.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Benchmark
+  nivel: avancado
+  variantes:
+  - indice de referencia
+  categoria: mercado
+  definicao: Padrão de referência utilizado para comparar a rentabilidade de investimentos.
+  analogia: É como usar a média da turma para saber se a sua nota na prova foi boa.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Balanço de Pagamentos
+  nivel: avancado
+  variantes: []
+  categoria: mercado
+  definicao: Registro estatístico de todas as transações econômicas entre um país e o resto do mundo.
+  analogia: É como o livro-caixa que anota tudo o que entra e sai de dinheiro da sua casa para o exterior.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Mercosul
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Bloco econômico formado por Argentina, Brasil, Paraguai e Uruguai.
+  analogia: ''
+  fonte: bcb
+  e_jargao: false
+  revisado: false
+- termo: FGC
+  nivel: intermediario
+  variantes:
+  - Fundo Garantidor de Créditos
+  categoria: regulacao
+  definicao: Associação que protege correntistas e investidores contra falências de instituições.
+  analogia: É como um seguro obrigatório que protege o dinheiro guardado no banco se ele quebrar.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Relatório de Inflação
+  nivel: intermediario
+  variantes: []
+  categoria: inflacao_atividade
+  definicao: Publicação trimestral do Banco Central sobre a inflação e a política monetária.
+  analogia: É como o boletim escolar trimestral que mostra se a economia está indo bem nas metas.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Circular
+  nivel: basico
+  variantes: []
+  categoria: regulacao
+  definicao: Documento que divulga deliberações da Diretoria Colegiada do Banco Central.
+  analogia: ''
+  fonte: bcb
+  e_jargao: false
+  revisado: false
+- termo: Risco de crédito
+  nivel: intermediario
+  variantes: []
+  categoria: renda_fixa
+  definicao: Risco de a contraparte em uma transação não honrar sua obrigação financeira.
+  analogia: É o risco de emprestar dinheiro para um amigo e ele não te pagar de volta.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: BPC
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Banco do Povo da China.
+  analogia: ''
+  fonte: bcb
+  e_jargao: false
+  revisado: false
+- termo: Febraban
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Federação Brasileira de Bancos.
+  analogia: ''
+  fonte: bcb
+  e_jargao: false
+  revisado: false
+- termo: Bordo
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Região externa da superfície da moeda.
+  analogia: ''
+  fonte: bcb
+  e_jargao: false
+  revisado: false
+- termo: Deságio
+  nivel: avancado
+  variantes: []
+  categoria: mercado
+  definicao: Diferença entre o valor de mercado de um título e seu valor como garantia.
+  analogia: É como o banco aceitar seu carro de garantia por um valor menor que o de mercado para se proteger.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: TIR
+  nivel: avancado
+  variantes: []
+  categoria: renda_fixa
+  definicao: Sistema de Transferências Internacionais em Reais para não residentes.
+  analogia: É como um canal expresso e regulado para estrangeiros movimentarem reais no Brasil.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Fipe
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Fundação Instituto de Pesquisas Econômicas da USP.
+  analogia: ''
+  fonte: bcb
+  e_jargao: false
+  revisado: false
+- termo: Brics
+  nivel: basico
+  variantes:
+  - BRIC
+  categoria: outros
+  definicao: Grupo de países formado por Brasil, Rússia, Índia, China e África do Sul.
+  analogia: ''
+  fonte: bcb
+  e_jargao: false
+  revisado: false
+- termo: Reverso
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Face da cédula ou moeda oposta ao anverso.
+  analogia: ''
+  fonte: bcb
+  e_jargao: false
+  revisado: false
+- termo: OMC
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Organização Mundial de Comércio.
+  analogia: ''
+  fonte: bcb
+  e_jargao: false
+  revisado: false
+- termo: IFRS
+  nivel: avancado
+  variantes:
+  - International Financial Reporting Standards
+  categoria: regulacao
+  definicao: Normas internacionais de contabilidade que padronizam a demonstração financeira das empresas.
+  analogia: É como um idioma universal que todas as empresas do mundo usam para falar de suas finanças.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Inscrição
+  nivel: basico
+  variantes:
+  - dístico
+  categoria: outros
+  definicao: Texto ou dístico impresso na cédula ou moeda metálica.
+  analogia: ''
+  fonte: bcb
+  e_jargao: false
+  revisado: false
+- termo: IEA
+  nivel: intermediario
+  variantes:
+  - Instituto de Economia Agrícola
+  categoria: outros
+  definicao: Instituto de Economia Agrícola.
+  analogia: É um órgão de pesquisa focado em entender os rumos da economia ligada à agricultura.
+  fonte: bcb
+  e_jargao: false
+  revisado: false
+- termo: Legenda
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Textos que ocupam a orla da moeda ou indicam detalhes nas cédulas.
+  analogia: ''
+  fonte: bcb
+  e_jargao: false
+  revisado: false
+- termo: CO
+  nivel: intermediario
+  variantes:
+  - Capital Ordinário
+  categoria: renda_variavel
+  definicao: Capital ordinário, representando ações com direito a voto em assembleias.
+  analogia: São as chaves que dão direito a voz e voto na direção da empresa.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: CAIXA
+  nivel: basico
+  variantes:
+  - Caixa Econômica Federal
+  categoria: outros
+  definicao: Caixa Econômica Federal, instituição financeira pública brasileira.
+  analogia: ''
+  fonte: bcb
+  e_jargao: false
+  revisado: false
+- termo: Data-base
+  nivel: intermediario
+  variantes: []
+  categoria: empresas_resultados
+  definicao: Último dia do mês ou semestre civil usado para elaborar demonstrações financeiras.
+  analogia: É o dia oficial da foto tirada para mostrar como a saúde financeira da empresa estava naquele
+    momento.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Fed funds
+  nivel: avancado
+  variantes:
+  - Federal Funds Rate
+  categoria: politica_monetaria
+  definicao: Taxa de juros básica dos Estados Unidos baseada em empréstimos de curto prazo entre bancos.
+  analogia: É a taxa que serve de 'termômetro' principal para os juros da economia americana e do mundo.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: BBC
+  nivel: avancado
+  variantes:
+  - Bônus do Banco Central do Brasil
+  categoria: politica_monetaria
+  definicao: Bônus do Banco Central do Brasil emitidos para controle da liquidez.
+  analogia: É um título usado pelo Banco Central para enxugar o excesso de dinheiro circulando na economia.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Meios de pagamento
+  nivel: intermediario
+  variantes:
+  - M1
+  categoria: politica_monetaria
+  definicao: Recursos prontamente disponíveis como papel-moeda e depósitos à vista (M1).
+  analogia: É o dinheiro vivo e o saldo na conta corrente que você pode gastar imediatamente no supermercado.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Mercado de câmbio
+  nivel: basico
+  variantes:
+  - câmbio
+  categoria: mercado
+  definicao: Ambiente onde ocorrem operações de compra e venda de moedas estrangeiras.
+  analogia: ''
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Manager
+  nivel: avancado
+  variantes: []
+  categoria: mercado
+  definicao: Instituição contratada para gerenciar parte das reservas internacionais de um país.
+  analogia: É o gestor profissional contratado para cuidar de uma fatia da poupança internacional do país.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Cepea
+  nivel: intermediario
+  variantes:
+  - Centro de Estudos Avançados em Economia Aplicada
+  categoria: inflacao_atividade
+  definicao: Centro de Estudos Avançados em Economia Aplicada, referência em preços agrícolas.
+  analogia: É o termômetro oficial que mede quanto custam os produtos do campo no Brasil.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Participante
+  nivel: intermediario
+  variantes: []
+  categoria: regulacao
+  definicao: Pessoa física ou jurídica que segue regras de acesso a uma infraestrutura financeira.
+  analogia: É como um jogador que precisa seguir o manual de regras para poder entrar na partida.
+  fonte: bcb
+  e_jargao: false
+  revisado: false
+- termo: Banco de Investimento
+  nivel: intermediario
+  variantes: []
+  categoria: mercado
+  definicao: Instituição financeira especializada em financiamento produtivo e administração de recursos.
+  analogia: É o banco que ajuda grandes empresas a crescerem, lançarem ações e captarem empréstimos pesados.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Debênture
+  nivel: intermediario
+  variantes:
+  - debentures
+  categoria: renda_fixa
+  definicao: Título de dívida emitido por empresas para captar recursos no mercado.
+  analogia: É como se você emprestasse dinheiro para uma empresa em troca de juros atraentes.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Cédula
+  nivel: basico
+  variantes:
+  - nota
+  categoria: outros
+  definicao: Dinheiro oficial de um país impresso em papel ou plástico.
+  analogia: ''
+  fonte: bcb
+  e_jargao: false
+  revisado: false
+- termo: Susep
+  nivel: intermediario
+  variantes:
+  - Superintendência de Seguros Privados
+  categoria: regulacao
+  definicao: Superintendência de Seguros Privados, órgão regulador do setor de seguros.
+  analogia: É o 'xerife' que fiscaliza as seguradoras e planos de previdência aberta no Brasil.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: EUR
+  nivel: basico
+  variantes:
+  - Euro
+  categoria: mercado
+  definicao: Sigla internacional oficial para a moeda Euro.
+  analogia: ''
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: a.m.
+  nivel: basico
+  variantes:
+  - ao mês
+  categoria: renda_fixa
+  definicao: Sigla para 'ao mês', usada na cobrança ou rendimento de juros.
+  analogia: ''
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: IPA
+  nivel: avancado
+  variantes:
+  - IPA-10
+  - IPA-DI
+  - IPA-M
+  categoria: inflacao_atividade
+  definicao: Índice que mensura a variação de preços no atacado, calculado pela FGV.
+  analogia: Como uma etiqueta de preço que o lojista vê antes de comprar o produto para revender.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: FAO
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Organização das Nações Unidas para Agricultura e Alimentação.
+  analogia: ''
+  fonte: bcb
+  e_jargao: false
+  revisado: false
+- termo: Limite de crédito
+  nivel: intermediario
+  variantes:
+  - limite bilateral
+  - limite multilateral
+  categoria: renda_fixa
+  definicao: Valor máximo de exposição de crédito permitido entre participantes do sistema.
+  analogia: Como o limite do seu cartão de crédito, mas aplicado entre instituições financeiras.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: DOU
+  nivel: basico
+  variantes: []
+  categoria: regulacao
+  definicao: Diário Oficial da União, veículo de publicação de leis e atos oficiais.
+  analogia: ''
+  fonte: bcb
+  e_jargao: false
+  revisado: false
+- termo: Taxa Interna de Retorno (TIR)
+  nivel: avancado
+  variantes:
+  - TIR
+  - IRR
+  categoria: mercado
+  definicao: Taxa de desconto que zera o valor presente líquido de uma aplicação.
+  analogia: Como a rentabilidade real esperada de um projeto ao longo de toda a sua vida útil.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: CDS
+  nivel: avancado
+  variantes:
+  - Credit Default Swap
+  categoria: mercado
+  definicao: Contrato de seguro contra o calote de um ativo de crédito específico.
+  analogia: Como um seguro de carro, mas que protege o investidor caso o emissor de um título não pague
+    a dívida.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Puma
+  nivel: avancado
+  variantes: []
+  categoria: mercado
+  definicao: Plataforma eletrônica de negociação multiativos usada na B3.
+  analogia: Como o sistema operacional de alta velocidade onde as ações são compradas e vendidas na bolsa.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: CRI
+  nivel: intermediario
+  variantes:
+  - Certificados de Recebíveis Imobiliários
+  categoria: renda_fixa
+  definicao: Certificado de Recebíveis Imobiliários voltado ao financiamento do setor imobiliário.
+  analogia: Como emprestar dinheiro para o mercado imobiliário em troca de juros isentos de imposto.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Custo de oportunidade
+  nivel: intermediario
+  variantes: []
+  categoria: mercado
+  definicao: Retorno da melhor alternativa de investimento que foi deixada de lado.
+  analogia: Como o preço de escolher uma opção e abrir mão do ganho que a outra daria.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: CNI
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Confederação Nacional da Indústria.
+  analogia: ''
+  fonte: bcb
+  e_jargao: false
+  revisado: false
+- termo: Jurisdição
+  nivel: intermediario
+  variantes: []
+  categoria: regulacao
+  definicao: Área territorial ou de competência de atuação de uma autoridade reguladora.
+  analogia: Como o território onde um xerife tem autoridade para aplicar as leis.
+  fonte: bcb
+  e_jargao: false
+  revisado: false
+- termo: Liquidação extrajudicial
+  nivel: avancado
+  variantes: []
+  categoria: regulacao
+  definicao: Regime especial aplicado a instituições financeiras em grave crise pelo Banco Central.
+  analogia: Como uma intervenção de emergência para fechar um banco falido e proteger os clientes.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Camex
+  nivel: intermediario
+  variantes: []
+  categoria: regulacao
+  definicao: Câmara de Comércio Exterior responsável por formular políticas de comércio.
+  analogia: ''
+  fonte: bcb
+  e_jargao: false
+  revisado: false
+- termo: NTN-F
+  nivel: avancado
+  variantes:
+  - Nota do Tesouro Nacional Série F
+  categoria: renda_fixa
+  definicao: Nota do Tesouro Nacional Série F, título público federal prefixado com juros semestrais.
+  analogia: Como um título do governo que garante uma taxa fixa até o vencimento e paga aluguéis semestrais.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: CE
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Sigla para o estado do Ceará.
+  analogia: ''
+  fonte: bcb
+  e_jargao: false
+  revisado: false
+- termo: DAS
+  nivel: avancado
+  variantes:
+  - Análise de Sustentabilidade de Dívida
+  categoria: politica_monetaria
+  definicao: Análise de Sustentabilidade de Dívida pública.
+  analogia: Como um exame médico periódico para saber se o governo está gastando mais do que consegue
+    pagar.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Planejamento estratégico
+  nivel: basico
+  variantes: []
+  categoria: empresas_resultados
+  definicao: Definição de diretrizes, missão e objetivos de longo prazo de uma organização.
+  analogia: ''
+  fonte: bcb
+  e_jargao: false
+  revisado: false
+- termo: União Europeia (UE)
+  nivel: basico
+  variantes:
+  - UE
+  categoria: outros
+  definicao: Bloco econômico e político integrado por países europeus.
+  analogia: ''
+  fonte: bcb
+  e_jargao: false
+  revisado: false
+- termo: CBIC
+  nivel: intermediario
+  variantes: []
+  categoria: outros
+  definicao: Câmara Brasileira da Indústria da Construção.
+  analogia: ''
+  fonte: bcb
+  e_jargao: false
+  revisado: false
+- termo: Vinculação
+  nivel: avancado
+  variantes: []
+  categoria: mercado
+  definicao: Registro da relação entre operações de comércio exterior e contratos de câmbio.
+  analogia: Como grampear a nota fiscal de exportação junto ao comprovante de recebimento em dólar.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Copas
+  nivel: avancado
+  variantes: []
+  categoria: regulacao
+  definicao: Comite de Decisao de Processo Administrativo Sancionador.
+  analogia: ''
+  fonte: bcb
+  e_jargao: false
+  revisado: false
+- termo: CCJ
+  nivel: intermediario
+  variantes:
+  - Comissao de Constituicao e Justica
+  categoria: regulacao
+  definicao: Comissao de Constituicao e Justiça.
+  analogia: ''
+  fonte: bcb
+  e_jargao: false
+  revisado: false
+- termo: Fibras
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Elemento de seguranca de cedulas em plastico colorido ou incolor disperso no papel.
+  analogia: ''
+  fonte: bcb
+  e_jargao: false
+  revisado: false
+- termo: PIS/Pasep
+  nivel: basico
+  variantes:
+  - PIS
+  - Pasep
+  categoria: outros
+  definicao: Programas assistenciais do governo federal voltados para trabalhadores do setor privado e
+    publico.
+  analogia: ''
+  fonte: bcb
+  e_jargao: false
+  revisado: false
+- termo: Proof
+  nivel: avancado
+  variantes: []
+  categoria: outros
+  definicao: Processo especial de cunhagem em que a moeda apresenta fundos espelhados e relevos fosqueados.
+  analogia: ''
+  fonte: bcb
+  e_jargao: false
+  revisado: false
+- termo: BLS
+  nivel: avancado
+  variantes:
+  - Bureau of Labor Statistics
+  categoria: outros
+  definicao: Sigla para Bureau of Labor Statistics, agencia estatistica dos Estados Unidos.
+  analogia: E o equivalente americano ao nosso IBGE para dados de trabalho.
+  fonte: bcb
+  e_jargao: false
+  revisado: false
+- termo: INPI
+  nivel: intermediario
+  variantes:
+  - Instituto Nacional da Propriedade Industrial
+  categoria: regulacao
+  definicao: Instituicao brasileira responsavel pelo registro de marcas, patentes e tecnologias.
+  analogia: E o cartorio onde voce registra que uma ideia ou invento e seu para ninguem roubar.
+  fonte: bcb
+  e_jargao: false
+  revisado: false
+- termo: FDA
+  nivel: intermediario
+  variantes:
+  - Fundo de Desenvolvimento da Amazonia
+  categoria: outros
+  definicao: Fundo de Desenvolvimento da Amazonia, voltado para financimento na regiao norte.
+  analogia: E um cofre do governo para dar credito a quem quer abrir empresas na regiao amazonica.
+  fonte: bcb
+  e_jargao: false
+  revisado: false
+- termo: LSPA
+  nivel: intermediario
+  variantes:
+  - Levantamento Sistematico da Producao Agricola
+  categoria: inflacao_atividade
+  definicao: Pesquisa mensal do IBGE sobre previsao e acompanhamento de safras agricolas no Brasil.
+  analogia: E a previsao do tempo para a colheita que diz quanto de soja o pais vai produzir no ano.
+  fonte: bcb
+  e_jargao: false
+  revisado: false
+- termo: Instituição de Pagamento
+  nivel: intermediario
+  variantes:
+  - IP
+  - Instituições de Pagamento
+  categoria: regulacao
+  definicao: Empresa não financeira que executa serviços de pagamento e gerencia o relacionamento com
+    usuários.
+  analogia: É como uma carteira digital que guarda e movimenta seu dinheiro sem ser um banco tradicional.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: CDC
+  nivel: intermediario
+  variantes:
+  - Crédito Direto ao Consumidor
+  categoria: renda_fixa
+  definicao: Crédito direto ao consumidor usado para financiar a compra de bens e serviços.
+  analogia: É o empréstimo que você faz na loja para parcelar uma televisão ou carro.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Cooperativa
+  nivel: intermediario
+  variantes:
+  - Cooperativa de crédito
+  - Cooperativas
+  categoria: regulacao
+  definicao: Sociedade sem fins lucrativos constituída para prestar serviços financeiros aos associados.
+  analogia: Funciona como um banco dos próprios clientes, onde todos são donos e dividem os lucros.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: IOF
+  nivel: intermediario
+  variantes:
+  - Imposto sobre Operações Financeiras
+  categoria: regulacao
+  definicao: Imposto federal cobrado sobre operações de crédito, câmbio, seguros e títulos.
+  analogia: É aquela taxa extra que o governo cobra quando você troca moeda ou pega empréstimo.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Bear market
+  nivel: avancado
+  variantes:
+  - Mercado em baixa
+  categoria: mercado
+  definicao: Mercado em baixa prolongada onde os investidores esperam queda generalizada dos preços.
+  analogia: É como uma longa temporada de inverno na bolsa, onde quase todas as ações caem.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Denominação
+  nivel: intermediario
+  variantes:
+  - Valor facial
+  categoria: outros
+  definicao: Valor facial atribuído a um item de dinheiro, como uma cédula ou moeda.
+  analogia: É o número estampado na nota, como o valor de R$ 50 escrito na cédula.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Circuit breaker
+  nivel: avancado
+  variantes:
+  - Disjuntor da bolsa
+  categoria: mercado
+  definicao: Interrupção temporária dos negócios na bolsa de valores devido a quedas drásticas no índice.
+  analogia: É o disjuntor que desliga a luz da casa quando há uma sobrecarga perigosa.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: CRC
+  nivel: avancado
+  variantes:
+  - Central de Risco
+  categoria: regulacao
+  definicao: Central de Risco de Crédito que monitora operações financeiras e endividamento.
+  analogia: É o arquivo central que guarda o histórico de empréstimos e dívidas das pessoas e empresas.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: FOB
+  nivel: avancado
+  variantes:
+  - Free On Board
+  categoria: mercado
+  definicao: Condição de frete onde a responsabilidade pela carga passa ao comprador no porto de embarque.
+  analogia: É como comprar algo pela internet e o vendedor só é responsável até postar no correio.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Agência de fomento
+  nivel: avancado
+  variantes:
+  - Agências de fomento
+  categoria: regulacao
+  definicao: Instituição financeira estadual voltada para financiar projetos de desenvolvimento local.
+  analogia: É um banco do governo estadual que empresta dinheiro para empresas crescerem na região.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: FDIC
+  nivel: avancado
+  variantes:
+  - Federal Deposit Insurance Corporation
+  categoria: regulacao
+  definicao: Órgão dos Estados Unidos que garante depósitos bancários contra falências.
+  analogia: É o primo americano do FGC, garantindo o dinheiro dos depositantes nos EUA.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: BEA
+  nivel: avancado
+  variantes:
+  - Bureau of Economic Analysis
+  categoria: inflacao_atividade
+  definicao: Órgão governamental dos EUA que divulga dados econômicos essenciais como o PIB.
+  analogia: É o IBGE do governo americano que mede a saúde da economia.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Banco de Desenvolvimento
+  nivel: avancado
+  variantes:
+  - Bancos de desenvolvimento
+  categoria: regulacao
+  definicao: Instituição pública que financia projetos de longo prazo para o desenvolvimento socioeconômico.
+  analogia: É o banco focado em emprestar grana para grandes obras de infraestrutura do estado.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: EIA
+  nivel: avancado
+  variantes:
+  - U.S. Energy Information Administration
+  categoria: inflacao_atividade
+  definicao: Agência americana que publica dados oficiais sobre energia e estoques de petróleo.
+  analogia: É o termômetro oficial do mercado de petróleo e energia nos Estados Unidos.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Banco Múltiplo
+  nivel: intermediario
+  variantes:
+  - Bancos múltiplos
+  categoria: regulacao
+  definicao: Instituição financeira que opera com múltiplas carteiras, como comercial, investimento e
+    crédito.
+  analogia: É o banco de rede tradicional onde você faz PIX, investe e pega empréstimo no mesmo lugar.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: CCR
+  nivel: avancado
+  variantes:
+  - Convênio de Pagamentos e Créditos Recíprocos
+  categoria: mercado
+  definicao: Convênio entre países latino-americanos para facilitar pagamentos e comércio regional.
+  analogia: É um acordo entre vizinhos para facilitar as compras e pagamentos entre os países.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: CadÚnico
+  nivel: basico
+  variantes:
+  - Cadastro Único
+  categoria: outros
+  definicao: Registro do governo brasileiro para identificar famílias de baixa renda beneficiárias de
+    programas sociais.
+  analogia: É o cadastro geral que o governo usa para saber quem precisa de auxílio financeiro.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Crédito pessoal
+  nivel: basico
+  variantes:
+  - Empréstimo pessoal
+  categoria: renda_fixa
+  definicao: Empréstimo bancário para pessoas físicas sem exigência de finalidade específica.
+  analogia: É o dinheiro rápido que o banco empresta para você gastar como quiser, sem dar satisfação.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Cide
+  nivel: intermediario
+  variantes:
+  - Contribuição de Intervenção no Domínio Econômico
+  categoria: regulacao
+  definicao: Imposto federal que incide sobre a importação e comercialização de combustíveis.
+  analogia: É o imposto embutido no preço da gasolina que serve para regular o mercado de combustíveis.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: SFN
+  nivel: intermediario
+  variantes:
+  - Sistema Financeiro Nacional
+  categoria: regulacao
+  definicao: Conjunto de órgãos e instituições que gerenciam a circulação de moeda e crédito no país.
+  analogia: É a grande rede de engrenagens que faz todo o dinheiro do Brasil circular de forma organizada.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Centena
+  nivel: intermediario
+  variantes:
+  - centenas
+  categoria: outros
+  definicao: Maço cintado contendo 100 cédulas de dinheiro.
+  analogia: Como um bloco de 100 folhas de papel coladas, mas feito de notas de dinheiro.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Liquidação antecipada
+  nivel: intermediario
+  variantes:
+  - amortização antecipada
+  - quitação antecipada
+  categoria: renda_fixa
+  definicao: Quitação total ou parcial de um empréstimo antes do prazo, com desconto proporcional de juros.
+  analogia: Como pagar a fatura do carnê antes do vencimento e ganhar um bom desconto por isso.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: ESF
+  nivel: avancado
+  variantes:
+  - Exogenous Shocks Facility
+  categoria: politica_monetaria
+  definicao: Linha de Financiamento para Choques Exógenos criada para ajudar países em crises externas.
+  analogia: Um empréstimo de emergência que o banco empresta quando acontece um imprevisto fora do seu
+    controle.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: cenário de referência
+  nivel: avancado
+  variantes:
+  - cenário base
+  categoria: politica_monetaria
+  definicao: Projeção econômica oficial usada como base para as decisões de política monetária.
+  analogia: Como o mapa principal que o comandante segue para guiar o navio durante a viagem.
+  fonte: corpus
+  e_jargao: true
+  revisado: false
+- termo: cenário básico
+  nivel: intermediario
+  variantes:
+  - baseline
+  categoria: mercado
+  definicao: Projeção mais provável para o comportamento da economia no futuro.
+  analogia: Como a previsão do tempo que diz que amanhã provavelmente fará sol.
+  fonte: corpus
+  e_jargao: true
+  revisado: false
+- termo: necessários na economia
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Expressão comum usada para indicar fatores essenciais ao funcionamento econômico.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: reformas ajustes
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Mudanças estruturais e correções de rumo na gestão fiscal ou econômica.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: juros estrutural
+  nivel: avancado
+  variantes:
+  - taxa neutra
+  - juro neutro
+  categoria: politica_monetaria
+  definicao: Taxa de juros neutra que equilibra a economia sem gerar inflação nem recessão.
+  analogia: Como a velocidade de cruzeiro ideal de um carro na estrada para gastar menos combustível.
+  fonte: corpus
+  e_jargao: true
+  revisado: false
+- termo: projeções expectativas
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Estimativas e previsões sobre o comportamento futuro de indicadores econômicos.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: reformas ajustes necessários
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Medidas indispensáveis para corrigir desequilíbrios nas contas públicas.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: supõe
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Verbo que indica uma hipótese ou premissa adotada em uma análise.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: ancoragem das expectativas
+  nivel: avancado
+  variantes:
+  - ancoragem
+  - expectativas ancoradas
+  categoria: politica_monetaria
+  definicao: Credibilidade da política monetária em manter as projeções de inflação alinhadas à meta.
+  analogia: Como uma âncora que prende o barco para ele não ficar à deriva na tempestade.
+  fonte: corpus
+  e_jargao: true
+  revisado: false
+- termo: básico balanço
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Termo fragmentado sem definição econômica consolidada isoladamente.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: cenário básico balanço
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Expressão fragmentada extraída de contextos de relatórios econômicos.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: relevante para política
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Fator importante que impacta as decisões de governo ou do Banco Central.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: situam-se em torno
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Locução usada para indicar valores aproximados em estatísticas.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: demanda agregada
+  nivel: intermediario
+  variantes:
+  - procura agregada
+  categoria: inflacao_atividade
+  definicao: Soma de todos os bens e serviços que consumidores, empresas e governo desejam comprar.
+  analogia: Como o carrinho de compras gigante de toda a população somado em um único dia.
+  fonte: corpus
+  e_jargao: true
+  revisado: false
+- termo: desinflacionário
+  nivel: intermediario
+  variantes:
+  - efeito desinflacionário
+  categoria: inflacao_atividade
+  definicao: Que tende a reduzir o ritmo de crescimento dos preços na economia.
+  analogia: Como pisar levemente no freio de um carro que estava acelerando muito rápido.
+  fonte: corpus
+  e_jargao: true
+  revisado: false
+- termo: monetária considerando
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Fragmento de texto referente à análise de políticas de juros e moeda.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: componentes mais sensíveis
+  nivel: intermediario
+  variantes:
+  - itens sensíveis
+  categoria: inflacao_atividade
+  definicao: Itens de preços que reagem mais rapidamente às mudanças nos juros e na economia.
+  analogia: Como o termômetro que muda de cor imediatamente ao menor sinal de calor.
+  fonte: corpus
+  e_jargao: true
+  revisado: false
+- termo: desde reunião
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Expressao comum sem significado tecnico financeiro.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: política monetária considerando
+  nivel: intermediario
+  variantes: []
+  categoria: politica_monetaria
+  definicao: Trecho generico sem definicao financeira especifica.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: longo do horizonte
+  nivel: intermediario
+  variantes: []
+  categoria: outros
+  definicao: Termo generico sobre projecoes temporais.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: conforme alterada
+  nivel: basico
+  variantes: []
+  categoria: regulacao
+  definicao: Expressao juridica generica sobre modificacao de textos.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: prescreve
+  nivel: basico
+  variantes: []
+  categoria: regulacao
+  definicao: Termo juridico referente a prazos legais ou perda de validade.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: processo de reformas
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Conjunto de mudancas estruturais ou legais na economia.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: básico para inflação
+  nivel: basico
+  variantes: []
+  categoria: inflacao_atividade
+  definicao: Referencia generica a elementos essenciais da alta de precos.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: pelo conselho monetário
+  nivel: intermediario
+  variantes:
+  - CMN
+  categoria: regulacao
+  definicao: Referencia ao Conselho Monetario Nacional.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: diversas medidas
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Expressao quantitativa generica.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: flutuações do nível
+  nivel: intermediario
+  variantes: []
+  categoria: outros
+  definicao: Variacoes genericas de indicadores ao longo do tempo.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: continuidade das reformas
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Manutencao de agendas de mudancas estruturais.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: usual de arredondar
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Pratica matematica comum de aproximar numeros.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: observada nos cinco
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Constatacao estatistica generica sobre um grupo de cinco.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: econômica fomento
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Termo fragmentado sem sentido financeiro próprio.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: preços essa decisão
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Trecho de texto sem co definição técnica financeira.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: decisão também implica
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Expressão comum sem significado financeiro específico.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: suavização das flutuações
+  nivel: avancado
+  variantes:
+  - suavização de flutuações
+  categoria: politica_monetaria
+  definicao: Ação do Banco Central para conter a volatilidade excessiva da economia ou dos juros.
+  analogia: Como usar amortecedores em um carro para suavizar os buracos da estrada.
+  fonte: corpus
+  e_jargao: true
+  revisado: false
+- termo: atividade econômica fomento
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Combinação de palavras sem definição técnica padronizada.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: fomento do pleno
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Fragmento de frase sem valor de jargão financeiro.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: supõe trajetória
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Expressão genérica usada em contextos analíticos diversos.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: econômica do balanço
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Termo incompleto relacionado a relatórios contábeis.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: anterior da reunião
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Expressão temporal comum sem cunho técnico.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: participantes presentes
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Termo genérico referente a pessoas em uma reunião.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: analisaram evolução
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Ação comum de estudo de dados sem termo técnico.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: monetária cujo
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Fragmento gramatical sem sentido isolado.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: cujo objetivo
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Locução comum sem significado financeiro.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: objetivo atingir
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Expressão genérica de meta.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: analisaram evolução recente
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Frase descritiva sem valor de jargão.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: recente as perspectivas
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Trecho sem coesão técnica.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: brasileira para economia
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Fragmento de texto sem sentido econômico próprio.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: internacional no contexto
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Expressão genérica sem aplicação financeira específica.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: contexto do regime
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Termo genérico sem definição técnica isolada.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: regime de política
+  nivel: avancado
+  variantes:
+  - regime de política econômica
+  - regime monetário
+  categoria: politica_monetaria
+  definicao: Conjunto de regras e diretrizes que norteiam a condução da política econômica ou monetária.
+  analogia: Como as regras de trânsito que definem como os carros devem circular na cidade.
+  fonte: corpus
+  e_jargao: true
+  revisado: false
+- termo: política monetária cujo
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Fragmento de texto sem sentido financeiro autônomo.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: monetária cujo objetivo
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Trecho incompleto de frase sem definição financeira.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: cujo objetivo atingir
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Expressão fragmentada sem conceito econômico.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: adota-se
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Termo gramatical genérico sem relação com finanças.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: fundamental de assegurar
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Locução comum sem significado técnico financeiro.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: encerrados no último
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Expressão temporal genérica utilizada em relatórios.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: fixadas
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Palavra isolada que indica estabelecimento de regras ou valores.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: fixadas pelo
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Fragmento indicativo de determinação por alguma autoridade.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: metas fixadas pelo
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Trecho incompleto referente ao estabelecimento de objetivos.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: menção explícita
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Citação direta e clara sobre determinado assunto em um texto.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: mudanças ocorridas
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Alterações observadas em um determinado período.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: ocorridas desde
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Expressão temporal usada para marcar o início de eventos.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: preços relativos
+  nivel: avancado
+  variantes:
+  - preço relativo
+  categoria: inflacao_atividade
+  definicao: Relação entre o preço de um bem específico comparado aos demais.
+  analogia: Como comparar se o preço da carne subiu mais do que o preço do arroz no supermercado.
+  fonte: corpus
+  e_jargao: true
+  revisado: false
+- termo: atualização da conjuntura
+  nivel: avancado
+  variantes:
+  - atualização conjuntural
+  categoria: mercado
+  definicao: Revisão do cenário econômico e político atual.
+  analogia: Como checar a previsão do tempo atualizada antes de sair de casa.
+  fonte: corpus
+  e_jargao: true
+  revisado: false
+- termo: econômica do cenário
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Fragmento de análise econômica sem sentido isolado.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: explícita em contrário
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Termo jurídico ou formal que indica o oposto declarado.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: contrário esta atualização
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Trecho desconexo sem valor financeiro.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: conta as mudanças
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Expressão fragmentada sem definição técnica.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: mudanças ocorridas desde
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Expressao comum sem significado financeiro especifico.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: econômico política
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Termos genericos sobre economia e politica combinados.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: ciclo econômico política
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Combinacao inadequada de termos economicos e politicos.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: econômico política monetária
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Fragmento de texto sobre economia e politica monetaria.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: reuniões do andar
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Expressao coloquial sem sentido tecnico financeiro.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: fixadas pelo conselho
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Frase generica sobre decisoes de um conselho administrativo.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: ocorridas desde reunião
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Trecho de texto sem valor como jargao economico.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: adota-se hipótese
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Expressao generica usada em modelagem ou redacao.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: cenário supõe
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Termo comum referente a projecoes e premissas.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: hipótese de bandeira
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Expressao sem definicao padrao no mercado financeiro.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: prospectiva compatível
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Combinacao de palavras de uso comum em relatorios.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: inflação prospectiva compatível
+  nivel: intermediario
+  variantes: []
+  categoria: inflacao_atividade
+  definicao: Trecho tecnico sobre projecoes futuras de precos.
+  analogia: Como estimar os gastos futuros com base nos precos atuais.
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: apresentações técnicas
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Reunioes ou materiais de exposicao de dados por equipes especializadas.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: meta ao longo
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Fragmento de frase sobre objetivos temporais.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: término das sessões
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Encerramento de reunioes ou encontros oficiais.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: inflação para redor
+  nivel: basico
+  variantes: []
+  categoria: inflacao_atividade
+  definicao: Expressao gramaticalmente incompleta sobre niveis de inflacao.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: inflação permanecem
+  nivel: basico
+  variantes: []
+  categoria: inflacao_atividade
+  definicao: Trecho com erro de concordancia sem valor tecnico.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: segue aproximadamente
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Expressao comum sem significado tecnico financeiro especifico.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: aproximadamente curva
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Fragmento de texto sem sentido economico proprio.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: técnicas presentes
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Termo generico sem aplicacao no mercado financeiro.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: petróleo segue aproximadamente
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Combinacao de palavras comum sem definicao financeira.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: segue aproximadamente curva
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Frase incompleta sem valor analitico no mercado.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: aproximadamente curva futura
+  nivel: intermediario
+  variantes: []
+  categoria: renda_fixa
+  definicao: Expressao fragmentada que tenta remeter a projecoes de taxas de juros.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: alta para cenário
+  nivel: basico
+  variantes: []
+  categoria: mercado
+  definicao: Termo generico sobre perspectivas economicas.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: responsáveis por apresentações
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Descricao de funcao corporativa generica.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: apresentações técnicas presentes
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Expressao comum sem relacao direta com financas.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: perseverar
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Verbo da lingua portuguesa sem sentido financeiro tecnico.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: presidente bruno
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Nome proprio de pessoa, nao sendo um termo financeiro.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: presidente bruno serra
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Nome de autoridade publica, nao constitui jargao.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: relevante de política
+  nivel: basico
+  variantes: []
+  categoria: politica_monetaria
+  definicao: Trecho generico sobre decisoes governamentais ou monetarias.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: aumentar ao ano
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Expressao temporal generica de crescimento.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: compatível com estratégia
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Termo gerencial generico sem especificidade financeira.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: câmbio parte
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Termo fragmentado sem sentido financeiro específico.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: permanecem fatores
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Expressão comum sem significado financeiro técnico.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: inflação permanecem fatores
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Combinação de palavras sem sentido técnico isolado.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: ressaltam-se
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Termo gramatical sem aplicação financeira específica.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: referência trajetória
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Expressão genérica sem definição financeira própria.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: inflação destacam-se
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Fragmento de texto sem valor de jargão financeiro.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: baixa ressaltam-se
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Expressão desconexa sem sentido econômico.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: inflacionário as expectativas
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Trecho incompleto sem definição técnica aplicável.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: monetária estimulativa
+  nivel: avancado
+  variantes:
+  - politica monetaria expansionista
+  categoria: politica_monetaria
+  definicao: Política monetária com juros baixos para estimular a economia.
+  analogia: Como pisar no acelerador do carro para o motor andar mais rápido.
+  fonte: corpus
+  e_jargao: true
+  revisado: false
+- termo: política monetária estimulativa
+  nivel: avancado
+  variantes:
+  - politica expansionista
+  categoria: politica_monetaria
+  definicao: Ação do Banco Central para baratear o crédito e estimular a atividade.
+  analogia: Como abaixar os juros para as pessoas comprarem mais no shopping.
+  fonte: corpus
+  e_jargao: true
+  revisado: false
+- termo: futura pelos
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Fragmento de frase sem sentido financeiro.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: passa aumentar
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Expressão comum sem valor de jargão técnico.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: disso adota-se
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Termo genérico sem significado financeiro.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: curva futura pelos
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Trecho incompleto de texto sem definição técnica.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: futura pelos próximos
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Expressão fragmentada sem sentido econômico.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: disso adota-se hipótese
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Construção frasal sem sentido financeiro direto.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: relevante que inclui
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Termo comum sem valor técnico de mercado.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: dependendo da evolução
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Expressão genérica sem significado econômico isolado.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: meses passa
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Fragmento temporal sem definição financeira.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: ano posteriormente
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Termo comum sem utilidade como jargão.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: seis meses passa
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Expressao sem sentido tecnico ou financeiro reconhecido.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: meses passa aumentar
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Fragmento de texto sem aplicacao no mercado financeiro.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: início de término
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Expressao generica sem definicao economica.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: atendimento ao disposto
+  nivel: basico
+  variantes: []
+  categoria: regulacao
+  definicao: Termo juridico generico usado em conformidade legal.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: juros abaixo
+  nivel: basico
+  variantes: []
+  categoria: renda_fixa
+  definicao: Expressao generica sobre taxas de juros reduzidas.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: estimulativa ou seja
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Fragmento explicativo sem definicao financeira propia.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: abaixo da taxa
+  nivel: basico
+  variantes: []
+  categoria: renda_fixa
+  definicao: Referencia generica a um patamar inferior de taxa.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: doméstico conjunto
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Termo comum sem significado financeiro específico.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: presidente ailton
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Nome próprio sem relação com jargão financeiro.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: inclui ano-calendário
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Expressão genérica de contagem de tempo.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: seja com taxas
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Trecho de frase sem conteúdo técnico.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: reflete seu cenário
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Frase genérica sem definição de mercado.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: decisão compatível
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Expressão comum sem valor de jargão.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: câmbio constante
+  nivel: intermediario
+  variantes:
+  - taxa de câmbio constante
+  categoria: mercado
+  definicao: Metodologia que isola a variação cambial na análise de resultados financeiros.
+  analogia: Como medir o peso de alguém ignorando o peso das roupas que ele veste.
+  fonte: corpus
+  e_jargao: true
+  revisado: false
+- termo: sustentável da economia
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Conceito genérico sobre o funcionamento econômico.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: parte de países
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Fragmento de texto sem sentido técnico.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: hiato do produto
+  nivel: avancado
+  variantes:
+  - output gap
+  categoria: inflacao_atividade
+  definicao: Diferença entre o PIB efetivo e o PIB potencial de um país.
+  analogia: Como a diferença entre o que uma fábrica consegue produzir trabalhando no limite e o que produz
+    hoje.
+  fonte: corpus
+  e_jargao: true
+  revisado: false
+- termo: extraídas da pesquisa
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Expressão comum referente a dados obtidos.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: trajetória prospectiva
+  nivel: avancado
+  variantes:
+  - caminho prospectivo
+  categoria: politica_monetaria
+  definicao: Projeção do comportamento futuro de uma variável econômica.
+  analogia: Como traçar a rota de uma viagem olhando a previsão do tempo para os próximos dias.
+  fonte: corpus
+  e_jargao: true
+  revisado: false
+- termo: grau de ociosidade
+  nivel: avancado
+  variantes:
+  - ociosidade da capacidade produtiva
+  categoria: inflacao_atividade
+  definicao: Medida da capacidade produtiva ociosa na economia ou em uma empresa.
+  analogia: Como as mesas vazias em um restaurante num horário de movimento fraco.
+  fonte: corpus
+  e_jargao: true
+  revisado: false
+- termo: monetária que inclui
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Fragmento incompleto sem sentido econômico.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: economia brasileira essencial
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Descrição genérica sobre o cenário nacional.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: atividade econômica global
+  nivel: basico
+  variantes: []
+  categoria: inflacao_atividade
+  definicao: Ritmo de crescimento da economia mundial.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: taxas de inflação
+  nivel: basico
+  variantes:
+  - taxa de inflação
+  - indices de inflação
+  categoria: inflacao_atividade
+  definicao: Percentual de aumento generalizado dos preços em um período.
+  analogia: ''
+  fonte: corpus
+  e_jargao: true
+  revisado: false
+- termo: variância
+  nivel: intermediario
+  variantes:
+  - variancia estatistica
+  categoria: mercado
+  definicao: Medida estatística de dispersão dos retornos de um ativo em relação à média.
+  analogia: Como medir o quanto a velocidade de um carro oscila durante uma viagem.
+  fonte: corpus
+  e_jargao: true
+  revisado: false
+- termo: seguintes observações
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Expressão comum da língua portuguesa sem significado financeiro específico.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: monetária as expectativas
+  nivel: basico
+  variantes: []
+  categoria: politica_monetaria
+  definicao: Trecho fragmentado relacionado a expectativas da política monetária.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: economia comitê ressalta
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Combinação de palavras sem sentido técnico padronizado no mercado.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: recuperação da economia
+  nivel: basico
+  variantes:
+  - retomada econômica
+  categoria: inflacao_atividade
+  definicao: Momento em que a atividade econômica volta a crescer após um período de crise ou estagnação.
+  analogia: ''
+  fonte: corpus
+  e_jargao: true
+  revisado: false
+- termo: passos futuros
+  nivel: intermediario
+  variantes:
+  - próximos passos
+  categoria: politica_monetaria
+  definicao: Indicações dadas por bancos centrais sobre as próximas decisões de juros.
+  analogia: Como olhar o mapa de uma viagem para saber qual será a próxima curva.
+  fonte: corpus
+  e_jargao: true
+  revisado: false
+- termo: cenário prospectivo
+  nivel: intermediario
+  variantes:
+  - cenário econômico
+  - projeção
+  categoria: mercado
+  definicao: Projeção de tendências futuras para a economia com base em dados atuais.
+  analogia: Como olhar a previsão do tempo para decidir se leva guarda-chuva amanhã.
+  fonte: corpus
+  e_jargao: true
+  revisado: false
+- termo: acumulada em quatro
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Fragmento de texto comum em relatórios econômicos sem valor isolado.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: apenas processo
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Termos comuns sem aplicação no jargão de investimentos.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: consolide não apenas
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Trecho de frase sem definição financeira autônoma.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: compatível com cumprimento
+  nivel: intermediario
+  variantes: []
+  categoria: regulacao
+  definicao: Expressão genérica sobre alinhamento a regras ou metas estabelecidas.
+  analogia: Como seguir estritamente a receita de um bolo para que ele cresça certo.
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: câmbio extraídas
+  nivel: basico
+  variantes: []
+  categoria: mercado
+  definicao: Fragmento textual sem sentido técnico financeiro.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: continuarão dependendo
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Expressão condicional comum sem definição técnica.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: projeções condicionais
+  nivel: avancado
+  variantes:
+  - cenário condicional
+  categoria: politica_monetaria
+  definicao: Estimativas econômicas que dependem da concretização de hipóteses específicas sobre variáveis-chave.
+  analogia: Como dizer que vai à praia se não chover e o carro funcionar.
+  fonte: corpus
+  e_jargao: true
+  revisado: false
+- termo: resiliência na inflação
+  nivel: intermediario
+  variantes:
+  - inflação resiliente
+  categoria: inflacao_atividade
+  definicao: Persistência da alta de preços em patamares elevados, resistindo às tentativas de queda.
+  analogia: Como aquela mancha difícil na roupa que não sai por nada na lavagem.
+  fonte: corpus
+  e_jargao: true
+  revisado: false
+- termo: projetada em função
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Trecho matemático ou redacional sem sentido isolado de jargão.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: futuros da política
+  nivel: intermediario
+  variantes: []
+  categoria: politica_monetaria
+  definicao: Termo fragmentado que remete aos rumos futuros das decisões governamentais ou do Banco Central.
+  analogia: Como tentar adivinhar os próximos capítulos de uma novela.
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: reancoragem
+  nivel: avancado
+  variantes:
+  - reancoragem das expectativas
+  categoria: politica_monetaria
+  definicao: Processo de retorno das expectativas de inflação para a meta oficial estipulada.
+  analogia: Como trazer um barco de volta para a vaga certa no porto após uma tempestade.
+  fonte: corpus
+  e_jargao: true
+  revisado: false
+- termo: frustração das expectativas
+  nivel: intermediario
+  variantes:
+  - quebra de expectativas
+  categoria: mercado
+  definicao: Momento em que os resultados econômicos ou corporativos ficam abaixo do esperado pelo mercado.
+  analogia: Como tirar uma nota menor na prova do que você achava que ia tirar.
+  fonte: corpus
+  e_jargao: true
+  revisado: false
+- termo: câmbio us observada
+  nivel: basico
+  variantes: []
+  categoria: mercado
+  definicao: Termo truncado sem sentido prático para o investidor.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: andar do edifício-sede
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Localização física de uma instituição, sem significado econômico.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: rodapé
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Nota colocada no fim de uma página de documento.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: maior persistência
+  nivel: avancado
+  variantes:
+  - persistência inflacionária
+  categoria: inflacao_atividade
+  definicao: Indica que a inflação demora mais tempo para retornar à meta estabelecida.
+  analogia: Como um incêndio difícil de apagar completamente.
+  fonte: corpus
+  e_jargao: true
+  revisado: false
+- termo: trajetória de inflação
+  nivel: intermediario
+  variantes:
+  - caminho da inflação
+  - projeção de inflação
+  categoria: inflacao_atividade
+  definicao: O caminho projetado para a taxa de inflação ao longo do tempo.
+  analogia: Como a previsão do tempo para os próximos meses.
+  fonte: corpus
+  e_jargao: true
+  revisado: false
+- termo: divulgações mais recentes
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Publicações de dados ou notícias mais atuais.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: sessões membros
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Encontros ou reuniões dos integrantes de um grupo.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: cautela por parte
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Atitude de prudência adotada por algum agente.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: presente na tarde
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Expressão temporal sem sentido financeiro específico.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: usual para inflação
+  nivel: basico
+  variantes: []
+  categoria: inflacao_atividade
+  definicao: Comportamento considerado normal na variação de preços.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: abaixo da meta
+  nivel: intermediario
+  variantes:
+  - inflação abaixo da meta
+  categoria: politica_monetaria
+  definicao: Situação em que o índice monitorado fica inferior ao centro estipulado pelo governo.
+  analogia: Como tirar uma nota menor do que a média exigida na prova.
+  fonte: corpus
+  e_jargao: true
+  revisado: false
+- termo: cenário doméstico conjunto
+  nivel: intermediario
+  variantes:
+  - cenário interno
+  categoria: mercado
+  definicao: Conjunto de variáveis econômicas internas avaliadas em conjunto.
+  analogia: Como fazer um check-up geral da saúde da economia do país.
+  fonte: corpus
+  e_jargao: true
+  revisado: false
+- termo: cenários avaliados
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Conjunto de hipóteses analisadas por especialistas.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: termos do artigo
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Cláusulas ou palavras contidas em um texto legal.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: produzir trajetória
+  nivel: intermediario
+  variantes: []
+  categoria: mercado
+  definicao: Elaborar projeções de comportamento para uma variável econômica.
+  analogia: Como desenhar um mapa para onde os preços devem ir.
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: cenário com trajetórias
+  nivel: intermediario
+  variantes: []
+  categoria: mercado
+  definicao: Projeção macroeconômica que considera caminhos futuros para variáveis.
+  analogia: Como planejar diferentes rotas para uma viagem de carro.
+  fonte: corpus
+  e_jargao: true
+  revisado: false
+- termo: ajustes de preços
+  nivel: basico
+  variantes:
+  - reajuste de preços
+  categoria: inflacao_atividade
+  definicao: Mudanças para cima ou para baixo nos valores de bens e serviços.
+  analogia: ''
+  fonte: corpus
+  e_jargao: true
+  revisado: false
+- termo: ajustes na economia
+  nivel: intermediario
+  variantes:
+  - ajuste macroeconômico
+  categoria: politica_monetaria
+  definicao: Mudanças estruturais ou de política para equilibrar a atividade econômica.
+  analogia: Como regular os freios de uma bicicleta para ela andar direito.
+  fonte: corpus
+  e_jargao: true
+  revisado: false
+- termo: acumulada em doze
+  nivel: intermediario
+  variantes:
+  - acumulado em 12 meses
+  categoria: inflacao_atividade
+  definicao: Soma do resultado de um indicador econômico nos últimos doze meses.
+  analogia: Como somar suas notas dos últimos doze meses para ver a média.
+  fonte: corpus
+  e_jargao: true
+  revisado: false
+- termo: câmbio usd
+  nivel: basico
+  variantes:
+  - USD
+  - dólar americano
+  categoria: mercado
+  definicao: Preço de troca da moeda estrangeira em relação ao dólar americano.
+  analogia: ''
+  fonte: corpus
+  e_jargao: true
+  revisado: false
+- termo: câmbio usd brl
+  nivel: intermediario
+  variantes:
+  - USDBRL
+  - paridade USD/BRL
+  categoria: mercado
+  definicao: Taxa de conversão entre o dólar americano e o real brasileiro.
+  analogia: Quantos reais você precisa pagar para comprar um dólar.
+  fonte: corpus
+  e_jargao: true
+  revisado: false
+- termo: respectivamente no cenário
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Termo de coesão textual usado para ordenar referências em um texto.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: prospectiva abaixo
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Termo gen3rico sem significado financeiro espec3fico.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: disposto no artigo
+  nivel: basico
+  variantes: []
+  categoria: regulacao
+  definicao: Express3o jur3dica gen3rica para referenciar leis.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: cumprimento ao disposto
+  nivel: basico
+  variantes: []
+  categoria: regulacao
+  definicao: Termo jur3dico de atendimento a regras estabelecidas.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: algumas economias
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Express3o coloquial sem conte4do t3cnico financeiro.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: juros que encerra
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Expressão comum sem definição financeira específica.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: aprovação implementação
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Termos genéricos relacionados a processos administrativos.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: divulgados desde última
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Fragmento de texto sem sentido financeiro próprio.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: firme compromisso
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Expressão genérica de intenção ou promessa.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: inflação envolve
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Combinação de palavra técnica com termo comum sem sentido próprio.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: envolve fatores
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Expressão genérica sem significado financeiro.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: inflação envolve fatores
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Frase incompleta sobre determinantes de preços.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: elevar trajetória
+  nivel: intermediario
+  variantes: []
+  categoria: outros
+  definicao: Ato de direcionar uma variável econômica para cima ao longo do tempo.
+  analogia: Como inclinar uma rampa para cima.
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: econômica prescreve
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Fragmento textual sem significado econômico consolidado.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: inclusive os componentes
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Locução comum utilizada para inclusão de itens.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: conjuntura econômica prescreve
+  nivel: intermediario
+  variantes: []
+  categoria: outros
+  definicao: Indicação de diretrizes baseada no cenário econômico atual.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: básico do balanço
+  nivel: intermediario
+  variantes: []
+  categoria: empresas_resultados
+  definicao: Conceitos fundamentais das demonstrações financeiras de uma empresa.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: desinflacionários
+  nivel: avancado
+  variantes:
+  - desinflacionario
+  - efeito desinflacionário
+  categoria: inflacao_atividade
+  definicao: Fatores ou políticas que provocam a desaceleração do ritmo da inflação.
+  analogia: Como tirar o pé do acelerador de um carro para diminuir o aumento da velocidade.
+  fonte: corpus
+  e_jargao: true
+  revisado: false
+- termo: custo de desinflação
+  nivel: avancado
+  variantes:
+  - sacrifício da desinflação
+  categoria: politica_monetaria
+  definicao: Sacrifício em termos de perda de produto e emprego necessário para reduzir a inflação.
+  analogia: Como fazer uma dieta restritiva que exige esforço e causa indisposição temporária para melhorar
+    a saúde.
+  fonte: corpus
+  e_jargao: true
+  revisado: false
+- termo: emergentes em relação
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Fragmento sem sentido técnico isolado.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: intervalo compatível
+  nivel: intermediario
+  variantes: []
+  categoria: outros
+  definicao: Faixa de valores aceitável dentro de um modelo ou meta.
+  analogia: Como a faixa de peso ideal recomendada pelo médico.
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: risco se intensifica
+  nivel: intermediario
+  variantes: []
+  categoria: mercado
+  definicao: Aumento na probabilidade ou severidade de perdas em um cenário.
+  analogia: Como o mar que fica mais agitado e perigoso para navegar.
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: intensifica no caso
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Expressão comum de transição e ênfase.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: juros em comitê
+  nivel: intermediario
+  variantes: []
+  categoria: politica_monetaria
+  definicao: Discussão e decisão sobre as taxas de juros realizada por um colegiado.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: reavaliadas
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Ato de analisar novamente algo feito anteriormente.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: dividendos
+  nivel: intermediario
+  variantes:
+  - dividendo
+  - dividend
+  categoria: renda_variavel
+  definicao: Parcela do lucro de uma empresa distribuída aos seus acionistas proporcionalmente.
+  analogia: É como receber uma parte do aluguel da casa da qual você possui uma cota.
+  fonte: manual
+  e_jargao: true
+  revisado: false
+- termo: juros sobre capital próprio
+  nivel: avancado
+  variantes:
+  - JCP
+  - juro sobre capital próprio
+  categoria: renda_variavel
+  definicao: Forma de remuneração aos acionistas que também serve como despesa financeira para a empresa.
+  analogia: Funciona como um dividendo, mas com regras fiscais diferentes para a companhia.
+  fonte: manual
+  e_jargao: true
+  revisado: false
+- termo: EBITDA
+  nivel: avancado
+  variantes:
+  - LAJIDA
+  categoria: empresas_resultados
+  definicao: Lucro antes de juros, impostos, depreciação e amortização, medindo a geração de caixa operacional.
+  analogia: Mostra quanto dinheiro o negócio gera apenas com a sua operação, antes de pagar impostos e
+    dívidas.
+  fonte: manual
+  e_jargao: true
+  revisado: false
+- termo: EBITDA ajustado
+  nivel: avancado
+  variantes:
+  - LAJIDA ajustado
+  categoria: empresas_resultados
+  definicao: Métrica de EBITDA que exclui efeitos não recorrentes ou extraordinários do período.
+  analogia: É como calcular o seu orçamento mensal tirando gastos atípicos que não vão se repetir.
+  fonte: manual
+  e_jargao: true
+  revisado: false
+- termo: covenants
+  nivel: avancado
+  variantes:
+  - covenant
+  categoria: renda_fixa
+  definicao: Cláusulas de proteção em contratos de dívida que estabelecem limites financeiros para a empresa.
+  analogia: São as regras de boa conduta que o banco exige para garantir que você não vai gastar demais.
+  fonte: manual
+  e_jargao: true
+  revisado: false
+- termo: forward guidance
+  nivel: avancado
+  variantes:
+  - orientação futura
+  categoria: politica_monetaria
+  definicao: Sinalização do banco central sobre os rumos futuros da taxa de juros com base no cenário
+    econômico.
+  analogia: É o professor avisando com antecedência qual será o nível de dificuldade da próxima prova.
+  fonte: manual
+  e_jargao: true
+  revisado: false
+- termo: taxa terminal
+  nivel: avancado
+  variantes:
+  - terminal rate
+  categoria: politica_monetaria
+  definicao: O patamar máximo estimado que a taxa básica de juros atingirá em um ciclo de aperto monetário.
+  analogia: É o topo da montanha que o ciclista precisa alcançar antes de começar a descer.
+  fonte: manual
+  e_jargao: true
+  revisado: false
+- termo: taxa neutra
+  nivel: avancado
+  variantes:
+  - juro neutro
+  categoria: politica_monetaria
+  definicao: Taxa de juros que não estimula nem desacelera a atividade econômica e a inflação.
+  analogia: É pisar no acelerador e no freio ao mesmo tempo para manter o carro em velocidade constante.
+  fonte: manual
+  e_jargao: true
+  revisado: false
+- termo: expectativas desancoradas
+  nivel: avancado
+  variantes:
+  - desancoragem das expectativas
+  categoria: inflacao_atividade
+  definicao: Situação em que as projeções de inflação do mercado se afastam da meta oficial do governo.
+  analogia: É o barco cuja âncora se soltou e ele começa a derivar com a maré.
+  fonte: manual
+  e_jargao: true
+  revisado: false
+- termo: guidance
+  nivel: intermediario
+  variantes:
+  - projeções
+  categoria: empresas_resultados
+  definicao: Projeções oficiais divulgadas por uma empresa sobre seu desempenho financeiro futuro.
+  analogia: É a promessa que a loja faz de quanto espera vender no próximo trimestre.
+  fonte: manual
+  e_jargao: true
+  revisado: false
+- termo: lucro líquido
+  nivel: intermediario
+  variantes:
+  - resultado líquido
+  categoria: empresas_resultados
+  definicao: O resultado final da empresa após subtrair todas as despesas, custos, impostos e juros.
+  analogia: É o dinheiro que sobra no seu bolso no fim do mês após pagar todas as contas.
+  fonte: manual
+  e_jargao: true
+  revisado: false
+- termo: receita líquida
+  nivel: intermediario
+  variantes:
+  - receita operacional líquida
+  categoria: empresas_resultados
+  definicao: O total de vendas da empresa descontando impostos sobre vendas, devoluções e abatimentos.
+  analogia: É o valor total que entrou no caixa da sua lojinha depois de pagar os impostos da nota fiscal.
+  fonte: manual
+  e_jargao: true
+  revisado: false
+- termo: margem EBITDA
+  nivel: avancado
+  variantes:
+  - margem Lajida
+  categoria: empresas_resultados
+  definicao: Percentual que indica a relação entre o EBITDA e a receita líquida de uma empresa.
+  analogia: Mostra quantos centavos de cada real vendido sobram antes dos impostos e despesas financeiras.
+  fonte: manual
+  e_jargao: true
+  revisado: false
+- termo: dívida líquida
+  nivel: intermediario
+  variantes:
+  - endividamento líquido
+  categoria: empresas_resultados
+  definicao: O total de dívidas de uma empresa subtraindo o dinheiro que ela tem em caixa e aplicações.
+  analogia: É o quanto você deve no cartão menos o dinheiro que tem guardado na poupança.
+  fonte: manual
+  e_jargao: true
+  revisado: false
+- termo: alavancagem
+  nivel: intermediario
+  variantes:
+  - alavancagem financeira
+  categoria: mercado
+  definicao: Uso de recursos de terceiros ou dívida para potencializar o retorno de investimentos ou operações.
+  analogia: É usar uma barra de ferro para levantar uma pedra muito pesada fazendo pouco esforço.
+  fonte: manual
+  e_jargao: true
+  revisado: false
+- termo: payout
+  nivel: intermediario
+  variantes:
+  - dividend payout
+  categoria: renda_variavel
+  definicao: Percentual do lucro líquido que a empresa distribui aos acionistas sob forma de proventos.
+  analogia: É a fatia do bolo de aniversário que o aniversariante decide repartir com os convidados.
+  fonte: manual
+  e_jargao: true
+  revisado: false
+- termo: dividend yield
+  nivel: intermediario
+  variantes:
+  - DY
+  categoria: renda_variavel
+  definicao: Indicador que mede a rentabilidade dos dividendos pagos por uma ação em relação ao seu preço
+    atual.
+  analogia: É o equivalente a calcular o aluguel recebido dividido pelo preço de mercado do imóvel.
+  fonte: manual
+  e_jargao: true
+  revisado: false
+- termo: recompra de ações
+  nivel: intermediario
+  variantes:
+  - buyback
+  categoria: eventos_corporativos
+  definicao: Processo em que uma empresa compra seus próprios papéis negociados na bolsa de valores.
+  analogia: É o dono de uma lojinha comprando de volta os pedaços dela que havia vendido antes.
+  fonte: manual
+  e_jargao: true
+  revisado: false
+- termo: fato relevante
+  nivel: intermediario
+  variantes:
+  - com comunicado relevante
+  categoria: eventos_corporativos
+  definicao: Informação oficial de uma empresa aberta que pode influenciar a decisão de investidores na
+    bolsa.
+  analogia: É o comunicado oficial na escola avisando sobre uma mudança importante nas regras da turma.
+  fonte: manual
+  e_jargao: true
+  revisado: false
+- termo: renda fixa
+  nivel: intermediario
+  variantes:
+  - ativos de renda fixa
+  categoria: renda_fixa
+  definicao: Investimentos cujas regras de remuneração são definidas no momento da aplicação.
+  analogia: É emprestar dinheiro combinando um juro fixo ou um índice claro antes de entregar o valor.
+  fonte: manual
+  e_jargao: true
+  revisado: false
+- termo: renda variável
+  nivel: intermediario
+  variantes:
+  - renda variavel
+  categoria: renda_variavel
+  definicao: Investimentos cujo retorno não pode ser previsto no momento da aplicação, como ações.
+  analogia: 'Como abrir um negócio: você sabe quanto investiu, mas o lucro depende de como o mercado vai
+    reagir.'
+  fonte: manual
+  e_jargao: true
+  revisado: false
+- termo: Tesouro Direto
+  nivel: intermediario
+  variantes:
+  - tesouro direto
+  categoria: renda_fixa
+  definicao: Programa do governo brasileiro para venda de títulos públicos para pessoas físicas pela internet.
+  analogia: Como emprestar dinheiro para o governo e receber juros por isso com alta segurança.
+  fonte: manual
+  e_jargao: true
+  revisado: false
+- termo: Taxa Interna de Retorno
+  nivel: avancado
+  variantes:
+  - TIR
+  - IRR
+  categoria: mercado
+  definicao: Métrica que indica a rentabilidade esperada de um projeto de investimento ou aplicação.
+  analogia: Como a taxa real de juros que faz todo o dinheiro investido voltar corrigido ao longo do tempo.
+  fonte: manual
+  e_jargao: true
+  revisado: false
+- termo: P/L
+  nivel: avancado
+  variantes:
+  - Preço sobre Lucro
+  - Price to Earnings
+  categoria: empresas_resultados
+  definicao: Indicador que divide o preço da ação pelo lucro por ação, mostrando o tempo de retorno.
+  analogia: Como o preço de um imóvel dividido pelo aluguel anual que ele gera.
+  fonte: manual
+  e_jargao: true
+  revisado: false
+- termo: juros futuros
+  nivel: avancado
+  variantes:
+  - curva de juros
+  categoria: politica_monetaria
+  definicao: Taxas negociadas no mercado financeiro para empréstimos em datas futuras.
+  analogia: Como apostar se o custo do dinheiro vai subir ou descer nos próximos anos.
+  fonte: manual
+  e_jargao: true
+  revisado: false
+- termo: fundos imobiliários
+  nivel: intermediario
+  variantes:
+  - FIIs
+  - FII
+  categoria: renda_variavel
+  definicao: Fundos que reúnem recursos para investir em imóveis ou em títulos do setor imobiliário.
+  analogia: Como comprar um pedacinho de um shopping e receber o aluguel proporcional todo mês.
+  fonte: manual
+  e_jargao: true
+  revisado: false
+- termo: IPO
+  nivel: intermediario
+  variantes:
+  - Initial Public Offering
+  categoria: empresas_resultados
+  definicao: Oferta Pública Inicial de ações de uma empresa na bolsa de valores.
+  analogia: Como a empresa abrir o capital para qualquer pessoa virar dona de um pedacinho dela.
+  fonte: manual
+  e_jargao: true
+  revisado: false
+- termo: follow-on
+  nivel: avancado
+  variantes:
+  - oferta subsequente
+  categoria: empresas_resultados
+  definicao: Nova emissão de ações feita por uma empresa que já tem capital aberto na bolsa.
+  analogia: Como uma empresa que já vendeu pizzas ao público decide vender mais fatias para levantar mais
+    dinheiro.
+  fonte: manual
+  e_jargao: true
+  revisado: false
+- termo: recuperação judicial
+  nivel: intermediario
+  variantes:
+  - recuperacao judicial
+  categoria: eventos_corporativos
+  definicao: Processo legal para evitar a falência de uma empresa em crise financeira.
+  analogia: Como um acordo temporário para pausar as dívidas e tentar reorganizar o negócio antes de fechar
+    as portas.
+  fonte: manual
+  e_jargao: true
+  revisado: false
+- termo: spread de crédito
+  nivel: avancado
+  variantes:
+  - credit spread
+  categoria: renda_fixa
+  definicao: Diferença entre a taxa de juros de um título de risco e a taxa livre de risco.
+  analogia: Como o valor extra que você cobra para emprestar dinheiro para um amigo que tem o nome sujo.
+  fonte: manual
+  e_jargao: true
+  revisado: false
+- termo: Aplicações financeiras
+  nivel: basico
+  variantes:
+  - aplicacoes financeiras
+  - investimentos
+  categoria: renda_fixa
+  definicao: As aplicações mais comuns no mercado financeiro são a Poupança, o CDB, o RDB e os Fundos
+    de Investimento.
+  analogia: ''
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: ISIN
+  nivel: avancado
+  variantes:
+  - International Securities Identification Number
+  categoria: mercado
+  definicao: Número de identificação de títulos criado para facilitar as transações internacionais, formado
+    por 12 dígitos alfanuméricos.
+  analogia: Como o CPF de um título financeiro para que ele seja reconhecido no mundo todo.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: AP
+  nivel: avancado
+  variantes:
+  - Ativo Permanente
+  categoria: empresas_resultados
+  definicao: Ativo Permanente.
+  analogia: Como os bens de longa duração que uma empresa usa para funcionar, como imóveis e maquinário.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Posição financeira
+  nivel: intermediario
+  variantes:
+  - posicao financeira
+  categoria: mercado
+  definicao: Saldo financeiro de um participante, a cada momento, em um sistema de liquidação.
+  analogia: Como o extrato bancário que mostra exatamente quanto dinheiro você tem na conta naquele segundo.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Nuci
+  nivel: avancado
+  variantes:
+  - NUCI
+  categoria: inflacao_atividade
+  definicao: Nível de Utilização da Capacidade Instalada da Indústria. Indicador utilizado para determinar
+    a possibilidade de expansão da oferta de produtos industriais.
+  analogia: Como medir se as fábricas estão usando todas as máquinas ou se há espaço para produzir mais.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: FGTS
+  nivel: basico
+  variantes:
+  - Fundo de Garantia do Tempo de Servico
+  categoria: outros
+  definicao: Fundo de Garantia do Tempo de Serviço criado para proteger o trabalhador demitido sem justa
+    causa.
+  analogia: ''
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Taxa DI
+  nivel: intermediario
+  variantes:
+  - DI
+  - taxa DI
+  categoria: renda_fixa
+  definicao: Média das taxas de juros praticadas nas operações de troca de recursos entre instituições
+    financeiras.
+  analogia: Como a taxa básica que os bancos usam para emprestar dinheiro entre si por apenas um dia.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: NTN-B
+  nivel: avancado
+  variantes:
+  - Tesouro IPCA+
+  categoria: renda_fixa
+  definicao: Notas do Tesouro Nacional Série B. Título público federal de remuneração pós-fixada, atrelado
+    à variação do IPCA.
+  analogia: Como um investimento do governo que garante pagar a inflação mais um ganho fixo extra.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: LTN
+  nivel: avancado
+  variantes:
+  - Tesouro Prefixado
+  categoria: renda_fixa
+  definicao: Letra do Tesouro Nacional. Título público federal de remuneração prefixada sem pagamento
+    de juros semestrais.
+  analogia: Como comprar um título por um valor menor hoje para resgatar mil reais exatos no futuro.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: ICC
+  nivel: avancado
+  variantes:
+  - Indice de Custo do Credito
+  categoria: inflacao_atividade
+  definicao: Índice de Custo do Crédito que mede o custo médio das operações de empréstimo no SFN.
+  analogia: Como a média de todos os juros que as pessoas e empresas pagam pelos empréstimos no país.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: ESM
+  nivel: avancado
+  variantes:
+  - European Stability Mechanism
+  - Mecanismo Europeu de Estabilidade
+  categoria: politica_monetaria
+  definicao: Mecanismo de estabilidade financeira que capta recursos com garantia da Zona do Euro para
+    emprestar a países membros.
+  analogia: Como um fundo de emergência conjunto que os vizinhos criam para ajudar quem passar por uma
+    crise severa.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Prime
+  nivel: avancado
+  variantes:
+  - Prime Rate
+  categoria: mercado
+  definicao: Taxa de juros de referência usada no mercado interbancário norte-americano.
+  analogia: É como a taxa de juros base que os principais bancos dos Estados Unidos usam entre si.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Coaf
+  nivel: intermediario
+  variantes:
+  - Conselho de Controle de Atividades Financeiras
+  categoria: regulacao
+  definicao: Conselho de Controle de Atividades Financeiras, órgão que combate a lavagem de dinheiro no
+    Brasil.
+  analogia: Funciona como um detetive financeiro que monitora movimentações suspeitas para evitar crimes.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: CDB
+  nivel: intermediario
+  variantes:
+  - Certificados de Depósito Bancário
+  categoria: renda_fixa
+  definicao: Certificado de Depósito Bancário, título de renda fixa emitido por bancos para captar recursos.
+  analogia: É como emprestar dinheiro para um banco e receber de volta com juros depois de um tempo.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: CAC-40
+  nivel: avancado
+  variantes:
+  - Cotation Assistée en Continue
+  categoria: renda_variavel
+  definicao: Principal índice da bolsa de valores de Paris, reunindo as 40 maiores empresas francesas.
+  analogia: É o termômetro que mede o desempenho das maiores empresas da França, equivalente ao nosso
+    Ibovespa.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: CPV
+  nivel: intermediario
+  variantes:
+  - Custo das Mercadorias Vendidas
+  categoria: empresas_resultados
+  definicao: Custo dos Produtos Vendidos, que representa os gastos diretos para fabricar ou adquirir mercadorias.
+  analogia: É o valor que a loja gastou apenas para comprar ou produzir o que acabou de vender.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: IC-Br
+  nivel: avancado
+  variantes:
+  - Índice de Commodities Brasil
+  categoria: inflacao_atividade
+  definicao: Índice de Commodities Brasil, calculado pelo Banco Central para medir a inflação de matérias-primas.
+  analogia: Mede se o preço do petróleo, do ferro e dos alimentos no mundo está subindo e afetando nossos
+    preços.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Valor de face
+  nivel: intermediario
+  variantes:
+  - Valor nominal
+  categoria: renda_fixa
+  definicao: Valor nominal de um título expresso no certificado, pago no vencimento ao investidor.
+  analogia: É o valor impresso no bilhete que você tem garantia de receber lá no final do prazo.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Endosso
+  nivel: intermediario
+  variantes:
+  - Endosso de título
+  categoria: mercado
+  definicao: Transferência da propriedade de um título de crédito para outra pessoa por meio de assinatura.
+  analogia: É como assinar o verso de um cheque para passá-lo adiante para outra pessoa.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Cupom
+  nivel: intermediario
+  variantes:
+  - Cupom de juros
+  categoria: renda_fixa
+  definicao: Pagamento de juros periódicos realizado por um título de dívida ao seu detentor.
+  analogia: É como o aluguel que você recebe regularmente por ter emprestado seu dinheiro.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: INCC
+  nivel: intermediario
+  variantes:
+  - INCC-M
+  - INCC-DI
+  - INCC-10
+  categoria: inflacao_atividade
+  definicao: Índice Nacional de Custo da Construção, que mede a variação dos preços de materiais e mão
+    de obra.
+  analogia: Mostra o quanto construir ou reformar ficou mais caro no mês.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Risco financeiro
+  nivel: basico
+  variantes:
+  - Riscos financeiros
+  categoria: mercado
+  definicao: Probabilidade de perdas financeiras em operações, abrangendo riscos de crédito e liquidez.
+  analogia: ''
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Broker
+  nivel: intermediario
+  variantes:
+  - Corretor
+  categoria: mercado
+  definicao: Corretor ou instituição que conecta compradores e vendedores em um mercado mediante comissão.
+  analogia: É o corretor de imóveis, mas operando na bolsa de valores para juntar quem quer comprar e
+    vender.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: OTC
+  nivel: avancado
+  variantes:
+  - Over-the-counter
+  - Mercado de balcão
+  categoria: mercado
+  definicao: Mercado de balcão onde ativos são negociados diretamente entre as partes, fora da bolsa oficial.
+  analogia: É como negociar um carro usado direto com o dono, sem passar por uma loja oficial.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Dealers
+  nivel: avancado
+  variantes:
+  - Dealer
+  categoria: mercado
+  definicao: Instituições financeiras que intermediam operações de compra e venda de títulos assumindo
+    riscos.
+  analogia: São os grandes intermediários autorizados que ajudam o Banco Central a negociar títulos públicos.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Default
+  nivel: intermediario
+  variantes:
+  - Calote
+  - Inadimplência
+  categoria: renda_fixa
+  definicao: Inadimplência ou calote no pagamento de uma dívida ou título na data de vencimento.
+  analogia: É quando a pessoa ou empresa simplesmente não paga o empréstimo na data combinada.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Atributo
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Termo genérico sem especificidade financeira exclusiva neste contexto.
+  analogia: ''
+  fonte: bcb
+  e_jargao: false
+  revisado: false
+- termo: Condicionalidade
+  nivel: avancado
+  variantes:
+  - Condicionalidades
+  categoria: politica_monetaria
+  definicao: Exigências econômicas impostas pelo FMI a um país para a liberação de empréstimos financeiros.
+  analogia: São as regras e metas que o banco exige que você cumpra para liberar um empréstimo grande.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Carregamento estatístico
+  nivel: avancado
+  variantes:
+  - Carry over
+  categoria: inflacao_atividade
+  definicao: Efeito mecânico do desempenho econômico passado sobre a taxa de crescimento do período seguinte.
+  analogia: É como o impulso de descida que faz a bicicleta continuar andando rápido mesmo sem pedalar
+    por um tempo.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Indicador fiscal
+  nivel: intermediario
+  variantes:
+  - Indicadores fiscais
+  categoria: politica_monetaria
+  definicao: Métrica usada para avaliar a saúde das contas públicas e o desempenho fiscal de um governo.
+  analogia: É como o extrato bancário do governo, mostrando se ele está gastando mais do que arrecada.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Hedge cambial
+  nivel: avancado
+  variantes:
+  - hedge de câmbio
+  - proteção cambial
+  - hedge
+  - FX hedge
+  categoria: mercado
+  definicao: Proteção financeira contra flutuações indesejadas na taxa de câmbio de moedas estrangeiras.
+  analogia: É como contratar um seguro para o seu carro, garantindo que você não terá prejuízo se o preço
+    do dólar disparar.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: Novação
+  nivel: avancado
+  variantes:
+  - novação de dívida
+  - novação de obrigações
+  categoria: regulacao
+  definicao: Substituição de uma obrigação financeira antiga por uma nova, extinguindo a dívida anterior.
+  analogia: É como trocar um empréstimo antigo com juros altos por um contrato totalmente novo para renegociar
+    a dívida.
+  fonte: bcb
+  e_jargao: true
+  revisado: false
+- termo: desancoradas
+  nivel: avancado
+  variantes:
+  - desancoragem das expectativas
+  - expectativas desancoradas
+  categoria: politica_monetaria
+  definicao: Expectativas de inflação que se afastam da meta oficial estabelecida pelo Banco Central.
+  analogia: É como um navio cuja âncora soltou, deixando-o à deriva sem rumo certo conforme a maré muda.
+  fonte: corpus
+  e_jargao: true
+  revisado: false
+- termo: nível de ociosidade
+  nivel: avancado
+  variantes:
+  - ociosidade da economia
+  - capacidade ociosa
+  categoria: inflacao_atividade
+  definicao: Medida da capacidade produtiva da economia que está subutilizada no momento.
+  analogia: É como ter um restaurante com mesas vazias e funcionários parados esperando clientes.
+  fonte: corpus
+  e_jargao: true
+  revisado: false
+- termo: meta no horizonte
+  nivel: intermediario
+  variantes:
+  - meta de inflação no horizonte
+  categoria: politica_monetaria
+  definicao: Alvo de inflação que o Banco Central busca atingir no período relevante de projeção.
+  analogia: É como mirar o arco e a flecha no alvo que está lá na frente, ajustando a mira para o vento.
+  fonte: corpus
+  e_jargao: true
+  revisado: false
+- termo: redor da meta
+  nivel: intermediario
+  variantes:
+  - ao redor da meta
+  - banda da meta
+  categoria: politica_monetaria
+  definicao: Faixa de tolerância ao redor do centro da meta de inflação estabelecida pelo governo.
+  analogia: É como acertar a mosca do alvo ou ficar bem perto dela dentro da margem permitida no jogo.
+  fonte: corpus
+  e_jargao: true
+  revisado: false
+- termo: processo desinflacionário
+  nivel: intermediario
+  variantes:
+  - desinflação
+  - processo de desinflação
+  categoria: inflacao_atividade
+  definicao: Fase em que a taxa de inflação diminui, ou seja, os preços continuam subindo, mas em ritmo
+    mais lento.
+  analogia: É como um carro que continua acelerando, mas pisando cada vez mais leve no pedal.
+  fonte: corpus
+  e_jargao: true
+  revisado: false
+- termo: estímulo monetário
+  nivel: intermediario
+  variantes:
+  - estímulos monetários
+  - política monetária estimulativa
+  categoria: politica_monetaria
+  definicao: Conjunto de ações do Banco Central para baratear o crédito e incentivar a economia.
+  analogia: É como dar uma injeção de ânimo e energia para o coração da economia voltar a bater forte.
+  fonte: corpus
+  e_jargao: true
+  revisado: false
+- termo: implica suavização
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Expressão comum que indica a redução de impactos bruscos em um processo.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: metas fixadas
+  nivel: basico
+  variantes:
+  - meta fixada
+  categoria: outros
+  definicao: Objetivos estabelecidos formalmente para serem alcançados em determinado prazo.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: conjunto dos indicadores
+  nivel: basico
+  variantes:
+  - conjunto de indicadores
+  categoria: outros
+  definicao: Grupo de dados estatísticos analisados em conjunto para avaliar uma situação.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: inflação no horizonte
+  nivel: intermediario
+  variantes:
+  - projeção de inflação
+  categoria: inflacao_atividade
+  definicao: Projeção da alta de preços para o período de tempo monitorado pela política monetária.
+  analogia: É olhar pelo binóculo para ver o tempo que vem chegando no horizonte econômico.
+  fonte: corpus
+  e_jargao: true
+  revisado: false
+- termo: compatível com convergência
+  nivel: intermediario
+  variantes:
+  - convergência da inflação
+  categoria: politica_monetaria
+  definicao: Condição econômica alinhada ao retorno da inflação para a meta oficial.
+  analogia: É como ajustar os trilhos do trem para que ele volte exatamente para a linha principal.
+  fonte: corpus
+  e_jargao: true
+  revisado: false
+- termo: expectativas desancoradas
+  nivel: avancado
+  variantes:
+  - desancoragem das expectativas
+  categoria: politica_monetaria
+  definicao: Crença generalizada de que a inflação ficará acima ou abaixo da meta no futuro.
+  analogia: É quando as pessoas perdem a confiança na promessa do governo e passam a esperar preços sempre
+    descontrolados.
+  fonte: manual
+  e_jargao: true
+  revisado: false
+- termo: ociosidade
+  nivel: intermediario
+  variantes:
+  - capacidade ociosa
+  - ociosidade econômica
+  categoria: inflacao_atividade
+  definicao: Grau de capacidade produtiva não utilizada pelas empresas na economia.
+  analogia: É como ter uma fábrica com máquinas desligadas porque a demanda por produtos está baixa.
+  fonte: corpus
+  e_jargao: true
+  revisado: false
+- termo: grau de estímulo
+  nivel: intermediario
+  variantes:
+  - intensidade do estímulo
+  categoria: politica_monetaria
+  definicao: Intensidade com que a política monetária afeta as condições financeiras da economia.
+  analogia: É o quanto você pisas no acelerador ou no freio do carro econômico.
+  fonte: corpus
+  e_jargao: true
+  revisado: false
+- termo: estimulativa
+  nivel: intermediario
+  variantes:
+  - política estimulativa
+  categoria: politica_monetaria
+  definicao: Política monetária com juros baixos voltada para acelerar o crescimento econômico.
+  analogia: É como dar um empurrãozinho para o carrinho de mão embalar na descida.
+  fonte: corpus
+  e_jargao: true
+  revisado: false
+- termo: taxa estrutural
+  nivel: avancado
+  variantes:
+  - juro estrutural
+  - taxa neutra
+  categoria: politica_monetaria
+  definicao: Taxa de juros neutra de longo prazo que não acelera nem desacelera a economia.
+  analogia: É a velocidade de cruzeiro ideal em que o avião viaja sem gastar combustível extra nem perder
+    altitude.
+  fonte: corpus
+  e_jargao: true
+  revisado: false
+- termo: riscos das projeções
+  nivel: intermediario
+  variantes:
+  - risco de projeção
+  categoria: mercado
+  definicao: Incertezas que podem fazer com que as previsões econômicas divirtam-se da realidade.
+  analogia: É olhar a previsão do tempo sabendo que pode surgir uma tempestade surpresa no meio do dia.
+  fonte: corpus
+  e_jargao: true
+  revisado: false
+- termo: prospectivo
+  nivel: avancado
+  variantes:
+  - visão prospectiva
+  categoria: mercado
+  definicao: Análise focada nas perspectivas futuras e projeções em vez de apenas olhar dados passados.
+  analogia: É dirigir olhando para o para-brisa da frente em vez de ficar focado apenas no retrovisor.
+  fonte: corpus
+  e_jargao: true
+  revisado: false
+- termo: relevante para condução
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Expressao generica sem sentido financeiro especifico.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: reunião valor
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Termo generico sem definicao financeira padrao.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: manterá seus acionistas
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Frase comum sem aplicacao como jargao tecnico.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: cenário supõe trajetória
+  nivel: intermediario
+  variantes: []
+  categoria: outros
+  definicao: Expressao generica usada em relatorios economicos sem constituir jargao isolado.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: inflação comitê
+  nivel: basico
+  variantes: []
+  categoria: inflacao_atividade
+  definicao: Agrupamento de palavras sem sentido tecnico consolidado.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: compra ppc preço
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Fragmento de texto sem sentido financeiro.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: ociosidade na economia
+  nivel: avancado
+  variantes:
+  - capacidade ociosa
+  - ociosidade economica
+  categoria: inflacao_atividade
+  definicao: Capacidade ociosa da industria e do trabalho nao utilizada plenamente.
+  analogia: E como uma fabrica que tem maquinas paradas porque nao ha pedidos suficientes.
+  fonte: corpus
+  e_jargao: true
+  revisado: false
+- termo: posteriormente além
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Termo generico sem valor financeiro.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: ano posteriormente além
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Sequencia de palavras sem sentido economico.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: posteriormente além disso
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Locucao sem significado no mercado financeiro.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: prescreve política
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Expressao sem sentido tecnico financeiro.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: prescreve política monetária
+  nivel: intermediario
+  variantes: []
+  categoria: politica_monetaria
+  definicao: Combinacao inadequada de termos sobre acoes do banco central.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: economia comitê
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Termo sem definicao financeira.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: reunião comitê
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Expressao generica para encontros de colegiados.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: expectativas projeções
+  nivel: intermediario
+  variantes: []
+  categoria: mercado
+  definicao: Termos redundantes sobre estimativas economicas futuras.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: monetária continuarão
+  nivel: basico
+  variantes: []
+  categoria: politica_monetaria
+  definicao: Fragmento gramatical sem sentido financeiro autonomo.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: política monetária continuarão
+  nivel: intermediario
+  variantes: []
+  categoria: politica_monetaria
+  definicao: Trecho incompleto de comunicado oficial.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: monetária continuarão dependendo
+  nivel: intermediario
+  variantes: []
+  categoria: politica_monetaria
+  definicao: Trecho sem sentido completo em financas.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: monetária poderão
+  nivel: basico
+  variantes: []
+  categoria: politica_monetaria
+  definicao: Fragmento sem significado tecnico.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: dinâmica da inflação
+  nivel: intermediario
+  variantes:
+  - dinamica inflacionaria
+  categoria: inflacao_atividade
+  definicao: Comportamento e tendencia de variacao dos preços ao longo do tempo.
+  analogia: E como observar se a feira esta ficando mais cara toda semana e por que motivos.
+  fonte: corpus
+  e_jargao: true
+  revisado: false
+- termo: política monetária poderão
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Expressao fragmentada sem sentido tecnico financeiro isolado.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: poderão ser ajustados
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Frase comum sem significado financeiro proprio.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: ciclo de ajuste
+  nivel: intermediario
+  variantes:
+  - ciclo de aperto
+  - ciclo de juros
+  categoria: politica_monetaria
+  definicao: Sequencia de decisoes de alta ou baixa da taxa de juros pelo Banco Central.
+  analogia: Como subir ou descer degraus de uma escada aos poucos ate chegar na altura ideal.
+  fonte: corpus
+  e_jargao: true
+  revisado: false
+- termo: avaliados balanço
+  nivel: basico
+  variantes: []
+  categoria: empresas_resultados
+  definicao: Termo incompleto referente a analise de demonstracoes financeiras.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: cenários avaliados balanço
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Agrupamento de palavras sem definicao economica propria.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: inflação baixa
+  nivel: basico
+  variantes:
+  - baixa inflacao
+  categoria: inflacao_atividade
+  definicao: Periodo em que o nivel geral de precos sobe de forma lenta e controlada.
+  analogia: ''
+  fonte: corpus
+  e_jargao: true
+  revisado: false
+- termo: desancoragem
+  nivel: avancado
+  variantes:
+  - desancoragem das expectativas
+  categoria: politica_monetaria
+  definicao: Momento em que as expectativas de inflacao fogem da meta estabelecida.
+  analogia: Como um barco cujo anjo soltou e ele comeca a derivar sem controle.
+  fonte: corpus
+  e_jargao: true
+  revisado: false
+- termo: cenários para inflação
+  nivel: intermediario
+  variantes:
+  - cenarios de inflacao
+  categoria: inflacao_atividade
+  definicao: Projecoes e hipoteses sobre o comportamento futuro dos precos.
+  analogia: Previsoes do tempo que ajudam a saber se vai chover ou fazer sol na economia.
+  fonte: corpus
+  e_jargao: true
+  revisado: false
+- termo: reunião valor obtido
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Combinacao aleatoria de termos financeiros e comuns.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: juros câmbio extraídas
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Conjunto desconexo de variaveis economicas.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: reavaliadas pelo
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Fragmento de frase sem sentido financeiro.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: fatores de produção
+  nivel: intermediario
+  variantes:
+  - fator de producao
+  categoria: inflacao_atividade
+  definicao: Recursos necessarios para produzir bens e servicos, como terra, trabalho e capital.
+  analogia: Os ingredientes e utensilios que um padeiro usa para conseguir fazer o pao.
+  fonte: corpus
+  e_jargao: true
+  revisado: false
+- termo: reavaliadas pelo comitê
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Trecho de texto institucional sem definicao autonoma.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: centrais das principais
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Expressao incompleta que pode se referir a bancos centrais mas carece de sentido sozinha.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: unanimidade elevar
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Termo fragmentado sobre decisao de taxa.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: unanimidade elevar taxa
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Expressao incompleta sobre votacao de juros.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: tange
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Verbo comum da lingua portuguesa sem relacao tecnica com financas.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: conjuntura internacional
+  nivel: intermediario
+  variantes:
+  - cenario internacional
+  categoria: mercado
+  definicao: Cenario politico e economico global que influencia paises especificos.
+  analogia: O clima do mundo inteiro que afeta diretamente o tempo na nossa cidade.
+  fonte: corpus
+  e_jargao: true
+  revisado: false
+- termo: monetária considerando cenário
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Fragmento de texto economico sem sentido proprio.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: medidas subjacentes
+  nivel: avancado
+  variantes:
+  - inflacao subjacente
+  - core inflation
+  categoria: inflacao_atividade
+  definicao: Indicadores de inflacao que excluem itens volateis para mostrar a tendencia real.
+  analogia: Remover os altos e baixos de temperatura de um dia so para ver se o clima esta esquentando
+    de verdade.
+  fonte: corpus
+  e_jargao: true
+  revisado: false
+- termo: global mais acentuada
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Expressao generica sem definicao financeira especifica.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: internacionais em moeda
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Termo generico sem significado tecnico consolidado.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: continuidade da agenda
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Frase comum utilizada em contextos corporativos gerais.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: decidiu manter
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Acao generica sem exclusividade do mercado financeiro.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: inscrita
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Palavra comum da lingua portuguesa sem sentido financeiro proprio.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: reformas afeta
+  nivel: basico
+  variantes: []
+  categoria: outros
+  definicao: Gramaticalmente incorreto e sem definicao tecnica.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: macroeconômicas correntes
+  nivel: intermediario
+  variantes: []
+  categoria: outros
+  definicao: Expressao generica sobre o estado atual da economia de um pais.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false
+- termo: especial dos componentes
+  nivel: intermediario
+  variantes: []
+  categoria: outros
+  definicao: Mencao a partes especificas que formam um indice ou agregado.
+  analogia: ''
+  fonte: corpus
+  e_jargao: false
+  revisado: false

@@ -22,3 +22,6 @@ data/
 
 # Estado local dos hooks
 .claude/.state/
+
+docs/VIDEO.md
+docs/TAPI.md

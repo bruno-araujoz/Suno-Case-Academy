@@ -217,3 +217,26 @@ def test_l2_ignores_comment_and_story_feeds():
     <link rel="alternate" type="application/rss+xml" href="https://s.test/noticias/feed/">
     </head>"""
     assert advertised_feeds(html, "https://s.test/noticias/") == ["https://s.test/noticias/feed/"]
+
+
+async def test_failed_repair_pauses_further_attempts(healing_settings):
+    """Cooldown: a source that could not be repaired is not retried on every request."""
+    cfg = FeedConfig(
+        name="quebrado", kind="rss", url="https://q.test/feed/", homepage="https://q.test/"
+    )
+    http, calls = fixture_client(healing_settings, {r"q\.test": (404, b"")})
+    async with http:
+        ctx = SourceContext(
+            http=http, state=MemoryStateStore(), since=datetime(2026, 1, 1, tzinfo=UTC)
+        )
+        healer = Healer(ctx, healing_settings)
+        first = FeedSource(ctx, cfg)
+        _ = [d async for d in first.collect()]
+        assert await healer.heal(first) is None
+        assert await ctx.state.get_heal_after("quebrado") is not None
+        calls.clear()
+        second = FeedSource(ctx, cfg)
+        _ = [d async for d in second.collect()]
+        assert await healer.heal(second) is None
+    assert "reparo em pausa" in second.report.error
+    assert calls == ["https://q.test/feed/"]  # only the feed itself; no rediscovery requests

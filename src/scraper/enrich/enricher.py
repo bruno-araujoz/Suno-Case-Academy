@@ -110,3 +110,25 @@ class Enricher:
             doc.status = "ready"
             return doc
         return self._give_up_or_retry(doc, attempts, result.error or "sem texto extraível")
+
+
+async def enrich_documents(
+    db, http: HttpClient, pool: CpuPool, settings: Settings, url_hashes: list[str]
+) -> list[Document]:
+    """Enrich only the given documents (e.g. the ones of the event a user asked about) and save.
+
+    The general PDF backlog is no longer drained on every run: what is needed is fetched when
+    it is needed.
+    """
+    docs = await db.documents_by_hashes(url_hashes)
+    enricher = Enricher(http, pool, settings)
+    todo = [
+        d
+        for d in docs
+        if d.status == "pending_enrich" or d.needs_enrichment(settings.min_content_chars)
+    ]
+    done = [await enricher.enrich(d) for d in todo]
+    if done:
+        await db.upsert_documents(done)
+    by_hash = {d.url_hash: d for d in done}
+    return [by_hash.get(d.url_hash, d) for d in docs]

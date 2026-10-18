@@ -135,6 +135,27 @@ async def cmd_health(_: argparse.Namespace) -> int:
     return 0
 
 
+async def cmd_refresh(args: argparse.Namespace) -> int:
+    from scraper.ondemand import ensure_fresh
+
+    async with Database(get_settings()) as db:
+        await db.migrate()
+        report = await ensure_fresh(db, budget_s=args.budget)
+    if report.locked_by_other:
+        print("Outra coleta está rodando; usando o que já está no banco.")
+    elif not report.due:
+        print(f"Tudo dentro da validade ({len(report.fresh)} fontes): nada a coletar.")
+    else:
+        state = "estourou o orçamento" if report.timed_out else "ok"
+        print(
+            f"Coletadas {len(report.due)} fontes vencidas em {report.duration_s}s ({state}): "
+            f"{', '.join(report.due)}"
+        )
+        if report.summary:
+            print_summary(report.summary, dry_run=False)
+    return 0
+
+
 async def cmd_heal_demo(args: argparse.Namespace) -> int:
     from scraper.heal.demo import SCENARIOS, run_demo
 
@@ -165,6 +186,10 @@ def main(argv: list[str] | None = None) -> int:
     add_run_args(backfill)
     backfill.add_argument("--year", type=int, required=True)
     backfill.set_defaults(func=cmd_run, since=None, watch=None)
+
+    refresh = sub.add_parser("refresh", help="coleta sob demanda: só fontes com ttl vencido")
+    refresh.add_argument("--budget", type=float, default=20.0, help="tempo máximo (s)")
+    refresh.set_defaults(func=cmd_refresh)
 
     demo = sub.add_parser("heal-demo", help="quebra fontes reais de propósito e mostra o reparo")
     demo.add_argument(

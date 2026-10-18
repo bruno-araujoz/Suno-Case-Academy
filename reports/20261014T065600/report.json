@@ -1,0 +1,2276 @@
+{
+ "generated_at": "2026-10-14 06:56 UTC",
+ "events": [
+  {
+   "cluster_id": "25832ea53a55a3b3",
+   "title": "Ibovespa hoje cai 1% após pesquisas eleitorais mostrarem Lula e Flávio em empate técnico"
+  },
+  {
+   "cluster_id": "cov:a23cfce9713215de",
+   "title": "Fiagro SNAG11 sobe 0,7% na contramão do IFIX em semana de dividendos"
+  },
+  {
+   "cluster_id": "cov:af947da8dd239770",
+   "title": "SNFZ11: fiagro movimenta quase R$ 1 milhão antes de anúncio de dividendos"
+  }
+ ],
+ "levels_version": "levels@f5c2d03ac4",
+ "glossary_reviewed": false,
+ "new_generations": 26,
+ "cached_generations": 1,
+ "output_matrix_event": "Ibovespa hoje cai 1% após pesquisas eleitorais mostrarem Lula e Flávio em empate técnico",
+ "output_matrix": {
+  "artigo": {
+   "iniciante": "Ibovespa recua 1,04% após empate técnico entre Lula e Flávio Bolsonaro; juros sob pressão  O principal índice da bolsa brasileira (Ibovespa) caiu 1,04% e fechou em 206.887,52 pontos depois que pesquisas eleitorais mostraram empate técnico entre Flávio Bolsonaro e Lula. O dólar subiu 0,71% para R$ 5,0204, a mediana do Boletim Focus para o IPCA de 2026 subiu para 5,22% e as taxas…",
+   "intermediario": "Ibovespa recua 1,04% após empate técnico nas pesquisas eleitorais e alta do IPCA 2026  O Ibovespa fechou em 206.887,52 pontos, queda de 1,04%, enquanto o dólar avançou 0,71% para R$ 5,0204. Pesquisas do BTG/Nexus (Flávio Bolsonaro 48% x Lula 45%) e PoderData/AYA (Flávio 51% x Lula 49%) apontam empate técnico no segundo turno. O Boletim Focus elevou a mediana do IPCA 2026 de 5,0…",
+   "avancado": "Ibovespa recua e curva de juros reage a pesquisas de segundo turno e Focus  O Ibovespa registrou queda de 1,04% e fechou aos 206.887,52 pontos. O movimento decorre da convergência entre pesquisas eleitorais de segundo turno, novas projeções do Boletim Focus para o IPCA de 2026 e a precificação de ativos em meio à reprecificação do risco soberano e à volatilidade cambial.  Reaçã…"
+  },
+  "carrossel": {
+   "iniciante": "Sua grana sentiu a eleição?. O mercado financeiro brasileiro reagiu hoje. É como um painel de trânsito que muda de cor rápido e afeta o seu bolso e os seus investimentos.  Empate na eleição. A pesquisa BTG/Nexus apontou Flávio Bolsonaro com 48% e Lula com 45% das intenções de voto. Isso é um empate técnico com margem de erro de dois pontos.  Queda na Bolsa. Com isso, o Ibovespa…",
+   "intermediario": "Eleicoes e Juros Mexem com o Mercado. Novas pesquisas eleitorais e dados economicos provocam forte volatilidade nos ativos locais nesta sessao.  Queda no Ibovespa. O Ibovespa caiu 1,04% e fechou aos 206.887,52 pontos apos pesquisas eleitorais mostrarem empate tecnico entre Flavio Bolsonaro e Lula.  Cenarios das Pesquisas. A pesquisa BTG/Nexus apontou Flavio Bolsonaro com 48% e …",
+   "avancado": "Ibovespa reage a empate técnico nas pesquisas eleitorais. A divulgação de pesquisas que apontam empate técnico entre Flávio Bolsonaro (48%) e Lula (45%) provocou queda de 1,04% no Ibovespa, que fechou em 206.887,52 pontos, sinalizando volatilidade institucional.  Detalhamento das pesquisas de intenção de voto. A pesquisa BTG/Nexus indica margem de erro de dois pontos percentuai…"
+  },
+  "roteiro": {
+   "iniciante": "A bolsa caiu hoje! Sabe o que isso significa para o seu dinheiro?  O Ibovespa, que é o principal índice que mede o desempenho médio das ações negociadas na bolsa brasileira, é como um termômetro que mede a saúde das ações, caiu 1,04% e fechou aos 206.887,52 pontos.  Isso aconteceu porque pesquisas eleitorais mostraram empate técnico entre Flávio Bolsonaro e Lula no segundo turn…",
+   "intermediario": "Ibovespa cai 1,04% e fecha em 206.887,52 pontos.  Pesquisa BTG/Nexus indica empate técnico: Flávio Bolsonaro 48%, Lula 45%, margem de erro de dois pontos.  PoderData/AYA traz Flávio 51% contra 49% para Lula.  DI sobem mais de 20 pontos‑base; Boletim Focus eleva mediana do IPCA 2026 de 5,01% para 5,22%.  Dólar avança 0,71% cotado a R$ 5,0204; ETF EWZ recua em Nova York, sinal de…",
+   "avancado": "O Ibovespa caiu 1,04% e fechou aos 206.887,52 pontos após novas pesquisas eleitorais.  A pesquisa BTG/Nexus apontou Flávio Bolsonaro com 48% e Lula com 45% das intenções de voto, configurando empate técnico com margem de erro de dois pontos percentuais.  Paralelamente, a mediana do Boletim Focus para o IPCA de 2026 subiu de 5,01% para 5,22%."
+  }
+ },
+ "pass_rate": {
+  "iniciante": {
+   "artigo": "3/3",
+   "carrossel": "3/3",
+   "roteiro": "3/3"
+  },
+  "intermediario": {
+   "artigo": "3/3",
+   "carrossel": "2/3",
+   "roteiro": "3/3"
+  },
+  "avancado": {
+   "artigo": "2/3",
+   "carrossel": "3/3",
+   "roteiro": "2/3"
+  }
+ },
+ "confusion": {
+  "spec": {
+   "iniciante": {
+    "iniciante": 9,
+    "intermediario": 0,
+    "avancado": 0
+   },
+   "intermediario": {
+    "iniciante": 0,
+    "intermediario": 7,
+    "avancado": 2
+   },
+   "avancado": {
+    "iniciante": 0,
+    "intermediario": 2,
+    "avancado": 7
+   }
+  },
+  "centroid": {
+   "iniciante": {
+    "iniciante": 4,
+    "intermediario": 5,
+    "avancado": 0
+   },
+   "intermediario": {
+    "iniciante": 0,
+    "intermediario": 7,
+    "avancado": 2
+   },
+   "avancado": {
+    "iniciante": 0,
+    "intermediario": 7,
+    "avancado": 2
+   }
+  }
+ },
+ "accuracy": {
+  "spec": 0.852,
+  "centroid": 0.481
+ },
+ "classifier_sources": {
+  "avancado": "171 atas/comunicados do Copom",
+  "intermediario": "200 notícias de portais",
+  "iniciante": "PROVISÓRIO: prior da escala de Martins (sem conjunto rotulado)"
+ },
+ "classifier_centroids": {
+  "avancado": {
+   "flesch": 30.0,
+   "densidade_tecnica": 4.03,
+   "analogias_100": 0.0,
+   "nao_explicados_pct": 0.9473684210526315
+  },
+  "intermediario": {
+   "flesch": 47.8,
+   "densidade_tecnica": 0.705,
+   "analogias_100": 0.0,
+   "nao_explicados_pct": 1.0
+  },
+  "iniciante": {
+   "flesch": 65.0,
+   "densidade_tecnica": 1.0,
+   "analogias_100": 1.5,
+   "nao_explicados_pct": 0.0
+  }
+ },
+ "reflection": {
+  "total": 27,
+  "rewritten": 9,
+  "fixed_by_rewrite": 6,
+  "first_score": 0.806,
+  "final_score": 0.94,
+  "common_failures": [
+   [
+    "analogias",
+    4
+   ],
+   [
+    "densidade técnica (interm.+avanç.)",
+    4
+   ],
+   [
+    "termos intermediario sem explicação",
+    1
+   ],
+   [
+    "termos avancado sem explicação",
+    1
+   ],
+   [
+    "legibilidade (Flesch-PT)",
+    1
+   ]
+  ]
+ },
+ "cost": {
+  "calls": 62,
+  "failed_calls": 20,
+  "in_tokens": 78180,
+  "out_tokens": 34778,
+  "by_purpose": {
+   "anchor": {
+    "calls": 2,
+    "tokens": 4854,
+    "p50_ms": 3159
+   },
+   "write": {
+    "calls": 60,
+    "tokens": 108104,
+    "p50_ms": 1904
+   }
+  },
+  "latency_by_format": {
+   "artigo": 5.8,
+   "carrossel": 4.4,
+   "roteiro": 1.8
+  }
+ },
+ "rows": [
+  {
+   "event": "Ibovespa hoje cai 1% após pesquisas eleitorais mostrarem Lula e Flávio em empate técnico",
+   "cluster_id": "25832ea53a55a3b3",
+   "fmt": "artigo",
+   "level": "iniciante",
+   "passed": true,
+   "score": 1.0,
+   "attempts": 1,
+   "cached": false,
+   "latency_ms": 4619,
+   "metrics": {
+    "flesch": 64.0,
+    "palavras": 400,
+    "palavras_por_frase": 16.7,
+    "silabas_por_palavra": 1.99,
+    "termos": {
+     "intermediario": 8,
+     "basico": 2
+    },
+    "densidade_avancado": 0.0,
+    "densidade_intermediario": 2.0,
+    "densidade_tecnica": 2.0,
+    "nao_explicados": {
+     "basico": [
+      "Inflação"
+     ]
+    },
+    "analogias": 4,
+    "numeros_sem_lastro": [],
+    "cobertura_ancoras": 1.0,
+    "fatos_faltando": []
+   },
+   "first_score": 1.0,
+   "first_flesch": 64.0,
+   "first_failures": [],
+   "spec_level": "iniciante",
+   "centroid_level": "iniciante",
+   "features": {
+    "flesch": 64.0,
+    "densidade_tecnica": 2.0,
+    "analogias_100": 1.0,
+    "nao_explicados_pct": 0.0
+   },
+   "content": {
+    "titulo": "Ibovespa recua 1,04% após empate técnico entre Lula e Flávio Bolsonaro; juros sob pressão",
+    "lead": "O principal índice da bolsa brasileira (Ibovespa) caiu 1,04% e fechou em 206.887,52 pontos depois que pesquisas eleitorais mostraram empate técnico entre Flávio Bolsonaro e Lula. O dólar subiu 0,71% para R$ 5,0204, a mediana do Boletim Focus para o IPCA de 2026 subiu para 5,22% e as taxas dos DIs ganharam mais de 20 pontos‑base. O cenário indica volatilidade para o investidor iniciante.",
+    "secoes": [
+     {
+      "subtitulo": "Eleição apertada mexe no termômetro da bolsa",
+      "texto": "A pesquisa BTG/Nexus mostrou Flávio Bolsonaro com 48% e Lula com 45% das intenções de voto, dentro da margem de erro de dois pontos percentuais, configurando empate técnico. Outra pesquisa, PoderData/AYA, apontou 51% a favor de Flávio e 49% a Lula. Esses números deixaram o Ibovespa em queda de 1,04%, fechando em 206.887,52 pontos. É como se, ao ouvir duas equipes quase iguais em um jogo, o público ficasse indeciso e a energia do estádio diminuísse."
+     },
+     {
+      "subtitulo": "Dólar sobe e juros sobem como pressão de água",
+      "texto": "O dólar avançou 0,71% e ficou cotado a R$ 5,0204. Simultaneamente, as taxas dos DIs fecharam a terça‑feira com altas firmes acima de 20 pontos‑base em vários vencimentos. Essa elevação dos juros funciona como uma torneira aberta: quanto mais alta a taxa, mais caro fica o dinheiro para quem quer emprestar ou investir."
+     },
+     {
+      "subtitulo": "Inflação futura sinaliza calor maior",
+      "texto": "A mediana do Boletim Focus para o IPCA de 2026 subiu de 5,01% para 5,22%. O IPCA (Índice Nacional de Preços ao Consumidor Amplo) é como o termômetro que mede a variação de preços para famílias de baixa renda. Essa alta indica que, nos próximos anos, os preços podem subir mais rápido, o que pesa no poder de compra do investidor."
+     },
+     {
+      "subtitulo": "Fluxo de dinheiro estrangeiro e perspectiva de juros mais baixos",
+      "texto": "A queda do ETF EWZ em Nova York sugere saída de dinheiro estrangeiro da Bolsa brasileira. Um ETF (Fundos de índice negociados em bolsa) funciona como uma cesta de frutas que reúne várias ações em um único fundo. Ao mesmo tempo, o cenário abre espaço para que, no futuro, os juros possam ser reduzidos se as contas públicas se equilibrar."
+     }
+    ],
+    "conclusao": "Para o investidor iniciante, a combinação de empate eleitoral, alta do dólar, juros em alta e inflação projetada mais quente cria um ambiente de incerteza. O bolso pode sentir menos valorização das ações e custos maiores de crédito. Acompanhar as pesquisas e os indicadores de juros é essencial para decidir quando entrar ou sair da bolsa."
+   }
+  },
+  {
+   "event": "Ibovespa hoje cai 1% após pesquisas eleitorais mostrarem Lula e Flávio em empate técnico",
+   "cluster_id": "25832ea53a55a3b3",
+   "fmt": "artigo",
+   "level": "intermediario",
+   "passed": true,
+   "score": 1.0,
+   "attempts": 1,
+   "cached": false,
+   "latency_ms": 1926,
+   "metrics": {
+    "flesch": 48.8,
+    "palavras": 318,
+    "palavras_por_frase": 16.7,
+    "silabas_por_palavra": 2.16,
+    "termos": {
+     "intermediario": 14,
+     "basico": 1
+    },
+    "densidade_avancado": 0.0,
+    "densidade_intermediario": 4.4,
+    "densidade_tecnica": 4.4,
+    "nao_explicados": {
+     "intermediario": [
+      "Ibovespa",
+      "IPCA",
+      "DI",
+      "ETF",
+      "renda variável",
+      "renda fixa"
+     ],
+     "basico": [
+      "Inflação"
+     ]
+    },
+    "analogias": 0,
+    "numeros_sem_lastro": [],
+    "cobertura_ancoras": 1.0,
+    "fatos_faltando": []
+   },
+   "first_score": 1.0,
+   "first_flesch": 48.8,
+   "first_failures": [],
+   "spec_level": "intermediario",
+   "centroid_level": "avancado",
+   "features": {
+    "flesch": 48.8,
+    "densidade_tecnica": 4.4,
+    "analogias_100": 0.0,
+    "nao_explicados_pct": 1.0
+   },
+   "content": {
+    "titulo": "Ibovespa recua 1,04% após empate técnico nas pesquisas eleitorais e alta do IPCA 2026",
+    "lead": "O Ibovespa fechou em 206.887,52 pontos, queda de 1,04%, enquanto o dólar avançou 0,71% para R$ 5,0204. Pesquisas do BTG/Nexus (Flávio Bolsonaro 48% x Lula 45%) e PoderData/AYA (Flávio 51% x Lula 49%) apontam empate técnico no segundo turno. O Boletim Focus elevou a mediana do IPCA 2026 de 5,01% para 5,22% e os contratos de DI subiram mais de 20 pontos‑base, sinalizando pressão de juros.",
+    "secoes": [
+     {
+      "subtitulo": "Reação do mercado acionário",
+      "texto": "O índice Ibovespa recuou 1,04% e encerrou a sessão em 206.887,52 pontos, refletindo a incerteza política gerada pelos empates nas pesquisas. A queda ocorreu após forte alta na semana anterior, indicando realização de lucros e retomada de negociações pós‑feriado."
+     },
+     {
+      "subtitulo": "Cenário das pesquisas eleitorais",
+      "texto": "A pesquisa BTG/Nexus mostrou Flávio Bolsonaro com 48% e Lula com 45%, dentro da margem de erro de dois pontos percentuais, configurando empate técnico. Já a pesquisa PoderData/AYA registrou Flávio Bolsonaro com 51% dos votos válidos contra 49% de Lula. Ambos os resultados reforçam a percepção de um segundo turno altamente disputado."
+     },
+     {
+      "subtitulo": "Impacto nas taxas de juros e inflação",
+      "texto": "A mediana do Boletim Focus para o IPCA de 2026 subiu de 5,01% para 5,22%, aumento de 0,72 ponto percentual. Paralelamente, as taxas dos contratos de DI fecharam a terça‑feira com altas firmes acima de 20 pontos‑base em vários vencimentos, sinalizando pressão inflacionária e expectativa de juros mais altos no curto prazo."
+     },
+     {
+      "subtitulo": "Movimentação cambial e fluxo de capitais",
+      "texto": "O dólar avançou 0,71% e foi cotado a R$ 5,0204, refletindo a aversão ao risco diante da instabilidade política. A queda do ETF EWZ em Nova York sugere saída de dinheiro estrangeiro da Bolsa brasileira, pressionando ainda mais o Ibovespa."
+     }
+    ],
+    "conclusao": "A combinação de empates nas pesquisas eleitorais, alta do IPCA 2026 e elevação dos DI indica um cenário de volatilidade para investidores intermediários. Enquanto a pressão inflacionária pode limitar a queda dos juros, a incerteza política pode manter o fluxo de capitais externo cauteloso, exigindo atenção na alocação entre renda variável e renda fixa."
+   }
+  },
+  {
+   "event": "Ibovespa hoje cai 1% após pesquisas eleitorais mostrarem Lula e Flávio em empate técnico",
+   "cluster_id": "25832ea53a55a3b3",
+   "fmt": "artigo",
+   "level": "avancado",
+   "passed": true,
+   "score": 1.0,
+   "attempts": 1,
+   "cached": false,
+   "latency_ms": 5520,
+   "metrics": {
+    "flesch": 40.6,
+    "palavras": 276,
+    "palavras_por_frase": 19.7,
+    "silabas_por_palavra": 2.22,
+    "termos": {
+     "intermediario": 9,
+     "avancado": 4,
+     "basico": 1
+    },
+    "densidade_avancado": 1.45,
+    "densidade_intermediario": 3.26,
+    "densidade_tecnica": 4.71,
+    "nao_explicados": {
+     "intermediario": [
+      "Ibovespa",
+      "guidance",
+      "IPCA",
+      "renda fixa"
+     ],
+     "avancado": [
+      "juros futuros",
+      "expectativas desancoradas"
+     ],
+     "basico": [
+      "Mercado de câmbio"
+     ]
+    },
+    "analogias": 0,
+    "numeros_sem_lastro": [],
+    "cobertura_ancoras": 1.0,
+    "fatos_faltando": []
+   },
+   "first_score": 1.0,
+   "first_flesch": 40.6,
+   "first_failures": [],
+   "spec_level": "avancado",
+   "centroid_level": "avancado",
+   "features": {
+    "flesch": 40.6,
+    "densidade_tecnica": 4.71,
+    "analogias_100": 0.0,
+    "nao_explicados_pct": 1.0
+   },
+   "content": {
+    "titulo": "Ibovespa recua e curva de juros reage a pesquisas de segundo turno e Focus",
+    "lead": "O Ibovespa registrou queda de 1,04% e fechou aos 206.887,52 pontos. O movimento decorre da convergência entre pesquisas eleitorais de segundo turno, novas projeções do Boletim Focus para o IPCA de 2026 e a precificação de ativos em meio à reprecificação do risco soberano e à volatilidade cambial.",
+    "secoes": [
+     {
+      "subtitulo": "Reação do mercado acionário e câmbio",
+      "texto": "O Ibovespa caiu 1,04% e fechou aos 206.887,52 pontos após pesquisas eleitorais mostrarem empate técnico entre Flávio Bolsonaro e Lula. No mesmo pregão, o dólar subiu 0,71% e foi cotado a R$ 5,0204, refletindo a cautela dos agentes institucionais e a repactuação de portfólios no mercado de derivativos."
+     },
+     {
+      "subtitulo": "Dinâmica das pesquisas eleitorais",
+      "texto": "A pesquisa BTG/Nexus apontou Flávio Bolsonaro com 48% e Lula com 45% das intenções de voto, configurando empate técnico com margem de erro de dois pontos percentuais. Adicionalmente, a pesquisa PoderData/AYA mostrou Flávio Bolsonaro com 51% dos votos válidos contra 49% de Lula, mantendo o prêmio de risco elevado na curva de juros."
+     },
+     {
+      "subtitulo": "Expectativas inflacionárias e mercado de renda fixa",
+      "texto": "A mediana do Boletim Focus para o IPCA de 2026 subiu de 5,01% para 5,22%. Em resposta ao desancoragem das expectativas inflacionárias e ao cenário político, as taxas dos DIs fecharam a terça-feira com altas firmes acima dos 20 pontos-base em vários vencimentos, impactando a marcação a mercado dos títulos públicos e privados."
+     }
+    ],
+    "conclusao": "A conjunção de fatores políticos, com o cenário eleitoral indefinido entre Flávio Bolsonaro e Lula, somada à revisão altista no Boletim Focus para o IPCA de 2026, impõe um regime de alta volatilidade. A reprecificação na curva de juros e o comportamento do Ibovespa evidenciam a sensibilidade do fluxo institucional doméstico e estrangeiro às variáveis macroeconômicas atuais."
+   }
+  },
+  {
+   "event": "Ibovespa hoje cai 1% após pesquisas eleitorais mostrarem Lula e Flávio em empate técnico",
+   "cluster_id": "25832ea53a55a3b3",
+   "fmt": "carrossel",
+   "level": "iniciante",
+   "passed": true,
+   "score": 1.0,
+   "attempts": 2,
+   "cached": false,
+   "latency_ms": 7823,
+   "metrics": {
+    "flesch": 80.6,
+    "palavras": 194,
+    "palavras_por_frase": 10.2,
+    "silabas_por_palavra": 1.87,
+    "termos": {
+     "basico": 7,
+     "intermediario": 3
+    },
+    "densidade_avancado": 0.0,
+    "densidade_intermediario": 1.55,
+    "densidade_tecnica": 1.55,
+    "nao_explicados": {
+     "basico": [
+      "Aplicações financeiras",
+      "Inflação"
+     ]
+    },
+    "analogias": 1,
+    "numeros_sem_lastro": [],
+    "cobertura_ancoras": 1.0,
+    "fatos_faltando": []
+   },
+   "first_score": 0.857,
+   "first_flesch": 78.8,
+   "first_failures": [
+    "analogias"
+   ],
+   "spec_level": "iniciante",
+   "centroid_level": "intermediario",
+   "features": {
+    "flesch": 80.6,
+    "densidade_tecnica": 1.55,
+    "analogias_100": 0.5154639175257731,
+    "nao_explicados_pct": 0.0
+   },
+   "content": {
+    "slides": [
+     {
+      "papel": "gancho",
+      "titulo": "Sua grana sentiu a eleição?",
+      "texto": "O mercado financeiro brasileiro reagiu hoje. É como um painel de trânsito que muda de cor rápido e afeta o seu bolso e os seus investimentos."
+     },
+     {
+      "papel": "corpo",
+      "titulo": "Empate na eleição",
+      "texto": "A pesquisa BTG/Nexus apontou Flávio Bolsonaro com 48% e Lula com 45% das intenções de voto. Isso é um empate técnico com margem de erro de dois pontos."
+     },
+     {
+      "papel": "corpo",
+      "titulo": "Queda na Bolsa",
+      "texto": "Com isso, o Ibovespa - que é o termômetro que mede a saúde das ações brasileiras - caiu 1,04% e fechou aos 206.887,52 pontos."
+     },
+     {
+      "papel": "corpo",
+      "titulo": "Dólar em alta",
+      "texto": "No mesmo dia, o cenário também mexeu com a moeda americana. O dólar subiu 0,71% e foi cotado a R$ 5,0204 no mesmo dia."
+     },
+     {
+      "papel": "corpo",
+      "titulo": "Preço subindo",
+      "texto": "Além disso, a mediana do Boletim Focus para o IPCA de 2026 - que é o termômetro que mede a variação de preços para famílias de baixa renda - subiu de 5,01% para 5,22%."
+     },
+     {
+      "papel": "conclusao",
+      "titulo": "O que isso muda?",
+      "texto": "Para quem investe, o momento pede calma. Mudanças na política e na inflação afetam seus investimentos, mas manter o plano de longo prazo é o melhor caminho."
+     }
+    ],
+    "legenda": "O mercado reagiu às pesquisas eleitorais e aos dados de inflação. Veja como isso afeta seus investimentos hoje. #investimentos #economia #bolsa #ibovespa #inflacao",
+    "hashtags": [
+     "investimentos",
+     "economia",
+     "bolsa",
+     "ibovespa",
+     "inflacao"
+    ]
+   }
+  },
+  {
+   "event": "Ibovespa hoje cai 1% após pesquisas eleitorais mostrarem Lula e Flávio em empate técnico",
+   "cluster_id": "25832ea53a55a3b3",
+   "fmt": "carrossel",
+   "level": "intermediario",
+   "passed": true,
+   "score": 1.0,
+   "attempts": 1,
+   "cached": false,
+   "latency_ms": 3787,
+   "metrics": {
+    "flesch": 54.7,
+    "palavras": 150,
+    "palavras_por_frase": 10.7,
+    "silabas_por_palavra": 2.17,
+    "termos": {
+     "intermediario": 5,
+     "basico": 1
+    },
+    "densidade_avancado": 0.0,
+    "densidade_intermediario": 3.33,
+    "densidade_tecnica": 3.33,
+    "nao_explicados": {
+     "intermediario": [
+      "Ibovespa",
+      "cenário prospectivo",
+      "IPCA"
+     ],
+     "basico": [
+      "Inflação"
+     ]
+    },
+    "analogias": 0,
+    "numeros_sem_lastro": [],
+    "cobertura_ancoras": 1.0,
+    "fatos_faltando": []
+   },
+   "first_score": 1.0,
+   "first_flesch": 54.7,
+   "first_failures": [],
+   "spec_level": "avancado",
+   "centroid_level": "intermediario",
+   "features": {
+    "flesch": 54.7,
+    "densidade_tecnica": 3.33,
+    "analogias_100": 0.0,
+    "nao_explicados_pct": 1.0
+   },
+   "content": {
+    "slides": [
+     {
+      "papel": "gancho",
+      "titulo": "Eleicoes e Juros Mexem com o Mercado",
+      "texto": "Novas pesquisas eleitorais e dados economicos provocam forte volatilidade nos ativos locais nesta sessao."
+     },
+     {
+      "papel": "corpo",
+      "titulo": "Queda no Ibovespa",
+      "texto": "O Ibovespa caiu 1,04% e fechou aos 206.887,52 pontos apos pesquisas eleitorais mostrarem empate tecnico entre Flavio Bolsonaro e Lula."
+     },
+     {
+      "papel": "corpo",
+      "titulo": "Cenarios das Pesquisas",
+      "texto": "A pesquisa BTG/Nexus apontou Flavio Bolsonaro com 48% e Lula com 45% das intencoes de voto, configurando empate tecnico com margem de erro de dois pontos percentuais."
+     },
+     {
+      "papel": "corpo",
+      "titulo": "Projecao para o IPCA",
+      "texto": "A mediana do Boletim Focus para o IPCA de 2026 subiu de 5,01% para 5,22% em meio a atualizacoes recentes."
+     },
+     {
+      "papel": "corpo",
+      "titulo": "Reacao do Dolar",
+      "texto": "O dolar subiu 0,71% e foi cotado a R$ 5,0204 no mesmo dia de negociacoes."
+     },
+     {
+      "papel": "conclusao",
+      "titulo": "O Que Isso Significa",
+      "texto": "O cenario eleitoral acirrado e a revisao das expectativas de inflacao exigem cautela na alocacao de portifolio para investidores."
+     }
+    ],
+    "legenda": "O mercado financeiro brasileiro reagiu a divulgacao de pesquisas eleitorais e novos dados economicos. Confira os detalhes no carrossel.",
+    "hashtags": [
+     "Ibovespa",
+     "IPCA",
+     "MercadoFinanceiro",
+     "Investimentos",
+     "Economia"
+    ]
+   }
+  },
+  {
+   "event": "Ibovespa hoje cai 1% após pesquisas eleitorais mostrarem Lula e Flávio em empate técnico",
+   "cluster_id": "25832ea53a55a3b3",
+   "fmt": "carrossel",
+   "level": "avancado",
+   "passed": true,
+   "score": 1.0,
+   "attempts": 1,
+   "cached": false,
+   "latency_ms": 4304,
+   "metrics": {
+    "flesch": 38.2,
+    "palavras": 280,
+    "palavras_por_frase": 15.6,
+    "silabas_por_palavra": 2.3,
+    "termos": {
+     "intermediario": 11,
+     "avancado": 3,
+     "basico": 1
+    },
+    "densidade_avancado": 1.07,
+    "densidade_intermediario": 3.93,
+    "densidade_tecnica": 5.0,
+    "nao_explicados": {
+     "intermediario": [
+      "Ibovespa",
+      "IPCA",
+      "ETF",
+      "Hedge",
+      "alavancagem"
+     ],
+     "avancado": [
+      "juros futuros",
+      "covenants",
+      "EBITDA ajustado"
+     ],
+     "basico": [
+      "Inflação"
+     ]
+    },
+    "analogias": 0,
+    "numeros_sem_lastro": [],
+    "cobertura_ancoras": 1.0,
+    "fatos_faltando": []
+   },
+   "first_score": 1.0,
+   "first_flesch": 38.2,
+   "first_failures": [],
+   "spec_level": "avancado",
+   "centroid_level": "avancado",
+   "features": {
+    "flesch": 38.2,
+    "densidade_tecnica": 5.0,
+    "analogias_100": 0.0,
+    "nao_explicados_pct": 1.0
+   },
+   "content": {
+    "slides": [
+     {
+      "papel": "gancho",
+      "titulo": "Ibovespa reage a empate técnico nas pesquisas eleitorais",
+      "texto": "A divulgação de pesquisas que apontam empate técnico entre Flávio Bolsonaro (48%) e Lula (45%) provocou queda de 1,04% no Ibovespa, que fechou em 206.887,52 pontos, sinalizando volatilidade institucional."
+     },
+     {
+      "papel": "corpo",
+      "titulo": "Detalhamento das pesquisas de intenção de voto",
+      "texto": "A pesquisa BTG/Nexus indica margem de erro de dois pontos percentuais, configurando empate técnico. Simultaneamente, a pesquisa PoderData/AYA mostra Flávio Bolsonaro com 51% contra 49% para Lula, reforçando a incerteza política."
+     },
+     {
+      "papel": "corpo",
+      "titulo": "Impacto cambial e nas taxas de juros",
+      "texto": "O dólar avançou 0,71%, cotado a R$ 5,0204, enquanto as taxas dos DIs fecharam com alta firme acima de 20 pontos‑base em vários vencimentos, refletindo ajuste de curva de juros frente ao risco político."
+     },
+     {
+      "papel": "corpo",
+      "titulo": "Revisão da inflação projetada no Boletim Focus",
+      "texto": "A mediana do Boletim Focus para o IPCA de 2026 subiu de 5,01% para 5,22%, incremento de 0,72 ponto percentual, indicando pressões inflacionárias que podem reverberar nas expectativas de política monetária."
+     },
+     {
+      "papel": "corpo",
+      "titulo": "Fluxos de capitais e ETF EWZ",
+      "texto": "A queda do ETF EWZ em Nova York sugere saída de capital estrangeiro da bolsa brasileira, corroborando a pressão vendedora que contribuiu para a retração do Ibovespa."
+     },
+     {
+      "papel": "conclusao",
+      "titulo": "Implicações para investidores institucionais",
+      "texto": "Empate técnico, alta cambial, elevação da mediana do IPCA e aumento dos DIs criam ambiente de risco político‑macroeconômico. Hedge de taxa de juros e monitoramento de covenants são essenciais para preservar o EBITDA ajustado."
+     }
+    ],
+    "legenda": "O Ibovespa recuou 1,04% (206.887,52 pontos) após pesquisas eleitorais apontarem empate técnico entre Flávio Bolsonaro (48%) e Lula (45%). Simultaneamente, o dólar subiu 0,71% (R$ 5,0204) e as taxas dos DIs avançaram mais de 20 pontos‑base. O Boletim Focus elevou a mediana do IPCA de 2026 de 5,01% para 5,22%. Esses indicadores sinalizam pressão de risco e potencial saída de capital estrangeiro, demandando revisão de estratégias de juros e alavancagem para investidores avançados.",
+    "hashtags": [
+     "#Ibovespa",
+     "#TaxasDeJuros",
+     "#IPCA",
+     "#ETF",
+     "#MercadoFinanceiro"
+    ]
+   }
+  },
+  {
+   "event": "Ibovespa hoje cai 1% após pesquisas eleitorais mostrarem Lula e Flávio em empate técnico",
+   "cluster_id": "25832ea53a55a3b3",
+   "fmt": "roteiro",
+   "level": "iniciante",
+   "passed": true,
+   "score": 1.0,
+   "attempts": 3,
+   "cached": false,
+   "latency_ms": 6047,
+   "metrics": {
+    "flesch": 69.7,
+    "palavras": 131,
+    "palavras_por_frase": 18.7,
+    "silabas_por_palavra": 1.89,
+    "termos": {
+     "intermediario": 2
+    },
+    "densidade_avancado": 0.0,
+    "densidade_intermediario": 1.53,
+    "densidade_tecnica": 1.53,
+    "nao_explicados": {},
+    "analogias": 1,
+    "numeros_sem_lastro": [],
+    "cobertura_ancoras": 1.0,
+    "fatos_faltando": []
+   },
+   "first_score": 0.75,
+   "first_flesch": 73.4,
+   "first_failures": [
+    "termos intermediario sem explicação",
+    "analogias"
+   ],
+   "spec_level": "iniciante",
+   "centroid_level": "iniciante",
+   "features": {
+    "flesch": 69.7,
+    "densidade_tecnica": 1.53,
+    "analogias_100": 0.7633587786259542,
+    "nao_explicados_pct": 0.0
+   },
+   "content": {
+    "titulo": "Eleições e Bolsa: o que muda no seu bolso",
+    "blocos": [
+     {
+      "inicio_s": 0,
+      "fim_s": 3,
+      "gancho_visual": "Apresentador apontando para uma tela com queda na bolsa",
+      "fala": "A bolsa caiu hoje! Sabe o que isso significa para o seu dinheiro?"
+     },
+     {
+      "inicio_s": 3,
+      "fim_s": 15,
+      "gancho_visual": "Gráfico mostrando o Ibovespa e o dólar",
+      "fala": "O Ibovespa, que é o principal índice que mede o desempenho médio das ações negociadas na bolsa brasileira, é como um termômetro que mede a saúde das ações, caiu 1,04% e fechou aos 206.887,52 pontos."
+     },
+     {
+      "inicio_s": 15,
+      "fim_s": 27,
+      "gancho_visual": "Imagens de urnas eletrônicas e notícias políticas",
+      "fala": "Isso aconteceu porque pesquisas eleitorais mostraram empate técnico entre Flávio Bolsonaro e Lula no segundo turno."
+     },
+     {
+      "inicio_s": 27,
+      "fim_s": 40,
+      "gancho_visual": "Gráficos de pizza com percentuais de votos",
+      "fala": "A pesquisa BTG/Nexus apontou Flávio Bolsonaro com 48% e Lula com 45% das intenções de voto, com margem de erro de dois pontos percentuais."
+     },
+     {
+      "inicio_s": 40,
+      "fim_s": 50,
+      "gancho_visual": "Moeda de dólar subindo",
+      "fala": "No mesmo dia, o dólar subiu 0,71% e foi cotado a R$ 5,0204."
+     },
+     {
+      "inicio_s": 50,
+      "fim_s": 60,
+      "gancho_visual": "Carrinho de compras e moedas",
+      "fala": "Além disso, o IPCA, que é o Índice Nacional de Preços ao Consumidor Amplo, como um termômetro que mede a variação de preços para famílias de baixa renda, teve sua mediana para 2026 subindo de 5,01% para 5,22%."
+     }
+    ]
+   }
+  },
+  {
+   "event": "Ibovespa hoje cai 1% após pesquisas eleitorais mostrarem Lula e Flávio em empate técnico",
+   "cluster_id": "25832ea53a55a3b3",
+   "fmt": "roteiro",
+   "level": "intermediario",
+   "passed": true,
+   "score": 1.0,
+   "attempts": 1,
+   "cached": true,
+   "latency_ms": 2505,
+   "metrics": {
+    "flesch": 68.0,
+    "termos": {
+     "basico": 1,
+     "intermediario": 6
+    },
+    "palavras": 81,
+    "analogias": 0,
+    "fatos_faltando": [],
+    "nao_explicados": {
+     "basico": [
+      "Inflação"
+     ],
+     "intermediario": [
+      "Ibovespa",
+      "DI",
+      "IPCA",
+      "ETF",
+      "renda fixa",
+      "dividendos"
+     ]
+    },
+    "cobertura_ancoras": 1.0,
+    "densidade_tecnica": 7.41,
+    "densidade_avancado": 0.0,
+    "numeros_sem_lastro": [],
+    "palavras_por_frase": 13.5,
+    "silabas_por_palavra": 1.98,
+    "densidade_intermediario": 7.41
+   },
+   "first_score": 1.0,
+   "first_flesch": 68.0,
+   "first_failures": [],
+   "spec_level": "intermediario",
+   "centroid_level": "avancado",
+   "features": {
+    "flesch": 68.0,
+    "densidade_tecnica": 7.41,
+    "analogias_100": 0.0,
+    "nao_explicados_pct": 1.0
+   },
+   "content": {
+    "blocos": [
+     {
+      "fala": "Ibovespa cai 1,04% e fecha em 206.887,52 pontos.",
+      "fim_s": 3,
+      "inicio_s": 0,
+      "gancho_visual": "Texto em tela: \"Ibovespa despenca 1,04%\" + gráfico de queda"
+     },
+     {
+      "fala": "Pesquisa BTG/Nexus indica empate técnico: Flávio Bolsonaro 48%, Lula 45%, margem de erro de dois pontos.",
+      "fim_s": 10,
+      "inicio_s": 3,
+      "gancho_visual": "Tabela com números da pesquisa BTG/Nexus"
+     },
+     {
+      "fala": "PoderData/AYA traz Flávio 51% contra 49% para Lula.",
+      "fim_s": 18,
+      "inicio_s": 10,
+      "gancho_visual": "Gráfico comparativo da pesquisa PoderData/AYA"
+     },
+     {
+      "fala": "DI sobem mais de 20 pontos‑base; Boletim Focus eleva mediana do IPCA 2026 de 5,01% para 5,22%.",
+      "fim_s": 26,
+      "inicio_s": 18,
+      "gancho_visual": "Linha do tempo mostrando alta dos DI e foco no IPCA"
+     },
+     {
+      "fala": "Dólar avança 0,71% cotado a R$ 5,0204; ETF EWZ recua em Nova York, sinal de saída de capital.",
+      "fim_s": 34,
+      "inicio_s": 26,
+      "gancho_visual": "Cotação do dólar e queda do ETF EWZ em tela"
+     },
+     {
+      "fala": "Mercado abre espaço para juros mais baixos; investidores podem rever alocação entre renda fixa e ações, focando em dividendos e proteção contra inflação.",
+      "fim_s": 45,
+      "inicio_s": 34,
+      "gancho_visual": "Animação de alocação entre renda fixa e ações"
+     }
+    ],
+    "titulo": "Ibovespa reage a empate nas pesquisas e juros sobem"
+   }
+  },
+  {
+   "event": "Ibovespa hoje cai 1% após pesquisas eleitorais mostrarem Lula e Flávio em empate técnico",
+   "cluster_id": "25832ea53a55a3b3",
+   "fmt": "roteiro",
+   "level": "avancado",
+   "passed": true,
+   "score": 1.0,
+   "attempts": 1,
+   "cached": false,
+   "latency_ms": 1414,
+   "metrics": {
+    "flesch": 62.7,
+    "palavras": 50,
+    "palavras_por_frase": 16.7,
+    "silabas_por_palavra": 2.0,
+    "termos": {
+     "intermediario": 2
+    },
+    "densidade_avancado": 0.0,
+    "densidade_intermediario": 4.0,
+    "densidade_tecnica": 4.0,
+    "nao_explicados": {
+     "intermediario": [
+      "Ibovespa",
+      "IPCA"
+     ]
+    },
+    "analogias": 0,
+    "numeros_sem_lastro": [],
+    "cobertura_ancoras": 1.0,
+    "fatos_faltando": []
+   },
+   "first_score": 1.0,
+   "first_flesch": 62.7,
+   "first_failures": [],
+   "spec_level": "avancado",
+   "centroid_level": "intermediario",
+   "features": {
+    "flesch": 62.7,
+    "densidade_tecnica": 4.0,
+    "analogias_100": 0.0,
+    "nao_explicados_pct": 1.0
+   },
+   "content": {
+    "titulo": "Reação do Ibovespa e DIs às Pesquisas Eleitorais e Boletim Focus",
+    "blocos": [
+     {
+      "inicio_s": 0,
+      "fim_s": 5,
+      "gancho_visual": "Gráfico do Ibovespa em queda na tela",
+      "fala": "O Ibovespa caiu 1,04% e fechou aos 206.887,52 pontos após novas pesquisas eleitorais."
+     },
+     {
+      "inicio_s": 5,
+      "fim_s": 12,
+      "gancho_visual": "Dados da pesquisa BTG/Nexus",
+      "fala": "A pesquisa BTG/Nexus apontou Flávio Bolsonaro com 48% e Lula com 45% das intenções de voto, configurando empate técnico com margem de erro de dois pontos percentuais."
+     },
+     {
+      "inicio_s": 12,
+      "fim_s": 18,
+      "gancho_visual": "Projeções do Boletim Focus",
+      "fala": "Paralelamente, a mediana do Boletim Focus para o IPCA de 2026 subiu de 5,01% para 5,22%."
+     }
+    ]
+   }
+  },
+  {
+   "event": "Fiagro SNAG11 sobe 0,7% na contramão do IFIX em semana de dividendos",
+   "cluster_id": "cov:a23cfce9713215de",
+   "fmt": "artigo",
+   "level": "iniciante",
+   "passed": true,
+   "score": 1.0,
+   "attempts": 3,
+   "cached": false,
+   "latency_ms": 8353,
+   "metrics": {
+    "flesch": 60.6,
+    "palavras": 153,
+    "palavras_por_frase": 12.8,
+    "silabas_por_palavra": 2.07,
+    "termos": {
+     "intermediario": 1,
+     "basico": 2
+    },
+    "densidade_avancado": 0.0,
+    "densidade_intermediario": 0.65,
+    "densidade_tecnica": 0.65,
+    "nao_explicados": {
+     "basico": [
+      "Taxa de câmbio",
+      "Aplicações financeiras"
+     ]
+    },
+    "analogias": 1,
+    "numeros_sem_lastro": [],
+    "cobertura_ancoras": 1.0,
+    "fatos_faltando": []
+   },
+   "first_score": 0.833,
+   "first_flesch": 66.0,
+   "first_failures": [
+    "analogias"
+   ],
+   "spec_level": "iniciante",
+   "centroid_level": "intermediario",
+   "features": {
+    "flesch": 60.6,
+    "densidade_tecnica": 0.65,
+    "analogias_100": 0.6535947712418301,
+    "nao_explicados_pct": 0.0
+   },
+   "content": {
+    "titulo": "SNAG11 sobe na contramao do mercado com novas compras",
+    "lead": "O Fiagro SNAG11 contrariou a queda do mercado e avançou 0,71% nesta terça-feira. A cota fechou a R$ 9,98, impulsionado pela expectativa de dividendos (parcela do lucro distribuída aos acionistas proporcionalmente, que é como receber uma parte do aluguel da casa da qual você possui uma cota) e novas aquisições.",
+    "secoes": [
+     {
+      "subtitulo": "O comportamento do fundo",
+      "texto": "Enquanto o IFIX recuou 0,94% no período observado, o SNAG11 subiu na contramão. A cotação ficou em R$ 9,98 com um volume financeiro de R$ 3,59 milhões."
+     },
+     {
+      "subtitulo": "Distribuição de valores",
+      "texto": "No pagamento mais recente referente a setembro, o fundo distribuiu R$ 0,12 por cota aos investidores."
+     },
+     {
+      "subtitulo": "Aquisições recentes",
+      "texto": "O fundo adquiriu quatro Certificados de Recebíveis do Agronegócio no mercado secundário, atrelados a MBRF e Minerva."
+     }
+    ],
+    "conclusao": "O SNAG11 mostrou força ao subir mesmo com a queda de outros investimentos. Com a compra de novos títulos e a distribuição de R$ 0,12 por cota, o fundo segue gerando resultados."
+   }
+  },
+  {
+   "event": "Fiagro SNAG11 sobe 0,7% na contramão do IFIX em semana de dividendos",
+   "cluster_id": "cov:a23cfce9713215de",
+   "fmt": "artigo",
+   "level": "intermediario",
+   "passed": true,
+   "score": 1.0,
+   "attempts": 1,
+   "cached": false,
+   "latency_ms": 1904,
+   "metrics": {
+    "flesch": 54.9,
+    "palavras": 169,
+    "palavras_por_frase": 13.0,
+    "silabas_por_palavra": 2.14,
+    "termos": {
+     "intermediario": 4
+    },
+    "densidade_avancado": 0.0,
+    "densidade_intermediario": 2.37,
+    "densidade_tecnica": 2.37,
+    "nao_explicados": {
+     "intermediario": [
+      "dividendos"
+     ]
+    },
+    "analogias": 0,
+    "numeros_sem_lastro": [],
+    "cobertura_ancoras": 1.0,
+    "fatos_faltando": []
+   },
+   "first_score": 1.0,
+   "first_flesch": 54.9,
+   "first_failures": [],
+   "spec_level": "intermediario",
+   "centroid_level": "intermediario",
+   "features": {
+    "flesch": 54.9,
+    "densidade_tecnica": 2.37,
+    "analogias_100": 0.0,
+    "nao_explicados_pct": 1.0
+   },
+   "content": {
+    "titulo": "SNAG11 avança na contramão do IFIX impulsionado por dividendos e novos CRAs",
+    "lead": "O Fiagro SNAG11 registrou alta de 0,71% nesta terça-feira, contrariando o recuo de 0,94% do IFIX. Cotado a R$ 9,98 com volume de R$ 3,59 milhões, o fundo se destaca pela expectativa de dividendos e novas aquisições de CRAs.",
+    "secoes": [
+     {
+      "subtitulo": "Desempenho frente ao mercado",
+      "texto": "O SNAG11 avançou 0,71% nesta terça-feira, negociado a R$ 9,98 e registrando volume financeiro de R$ 3,59 milhões. Na mesma base de comparação, o IFIX recuou 0,94%, mostrando a resiliência do Fiagro no período."
+     },
+     {
+      "subtitulo": "Estratégia e novas aquisições",
+      "texto": "O fundo adquiriu quatro Certificados de Recebíveis do Agronegócio no mercado secundário, atrelados a MBRF e Minerva. A movimentação aproveitou o cenário de spreads elevados para elevar o carrego ponderado."
+     },
+     {
+      "subtitulo": "Distribuição de proventos",
+      "texto": "No pagamento mais recente referente a setembro, o fundo distribuiu R$ 0,12 por cota aos investidores. A estratégia de alocação busca manter a consistência nos dividendos."
+     }
+    ],
+    "conclusao": "O avanço do SNAG11 na contramão do IFIX evidencia a força da sua estratégia de alocação em CRAs e a atratividade dos dividendos distribuídos aos cotistas."
+   }
+  },
+  {
+   "event": "Fiagro SNAG11 sobe 0,7% na contramão do IFIX em semana de dividendos",
+   "cluster_id": "cov:a23cfce9713215de",
+   "fmt": "artigo",
+   "level": "avancado",
+   "passed": false,
+   "score": 0.8,
+   "attempts": 3,
+   "cached": false,
+   "latency_ms": 7921,
+   "metrics": {
+    "flesch": 39.4,
+    "palavras": 228,
+    "palavras_por_frase": 16.3,
+    "silabas_por_palavra": 2.28,
+    "termos": {
+     "intermediario": 2,
+     "basico": 2,
+     "avancado": 1
+    },
+    "densidade_avancado": 0.44,
+    "densidade_intermediario": 0.88,
+    "densidade_tecnica": 1.32,
+    "nao_explicados": {
+     "intermediario": [
+      "dividendos",
+      "CDI"
+     ],
+     "basico": [
+      "Taxa de câmbio",
+      "Inadimplência"
+     ],
+     "avancado": [
+      "juros futuros"
+     ]
+    },
+    "analogias": 0,
+    "numeros_sem_lastro": [],
+    "cobertura_ancoras": 1.0,
+    "fatos_faltando": []
+   },
+   "first_score": 0.8,
+   "first_flesch": 39.4,
+   "first_failures": [
+    "densidade técnica (interm.+avanç.)"
+   ],
+   "spec_level": "intermediario",
+   "centroid_level": "intermediario",
+   "features": {
+    "flesch": 39.4,
+    "densidade_tecnica": 1.32,
+    "analogias_100": 0.0,
+    "nao_explicados_pct": 1.0
+   },
+   "content": {
+    "titulo": "SNAG11 avança na contramão do IFIX impulsionado por carrego e CRAs",
+    "lead": "O Fiagro SNAG11 registrou alta de 0,71% na sessão, negociado a R$ 9,98 com volume financeiro de R$ 3,59 milhões, descolando-se do IFIX que recuou 0,94%. O movimento reflete a estratégia de alocação em Certificados de Recebíveis do Agronegócio e a expectativa de manutenção robusta de dividendos.",
+    "secoes": [
+     {
+      "subtitulo": "Desempenho relativo e dinâmica de mercado",
+      "texto": "Enquanto o IFIX apresentou retração de 0,94% no período observado, o SNAG11 avançou 0,71%, atingindo a cotação de R$ 9,98 com liquidez de R$ 3,59 milhões. Essa assimetria decorre da reprecificação dos ativos alvo e da captura de prêmios no mercado secundário."
+     },
+     {
+      "subtitulo": "Alocação tática e expansão do carrego",
+      "texto": "O fundo executou a aquisição de quatro Certificados de Recebíveis do Agronegócio no mercado secundário, com ativos atrelados a MBRF e Minerva. Essa movimentação operacional elevou o carrego ponderado para CDI mais 2,76%, otimizando a estrutura de rendimentos da carteira frente à abertura da curva de juros."
+     },
+     {
+      "subtitulo": "Patrimônio líquido, reservas e distribuição",
+      "texto": "No pagamento mais recente referente a setembro, o fundo distribuiu R$ 0,12 por cota. O patrimônio líquido encerrou agosto em aproximadamente R$ 906,09 milhões, com cota patrimonial de R$ 10,13. A posição líquida de recursos disponíveis somou R$ 53,54 milhões, equivalente a 5,91% do patrimônio líquido, mantendo a inadimplência em 0%."
+     }
+    ],
+    "conclusao": "A estratégia adotada pelo SNAG11 demonstra resiliência tática em um ambiente macroeconômico adverso, utilizando spreads elevados e novas aquisições para sustentar a distribuição de rendimentos sem compromクレジット quality."
+   }
+  },
+  {
+   "event": "Fiagro SNAG11 sobe 0,7% na contramão do IFIX em semana de dividendos",
+   "cluster_id": "cov:a23cfce9713215de",
+   "fmt": "carrossel",
+   "level": "iniciante",
+   "passed": true,
+   "score": 1.0,
+   "attempts": 1,
+   "cached": false,
+   "latency_ms": 2123,
+   "metrics": {
+    "flesch": 69.3,
+    "palavras": 181,
+    "palavras_por_frase": 12.9,
+    "silabas_por_palavra": 1.97,
+    "termos": {
+     "intermediario": 1
+    },
+    "densidade_avancado": 0.0,
+    "densidade_intermediario": 0.55,
+    "densidade_tecnica": 0.55,
+    "nao_explicados": {},
+    "analogias": 1,
+    "numeros_sem_lastro": [],
+    "cobertura_ancoras": 1.0,
+    "fatos_faltando": []
+   },
+   "first_score": 1.0,
+   "first_flesch": 69.3,
+   "first_failures": [],
+   "spec_level": "iniciante",
+   "centroid_level": "intermediario",
+   "features": {
+    "flesch": 69.3,
+    "densidade_tecnica": 0.55,
+    "analogias_100": 0.5524861878453039,
+    "nao_explicados_pct": 0.0
+   },
+   "content": {
+    "slides": [
+     {
+      "papel": "gancho",
+      "titulo": "Um investimento que nadou contra a maré",
+      "texto": "Enquanto a média do mercado caiu 0,94%, o Fiagro chamado SNAG11 subiu 0,71% e chamou a atenção dos investidores."
+     },
+     {
+      "papel": "corpo",
+      "titulo": "O que aconteceu na prática?",
+      "texto": "O fundo registrou cota a R$ 9,98 com volume de R$ 3,59 milhões. É como ver um pequeno barco avançar firme enquanto a onda geral empurra para trás."
+     },
+     {
+      "papel": "corpo",
+      "titulo": "De onde vem o dinheiro no seu bolso?",
+      "texto": "Isso gera dividendos, que é uma parcela do lucro distribuída aos acionistas, como receber parte de um aluguel da casa que você tem cota."
+     },
+     {
+      "papel": "corpo",
+      "titulo": "Quanto o fundo pagou?",
+      "texto": "No pagamento mais recente referente a setembro, o fundo distribuiu R$ 0,12 por cota para quem investe."
+     },
+     {
+      "papel": "corpo",
+      "titulo": "Por que o fundo subiu?",
+      "texto": "O fundo comprou quatro Certificados de Recebíveis do Agronegócio, ligados a empresas como MBRF e Minerva, buscando melhores ganhos."
+     },
+     {
+      "papel": "conclusao",
+      "titulo": "O que isso significa para você?",
+      "texto": "Significa que o fundo buscou fortalecer seus ganhos aproveitando o cenário atual, mantendo o foco em boas oportunidades para o seu bolso."
+     }
+    ],
+    "legenda": "Descubra como o Fiagro SNAG11 conseguiu subir contra a maré do mercado e o que isso representa para quem investe buscando retornos.",
+    "hashtags": [
+     "#investimentos",
+     "#fiagro",
+     "#snag11",
+     "#dividendos",
+     "#economia"
+    ]
+   }
+  },
+  {
+   "event": "Fiagro SNAG11 sobe 0,7% na contramão do IFIX em semana de dividendos",
+   "cluster_id": "cov:a23cfce9713215de",
+   "fmt": "carrossel",
+   "level": "intermediario",
+   "passed": false,
+   "score": 0.8,
+   "attempts": 3,
+   "cached": false,
+   "latency_ms": 11941,
+   "metrics": {
+    "flesch": 59.5,
+    "palavras": 165,
+    "palavras_por_frase": 11.8,
+    "silabas_por_palavra": 2.1,
+    "termos": {
+     "intermediario": 3,
+     "avancado": 1
+    },
+    "densidade_avancado": 0.61,
+    "densidade_intermediario": 1.82,
+    "densidade_tecnica": 2.43,
+    "nao_explicados": {
+     "intermediario": [
+      "CDI",
+      "dividendos"
+     ],
+     "avancado": [
+      "juros futuros"
+     ]
+    },
+    "analogias": 0,
+    "numeros_sem_lastro": [],
+    "cobertura_ancoras": 1.0,
+    "fatos_faltando": []
+   },
+   "first_score": 0.8,
+   "first_flesch": 59.5,
+   "first_failures": [
+    "termos avancado sem explicação"
+   ],
+   "spec_level": "intermediario",
+   "centroid_level": "intermediario",
+   "features": {
+    "flesch": 59.5,
+    "densidade_tecnica": 2.43,
+    "analogias_100": 0.0,
+    "nao_explicados_pct": 1.0
+   },
+   "content": {
+    "slides": [
+     {
+      "papel": "gancho",
+      "titulo": "SNAG11 na contramão do IFIX",
+      "texto": "Enquanto o IFIX recuou 0,94%, o Fiagro SNAG11 avançou 0,71% nesta terça-feira, fechando a R$ 9,98 com volume de R$ 3,59 milhões."
+     },
+     {
+      "papel": "corpo",
+      "titulo": "Novas aquisições de CRAs",
+      "texto": "O fundo adquiriu quatro Certificados de Recebíveis do Agronegócio no mercado secundário, atrelados a MBRF e Minerva, elevando o carrego."
+     },
+     {
+      "papel": "corpo",
+      "titulo": "Carrego e remuneração",
+      "texto": "A aquisição de novos CRAs ampliou a remuneração média do portfólio e elevou o carrego ponderado para CDI mais 2,76%."
+     },
+     {
+      "papel": "corpo",
+      "titulo": "Dividendos recentes",
+      "texto": "No pagamento mais recente referente a setembro, o fundo distribuiu R$ 0,12 por cota, mantendo um patamar atrativo para os investidores."
+     },
+     {
+      "papel": "corpo",
+      "titulo": "Cenário e spreads",
+      "texto": "O fundo aproveitou o cenário de abertura da curva de juros e spreads elevados para reforçar o retorno potencial da carteira."
+     },
+     {
+      "papel": "conclusao",
+      "titulo": "O que isso significa",
+      "texto": "A compra de novos CRAs ampliou a remuneração média do portfólio, mostrando resiliência e boas oportunidades na alocação em Fiagros."
+     }
+    ],
+    "legenda": "O SNAG11 desafiou o mercado e subiu 0,71% enquanto o IFIX caiu 0,94%. Descubra como as novas aquisições de CRAs impulsionaram o carrego do fundo e os dividendos.",
+    "hashtags": [
+     "#Fiagro",
+     "#SNAG11",
+     "#IFIX",
+     "#Dividendos",
+     "#Investimentos"
+    ]
+   }
+  },
+  {
+   "event": "Fiagro SNAG11 sobe 0,7% na contramão do IFIX em semana de dividendos",
+   "cluster_id": "cov:a23cfce9713215de",
+   "fmt": "carrossel",
+   "level": "avancado",
+   "passed": true,
+   "score": 1.0,
+   "attempts": 2,
+   "cached": false,
+   "latency_ms": 4392,
+   "metrics": {
+    "flesch": 52.8,
+    "palavras": 207,
+    "palavras_por_frase": 14.8,
+    "silabas_por_palavra": 2.14,
+    "termos": {
+     "intermediario": 2,
+     "basico": 3,
+     "avancado": 2
+    },
+    "densidade_avancado": 0.97,
+    "densidade_intermediario": 0.97,
+    "densidade_tecnica": 1.94,
+    "nao_explicados": {
+     "intermediario": [
+      "CDI"
+     ],
+     "basico": [
+      "Inadimplência"
+     ],
+     "avancado": [
+      "juros futuros"
+     ]
+    },
+    "analogias": 0,
+    "numeros_sem_lastro": [],
+    "cobertura_ancoras": 1.0,
+    "fatos_faltando": []
+   },
+   "first_score": 0.667,
+   "first_flesch": 55.7,
+   "first_failures": [
+    "legibilidade (Flesch-PT)",
+    "densidade técnica (interm.+avanç.)"
+   ],
+   "spec_level": "avancado",
+   "centroid_level": "intermediario",
+   "features": {
+    "flesch": 52.8,
+    "densidade_tecnica": 1.94,
+    "analogias_100": 0.0,
+    "nao_explicados_pct": 1.0
+   },
+   "content": {
+    "slides": [
+     {
+      "papel": "gancho",
+      "titulo": "SNAG11 diverge da tendência do IFIX",
+      "texto": "O fiagro SNAG11 avançou 0,71% nesta terça-feira, com a cota a R$ 9,98 e volume financeiro de R$ 3,59 milhões, enquanto o IFIX recuou 0,94% no período observado."
+     },
+     {
+      "papel": "corpo",
+      "titulo": "Patamar de distribuição e reservas",
+      "texto": "No pagamento mais recente referente a setembro, o fundo distribuiu R$ 0,12 por cota. O resultado mensal foi de R$ 0,113 por cota e o patrimônio encerrou o mês com R$ 0,096 por cota em reservas."
+     },
+     {
+      "papel": "corpo",
+      "titulo": "Alocação em CRAs no secundário",
+      "texto": "O fundo adquiriu quatro Certificados de Recebíveis do Agronegócio no mercado secundário, atrelados a MBRF e Minerva, elevando o carrego ponderado para CDI + 2,76%."
+     },
+     {
+      "papel": "corpo",
+      "titulo": "Liquidez e métricas de inadimplência",
+      "texto": "A posição líquida de recursos disponíveis somou R$ 53,54 milhões, equivalente a 5,91% do patrimônio líquido, mantendo a inadimplência em 0% no período."
+     },
+     {
+      "papel": "corpo",
+      "titulo": "Composição do patrimônio líquido",
+      "texto": "O patrimônio líquido encerrou agosto em aproximadamente R$ 906,09 milhões, registrando cota patrimonial de R$ 10,13 sob a gestão dos ativos."
+     },
+     {
+      "papel": "conclusao",
+      "titulo": "Implicações da curva de juros",
+      "texto": "A abertura da curva de juros e os spreads de crédito elevados permitiram reforçar o retorno potencial da carteira sem ampliar a exposição a emissores com menor qualidade de crédito."
+     }
+    ],
+    "legenda": "Análise técnica estrito senso acerca da performance do Fiagro SNAG11 frente ao recuo do IFIX, detalhando alocações em CRAs, carrego atrelado ao CDI, inadimplência zero e robustez patrimonial.",
+    "hashtags": [
+     "SNAG11",
+     "Fiagro",
+     "MercadoFinanceiro",
+     "RendaFixa",
+     "CRAs"
+    ]
+   }
+  },
+  {
+   "event": "Fiagro SNAG11 sobe 0,7% na contramão do IFIX em semana de dividendos",
+   "cluster_id": "cov:a23cfce9713215de",
+   "fmt": "roteiro",
+   "level": "iniciante",
+   "passed": true,
+   "score": 1.0,
+   "attempts": 1,
+   "cached": false,
+   "latency_ms": 1782,
+   "metrics": {
+    "flesch": 72.6,
+    "palavras": 64,
+    "palavras_por_frase": 16.0,
+    "silabas_por_palavra": 1.89,
+    "termos": {},
+    "densidade_avancado": 0.0,
+    "densidade_intermediario": 0.0,
+    "densidade_tecnica": 0.0,
+    "nao_explicados": {},
+    "analogias": 1,
+    "numeros_sem_lastro": [],
+    "cobertura_ancoras": 1.0,
+    "fatos_faltando": []
+   },
+   "first_score": 1.0,
+   "first_flesch": 72.6,
+   "first_failures": [],
+   "spec_level": "iniciante",
+   "centroid_level": "iniciante",
+   "features": {
+    "flesch": 72.6,
+    "densidade_tecnica": 0.0,
+    "analogias_100": 1.5625,
+    "nao_explicados_pct": 0.0
+   },
+   "content": {
+    "titulo": "SNAG11 na contramão",
+    "blocos": [
+     {
+      "inicio_s": 0,
+      "fim_s": 3,
+      "gancho_visual": "Texto na tela: SNAG11 sobe enquanto a bolsa cai",
+      "fala": "Enquanto o IFIX recuou 0,94 porcento, o Fiagro SNAG11 avançou 0,71 porcento!"
+     },
+     {
+      "inicio_s": 3,
+      "fim_s": 10,
+      "gancho_visual": "Grafico mostrando a cota a R$ 9,98 e o volume de R$ 3,59 milhões",
+      "fala": "Nesta terça-feira, a cota ficou em R$ 9,98 com um volume financeiro de R$ 3,59 milhões."
+     },
+     {
+      "inicio_s": 10,
+      "fim_s": 18,
+      "gancho_visual": "Imagem de grãos e carne representando o agronegócio",
+      "fala": "O fundo comprou quatro Certificados de Recebíveis do Agronegócio, atrelados a MBRF e Minerva."
+     },
+     {
+      "inicio_s": 18,
+      "fim_s": 25,
+      "gancho_visual": "Moedas caindo representando dividendos",
+      "fala": "No pagamento mais recente, o fundo distribuiu R$ 0,12 por cota, que é como receber uma parte do aluguel da casa da qual você possui uma cota."
+     }
+    ]
+   }
+  },
+  {
+   "event": "Fiagro SNAG11 sobe 0,7% na contramão do IFIX em semana de dividendos",
+   "cluster_id": "cov:a23cfce9713215de",
+   "fmt": "roteiro",
+   "level": "intermediario",
+   "passed": true,
+   "score": 1.0,
+   "attempts": 1,
+   "cached": false,
+   "latency_ms": 1713,
+   "metrics": {
+    "flesch": 55.6,
+    "palavras": 72,
+    "palavras_por_frase": 14.4,
+    "silabas_por_palavra": 2.11,
+    "termos": {},
+    "densidade_avancado": 0.0,
+    "densidade_intermediario": 0.0,
+    "densidade_tecnica": 0.0,
+    "nao_explicados": {},
+    "analogias": 0,
+    "numeros_sem_lastro": [],
+    "cobertura_ancoras": 1.0,
+    "fatos_faltando": []
+   },
+   "first_score": 1.0,
+   "first_flesch": 55.6,
+   "first_failures": [],
+   "spec_level": "intermediario",
+   "centroid_level": "intermediario",
+   "features": {
+    "flesch": 55.6,
+    "densidade_tecnica": 0.0,
+    "analogias_100": 0.0,
+    "nao_explicados_pct": 0.0
+   },
+   "content": {
+    "titulo": "SNAG11 na contramão do IFIX",
+    "blocos": [
+     {
+      "inicio_s": 0,
+      "fim_s": 3,
+      "gancho_visual": "Grafico do SNAG11 subindo e IFIX caindo",
+      "fala": "O SNAG11 subiu na contramão do mercado!"
+     },
+     {
+      "inicio_s": 3,
+      "fim_s": 12,
+      "gancho_visual": "Destaque para o percentual de alta e valor da cota",
+      "fala": "O fiagro avançou 0,71% nesta terça-feira, com a cota a R$ 9,98 e volume financeiro de R$ 3,59 milhões."
+     },
+     {
+      "inicio_s": 12,
+      "fim_s": 22,
+      "gancho_visual": "Comparacao visual com o indice de fiagros",
+      "fala": "Enquanto isso, o IFIX recuou 0,94% no período observado, mostrando a resiliência do fundo."
+     },
+     {
+      "inicio_s": 22,
+      "fim_s": 32,
+      "gancho_visual": "Informacao sobre proventos recentes",
+      "fala": "No pagamento mais recente referente a setembro, o fundo distribuiu R$ 0,12 por cota aos investidores."
+     },
+     {
+      "inicio_s": 32,
+      "fim_s": 45,
+      "gancho_visual": "Ativos do agronegocio na tela",
+      "fala": "Para elevar o carrego, o fundo adquiriu quatro Certificados de Recebíveis do Agronegócio no mercado secundário, atrelados a MBRF e Minerva."
+     }
+    ]
+   }
+  },
+  {
+   "event": "Fiagro SNAG11 sobe 0,7% na contramão do IFIX em semana de dividendos",
+   "cluster_id": "cov:a23cfce9713215de",
+   "fmt": "roteiro",
+   "level": "avancado",
+   "passed": true,
+   "score": 1.0,
+   "attempts": 2,
+   "cached": false,
+   "latency_ms": 3463,
+   "metrics": {
+    "flesch": 49.0,
+    "palavras": 78,
+    "palavras_por_frase": 19.5,
+    "silabas_por_palavra": 2.13,
+    "termos": {
+     "intermediario": 1,
+     "avancado": 1
+    },
+    "densidade_avancado": 1.28,
+    "densidade_intermediario": 1.28,
+    "densidade_tecnica": 2.56,
+    "nao_explicados": {
+     "intermediario": [
+      "dividend yield"
+     ],
+     "avancado": [
+      "spread de crédito"
+     ]
+    },
+    "analogias": 0,
+    "numeros_sem_lastro": [],
+    "cobertura_ancoras": 1.0,
+    "fatos_faltando": []
+   },
+   "first_score": 0.857,
+   "first_flesch": 58.9,
+   "first_failures": [
+    "densidade técnica (interm.+avanç.)"
+   ],
+   "spec_level": "avancado",
+   "centroid_level": "intermediario",
+   "features": {
+    "flesch": 49.0,
+    "densidade_tecnica": 2.56,
+    "analogias_100": 0.0,
+    "nao_explicados_pct": 1.0
+   },
+   "content": {
+    "titulo": "Analise de Desempenho do SNAG11 frente ao IFIX",
+    "blocos": [
+     {
+      "inicio_s": 0,
+      "fim_s": 10,
+      "gancho_visual": "Grafico de cotacao do SNAG11 mostrando alta de 0,71 por cento.",
+      "fala": "O Fiagro SNAG11 avancou 0,71% nesta terca-feira, com a cota a R$ 9,98, elevando o carrego ponderado e superando a duration do IFIX."
+     },
+     {
+      "inicio_s": 10,
+      "fim_s": 22,
+      "gancho_visual": "Comparativo grafico entre SNAG11 e IFIX.",
+      "fala": "O IFIX recuou 0,94% no periodo observado, enquanto o SNAG11 subiu na contramao via marcação a mercado dos ativos."
+     },
+     {
+      "inicio_s": 22,
+      "fim_s": 35,
+      "gancho_visual": "Tabela de proventos do fundo.",
+      "fala": "No pagamento mais recente referente a setembro, o fundo distribuiu R$ 0,12 por cota via dividend yield anualizado."
+     },
+     {
+      "inicio_s": 35,
+      "fim_s": 48,
+      "gancho_visual": "Relatorio de aquisicoes de CRAs no mercado secundario.",
+      "fala": "O fundo adquiriu quatro Certificados de Recebíveis do Agronegócio no mercado secundário, atrelados a MBRF e Minerva, otimizando o spread de crédito."
+     }
+    ]
+   }
+  },
+  {
+   "event": "SNFZ11: fiagro movimenta quase R$ 1 milhão antes de anúncio de dividendos",
+   "cluster_id": "cov:af947da8dd239770",
+   "fmt": "artigo",
+   "level": "iniciante",
+   "passed": true,
+   "score": 1.0,
+   "attempts": 2,
+   "cached": false,
+   "latency_ms": 5784,
+   "metrics": {
+    "flesch": 59.5,
+    "palavras": 149,
+    "palavras_por_frase": 11.5,
+    "silabas_por_palavra": 2.1,
+    "termos": {
+     "intermediario": 1
+    },
+    "densidade_avancado": 0.0,
+    "densidade_intermediario": 0.67,
+    "densidade_tecnica": 0.67,
+    "nao_explicados": {},
+    "analogias": 1,
+    "numeros_sem_lastro": [],
+    "cobertura_ancoras": 1.0,
+    "fatos_faltando": []
+   },
+   "first_score": 0.833,
+   "first_flesch": 56.0,
+   "first_failures": [
+    "analogias"
+   ],
+   "spec_level": "iniciante",
+   "centroid_level": "intermediario",
+   "features": {
+    "flesch": 59.5,
+    "densidade_tecnica": 0.67,
+    "analogias_100": 0.6711409395973155,
+    "nao_explicados_pct": 0.0
+   },
+   "content": {
+    "titulo": "Fiagro Suno Fazendas movimenta R$ 812 mil e atrai investidores",
+    "lead": "O Fiagro Suno Fazendas movimentou R$ 812 mil em um pregão enquanto o mercado aguarda os dividendos (parcela do lucro distribuída aos cotistas, ou seja, é como receber uma parte do aluguel da casa da qual você possui uma cota). O fundo agrícola cresceu e expandiu sua base de investidores.",
+    "secoes": [
+     {
+      "subtitulo": "Movimento no pregão",
+      "texto": "O Fiagro Suno Fazendas movimentou R$ 812 mil no pregão de terça-feira. Esse valor mostra o interesse das pessoas pelo fundo."
+     },
+     {
+      "subtitulo": "Pagamento aos investidores",
+      "texto": "No último pagamento confirmado referente a setembro, o fundo distribuiu R$ 0,10 por cota. É o dinheiro que cai no seu bolso como um aluguel."
+     },
+     {
+      "subtitulo": "Tamanho das terras",
+      "texto": "A exposição do fundo em imóveis rurais alcançou R$ 306,8 milhões, equivalente a 256,3% do patrimônio líquido. Isso significa muitas terras produtivas."
+     }
+    ],
+    "conclusao": "O fundo segue firme no mercado com milhares de pessoas investindo em terras agrícolas e recebendo seus rendimentos."
+   }
+  },
+  {
+   "event": "SNFZ11: fiagro movimenta quase R$ 1 milhão antes de anúncio de dividendos",
+   "cluster_id": "cov:af947da8dd239770",
+   "fmt": "artigo",
+   "level": "intermediario",
+   "passed": true,
+   "score": 1.0,
+   "attempts": 1,
+   "cached": false,
+   "latency_ms": 13544,
+   "metrics": {
+    "flesch": 44.4,
+    "palavras": 307,
+    "palavras_por_frase": 17.1,
+    "silabas_por_palavra": 2.21,
+    "termos": {
+     "intermediario": 6
+    },
+    "densidade_avancado": 0.0,
+    "densidade_intermediario": 1.95,
+    "densidade_tecnica": 1.95,
+    "nao_explicados": {
+     "intermediario": [
+      "dividendos",
+      "Segmento"
+     ]
+    },
+    "analogias": 0,
+    "numeros_sem_lastro": [],
+    "cobertura_ancoras": 1.0,
+    "fatos_faltando": []
+   },
+   "first_score": 1.0,
+   "first_flesch": 44.4,
+   "first_failures": [],
+   "spec_level": "avancado",
+   "centroid_level": "intermediario",
+   "features": {
+    "flesch": 44.4,
+    "densidade_tecnica": 1.95,
+    "analogias_100": 0.0,
+    "nao_explicados_pct": 1.0
+   },
+   "content": {
+    "titulo": "Fiagro SNFZ11 em Destaque: Movimentação de R$ 812 mil e Expectativa por Dividendos",
+    "lead": "O Fiagro Suno Fazendas (SNFZ11) movimentou R$ 812 mil em pregão recente, gerando expectativa por dividendos. O mercado monitora o calendário de rendimentos, enquanto o fundo consolida seu portfólio de terras agrícolas. Com distribuição de R$ 0,10 por cota no último pagamento e exposição de R$ 306,8 milhões em imóveis rurais, o SNFZ11 expande sua base de cotistas e operações no Mato Grosso.",
+    "secoes": [
+     {
+      "subtitulo": "Desempenho no Pregão e Proventos Recentes",
+      "texto": "O Fiagro Suno Fazendas (SNFZ11) movimentou R$ 812 mil no pregão de terça-feira, evidenciando o interesse do mercado. A expectativa gira em torno do anúncio de novos dividendos, com o mercado monitorando o calendário de rendimentos. No último pagamento confirmado, referente a setembro, o fundo distribuiu R$ 0,10 por cota aos seus investidores."
+     },
+     {
+      "subtitulo": "Crescimento do Patrimônio e Estratégia de Alocação",
+      "texto": "A exposição do fundo em imóveis rurais alcançou R$ 306,8 milhões, equivalente a 256,3% do patrimônio líquido. Este crescimento foi impulsionado pela terceira oferta pública, que movimentou R$ 51,8 milhões para viabilizar a aquisição de três propriedades. As fazendas permanecem arrendadas para a Jequitibá Agro, mantendo vacância física e financeira em zero."
+     },
+     {
+      "subtitulo": "Expansão da Base de Cotistas e Liderança no Segmento",
+      "texto": "O fundo encerrou o período com 15.785 cotistas, após a entrada de 564 novos investidores no mês. Com isso, o SNFZ11 ultrapassou a marca de 16 mil investidores, tornando-se o maior veículo do segmento em número de cotistas, segundo a gestora. O resultado de julho foi de R$ 1,59 milhão, permitindo a distribuição de R$ 0,10 por cota."
+     }
+    ],
+    "conclusao": "O Fiagro Suno Fazendas (SNFZ11) demonstra um movimento de consolidação e expansão, com forte interesse do mercado refletido em sua movimentação e na crescente base de cotistas. A robusta alocação em imóveis rurais e a gestão de seus arrendamentos indicam uma estratégia focada na geração de rendimentos consistentes para os investidores, mantendo o fundo como um player relevante no segmento."
+   }
+  },
+  {
+   "event": "SNFZ11: fiagro movimenta quase R$ 1 milhão antes de anúncio de dividendos",
+   "cluster_id": "cov:af947da8dd239770",
+   "fmt": "artigo",
+   "level": "avancado",
+   "passed": true,
+   "score": 1.0,
+   "attempts": 1,
+   "cached": false,
+   "latency_ms": 19760,
+   "metrics": {
+    "flesch": 39.1,
+    "palavras": 393,
+    "palavras_por_frase": 18.7,
+    "silabas_por_palavra": 2.25,
+    "termos": {
+     "intermediario": 6
+    },
+    "densidade_avancado": 0.0,
+    "densidade_intermediario": 1.53,
+    "densidade_tecnica": 1.53,
+    "nao_explicados": {
+     "intermediario": [
+      "dividendos",
+      "fundos imobiliários",
+      "alavancagem",
+      "Segmento"
+     ]
+    },
+    "analogias": 0,
+    "numeros_sem_lastro": [],
+    "cobertura_ancoras": 1.0,
+    "fatos_faltando": []
+   },
+   "first_score": 1.0,
+   "first_flesch": 39.1,
+   "first_failures": [],
+   "spec_level": "avancado",
+   "centroid_level": "intermediario",
+   "features": {
+    "flesch": 39.1,
+    "densidade_tecnica": 1.53,
+    "analogias_100": 0.0,
+    "nao_explicados_pct": 1.0
+   },
+   "content": {
+    "titulo": "Fiagro Suno Fazendas: Análise da Movimentação de R$ 812 mil e Expansão Patrimonial",
+    "lead": "O Fiagro Suno Fazendas (SNFZ11) movimentou R$ 812 mil em pregão recente, em expectativa por dividendos e consolidação de seu portfólio de terras agrícolas. O mercado monitora o calendário de rendimentos de fundos imobiliários e fiagros, com o fundo expandindo operações e base de cotistas no Mato Grosso, refletindo uma estratégia de alocação robusta.",
+    "secoes": [
+     {
+      "subtitulo": "Dinâmica de Negociação e Distribuição de Rendimentos",
+      "texto": "O Fiagro Suno Fazendas (SNFZ11) movimentou R$ 812 mil no pregão de terça-feira, evidenciando a liquidez do ativo no mercado secundário. Este volume transacional ocorre em um contexto de monitoramento do calendário de rendimentos. No último pagamento confirmado referente a setembro, o fundo distribuiu R$ 0,10 por cota, um valor que reflete a performance operacional do período."
+     },
+     {
+      "subtitulo": "Alavancagem Patrimonial e Exposição em Imóveis Rurais",
+      "texto": "A estrutura de capital do SNFZ11 demonstra uma significativa alavancagem, com a exposição do fundo em imóveis rurais alcançando R$ 306,8 milhões. Este montante representa 256,3% do patrimônio líquido, sublinhando a estratégia de otimização do balanço para maximizar o retorno sobre o capital investido. A gestão mantém a vacância física e financeira em zero, com as fazendas arrendadas para a Jequitibá Agro."
+     },
+     {
+      "subtitulo": "Crescimento da Base de Cotistas e Captação de Recursos",
+      "texto": "O fundo encerrou o período com 15.785 cotistas, incorporando 564 novos investidores no mês. Esta expansão solidifica a posição do SNFZ11, que ultrapassou a marca de 16 mil investidores, tornando-se o maior veículo do segmento em número de cotistas, conforme a gestora. A terceira oferta pública movimentou R$ 51,8 milhões, viabilizando a aquisição de três propriedades e reforçando o portfólio."
+     },
+     {
+      "subtitulo": "Performance Operacional e Geração de Resultados",
+      "texto": "O resultado de julho foi de R$ 1,59 milhão, um indicador da capacidade do fundo em gerar fluxo de caixa operacional. Este resultado permitiu a distribuição de R$ 0,10 por cota, mantendo a consistência na remuneração aos investidores. A gestão foca na consolidação do portfólio de terras agrícolas e na otimização dos arrendamentos para sustentar a geração de valor."
+     }
+    ],
+    "conclusao": "A movimentação de R$ 812 mil no SNFZ11, em conjunto com a expansão da base de cotistas para 15.785 e a exposição de R$ 306,8 milhões em imóveis rurais, evidencia a robustez e a atratividade do Fiagro Suno Fazendas. A capacidade de distribuição de R$ 0,10 por cota, ancorada por resultados como R$ 1,59 milhão em julho, e a estratégia de aquisição via oferta pública de R$ 51,8 milhões, reforçam a tese de investimento no segmento agrícola."
+   }
+  },
+  {
+   "event": "SNFZ11: fiagro movimenta quase R$ 1 milhão antes de anúncio de dividendos",
+   "cluster_id": "cov:af947da8dd239770",
+   "fmt": "carrossel",
+   "level": "iniciante",
+   "passed": true,
+   "score": 1.0,
+   "attempts": 1,
+   "cached": false,
+   "latency_ms": 2817,
+   "metrics": {
+    "flesch": 68.2,
+    "palavras": 291,
+    "palavras_por_frase": 12.7,
+    "silabas_por_palavra": 1.98,
+    "termos": {
+     "intermediario": 5
+    },
+    "densidade_avancado": 0.0,
+    "densidade_intermediario": 1.72,
+    "densidade_tecnica": 1.72,
+    "nao_explicados": {},
+    "analogias": 2,
+    "numeros_sem_lastro": [],
+    "cobertura_ancoras": 1.0,
+    "fatos_faltando": []
+   },
+   "first_score": 1.0,
+   "first_flesch": 68.2,
+   "first_failures": [],
+   "spec_level": "iniciante",
+   "centroid_level": "intermediario",
+   "features": {
+    "flesch": 68.2,
+    "densidade_tecnica": 1.72,
+    "analogias_100": 0.6872852233676976,
+    "nao_explicados_pct": 0.0
+   },
+   "content": {
+    "slides": [
+     {
+      "papel": "gancho",
+      "titulo": "Por que R$ 812 mil mudaram o jogo?",
+      "texto": "Na terça‑feira o Fiagro Suno Fazendas (SNFZ11) registrou R$ 812 mil em negociações. O que isso indica para quem está começando a investir?"
+     },
+     {
+      "papel": "corpo",
+      "titulo": "Movimentação forte no pregão",
+      "texto": "O fundo movimentou R$ 812 mil em um único pregão, sinalizando grande interesse dos investidores antes do anúncio de dividendos."
+     },
+     {
+      "papel": "corpo",
+      "titulo": "Dividendos: o que são?",
+      "texto": "Dividendos são parcelas do lucro distribuídas aos cotistas – é como receber uma parte do aluguel da casa que você possui uma cota. Em setembro, o fundo pagou R$ 0,10 por cota."
+     },
+     {
+      "papel": "corpo",
+      "titulo": "Tamanho da carteira rural",
+      "texto": "A exposição em imóveis rurais chegou a R$ 306,8 milhões, o que representa 256,3% do patrimônio líquido. Ou seja, o fundo tem mais ativos do que o valor total das cotas."
+     },
+     {
+      "papel": "corpo",
+      "titulo": "Crescimento de investidores",
+      "texto": "O fundo encerrou o período com 15.785 cotistas, após a entrada de 564 novos investidores no último mês. Isso o torna o maior veículo do segmento (agrupamento de fundos) em número de cotistas."
+     },
+     {
+      "papel": "corpo",
+      "titulo": "Oferta pública que trouxe R$ 51,8 milhões",
+      "texto": "A terceira oferta pública arrecadou R$ 51,8 milhões, dinheiro usado para comprar três propriedades. Essa expansão reforça a base de ativos do fundo."
+     },
+     {
+      "papel": "conclusao",
+      "titulo": "O que isso significa para você?",
+      "texto": "Mais de 16 mil investidores já confiam no fundo, que mantém as fazendas arrendadas sem vacância. Para o iniciante, isso indica um investimento com fluxo estável de renda, parecido com receber aluguel todo mês."
+     }
+    ],
+    "legenda": "O Fiagro Suno Fazendas movimentou R$ 812 mil em um pregão, distribuiu R$ 0,10 por cota e ampliou sua base para 15.785 cotistas. Com R$ 306,8 milhões em ativos rurais e uma nova oferta de R$ 51,8 milhões, o fundo se destaca como o maior do segmento em número de investidores. Para quem está começando, isso pode representar uma oportunidade de receber renda regular, como o aluguel de um imóvel que você possui uma parte.",
+    "hashtags": [
+     "#InvestimentoIniciante",
+     "#Fiagro",
+     "#Dividendos",
+     "#RendaPassiva",
+     "#MercadoFinanceiro"
+    ]
+   }
+  },
+  {
+   "event": "SNFZ11: fiagro movimenta quase R$ 1 milhão antes de anúncio de dividendos",
+   "cluster_id": "cov:af947da8dd239770",
+   "fmt": "carrossel",
+   "level": "intermediario",
+   "passed": true,
+   "score": 1.0,
+   "attempts": 1,
+   "cached": false,
+   "latency_ms": 8483,
+   "metrics": {
+    "flesch": 58.8,
+    "palavras": 330,
+    "palavras_por_frase": 13.2,
+    "silabas_por_palavra": 2.09,
+    "termos": {
+     "intermediario": 7
+    },
+    "densidade_avancado": 0.0,
+    "densidade_intermediario": 2.12,
+    "densidade_tecnica": 2.12,
+    "nao_explicados": {
+     "intermediario": [
+      "dividendos",
+      "Segmento"
+     ]
+    },
+    "analogias": 0,
+    "numeros_sem_lastro": [],
+    "cobertura_ancoras": 1.0,
+    "fatos_faltando": []
+   },
+   "first_score": 1.0,
+   "first_flesch": 58.8,
+   "first_failures": [],
+   "spec_level": "intermediario",
+   "centroid_level": "intermediario",
+   "features": {
+    "flesch": 58.8,
+    "densidade_tecnica": 2.12,
+    "analogias_100": 0.0,
+    "nao_explicados_pct": 1.0
+   },
+   "content": {
+    "slides": [
+     {
+      "papel": "gancho",
+      "titulo": "SNFZ11 em Destaque: O Que Explica o Movimento?",
+      "texto": "O Fiagro Suno Fazendas (SNFZ11) agitou o mercado, movimentando R$ 812 mil em um único pregão. Mas o que está por trás dessa movimentação e o que esperar do fundo em meio às expectativas por novos dividendos?"
+     },
+     {
+      "papel": "corpo",
+      "titulo": "Dividendos e Performance Recente do SNFZ11",
+      "texto": "Fique atento ao calendário de rendimentos! No último pagamento confirmado referente a setembro, o Fiagro Suno Fazendas distribuiu R$ 0,10 por cota. Um resultado de julho de R$ 1,59 milhão permitiu a distribuição de R$ 0,10 por cota."
+     },
+     {
+      "papel": "corpo",
+      "titulo": "Portfólio Sólido: Exposição em Imóveis Rurais",
+      "texto": "A solidez do SNFZ11 se reflete em sua alocação. A exposição do fundo em imóveis rurais alcançou R$ 306,8 milhões, o que representa 256,3% do patrimônio líquido. Isso demonstra um foco claro no segmento agrícola."
+     },
+     {
+      "papel": "corpo",
+      "titulo": "Crescimento da Base de Cotistas e Expansão",
+      "texto": "O fundo encerrou o período com 15.785 cotistas, após a entrada de 564 novos investidores no mês. A terceira oferta pública movimentou R$ 51,8 milhões, viabilizando a aquisição de três propriedades."
+     },
+     {
+      "papel": "corpo",
+      "titulo": "Liderança no Segmento e Vacância Zero",
+      "texto": "O SNFZ11 ultrapassou a marca de 16 mil investidores, tornando-se o maior veículo do segmento em número de cotistas. As fazendas permanecem arrendadas para a Jequitibá Agro, mantendo vacância física e financeira em zero."
+     },
+     {
+      "papel": "conclusao",
+      "titulo": "O Que Isso Significa Para o Seu Investimento?",
+      "texto": "A movimentação de R$ 812 mil, a expansão do portfólio e o crescimento da base de cotistas do SNFZ11 indicam um fundo em consolidação. Para o investidor, isso pode representar maior liquidez e um veículo robusto no segmento de Fiagros, alinhado às tendências do agronegócio."
+     }
+    ],
+    "legenda": "O Fiagro Suno Fazendas (SNFZ11) está em evidência no mercado! Com uma movimentação de R$ 812 mil em um pregão, o fundo chama a atenção dos investidores. Analisamos os dados mais recentes: desde a distribuição de R$ 0,10 por cota em setembro, a exposição de R$ 306,8 milhões em imóveis rurais (256,3% do PL), até o crescimento para mais de 16 mil cotistas, tornando-o o maior do segmento. Entenda o que impulsiona o SNFZ11 e as implicações para sua carteira. #SNFZ11 #Fiagro #Investimento #MercadoFinanceiro #Agronegocio",
+    "hashtags": [
+     "SNFZ11",
+     "Fiagro",
+     "Investimento",
+     "MercadoFinanceiro",
+     "Agronegocio"
+    ]
+   }
+  },
+  {
+   "event": "SNFZ11: fiagro movimenta quase R$ 1 milhão antes de anúncio de dividendos",
+   "cluster_id": "cov:af947da8dd239770",
+   "fmt": "carrossel",
+   "level": "avancado",
+   "passed": true,
+   "score": 1.0,
+   "attempts": 1,
+   "cached": false,
+   "latency_ms": 21127,
+   "metrics": {
+    "flesch": 46.7,
+    "palavras": 284,
+    "palavras_por_frase": 17.8,
+    "silabas_por_palavra": 2.18,
+    "termos": {
+     "intermediario": 5,
+     "avancado": 1
+    },
+    "densidade_avancado": 0.35,
+    "densidade_intermediario": 1.76,
+    "densidade_tecnica": 2.11,
+    "nao_explicados": {
+     "intermediario": [
+      "dividendos",
+      "payout",
+      "alavancagem",
+      "Segmento"
+     ],
+     "avancado": [
+      "EBITDA ajustado"
+     ]
+    },
+    "analogias": 0,
+    "numeros_sem_lastro": [],
+    "cobertura_ancoras": 1.0,
+    "fatos_faltando": []
+   },
+   "first_score": 1.0,
+   "first_flesch": 46.7,
+   "first_failures": [],
+   "spec_level": "avancado",
+   "centroid_level": "intermediario",
+   "features": {
+    "flesch": 46.7,
+    "densidade_tecnica": 2.11,
+    "analogias_100": 0.0,
+    "nao_explicados_pct": 1.0
+   },
+   "content": {
+    "slides": [
+     {
+      "papel": "gancho",
+      "titulo": "Fiagro Suno Fazendas registra R$ 812 mil em volume",
+      "texto": "No pregão de terça‑feira, o SNFZ11 registrou volume de R$ 812 mil, coincidindo com a expectativa de dividendos e a consolidação de seu portfólio de terras no Mato Grosso."
+     },
+     {
+      "papel": "corpo",
+      "titulo": "Distribuição de dividendos confirmada para setembro",
+      "texto": "O fundo pagou R$ 0,10 por cota, refletindo o resultado de julho de R$ 1,59 milhão, que sustentou a taxa de payout de 0,131 do EBITDA ajustado."
+     },
+     {
+      "papel": "corpo",
+      "titulo": "Exposição em imóveis rurais supera o patrimônio líquido",
+      "texto": "A carteira de ativos rurais atingiu R$ 306,8 milhões, representando 256,3% do patrimônio líquido, indicando alavancagem de ativos e potencial de geração de fluxo de caixa."
+     },
+     {
+      "papel": "corpo",
+      "titulo": "Base de cotistas ultrapassa 16 mil participantes",
+      "texto": "Ao encerrar o período, o fundo contou com 15.785 cotistas, com a entrada de 564 novos investidores no mês, consolidando-se como o maior veículo do segmento em número de participantes."
+     },
+     {
+      "papel": "corpo",
+      "titulo": "Oferta pública capta R$ 51,8 milhões para novas propriedades",
+      "texto": "A terceira oferta levantou R$ 51,8 milhões, destinando 50% do capital para a compra de três propriedades agrícolas, ampliando a exposição geográfica e a receita de arrendamento."
+     },
+     {
+      "papel": "conclusao",
+      "titulo": "Implicações para o investidor institucional",
+      "texto": "Volume de negociação, vacância zero e expansão da base de cotistas reforçam a robustez do SNFZ11, indicando estabilidade de cash‑flow e potencial de valorização de cotas no médio prazo."
+     }
+    ],
+    "legenda": "O Fiagro Suno Fazendas (SNFZ11) registrou R$ 812 mil em volume no pregão, distribuindo R$ 0,10 por cota após resultado de julho de R$ 1,59 milhão. A exposição em imóveis rurais chegou a R$ 306,8 milhões (256,3% do PL) e a base de cotistas superou 16 mil, com 564 novos investidores. A terceira oferta pública aportou R$ 51,8 milhões para aquisição de três propriedades, mantendo vacância física e financeira em zero. Esses indicadores reforçam a solidez do fundo para investidores avançados que buscam exposição ao agronegócio com fluxo de caixa previsível.",
+    "hashtags": [
+     "#Fiagro",
+     "#FundosImobiliários",
+     "#Dividendos",
+     "#Agronegócio",
+     "#InvestimentoInstitucional"
+    ]
+   }
+  },
+  {
+   "event": "SNFZ11: fiagro movimenta quase R$ 1 milhão antes de anúncio de dividendos",
+   "cluster_id": "cov:af947da8dd239770",
+   "fmt": "roteiro",
+   "level": "iniciante",
+   "passed": true,
+   "score": 1.0,
+   "attempts": 1,
+   "cached": false,
+   "latency_ms": 1670,
+   "metrics": {
+    "flesch": 65.9,
+    "palavras": 122,
+    "palavras_por_frase": 13.6,
+    "silabas_por_palavra": 2.0,
+    "termos": {
+     "intermediario": 2
+    },
+    "densidade_avancado": 0.0,
+    "densidade_intermediario": 1.64,
+    "densidade_tecnica": 1.64,
+    "nao_explicados": {},
+    "analogias": 1,
+    "numeros_sem_lastro": [],
+    "cobertura_ancoras": 1.0,
+    "fatos_faltando": []
+   },
+   "first_score": 1.0,
+   "first_flesch": 65.9,
+   "first_failures": [],
+   "spec_level": "iniciante",
+   "centroid_level": "iniciante",
+   "features": {
+    "flesch": 65.9,
+    "densidade_tecnica": 1.64,
+    "analogias_100": 0.819672131147541,
+    "nao_explicados_pct": 0.0
+   },
+   "content": {
+    "titulo": "Fiagro Suno Fazendas: O que mudou e como isso afeta seu bolso",
+    "blocos": [
+     {
+      "inicio_s": 0,
+      "fim_s": 3,
+      "gancho_visual": "Tela dividida: gráfico subindo + texto 'R$ 812 mil em um dia!'",
+      "fala": "O Fiagro Suno Fazendas movimentou R$ 812 mil num único pregão."
+     },
+     {
+      "inicio_s": 3,
+      "fim_s": 10,
+      "gancho_visual": "Imagem de fazenda com selo 'Dividendos'",
+      "fala": "Em setembro, pagou R$ 0,10 por cota – dividendos, que são como receber parte do aluguel da casa que você tem uma cota."
+     },
+     {
+      "inicio_s": 10,
+      "fim_s": 20,
+      "gancho_visual": "Mapa do Mato Grosso com ícones de terra",
+      "fala": "A exposição em imóveis rurais chegou a R$ 306,8 milhões, 256,3% do patrimônio. É como ter mais de duas casas para cada real que você investiu."
+     },
+     {
+      "inicio_s": 20,
+      "fim_s": 30,
+      "gancho_visual": "Contador de investidores subindo",
+      "fala": "O fundo fechou com 15.785 cotistas, depois de 564 novos investidores este mês, tornando‑se o maior do segmento – agrupar empresas por atividade, como bancos ou varejistas."
+     },
+     {
+      "inicio_s": 30,
+      "fim_s": 45,
+      "gancho_visual": "Dinheiro entrando e fotos de três fazendas",
+      "fala": "A terceira oferta pública trouxe R$ 51,8 milhões para comprar três propriedades. O resultado de julho foi R$ 1,59 milhão, permitindo novamente R$ 0,10 por cota."
+     },
+     {
+      "inicio_s": 45,
+      "fim_s": 60,
+      "gancho_visual": "Fazenda com selo 'Alugado' e zero vacância",
+      "fala": "As fazendas continuam arrendadas para a Jequitibá Agro, sem vacância física ou financeira. Mais investidores, mais renda para você."
+     }
+    ]
+   }
+  },
+  {
+   "event": "SNFZ11: fiagro movimenta quase R$ 1 milhão antes de anúncio de dividendos",
+   "cluster_id": "cov:af947da8dd239770",
+   "fmt": "roteiro",
+   "level": "intermediario",
+   "passed": true,
+   "score": 1.0,
+   "attempts": 1,
+   "cached": false,
+   "latency_ms": 1789,
+   "metrics": {
+    "flesch": 50.2,
+    "palavras": 64,
+    "palavras_por_frase": 16.0,
+    "silabas_por_palavra": 2.16,
+    "termos": {},
+    "densidade_avancado": 0.0,
+    "densidade_intermediario": 0.0,
+    "densidade_tecnica": 0.0,
+    "nao_explicados": {},
+    "analogias": 0,
+    "numeros_sem_lastro": [],
+    "cobertura_ancoras": 1.0,
+    "fatos_faltando": []
+   },
+   "first_score": 1.0,
+   "first_flesch": 50.2,
+   "first_failures": [],
+   "spec_level": "intermediario",
+   "centroid_level": "intermediario",
+   "features": {
+    "flesch": 50.2,
+    "densidade_tecnica": 0.0,
+    "analogias_100": 0.0,
+    "nao_explicados_pct": 0.0
+   },
+   "content": {
+    "titulo": "SNFZ11 movimenta R$ 812 mil e expande portfólio",
+    "blocos": [
+     {
+      "inicio_s": 0,
+      "fim_s": 8,
+      "gancho_visual": "Gráfico de movimentação do SNFZ11 na tela",
+      "fala": "O Fiagro Suno Fazendas movimentou R$ 812 mil no pregão de terça-feira."
+     },
+     {
+      "inicio_s": 8,
+      "fim_s": 22,
+      "gancho_visual": "Detalhes sobre os dividendos do fundo",
+      "fala": "No último pagamento confirmado referente a setembro, o fundo distribuiu R$ 0,10 por cota aos cotistas."
+     },
+     {
+      "inicio_s": 22,
+      "fim_s": 40,
+      "gancho_visual": "Mapa do Mato Grosso e dados imobiliários",
+      "fala": "A exposição do fundo em imóveis rurais alcançou R$ 306,8 milhões, equivalente a 256,3% do patrimônio líquido, com foco em terras agrícolas."
+     },
+     {
+      "inicio_s": 40,
+      "fim_s": 55,
+      "gancho_visual": "Calendário de outubro e base de investidores",
+      "fala": "O mercado monitora o calendário de rendimentos e a consolidação do portfólio enquanto o fundo avança no setor."
+     }
+    ]
+   }
+  },
+  {
+   "event": "SNFZ11: fiagro movimenta quase R$ 1 milhão antes de anúncio de dividendos",
+   "cluster_id": "cov:af947da8dd239770",
+   "fmt": "roteiro",
+   "level": "avancado",
+   "passed": false,
+   "score": 0.857,
+   "attempts": 3,
+   "cached": false,
+   "latency_ms": 5896,
+   "metrics": {
+    "flesch": 33.8,
+    "palavras": 119,
+    "palavras_por_frase": 29.8,
+    "silabas_por_palavra": 2.18,
+    "termos": {
+     "intermediario": 1
+    },
+    "densidade_avancado": 0.0,
+    "densidade_intermediario": 0.84,
+    "densidade_tecnica": 0.84,
+    "nao_explicados": {
+     "intermediario": [
+      "dividendos"
+     ]
+    },
+    "analogias": 0,
+    "numeros_sem_lastro": [],
+    "cobertura_ancoras": 1.0,
+    "fatos_faltando": []
+   },
+   "first_score": 0.857,
+   "first_flesch": 33.8,
+   "first_failures": [
+    "densidade técnica (interm.+avanç.)"
+   ],
+   "spec_level": "intermediario",
+   "centroid_level": "intermediario",
+   "features": {
+    "flesch": 33.8,
+    "densidade_tecnica": 0.84,
+    "analogias_100": 0.0,
+    "nao_explicados_pct": 1.0
+   },
+   "content": {
+    "titulo": "Análise Técnica do SNFZ11 e Dinâmica de Portfólio",
+    "blocos": [
+     {
+      "inicio_s": 0,
+      "fim_s": 10,
+      "gancho_visual": "Grafico de movimentacao do SNFZ11 na tela",
+      "fala": "O Fiagro Suno Fazendas movimentou oitocentos e doze mil reais no pregao de terca-feira, refletindo a dinâmica de dividendos e a consolidacao do portfólio."
+     },
+     {
+      "inicio_s": 10,
+      "fim_s": 25,
+      "gancho_visual": "Tabela com dados de distribuicao de rendimentos",
+      "fala": "No ultimo pagamento confirmado referente a setembro, o fundo distribuiu zero vírgula dez reais por cota, sustentado pelo resultado de um milhão quinentos e noventa mil reais."
+     },
+     {
+      "inicio_s": 25,
+      "fim_s": 45,
+      "gancho_visual": "Indicadores de alavancagem e exposicao patrimonial",
+      "fala": "A exposicao do fundo em imoveis rurais alcancou trezentos e seis vírgula oito milhões de reais, equivalente a duzentos e cinquenta e seis vírgula três porcento do patrimônio líquido."
+     },
+     {
+      "inicio_s": 45,
+      "fim_s": 60,
+      "gancho_visual": "Metricas de cotistas e captação via oferta pública",
+      "fala": "O fundo encerrou o período com quinze mil setecentos e oitenta e cinco cotistas apos a entrada de quinhentos e sessenta e quatro novos investidores, enquanto a terceira oferta pública movimentou cinquenta e um vírgula oito milhões de reais."
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -3,27 +3,36 @@
 # cvm_ipe, ibge, bcb_sgs) ficam em src/scraper/sources/ e são ligadas/desligadas aqui.
 # Endpoints verificados ao vivo em 2026-10-09.
 
+# Coleta sob demanda: uma fonte só é consultada de novo depois do seu ttl.
+defaults:
+  feed_ttl: 15m
+  coverage_ttl: 1h
+
 official:
-  bcb_copom: {enabled: true}
+  bcb_copom: {enabled: true, ttl: 24h}
   cvm_ipe:
     enabled: true
+    ttl: 6h
     max_pdfs_per_run: 150        # backlog restante fica pending_enrich para as próximas rodadas
     categories: [Fato Relevante]
     types: [Press-release]       # Tipo dentro de 'Dados Econômico-Financeiros' (releases de resultados)
-  ibge: {enabled: true}
-  bcb_sgs: {enabled: true}
+  ibge: {enabled: true, ttl: 1h}
+  bcb_sgs: {enabled: true, ttl: 24h}
 
 feeds:
   - name: suno
+    searchable: true              # WP-JSON ?search= (busca de tema sob demanda)
     kind: rss
     url: https://www.suno.com.br/noticias/feed/
     homepage: https://www.suno.com.br/noticias/
   - name: infomoney
+    searchable: true              # WP-JSON ?search= (busca de tema sob demanda)
     kind: wpjson
     url: https://www.infomoney.com.br/wp-json/wp/v2/posts
     homepage: https://www.infomoney.com.br/
     params: {categories: 1}            # 1 = Mercados
   - name: moneytimes
+    searchable: true              # WP-JSON ?search= (busca de tema sob demanda)
     kind: rss
     url: https://www.moneytimes.com.br/feed/
     homepage: https://www.moneytimes.com.br/
@@ -40,6 +49,7 @@ feeds:
     url: https://einvestidor.estadao.com.br/feed/
     homepage: https://einvestidor.estadao.com.br/
   - name: seudinheiro
+    searchable: true              # WP-JSON ?search= (busca de tema sob demanda)
     kind: rss
     url: https://www.seudinheiro.com/feed/
     homepage: https://www.seudinheiro.com/

@@ -1,0 +1,22 @@
+/* Design tokens — paleta extraída de suno.com.br (2026-10-18). */
+:root {
+  --red: #d42126;          /* marca: destaque, CTA, estado ativo */
+  --red-soft: #fbe9ea;
+  --ink: #161616;          /* texto principal / topo */
+  --ink-2: #212121;
+  --muted: #666;           /* texto secundário */
+  --faint: #999;
+  --line: #dedede;
+  --bg: #f5f5f5;
+  --surface: #fff;
+  --ok: #27ba59;           /* aprovado / positivo */
+  --ok-soft: #e9f8ef;
+
+  --font: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+  --fs-xs: .75rem; --fs-sm: .875rem; --fs-md: 1rem; --fs-lg: 1.25rem; --fs-xl: 1.75rem;
+  --sp-1: .25rem; --sp-2: .5rem; --sp-3: .75rem; --sp-4: 1rem; --sp-5: 1.5rem; --sp-6: 2rem;
+  --sp-7: 3rem;
+  --radius: 10px; --radius-sm: 6px;
+  --shadow: 0 1px 2px rgba(22, 22, 22, .06), 0 4px 16px rgba(22, 22, 22, .05);
+  --focus: 0 0 0 3px rgba(212, 33, 38, .25);
+}

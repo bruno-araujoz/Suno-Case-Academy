@@ -1,0 +1,43 @@
+# Alvos por nível — calibrados no corpus em 2026-10-14 (scripts/calibrate.py corpus):
+#   Flesch-PT p10/p50/p90 → atas Copom 26/31/37 · comunicados 22/29/36 · notícias 32/45/58
+#   densidade técnica (intermediário+avançado, por 100 palavras) → atas ~3,1 · comunicados ~4,5 · notícias ~0,6
+#   (densidade só de avançados separa mal: atas p50 0,82 × notícias p90 0,65)
+#   Flesch de PDFs (fatos relevantes/releases) é inflado por tabelas/listas — não usar como régua.
+# Próximo ajuste: concordância com o conjunto rotulado pelo time (scripts/calibrate.py labeled).
+iniciante:
+  flesch_min: 55                                     # mais fácil que ~90% das notícias
+  unexplained_max: {intermediario: 0, avancado: 0}   # todo termo acima do básico precisa de explicação
+  analogies_min: 1                                   # ao menos uma analogia do cotidiano
+  anchor_coverage_min: 0.7
+intermediario:
+  flesch_min: 35                                     # ~p10 das notícias
+  flesch_max: 60
+  unexplained_max: {avancado: 0}                     # vocabulário padrão de mercado livre
+  anchor_coverage_min: 0.8
+avancado:
+  flesch_max: 45                                     # ≤ mediana das notícias (atas ficam em ~31)
+  technical_density_min: 2.5                         # anti-infantilização: jargão pleno preservado
+                                                     # 1,5 → 2,5 em 2026-10-17: com 1,5 o lote deu acurácia
+                                                     # independente 0,48 (avançado ≈ notícia); atas ≈ 4,0
+  analogies_max: 1
+  anchor_coverage_min: 0.9
+  suggest_vocabulary: true                           # sugere jargão do glossário (mesma categoria)
+                                                     # A/B 2026-10-18 (mesmos 3 eventos, com juiz): com
+                                                     # sugestões centróide=avançado 7/9 vs 4/9 sem; custo:
+                                                     # 5 vs 1 afirmações não apoiadas (o juiz detecta).
+formats:
+  carrossel: {slides_min: 6, slides_max: 10}
+  roteiro: {max_seconds: 60, max_spoken_words: 150}
+  artigo: {sections_min: 3, sections_max: 5}
+# Ajustes por FORMATO (sobrescrevem o nível). Fala de vídeo e slides têm frases curtas por natureza:
+# um roteiro intermediário real ficou com Flesch 66–72 em 3 tentativas (2026-10-14) com o teto de 60
+# calibrado em texto escrito. Nesses formatos, o que separa os níveis é sobretudo a regra do jargão.
+# PROVISÓRIO até a matriz de confusão do lote (evaluate.py batch) confirmar.
+format_overrides:
+  roteiro:
+    iniciante: {flesch_min: 60}
+    intermediario: {flesch_min: 45, flesch_max: 80}
+    avancado: {flesch_max: 65}
+  carrossel:
+    intermediario: {flesch_max: 72}
+    avancado: {flesch_max: 55}

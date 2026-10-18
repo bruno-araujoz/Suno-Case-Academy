@@ -16,5 +16,20 @@ services:
       timeout: 3s
       retries: 10
 
+  app:
+    # Opcional: `docker compose --profile app up -d --build` sobe UI + banco juntos.
+    profiles: ["app"]
+    build: .
+    depends_on:
+      db:
+        condition: service_healthy
+    environment:
+      DATABASE_URL: postgres://postgres:postgres@db:5432/suno_content
+    env_file:
+      - path: .env
+        required: false      # chaves de LLM (opcionais para navegar; necessárias para gerar)
+    ports:
+      - "8001:8000"          # 8001 para não colidir com `uvicorn` local (8000)
+
 volumes:
   pgdata:

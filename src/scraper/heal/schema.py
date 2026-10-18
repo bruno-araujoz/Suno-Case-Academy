@@ -9,7 +9,6 @@ from __future__ import annotations
 
 import asyncio
 import json
-import os
 import re
 from collections.abc import Awaitable, Callable
 from pathlib import Path
@@ -124,8 +123,10 @@ def _clean_html(html: str, limit: int = 15_000) -> str:
     chrome, scripts, media and non-structural attributes go; the main content area is kept.
     """
     tree = LexborHTMLParser(html)
-    for node in tree.css("script, style, noscript, svg, iframe, head, nav, header, footer, "
-                         "aside, form, img, picture, source, video, figure, button, input"):
+    for node in tree.css(
+        "script, style, noscript, svg, iframe, head, nav, header, footer, "
+        "aside, form, img, picture, source, video, figure, button, input"
+    ):
         node.decompose()
     for node in tree.css("*"):
         for attr in [a for a in node.attributes if a not in _KEEP_ATTRS]:
@@ -136,11 +137,9 @@ def _clean_html(html: str, limit: int = 15_000) -> str:
 
 
 def _secrets() -> dict[str, str]:
-    """Environment + .env (pydantic-settings reads .env into fields only, not os.environ)."""
-    from dotenv import dotenv_values
+    from ..core.secrets import secrets
 
-    values = {k: v for k, v in dotenv_values(ROOT / ".env").items() if v}
-    return {**values, **{k: v for k, v in os.environ.items() if v}}
+    return secrets()
 
 
 def llm_providers(settings: Settings) -> list[tuple[str, str | None]]:

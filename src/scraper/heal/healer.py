@@ -2,6 +2,8 @@
 
 from __future__ import annotations
 
+from datetime import UTC, datetime, timedelta
+
 from ..core.config import Settings
 from ..core.db import SourceState
 from ..core.http import HttpClient
@@ -14,6 +16,9 @@ from .rediscover import home_of, rediscover
 from .schema import SchemaGenerator, apply_schema, listing_is_healthy, save_schema
 
 log = get_logger("heal")
+
+COOLDOWN_L2 = timedelta(hours=6)  # after a failed repair, wait before trying again
+COOLDOWN_L4 = timedelta(hours=24)  # an LLM attempt (L4) happens at most once a day per source
 
 
 class Healer:
@@ -31,6 +36,13 @@ class Healer:
         problem = diagnose(source.report, self.settings)
         if problem is None:
             return None
+        now = datetime.now(UTC)
+        paused_until = await self.ctx.state.get_heal_after(source.name)
+        if paused_until and paused_until > now:
+            source.report.error = (
+                f"{problem.reason} (reparo em pausa até {paused_until:%Y-%m-%d %H:%M}Z)"
+            )
+            return None
         log.warning("%s com problema: %s — iniciando reparo", source.name, problem.reason)
         state = await self.ctx.state.get_state(source.name, "feed") or SourceState(
             source.name, "feed", source.config.url or ""
@@ -41,15 +53,20 @@ class Healer:
         )
         if found:
             await self._switch(state, found.url, found.kind, state.schema_version)
+            await self.ctx.state.set_heal_after(source.name, None)
             return self._healed(source, "L2", problem.reason, f"{found.kind} {found.url}")
 
+        cooldown = COOLDOWN_L2
         if self.settings.heal_llm_enabled and self.generator is not None:
+            cooldown = COOLDOWN_L4
             listing = source.config.homepage or home_of(state.endpoint)
             fixed = await self._l4(source.name, listing)
             if fixed is not None:
                 await self._switch(state, listing, "html", fixed)
+                await self.ctx.state.set_heal_after(source.name, None)
                 return self._healed(source, "L4", problem.reason, f"schema v{fixed}")
 
+        await self.ctx.state.set_heal_after(source.name, now + cooldown)
         source.report.status = "degraded" if source.report.status != "failed" else "failed"
         source.report.error = f"{problem.reason} (reparo automático sem sucesso)"
         return None

@@ -1,0 +1,670 @@
+{
+ "generated_at": "2026-10-18 00:33 UTC",
+ "events": [
+  {
+   "cluster_id": "25832ea53a55a3b3",
+   "title": "Ibovespa hoje cai 1% após pesquisas eleitorais mostrarem Lula e Flávio em empate técnico"
+  },
+  {
+   "cluster_id": "cov:a23cfce9713215de",
+   "title": "Fiagro SNAG11 sobe 0,7% na contramão do IFIX em semana de dividendos"
+  }
+ ],
+ "levels_version": "levels@718f08f0a2",
+ "glossary_reviewed": false,
+ "new_generations": 6,
+ "cached_generations": 0,
+ "output_matrix_event": "Ibovespa hoje cai 1% após pesquisas eleitorais mostrarem Lula e Flávio em empate técnico",
+ "output_matrix": {
+  "artigo": {
+   "avancado": "Ibovespa recua 1,04% e DIs sobem mais de 20 pb ante volatilidade eleitoral e IPCA  O Ibovespa recuou 1,04% para 206.887,52 pontos ante pesquisas do segundo turno indicando empate técnico entre Flávio Bolsonaro (48%) e Lula (45%). O dólar avançou 0,71% a R$ 5,0204, enquanto a mediana do Boletim Focus para o IPCA de 2026 subiu de 5,01% para 5,22%. O movimento gerou inclinação na …"
+  },
+  "carrossel": {
+   "avancado": "Ajuste na curva de juros e volatilidade no Ibovespa. A divulgação de pesquisas eleitorais para o segundo turno e a revisão das expectativas desancoradas no Boletim Focus geraram estresse na curva de juros e realização de lucros no mercado acionário.  Desempenho dos ativos e pressão cambial. O Ibovespa caiu 1,04% e fechou aos 206.887,52 pontos. O dólar subiu 0,71% e foi cotado a…"
+  },
+  "roteiro": {
+   "avancado": "O Ibovespa caiu 1,04% e fechou aos 206.887,52 pontos.  A movimentação refletiu pesquisas eleitorais indicando empate técnico no segundo turno. A pesquisa BTG/Nexus apontou Flávio Bolsonaro com 48% e Lula com 45% das intenções de voto.  O dólar subiu 0,71% cotado a R$ 5,0204. As taxas dos DIs fecharam com altas firmes acima dos 20 pontos-base em vários vencimentos, sob pressão d…"
+  }
+ },
+ "pass_rate": {
+  "avancado": {
+   "artigo": "2/2",
+   "carrossel": "2/2",
+   "roteiro": "2/2"
+  }
+ },
+ "confusion": {
+  "spec": {
+   "iniciante": {
+    "iniciante": 0,
+    "intermediario": 0,
+    "avancado": 0
+   },
+   "intermediario": {
+    "iniciante": 0,
+    "intermediario": 0,
+    "avancado": 0
+   },
+   "avancado": {
+    "iniciante": 0,
+    "intermediario": 0,
+    "avancado": 6
+   }
+  },
+  "centroid": {
+   "iniciante": {
+    "iniciante": 0,
+    "intermediario": 0,
+    "avancado": 0
+   },
+   "intermediario": {
+    "iniciante": 0,
+    "intermediario": 0,
+    "avancado": 0
+   },
+   "avancado": {
+    "iniciante": 0,
+    "intermediario": 1,
+    "avancado": 5
+   }
+  }
+ },
+ "accuracy": {
+  "spec": 1.0,
+  "centroid": 0.833
+ },
+ "classifier_sources": {
+  "avancado": "171 atas/comunicados do Copom",
+  "intermediario": "200 notícias de portais",
+  "iniciante": "PROVISÓRIO: prior da escala de Martins (sem conjunto rotulado)"
+ },
+ "classifier_centroids": {
+  "avancado": {
+   "flesch": 30.0,
+   "densidade_tecnica": 4.03,
+   "analogias_100": 0.0,
+   "nao_explicados_pct": 0.9473684210526315
+  },
+  "intermediario": {
+   "flesch": 46.75,
+   "densidade_tecnica": 0.64,
+   "analogias_100": 0.0,
+   "nao_explicados_pct": 1.0
+  },
+  "iniciante": {
+   "flesch": 65.0,
+   "densidade_tecnica": 1.0,
+   "analogias_100": 1.5,
+   "nao_explicados_pct": 0.0
+  }
+ },
+ "judge": {
+  "checked": 0,
+  "with_unsupported": 0,
+  "unsupported_total": 0,
+  "examples": []
+ },
+ "reflection": {
+  "total": 6,
+  "rewritten": 1,
+  "fixed_by_rewrite": 1,
+  "first_score": 0.8,
+  "final_score": 1.0,
+  "common_failures": [
+   [
+    "legibilidade (Flesch-PT)",
+    1
+   ]
+  ]
+ },
+ "cost": {
+  "calls": 11,
+  "failed_calls": 3,
+  "in_tokens": 13935,
+  "out_tokens": 7266,
+  "by_purpose": {
+   "write": {
+    "calls": 11,
+    "tokens": 21201,
+    "p50_ms": 3291
+   }
+  },
+  "latency_by_format": {
+   "artigo": 7.6,
+   "carrossel": 8.1,
+   "roteiro": 2.6
+  }
+ },
+ "rows": [
+  {
+   "event": "Ibovespa hoje cai 1% após pesquisas eleitorais mostrarem Lula e Flávio em empate técnico",
+   "cluster_id": "25832ea53a55a3b3",
+   "fmt": "artigo",
+   "level": "avancado",
+   "passed": true,
+   "score": 1.0,
+   "attempts": 3,
+   "cached": false,
+   "latency_ms": 11141,
+   "metrics": {
+    "flesch": 44.3,
+    "palavras": 317,
+    "palavras_por_frase": 19.8,
+    "silabas_por_palavra": 2.18,
+    "termos": {
+     "intermediario": 11,
+     "avancado": 10,
+     "basico": 1
+    },
+    "densidade_avancado": 3.15,
+    "densidade_intermediario": 3.47,
+    "densidade_tecnica": 6.62,
+    "nao_explicados": {
+     "intermediario": [
+      "Ibovespa",
+      "IPCA",
+      "renda fixa",
+      "ETF",
+      "Hedge",
+      "guidance"
+     ],
+     "avancado": [
+      "juros futuros",
+      "Benchmark",
+      "Beta",
+      "desancoragem",
+      "expectativas desancoradas",
+      "Futuros",
+      "Dólar futuro",
+      "Taxa Interna de Retorno",
+      "VaR"
+     ],
+     "basico": [
+      "Mercado de câmbio"
+     ]
+    },
+    "analogias": 0,
+    "numeros_sem_lastro": [],
+    "cobertura_ancoras": 1.0,
+    "fatos_faltando": []
+   },
+   "first_score": 0.8,
+   "first_flesch": 46.1,
+   "first_failures": [
+    "legibilidade (Flesch-PT)"
+   ],
+   "spec_level": "avancado",
+   "centroid_level": "avancado",
+   "features": {
+    "flesch": 44.3,
+    "densidade_tecnica": 6.62,
+    "analogias_100": 0.0,
+    "nao_explicados_pct": 1.0
+   },
+   "content": {
+    "titulo": "Ibovespa recua 1,04% e DIs sobem mais de 20 pb ante volatilidade eleitoral e IPCA",
+    "lead": "O Ibovespa recuou 1,04% para 206.887,52 pontos ante pesquisas do segundo turno indicando empate técnico entre Flávio Bolsonaro (48%) e Lula (45%). O dólar avançou 0,71% a R$ 5,0204, enquanto a mediana do Boletim Focus para o IPCA de 2026 subiu de 5,01% para 5,22%. O movimento gerou inclinação na curva de juros, com DIs subindo acima de 20 pontos-base em diversos vencimentos.",
+    "secoes": [
+     {
+      "subtitulo": "Precificação de ativos e volatilidade eleitoral",
+      "texto": "A divulgação da pesquisa BTG/Nexus apontou Flávio Bolsonaro com 48% e Lula com 45% das intenções de voto, configurando empate técnico com margem de erro de dois pontos percentuais. Paralelamente, o levantamento PoderData/AYA registrou Flávio Bolsonaro com 51% dos votos válidos contra 49% de Lula. Tal cenário motivou a realização de lucros após forte alta na semana anterior e a retomada de negociações pós-feriado, impactando o Benchmark do mercado e o beta dos ativos."
+     },
+     {
+      "subtitulo": "Desancoragem inflacionária e curva de juros",
+      "texto": "O relatório do Boletim Focus indicou piora nas expectativas inflacionárias de longo prazo: a mediana para o IPCA de 2026 subiu de 5,01% para 5,22%. Esse movimento de expectativas desancoradas refletiu-se imediatamente no mercado de renda fixa, onde as taxas dos DIs fecharam a terça-feira com altas firmes acima dos 20 pontos-base em vários vencimentos de Futuros e Swaps."
+     },
+     {
+      "subtitulo": "Fluxo de capital estrangeiro e câmbio",
+      "texto": "No mercado cambial, o Dólar futuro e o spot valorizaram-se 0,71%, cotados a R$ 5,0204. No exterior, a queda do ETF EWZ em Nova York apontou para a saída de capital estrangeiro da bolsa brasileira. Adicionalmente, a readequação das cotações das ADRs e a busca por hedge em derivativos afetaram as projeções de Taxa Interna de Retorno, abrindo espaço para juros mais baixos no limite com o equilíbrio das contas públicas."
+     }
+    ],
+    "conclusao": "Em suma, a reação do Ibovespa aos 206.887,52 pontos, a alta do dólar a R$ 5,0204 e o avanço dos DIs acima de 20 pontos-base evidenciam a reavaliação do VaR nos portfólios institucionais diante de projeções inflacionárias e incertezas políticas."
+   }
+  },
+  {
+   "event": "Ibovespa hoje cai 1% após pesquisas eleitorais mostrarem Lula e Flávio em empate técnico",
+   "cluster_id": "25832ea53a55a3b3",
+   "fmt": "carrossel",
+   "level": "avancado",
+   "passed": true,
+   "score": 1.0,
+   "attempts": 1,
+   "cached": false,
+   "latency_ms": 4474,
+   "metrics": {
+    "flesch": 52.0,
+    "palavras": 305,
+    "palavras_por_frase": 16.1,
+    "silabas_por_palavra": 2.13,
+    "termos": {
+     "avancado": 5,
+     "intermediario": 7
+    },
+    "densidade_avancado": 1.64,
+    "densidade_intermediario": 2.3,
+    "densidade_tecnica": 3.94,
+    "nao_explicados": {
+     "avancado": [
+      "juros futuros",
+      "expectativas desancoradas",
+      "Benchmark",
+      "VaR"
+     ],
+     "intermediario": [
+      "Ibovespa",
+      "IPCA",
+      "ETF"
+     ]
+    },
+    "analogias": 0,
+    "numeros_sem_lastro": [],
+    "cobertura_ancoras": 1.0,
+    "fatos_faltando": []
+   },
+   "first_score": 1.0,
+   "first_flesch": 52.0,
+   "first_failures": [],
+   "spec_level": "avancado",
+   "centroid_level": "avancado",
+   "features": {
+    "flesch": 52.0,
+    "densidade_tecnica": 3.9399999999999995,
+    "analogias_100": 0.0,
+    "nao_explicados_pct": 1.0
+   },
+   "content": {
+    "slides": [
+     {
+      "papel": "gancho",
+      "titulo": "Ajuste na curva de juros e volatilidade no Ibovespa",
+      "texto": "A divulgação de pesquisas eleitorais para o segundo turno e a revisão das expectativas desancoradas no Boletim Focus geraram estresse na curva de juros e realização de lucros no mercado acionário."
+     },
+     {
+      "papel": "corpo",
+      "titulo": "Desempenho dos ativos e pressão cambial",
+      "texto": "O Ibovespa caiu 1,04% e fechou aos 206.887,52 pontos. O dólar subiu 0,71% e foi cotado a R$ 5,0204 no mesmo dia, refletindo abertura de espaço para repaginação de risco."
+     },
+     {
+      "papel": "corpo",
+      "titulo": "Pesquisas eleitorais apontam empate técnico",
+      "texto": "A pesquisa BTG/Nexus apontou Flávio Bolsonaro com 48% e Lula com 45% das intenções de voto, configurando empate técnico com margem de erro de dois pontos percentuais. A PoderData/AYA indicou Flávio Bolsonaro com 51% dos votos válidos contra 49% de Lula."
+     },
+     {
+      "papel": "corpo",
+      "titulo": "DIs sobem com expectativas inflacionárias",
+      "texto": "As taxas dos DIs fecharam a terça-feira com altas firmes acima dos 20 pontos-base em vários vencimentos. A mediana do Boletim Focus para o IPCA de 2026 subiu de 5,01% para 5,22%."
+     },
+     {
+      "papel": "corpo",
+      "titulo": "Fluxo estrangeiro e precificação de risco",
+      "texto": "A queda do ETF EWZ em Nova York indicou a possibilidade de saída de dinheiro estrangeiro da Bolsa brasileira, ocorrendo em meio à retomada de negociações após feriado e forte alta na semana anterior."
+     },
+     {
+      "papel": "conclusao",
+      "titulo": "Implicações analíticas para as carteiras",
+      "texto": "A elevação das taxas dos DIs e a repaginação das expectativas inflacionárias exigem reavaliação de benchmark e do VaR dos portfólios, onde a estabilização de juros mais baixos no limite dependerá do equilíbrio das contas públicas."
+     }
+    ],
+    "legenda": "O mercado financeiro brasileiro apresentou ajuste nas taxas dos DIs e no Ibovespa após a divulgação de pesquisas eleitorais indicando empate técnico no segundo turno. A pesquisa BTG/Nexus registrou Flávio Bolsonaro com 48% e Lula com 45%, enquanto a PoderData/AYA mostrou 51% contra 49%. O Ibovespa caiu 1,04% para 206.887,52 pontos e a mediana do Boletim Focus para o IPCA de 2026 subiu de 5,01% para 5,22%. O movimento refletiu realização de lucros e elevação nos prêmios de risco exigidos pelo mercado.",
+    "hashtags": [
+     "Ibovespa",
+     "CurvaDeJuros",
+     "MercadoFinanceiro",
+     "IPCA",
+     "ETF"
+    ]
+   }
+  },
+  {
+   "event": "Ibovespa hoje cai 1% após pesquisas eleitorais mostrarem Lula e Flávio em empate técnico",
+   "cluster_id": "25832ea53a55a3b3",
+   "fmt": "roteiro",
+   "level": "avancado",
+   "passed": true,
+   "score": 1.0,
+   "attempts": 1,
+   "cached": false,
+   "latency_ms": 3342,
+   "metrics": {
+    "flesch": 57.5,
+    "palavras": 100,
+    "palavras_por_frase": 14.3,
+    "silabas_por_palavra": 2.09,
+    "termos": {
+     "intermediario": 3,
+     "avancado": 3
+    },
+    "densidade_avancado": 3.0,
+    "densidade_intermediario": 3.0,
+    "densidade_tecnica": 6.0,
+    "nao_explicados": {
+     "intermediario": [
+      "Ibovespa",
+      "IPCA",
+      "ETF"
+     ],
+     "avancado": [
+      "Benchmark",
+      "expectativas desancoradas",
+      "VaR"
+     ]
+    },
+    "analogias": 0,
+    "numeros_sem_lastro": [],
+    "cobertura_ancoras": 1.0,
+    "fatos_faltando": []
+   },
+   "first_score": 1.0,
+   "first_flesch": 57.5,
+   "first_failures": [],
+   "spec_level": "avancado",
+   "centroid_level": "avancado",
+   "features": {
+    "flesch": 57.5,
+    "densidade_tecnica": 6.0,
+    "analogias_100": 0.0,
+    "nao_explicados_pct": 1.0
+   },
+   "content": {
+    "titulo": "Reação dos Mercados às Pesquisas Eleitorais e Focus",
+    "blocos": [
+     {
+      "inicio_s": 0,
+      "fim_s": 3,
+      "gancho_visual": "Gráfico do Ibovespa em queda com texto explicativo na tela",
+      "fala": "O Ibovespa caiu 1,04% e fechou aos 206.887,52 pontos."
+     },
+     {
+      "inicio_s": 3,
+      "fim_s": 15,
+      "gancho_visual": "Dados da pesquisa BTG/Nexus destacados em tela",
+      "fala": "A movimentação refletiu pesquisas eleitorais indicando empate técnico no segundo turno. A pesquisa BTG/Nexus apontou Flávio Bolsonaro com 48% e Lula com 45% das intenções de voto."
+     },
+     {
+      "inicio_s": 15,
+      "fim_s": 28,
+      "gancho_visual": "Curva de juros DIs subindo e cotação do dólar",
+      "fala": "O dólar subiu 0,71% cotado a R$ 5,0204. As taxas dos DIs fecharam com altas firmes acima dos 20 pontos-base em vários vencimentos, sob pressão do benchmark Cambial."
+     },
+     {
+      "inicio_s": 28,
+      "fim_s": 42,
+      "gancho_visual": "Relatório do Boletim Focus em destaque com projeção do IPCA",
+      "fala": "A deterioração das expectativas desancoradas foi evidenciada no Boletim Focus: a mediana para o IPCA de 2026 subiu de 5,01% para 5,22%."
+     },
+     {
+      "inicio_s": 42,
+      "fim_s": 55,
+      "gancho_visual": "Queda do ETF EWZ em Nova York indicando saída de capital",
+      "fala": "A queda do ETF EWZ em Nova York sinaliza potencial saída de capital estrangeiro, com o mercado ajustando o VaR das posições acionárias."
+     }
+    ]
+   }
+  },
+  {
+   "event": "Fiagro SNAG11 sobe 0,7% na contramão do IFIX em semana de dividendos",
+   "cluster_id": "cov:a23cfce9713215de",
+   "fmt": "artigo",
+   "level": "avancado",
+   "passed": true,
+   "score": 1.0,
+   "attempts": 1,
+   "cached": false,
+   "latency_ms": 4127,
+   "metrics": {
+    "flesch": 45.0,
+    "palavras": 292,
+    "palavras_por_frase": 13.9,
+    "silabas_por_palavra": 2.24,
+    "termos": {
+     "intermediario": 6,
+     "avancado": 5,
+     "basico": 1
+    },
+    "densidade_avancado": 1.71,
+    "densidade_intermediario": 2.05,
+    "densidade_tecnica": 3.76,
+    "nao_explicados": {
+     "intermediario": [
+      "dividendos",
+      "CDI",
+      "Risco de crédito",
+      "renda fixa"
+     ],
+     "avancado": [
+      "juros futuros",
+      "spread de crédito",
+      "Taxa Interna de Retorno",
+      "covenants"
+     ],
+     "basico": [
+      "Inadimplência"
+     ]
+    },
+    "analogias": 0,
+    "numeros_sem_lastro": [],
+    "cobertura_ancoras": 1.0,
+    "fatos_faltando": []
+   },
+   "first_score": 1.0,
+   "first_flesch": 45.0,
+   "first_failures": [],
+   "spec_level": "avancado",
+   "centroid_level": "avancado",
+   "features": {
+    "flesch": 45.0,
+    "densidade_tecnica": 3.76,
+    "analogias_100": 0.0,
+    "nao_explicados_pct": 1.0
+   },
+   "content": {
+    "titulo": "SNAG11 avança 0,71% na contramão do IFIX impulsionado por dividendos e novos CRAs",
+    "lead": "O Fiagro SNAG11 registrou alta de 0,71% cotado a R$ 9,98, divergindo do IFIX que recuou 0,94%. O movimento reflete a expectativa de dividendos e a alocação tática no mercado secundário. O fundo aproveitou a abertura da curva de juros e o spread de crédito elevado para expandir a remuneração média da carteira sem alterar a qualidade dos emissores.",
+    "secoes": [
+     {
+      "subtitulo": "Desempenho operacional e desacoplamento do IFIX",
+      "texto": "Com volume financeiro de R$ 3,59 milhões, o SNAG11 apresentou valorização de 0,71%, atingindo a cota de R$ 9,98. No mesmo intervalo, o IFIX recuou 0,94%. O fluxo comprador foi impulsionado pela sinalização de proventos. No pagamento mais recente de setembro, o fundo distribuiu R$ 0,12 por cota. Em agosto de 2026, o resultado mensal atingira R$ 0,113 por cota, acumulando R$ 0,096 por cota em reservas estratégicas."
+     },
+     {
+      "subtitulo": "Alocação tática em CRAs e elevação do carrego",
+      "texto": "A gestão adquiriu quatro Certificados de Recebíveis do Agronegócio no mercado secundário, atrelados a MBRF e Minerva. Essa movimentação expandiu o carrego ponderado para CDI + 2,76%. A abertura da curva de juros e os spreads de crédito atrativos viabilizaram a otimização da Taxa Interna de Retorno do portfólio. A estratégia elevou o retorno potencial preservando o perfil de risco de crédito dos emissores."
+     },
+     {
+      "subtitulo": "Estrutura patrimonial e liquidez",
+      "texto": "O patrimônio líquido encerrou agosto em aproximadamente R$ 906,09 milhões, equivalente a uma cota patrimonial de R$ 10,13. A posição líquida de recursos disponíveis somou R$ 53,54 milhões, correspondendo a 5,91% do patrimônio líquido. O fundo mantém covenants operacionais rigorosos e taxa de inadimplência em 0%, assegurando solidez estrutural."
+     }
+    ],
+    "conclusao": "A recomposição do portfólio do SNAG11 consolida uma assimetria positiva entre risco e retorno. A ampliação da taxa média de carrego fortalece a capacidade de distribuição de dividendos do fundo frente à volatilidade dos mercados de renda fixa e imobiliário."
+   }
+  },
+  {
+   "event": "Fiagro SNAG11 sobe 0,7% na contramão do IFIX em semana de dividendos",
+   "cluster_id": "cov:a23cfce9713215de",
+   "fmt": "carrossel",
+   "level": "avancado",
+   "passed": true,
+   "score": 1.0,
+   "attempts": 1,
+   "cached": false,
+   "latency_ms": 11728,
+   "metrics": {
+    "flesch": 45.8,
+    "palavras": 195,
+    "palavras_por_frase": 15.0,
+    "silabas_por_palavra": 2.22,
+    "termos": {
+     "intermediario": 1,
+     "basico": 1,
+     "avancado": 5
+    },
+    "densidade_avancado": 2.56,
+    "densidade_intermediario": 0.51,
+    "densidade_tecnica": 3.07,
+    "nao_explicados": {
+     "intermediario": [
+      "dividendos"
+     ],
+     "basico": [
+      "Inadimplência"
+     ],
+     "avancado": [
+      "spread de crédito",
+      "juros futuros",
+      "covenants"
+     ]
+    },
+    "analogias": 0,
+    "numeros_sem_lastro": [],
+    "cobertura_ancoras": 1.0,
+    "fatos_faltando": []
+   },
+   "first_score": 1.0,
+   "first_flesch": 45.8,
+   "first_failures": [],
+   "spec_level": "avancado",
+   "centroid_level": "intermediario",
+   "features": {
+    "flesch": 45.8,
+    "densidade_tecnica": 3.0700000000000003,
+    "analogias_100": 0.0,
+    "nao_explicados_pct": 1.0
+   },
+   "content": {
+    "slides": [
+     {
+      "papel": "gancho",
+      "titulo": "SNAG11 na contramão do IFIX",
+      "texto": "O Fiagro SNAG11 avançou 0,71% nesta terça-feira, cotado a R$ 9,98, enquanto o IFIX recuou 0,94% no mesmo período de referência com volume financeiro de R$ 3,59 milhões."
+     },
+     {
+      "papel": "corpo",
+      "titulo": "Dividendos e Distribuição",
+      "texto": "No pagamento mais recente referente a setembro, o fundo distribuiu R$ 0,12 por cota, mantendo patamares alinhados aos resultados mensais anteriores e às reservas de capital."
+     },
+     {
+      "papel": "corpo",
+      "titulo": "Novas Aquisições de CRAs",
+      "texto": "O fundo adquiriu quatro Certificados de Recebíveis do Agronegócio no mercado secundário, atrelados a MBRF e Minerva, otimizando o carrego ponderado da carteira."
+     },
+     {
+      "papel": "corpo",
+      "titulo": "Posição de Liquidez e PL",
+      "texto": "O patrimônio líquido encerrou agosto em aproximadamente R$ 906,09 milhões, com cota patrimonial de R$ 10,13 e inadimplência em 0% sobre a aluração."
+     },
+     {
+      "papel": "corpo",
+      "titulo": "Alocação e Recursos",
+      "texto": "A posição líquida de recursos disponíveis somou R$ 53,54 milhões, equivalente a 5,91% do patrimônio líquido, mantendo flexibilidade tática para o spread de crédito."
+     },
+     {
+      "papel": "conclusao",
+      "titulo": "Implicações Metodológicas",
+      "texto": "A abertura da curva de juros e os spreads elevados permitiram elevar o carrego sem comprometer a duration ou assumir covenants desfavoráveis na originação."
+     }
+    ],
+    "legenda": "Análise técnica do desempenho do Fiagro SNAG11 frente ao IFIX, avaliando o carrego da carteira, alocação em CRAs secundários e o impacto da abertura da curva de juros na marcação e no spread de crédito.",
+    "hashtags": [
+     "#SNAG11",
+     "#Fiagro",
+     "#MercadoDeCapitais",
+     "#RendaFixa",
+     "#AnaliseDeInvestimentos"
+    ]
+   }
+  },
+  {
+   "event": "Fiagro SNAG11 sobe 0,7% na contramão do IFIX em semana de dividendos",
+   "cluster_id": "cov:a23cfce9713215de",
+   "fmt": "roteiro",
+   "level": "avancado",
+   "passed": true,
+   "score": 1.0,
+   "attempts": 1,
+   "cached": false,
+   "latency_ms": 1869,
+   "metrics": {
+    "flesch": 42.3,
+    "palavras": 124,
+    "palavras_por_frase": 20.7,
+    "silabas_por_palavra": 2.19,
+    "termos": {
+     "intermediario": 2,
+     "avancado": 2,
+     "basico": 1
+    },
+    "densidade_avancado": 1.61,
+    "densidade_intermediario": 1.61,
+    "densidade_tecnica": 3.22,
+    "nao_explicados": {
+     "intermediario": [
+      "dividendos",
+      "CDI"
+     ],
+     "avancado": [
+      "juros futuros",
+      "EBITDA ajustado"
+     ],
+     "basico": [
+      "Inadimplência"
+     ]
+    },
+    "analogias": 0,
+    "numeros_sem_lastro": [],
+    "cobertura_ancoras": 1.0,
+    "fatos_faltando": []
+   },
+   "first_score": 1.0,
+   "first_flesch": 42.3,
+   "first_failures": [],
+   "spec_level": "avancado",
+   "centroid_level": "avancado",
+   "features": {
+    "flesch": 42.3,
+    "densidade_tecnica": 3.22,
+    "analogias_100": 0.0,
+    "nao_explicados_pct": 1.0
+   },
+   "content": {
+    "titulo": "Análise de performance do Fiagro SNAG11 – 0,71% contra IFIX em 60 s",
+    "blocos": [
+     {
+      "inicio_s": 0,
+      "fim_s": 3,
+      "gancho_visual": "Ticker SNAG11 subindo, gráfico de alta contra IFIX em vermelho",
+      "fala": "SNAG11 avançou 0,71% nesta terça, enquanto o IFIX recuou 0,94%."
+     },
+     {
+      "inicio_s": 3,
+      "fim_s": 10,
+      "gancho_visual": "Cota a R$ 9,98, volume financeiro R$ 3,59 mi destacado",
+      "fala": "A cota fechou em R$ 9,98 com volume financeiro de R$ 3,59 milhões, refletindo a expectativa de dividendos de R$ 0,12 por cota."
+     },
+     {
+      "inicio_s": 10,
+      "fim_s": 20,
+      "gancho_visual": "Tabela de aquisições: quatro CRAs (MBRF, Minerva) e carrego CDI + 2,76%",
+      "fala": "O fundo adquiriu quatro Certificados de Recebíveis do Agronegócio no mercado secundário, vinculados a MBRF e Minerva, elevando o carrego ponderado para CDI + 2,76%."
+     },
+     {
+      "inicio_s": 20,
+      "fim_s": 30,
+      "gancho_visual": "Curva de juros em abertura, spreads de crédito destacados",
+      "fala": "A abertura da curva de juros e spreads de crédito elevados permitiram reforçar o retorno potencial da carteira sem ampliar a exposição a emissores de menor qualidade."
+     },
+     {
+      "inicio_s": 30,
+      "fim_s": 45,
+      "gancho_visual": "Indicadores de liquidez: R$ 53,54 mi (5,91% PL) e inadimplência 0%",
+      "fala": "A posição líquida de recursos disponíveis somou R$ 53,54 milhões, equivalente a 5,91% do patrimônio líquido, com inadimplência em 0%."
+     },
+     {
+      "inicio_s": 45,
+      "fim_s": 60,
+      "gancho_visual": "Patrimônio líquido R$ 906,09 mi, cota patrimonial R$ 10,13",
+      "fala": "O patrimônio líquido encerrou agosto em aproximadamente R$ 906,09 milhões, com cota patrimonial de R$ 10,13, sustentando a distribuição de R$ 0,12 por cota e reforçando a perspectiva de EBITDA ajustado elevado."
+     }
+    ]
+   }
+  }
+ ]
+}

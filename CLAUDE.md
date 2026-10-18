@@ -24,6 +24,7 @@ docker compose exec db psql -U postgres -d suno_content
 uv run python scrape.py run --dry-run --since 3d   # coleta sem gravar
 uv run python scrape.py run                # incremental (grava no Postgres)
 uv run python scrape.py health             # saúde por fonte
+uv run uvicorn web.app:app --port 8000     # interface → http://localhost:8000
 ```
 
 ## Layout
@@ -36,8 +37,14 @@ src/scraper/relevance/  text, cluster (eventos), scorer, stage (fim da rodada)
 src/scraper/pipeline.py streaming: fontes → dedupe → enriquecimento → lote → relevância
 sources.yaml            registro de fontes (feed novo = entrada aqui)
 glossary/events.yaml    termos de eventos de mercado (relevância)
-scrape.py               CLI: run | backfill | health
-src/pipeline/, src/evals/  (futuro) grafo LangGraph e avaliador híbrido
+scrape.py               CLI: run | backfill | refresh | health | heal-demo
+src/llm/                LLMRouter (failover, cota por chave, schema estrito), prompts versionados
+src/generation/         grafo LangGraph (âncoras → brief → escrita → avaliação → reflexão), service
+src/evals/              avaliador híbrido (Flesch-PT, jargão, lastro numérico, juiz), lote/matrizes
+src/glossary/           matcher do glossário local (glossary/candidates.yaml)
+src/topics/             escolha de tema: busca full-text local + busca WP-JSON nos portais
+src/web/                FastAPI (API + SSE) e front estático em static/ (HTML/CSS/JS puro)
+generate.py, evaluate.py  CLIs de geração e de avaliação em lote
 sql/                    migrations numeradas e idempotentes
 schemas/                schemas CSS versionados do healer (protegido por hook)
 tests/                  offline; tests/fixtures/ = respostas reais gravadas (protegido por hook)

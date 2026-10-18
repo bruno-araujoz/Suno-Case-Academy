@@ -21,6 +21,8 @@ from ..core.models import Document
 class StateStore(Protocol):
     async def get_state(self, source: str, endpoint_key: str) -> SourceState | None: ...
     async def save_state(self, state: SourceState) -> None: ...
+    async def get_heal_after(self, source: str) -> datetime | None: ...
+    async def set_heal_after(self, source: str, until: datetime | None) -> None: ...
 
 
 class MemoryStateStore:
@@ -28,12 +30,19 @@ class MemoryStateStore:
 
     def __init__(self) -> None:
         self._data: dict[tuple[str, str], SourceState] = {}
+        self._heal_after: dict[str, datetime | None] = {}
 
     async def get_state(self, source: str, endpoint_key: str) -> SourceState | None:
         return self._data.get((source, endpoint_key))
 
     async def save_state(self, state: SourceState) -> None:
         self._data[(state.source, state.endpoint_key)] = state
+
+    async def get_heal_after(self, source: str) -> datetime | None:
+        return self._heal_after.get(source)
+
+    async def set_heal_after(self, source: str, until: datetime | None) -> None:
+        self._heal_after[source] = until
 
 
 @dataclass

@@ -18,6 +18,10 @@ dependencies = [
     "rapidfuzz>=3.10",
     "xxhash>=3.5",
     "pyyaml>=6.0",
+    "pyphen>=0.17",
+    "langgraph>=1.2",
+    "fastapi>=0.143",
+    "uvicorn[standard]>=0.30",
 ]
 
 [project.optional-dependencies]
@@ -26,6 +30,7 @@ embed = ["fastembed>=0.5"]
 
 [dependency-groups]
 dev = [
+    "wordfreq>=3.1",  # glossary mining only (scripts/build_glossary.py)
     "pytest>=8",
     "pytest-asyncio>=0.23",
     "ruff>=0.6",
@@ -41,6 +46,9 @@ select = ["E", "F", "I", "UP", "B", "ASYNC"]
 [tool.pytest.ini_options]
 testpaths = ["tests"]
 asyncio_mode = "auto"
+# Offline by default: network/LLM tests only run when asked for (`pytest -m live`).
+addopts = '-m "not live"'
+filterwarnings = ["ignore:enable_cleanup_closed ignored:DeprecationWarning"]
 markers = [
     "live: acessa a rede/fontes reais (excluído do Stop hook; rode com -m live)",
     "db: precisa do Postgres local (pulado automaticamente se o banco estiver fora do ar)",
@@ -51,4 +59,4 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [tool.hatch.build.targets.wheel]
-packages = ["src/scraper"]
+packages = ["src/scraper", "src/llm", "src/glossary", "src/evals", "src/generation", "src/topics", "src/web"]

@@ -1,0 +1,11 @@
+# Conjunto rotulado pelo time (calibração do avaliador). Meta: ~30 textos, 10 por nível.
+# Cada pessoa lê e atribui o nível de PÚBLICO para o qual o texto está adequado — sem olhar métricas.
+# Fontes sugeridas: trechos de notícias, de atas, posts educativos, e textos escritos à mão.
+# Remova `exemplo: true` dos itens reais (os exemplos abaixo são ignorados pelo script).
+- id: exemplo-1
+  exemplo: true
+  nivel: iniciante          # iniciante | intermediario | avancado
+  avaliador: nome
+  fonte: escrito pelo time
+  texto: >
+    O Banco Central baixou os juros. Isso deixa o crédito mais barato...

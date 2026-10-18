@@ -52,9 +52,15 @@ pytest, Streamlit/Gradio/FastAPI+React.
 ## Decisões do time (não estão no TAPI)
 - **Entrada via scraping próprio:** o sistema é alimentado por um scraper self-healing de
   notícias e documentos do mercado financeiro (oficiais + notícias). Plano: [plans/01-scraper.md](plans/01-scraper.md).
-- **Sem saída em vídeo:** o formato "roteiro de vídeo" não será produzido como vídeo. Definição
-  do formato substituto fica para a fase de geração.
-- **Stack:** Python 3.11+, uv, PostgreSQL (Docker), LLM com cadeia de fallback
+- **Sem saída em vídeo:** o 3º formato é o **roteiro de vídeo curto em texto** (marcações de
+  tempo, ganchos visuais, fala de até 60s) — nenhum vídeo é renderizado.
+- **Fluxo do usuário (MVP):** o usuário escolhe **formato** (artigo, carrossel, roteiro) e
+  **nível da audiência** (iniciante, intermediário, avançado); gera-se **1 conteúdo por pedido**.
+  Tema no MVP = evento mais relevante no banco (maior `relevance_score` / high_priority).
+  Depois: tema livre, escolher evento de uma lista, variações do mesmo formato.
+- **Comparação entre níveis** (matriz de saídas + matriz de confusão do TAPI) vem da suíte de
+  avaliação em lote, não da UI do MVP.
+- **Stack:** Python 3.12, uv, PostgreSQL (Docker), LLM com cadeia de fallback
   (OpenRouter → Groq → Gemini → Ollama).
 
 ## Pontos de atenção do documento

@@ -1,0 +1,6038 @@
+{
+ "candidatos": [
+  {
+   "termo": "cenário de referência",
+   "log_odds": 7.675,
+   "freq_oficial": 247,
+   "docs_oficiais": 89,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "cenário básico",
+   "log_odds": 7.465,
+   "freq_oficial": 601,
+   "docs_oficiais": 89,
+   "freq_noticias": 1,
+   "docs_noticias": 1
+  },
+  {
+   "termo": "necessários na economia",
+   "log_odds": 7.359,
+   "freq_oficial": 180,
+   "docs_oficiais": 82,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "reformas ajustes",
+   "log_odds": 7.273,
+   "freq_oficial": 165,
+   "docs_oficiais": 72,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "juros estrutural",
+   "log_odds": 7.137,
+   "freq_oficial": 144,
+   "docs_oficiais": 74,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "projeções expectativas",
+   "log_odds": 7.137,
+   "freq_oficial": 144,
+   "docs_oficiais": 90,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "reformas ajustes necessários",
+   "log_odds": 7.13,
+   "freq_oficial": 143,
+   "docs_oficiais": 72,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "supõe",
+   "log_odds": 7.087,
+   "freq_oficial": 137,
+   "docs_oficiais": 91,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "ancoragem das expectativas",
+   "log_odds": 7.019,
+   "freq_oficial": 128,
+   "docs_oficiais": 78,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "básico balanço",
+   "log_odds": 6.988,
+   "freq_oficial": 124,
+   "docs_oficiais": 86,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "cenário básico balanço",
+   "log_odds": 6.988,
+   "freq_oficial": 124,
+   "docs_oficiais": 86,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "relevante para política",
+   "log_odds": 6.98,
+   "freq_oficial": 123,
+   "docs_oficiais": 78,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "situam-se em torno",
+   "log_odds": 6.947,
+   "freq_oficial": 119,
+   "docs_oficiais": 72,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "demanda agregada",
+   "log_odds": 6.93,
+   "freq_oficial": 117,
+   "docs_oficiais": 65,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "desinflacionário",
+   "log_odds": 6.921,
+   "freq_oficial": 116,
+   "docs_oficiais": 48,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "monetária considerando",
+   "log_odds": 6.895,
+   "freq_oficial": 113,
+   "docs_oficiais": 84,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "componentes mais sensíveis",
+   "log_odds": 6.886,
+   "freq_oficial": 112,
+   "docs_oficiais": 83,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "desde reunião",
+   "log_odds": 6.886,
+   "freq_oficial": 112,
+   "docs_oficiais": 90,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "política monetária considerando",
+   "log_odds": 6.886,
+   "freq_oficial": 112,
+   "docs_oficiais": 83,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "longo do horizonte",
+   "log_odds": 6.869,
+   "freq_oficial": 110,
+   "docs_oficiais": 83,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "conforme alterada",
+   "log_odds": 6.859,
+   "freq_oficial": 109,
+   "docs_oficiais": 51,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "prescreve",
+   "log_odds": 6.859,
+   "freq_oficial": 109,
+   "docs_oficiais": 61,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "desancoradas",
+   "log_odds": 6.859,
+   "freq_oficial": 109,
+   "docs_oficiais": 47,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "nível de ociosidade",
+   "log_odds": 6.803,
+   "freq_oficial": 103,
+   "docs_oficiais": 67,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "meta no horizonte",
+   "log_odds": 6.803,
+   "freq_oficial": 103,
+   "docs_oficiais": 80,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "processo de reformas",
+   "log_odds": 6.784,
+   "freq_oficial": 101,
+   "docs_oficiais": 70,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "básico para inflação",
+   "log_odds": 6.764,
+   "freq_oficial": 99,
+   "docs_oficiais": 86,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "pelo conselho monetário",
+   "log_odds": 6.764,
+   "freq_oficial": 99,
+   "docs_oficiais": 89,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "diversas medidas",
+   "log_odds": 6.754,
+   "freq_oficial": 98,
+   "docs_oficiais": 84,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "redor da meta",
+   "log_odds": 6.743,
+   "freq_oficial": 97,
+   "docs_oficiais": 79,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "processo desinflacionário",
+   "log_odds": 6.733,
+   "freq_oficial": 96,
+   "docs_oficiais": 39,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "estímulo monetário",
+   "log_odds": 6.712,
+   "freq_oficial": 94,
+   "docs_oficiais": 41,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "flutuações do nível",
+   "log_odds": 6.691,
+   "freq_oficial": 92,
+   "docs_oficiais": 88,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "continuidade das reformas",
+   "log_odds": 6.658,
+   "freq_oficial": 89,
+   "docs_oficiais": 63,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "usual de arredondar",
+   "log_odds": 6.646,
+   "freq_oficial": 88,
+   "docs_oficiais": 88,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "observada nos cinco",
+   "log_odds": 6.646,
+   "freq_oficial": 88,
+   "docs_oficiais": 88,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "implica suavização",
+   "log_odds": 6.646,
+   "freq_oficial": 88,
+   "docs_oficiais": 88,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "econômica fomento",
+   "log_odds": 6.646,
+   "freq_oficial": 88,
+   "docs_oficiais": 88,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "preços essa decisão",
+   "log_odds": 6.646,
+   "freq_oficial": 88,
+   "docs_oficiais": 88,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "decisão também implica",
+   "log_odds": 6.646,
+   "freq_oficial": 88,
+   "docs_oficiais": 88,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "suavização das flutuações",
+   "log_odds": 6.646,
+   "freq_oficial": 88,
+   "docs_oficiais": 88,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "atividade econômica fomento",
+   "log_odds": 6.646,
+   "freq_oficial": 88,
+   "docs_oficiais": 88,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "fomento do pleno",
+   "log_odds": 6.646,
+   "freq_oficial": 88,
+   "docs_oficiais": 88,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "supõe trajetória",
+   "log_odds": 6.635,
+   "freq_oficial": 87,
+   "docs_oficiais": 75,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "econômica do balanço",
+   "log_odds": 6.635,
+   "freq_oficial": 87,
+   "docs_oficiais": 66,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "anterior da reunião",
+   "log_odds": 6.635,
+   "freq_oficial": 87,
+   "docs_oficiais": 86,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "participantes presentes",
+   "log_odds": 6.624,
+   "freq_oficial": 86,
+   "docs_oficiais": 86,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "analisaram evolução",
+   "log_odds": 6.624,
+   "freq_oficial": 86,
+   "docs_oficiais": 86,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "monetária cujo",
+   "log_odds": 6.624,
+   "freq_oficial": 86,
+   "docs_oficiais": 86,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "cujo objetivo",
+   "log_odds": 6.624,
+   "freq_oficial": 86,
+   "docs_oficiais": 86,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "objetivo atingir",
+   "log_odds": 6.624,
+   "freq_oficial": 86,
+   "docs_oficiais": 86,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "analisaram evolução recente",
+   "log_odds": 6.624,
+   "freq_oficial": 86,
+   "docs_oficiais": 86,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "recente as perspectivas",
+   "log_odds": 6.624,
+   "freq_oficial": 86,
+   "docs_oficiais": 86,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "brasileira para economia",
+   "log_odds": 6.624,
+   "freq_oficial": 86,
+   "docs_oficiais": 86,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "internacional no contexto",
+   "log_odds": 6.624,
+   "freq_oficial": 86,
+   "docs_oficiais": 86,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "contexto do regime",
+   "log_odds": 6.624,
+   "freq_oficial": 86,
+   "docs_oficiais": 86,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "regime de política",
+   "log_odds": 6.624,
+   "freq_oficial": 86,
+   "docs_oficiais": 86,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "política monetária cujo",
+   "log_odds": 6.624,
+   "freq_oficial": 86,
+   "docs_oficiais": 86,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "monetária cujo objetivo",
+   "log_odds": 6.624,
+   "freq_oficial": 86,
+   "docs_oficiais": 86,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "cujo objetivo atingir",
+   "log_odds": 6.624,
+   "freq_oficial": 86,
+   "docs_oficiais": 86,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "adota-se",
+   "log_odds": 6.624,
+   "freq_oficial": 86,
+   "docs_oficiais": 84,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "fundamental de assegurar",
+   "log_odds": 6.624,
+   "freq_oficial": 86,
+   "docs_oficiais": 86,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "encerrados no último",
+   "log_odds": 6.624,
+   "freq_oficial": 86,
+   "docs_oficiais": 86,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "fixadas",
+   "log_odds": 6.6,
+   "freq_oficial": 84,
+   "docs_oficiais": 83,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "fixadas pelo",
+   "log_odds": 6.6,
+   "freq_oficial": 84,
+   "docs_oficiais": 83,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "metas fixadas",
+   "log_odds": 6.588,
+   "freq_oficial": 83,
+   "docs_oficiais": 83,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "metas fixadas pelo",
+   "log_odds": 6.588,
+   "freq_oficial": 83,
+   "docs_oficiais": 83,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "conjunto dos indicadores",
+   "log_odds": 6.588,
+   "freq_oficial": 83,
+   "docs_oficiais": 83,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "menção explícita",
+   "log_odds": 6.576,
+   "freq_oficial": 82,
+   "docs_oficiais": 82,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "mudanças ocorridas",
+   "log_odds": 6.576,
+   "freq_oficial": 82,
+   "docs_oficiais": 82,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "ocorridas desde",
+   "log_odds": 6.576,
+   "freq_oficial": 82,
+   "docs_oficiais": 82,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "preços relativos",
+   "log_odds": 6.576,
+   "freq_oficial": 82,
+   "docs_oficiais": 31,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "atualização da conjuntura",
+   "log_odds": 6.576,
+   "freq_oficial": 82,
+   "docs_oficiais": 82,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "econômica do cenário",
+   "log_odds": 6.576,
+   "freq_oficial": 82,
+   "docs_oficiais": 82,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "explícita em contrário",
+   "log_odds": 6.576,
+   "freq_oficial": 82,
+   "docs_oficiais": 82,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "contrário esta atualização",
+   "log_odds": 6.576,
+   "freq_oficial": 82,
+   "docs_oficiais": 82,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "conta as mudanças",
+   "log_odds": 6.576,
+   "freq_oficial": 82,
+   "docs_oficiais": 82,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "mudanças ocorridas desde",
+   "log_odds": 6.576,
+   "freq_oficial": 82,
+   "docs_oficiais": 82,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "econômico política",
+   "log_odds": 6.564,
+   "freq_oficial": 81,
+   "docs_oficiais": 68,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "ciclo econômico política",
+   "log_odds": 6.564,
+   "freq_oficial": 81,
+   "docs_oficiais": 68,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "econômico política monetária",
+   "log_odds": 6.564,
+   "freq_oficial": 81,
+   "docs_oficiais": 68,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "reuniões do andar",
+   "log_odds": 6.564,
+   "freq_oficial": 81,
+   "docs_oficiais": 81,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "fixadas pelo conselho",
+   "log_odds": 6.552,
+   "freq_oficial": 80,
+   "docs_oficiais": 80,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "ocorridas desde reunião",
+   "log_odds": 6.552,
+   "freq_oficial": 80,
+   "docs_oficiais": 80,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "adota-se hipótese",
+   "log_odds": 6.552,
+   "freq_oficial": 80,
+   "docs_oficiais": 80,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "cenário supõe",
+   "log_odds": 6.539,
+   "freq_oficial": 79,
+   "docs_oficiais": 78,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "hipótese de bandeira",
+   "log_odds": 6.539,
+   "freq_oficial": 79,
+   "docs_oficiais": 78,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "prospectiva compatível",
+   "log_odds": 6.527,
+   "freq_oficial": 78,
+   "docs_oficiais": 78,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "inflação no horizonte",
+   "log_odds": 6.527,
+   "freq_oficial": 78,
+   "docs_oficiais": 67,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "inflação prospectiva compatível",
+   "log_odds": 6.527,
+   "freq_oficial": 78,
+   "docs_oficiais": 78,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "apresentações técnicas",
+   "log_odds": 6.527,
+   "freq_oficial": 78,
+   "docs_oficiais": 78,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "meta ao longo",
+   "log_odds": 6.514,
+   "freq_oficial": 77,
+   "docs_oficiais": 71,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "compatível com convergência",
+   "log_odds": 6.501,
+   "freq_oficial": 76,
+   "docs_oficiais": 75,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "término das sessões",
+   "log_odds": 6.501,
+   "freq_oficial": 76,
+   "docs_oficiais": 76,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "inflação para redor",
+   "log_odds": 6.488,
+   "freq_oficial": 75,
+   "docs_oficiais": 69,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "inflação permanecem",
+   "log_odds": 6.474,
+   "freq_oficial": 74,
+   "docs_oficiais": 74,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "expectativas desancoradas",
+   "log_odds": 6.474,
+   "freq_oficial": 74,
+   "docs_oficiais": 36,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "segue aproximadamente",
+   "log_odds": 6.474,
+   "freq_oficial": 74,
+   "docs_oficiais": 74,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "aproximadamente curva",
+   "log_odds": 6.474,
+   "freq_oficial": 74,
+   "docs_oficiais": 74,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "técnicas presentes",
+   "log_odds": 6.474,
+   "freq_oficial": 74,
+   "docs_oficiais": 74,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "petróleo segue aproximadamente",
+   "log_odds": 6.474,
+   "freq_oficial": 74,
+   "docs_oficiais": 74,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "segue aproximadamente curva",
+   "log_odds": 6.474,
+   "freq_oficial": 74,
+   "docs_oficiais": 74,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "aproximadamente curva futura",
+   "log_odds": 6.474,
+   "freq_oficial": 74,
+   "docs_oficiais": 74,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "alta para cenário",
+   "log_odds": 6.474,
+   "freq_oficial": 74,
+   "docs_oficiais": 71,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "responsáveis por apresentações",
+   "log_odds": 6.474,
+   "freq_oficial": 74,
+   "docs_oficiais": 74,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "apresentações técnicas presentes",
+   "log_odds": 6.474,
+   "freq_oficial": 74,
+   "docs_oficiais": 74,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "perseverar",
+   "log_odds": 6.474,
+   "freq_oficial": 74,
+   "docs_oficiais": 70,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "presidente bruno",
+   "log_odds": 6.474,
+   "freq_oficial": 74,
+   "docs_oficiais": 64,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "presidente bruno serra",
+   "log_odds": 6.474,
+   "freq_oficial": 74,
+   "docs_oficiais": 64,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "ociosidade",
+   "log_odds": 6.466,
+   "freq_oficial": 221,
+   "docs_oficiais": 89,
+   "freq_noticias": 1,
+   "docs_noticias": 1
+  },
+  {
+   "termo": "relevante de política",
+   "log_odds": 6.461,
+   "freq_oficial": 73,
+   "docs_oficiais": 61,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "aumentar ao ano",
+   "log_odds": 6.461,
+   "freq_oficial": 73,
+   "docs_oficiais": 73,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "compatível com estratégia",
+   "log_odds": 6.461,
+   "freq_oficial": 73,
+   "docs_oficiais": 69,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "grau de estímulo",
+   "log_odds": 6.461,
+   "freq_oficial": 73,
+   "docs_oficiais": 34,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "estimulativa",
+   "log_odds": 6.447,
+   "freq_oficial": 72,
+   "docs_oficiais": 43,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "taxa estrutural",
+   "log_odds": 6.447,
+   "freq_oficial": 72,
+   "docs_oficiais": 43,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "riscos das projeções",
+   "log_odds": 6.447,
+   "freq_oficial": 72,
+   "docs_oficiais": 50,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "câmbio parte",
+   "log_odds": 6.447,
+   "freq_oficial": 72,
+   "docs_oficiais": 72,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "permanecem fatores",
+   "log_odds": 6.433,
+   "freq_oficial": 71,
+   "docs_oficiais": 71,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "inflação permanecem fatores",
+   "log_odds": 6.433,
+   "freq_oficial": 71,
+   "docs_oficiais": 71,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "ressaltam-se",
+   "log_odds": 6.433,
+   "freq_oficial": 71,
+   "docs_oficiais": 71,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "referência trajetória",
+   "log_odds": 6.433,
+   "freq_oficial": 71,
+   "docs_oficiais": 71,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "inflação destacam-se",
+   "log_odds": 6.433,
+   "freq_oficial": 71,
+   "docs_oficiais": 71,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "baixa ressaltam-se",
+   "log_odds": 6.433,
+   "freq_oficial": 71,
+   "docs_oficiais": 71,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "inflacionário as expectativas",
+   "log_odds": 6.433,
+   "freq_oficial": 71,
+   "docs_oficiais": 71,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "monetária estimulativa",
+   "log_odds": 6.419,
+   "freq_oficial": 70,
+   "docs_oficiais": 42,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "política monetária estimulativa",
+   "log_odds": 6.419,
+   "freq_oficial": 70,
+   "docs_oficiais": 42,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "futura pelos",
+   "log_odds": 6.419,
+   "freq_oficial": 70,
+   "docs_oficiais": 70,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "passa aumentar",
+   "log_odds": 6.419,
+   "freq_oficial": 70,
+   "docs_oficiais": 70,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "disso adota-se",
+   "log_odds": 6.419,
+   "freq_oficial": 70,
+   "docs_oficiais": 70,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "curva futura pelos",
+   "log_odds": 6.419,
+   "freq_oficial": 70,
+   "docs_oficiais": 70,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "futura pelos próximos",
+   "log_odds": 6.419,
+   "freq_oficial": 70,
+   "docs_oficiais": 70,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "disso adota-se hipótese",
+   "log_odds": 6.419,
+   "freq_oficial": 70,
+   "docs_oficiais": 70,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "relevante que inclui",
+   "log_odds": 6.419,
+   "freq_oficial": 70,
+   "docs_oficiais": 70,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "dependendo da evolução",
+   "log_odds": 6.405,
+   "freq_oficial": 69,
+   "docs_oficiais": 48,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "meses passa",
+   "log_odds": 6.39,
+   "freq_oficial": 68,
+   "docs_oficiais": 68,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "ano posteriormente",
+   "log_odds": 6.39,
+   "freq_oficial": 68,
+   "docs_oficiais": 68,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "seis meses passa",
+   "log_odds": 6.39,
+   "freq_oficial": 68,
+   "docs_oficiais": 68,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "meses passa aumentar",
+   "log_odds": 6.39,
+   "freq_oficial": 68,
+   "docs_oficiais": 68,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "início de término",
+   "log_odds": 6.39,
+   "freq_oficial": 68,
+   "docs_oficiais": 68,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "prospectivo",
+   "log_odds": 6.39,
+   "freq_oficial": 68,
+   "docs_oficiais": 40,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "relevante para condução",
+   "log_odds": 6.376,
+   "freq_oficial": 67,
+   "docs_oficiais": 60,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "reunião valor",
+   "log_odds": 6.376,
+   "freq_oficial": 67,
+   "docs_oficiais": 67,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "manterá seus acionistas",
+   "log_odds": 6.361,
+   "freq_oficial": 66,
+   "docs_oficiais": 66,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "cenário supõe trajetória",
+   "log_odds": 6.361,
+   "freq_oficial": 66,
+   "docs_oficiais": 66,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "inflação comitê",
+   "log_odds": 6.361,
+   "freq_oficial": 66,
+   "docs_oficiais": 49,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "compra ppc preço",
+   "log_odds": 6.345,
+   "freq_oficial": 65,
+   "docs_oficiais": 65,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "ociosidade na economia",
+   "log_odds": 6.33,
+   "freq_oficial": 64,
+   "docs_oficiais": 50,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "posteriormente além",
+   "log_odds": 6.314,
+   "freq_oficial": 63,
+   "docs_oficiais": 63,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "ano posteriormente além",
+   "log_odds": 6.314,
+   "freq_oficial": 63,
+   "docs_oficiais": 63,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "posteriormente além disso",
+   "log_odds": 6.314,
+   "freq_oficial": 63,
+   "docs_oficiais": 63,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "atendimento ao disposto",
+   "log_odds": 6.299,
+   "freq_oficial": 62,
+   "docs_oficiais": 58,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "prescreve política",
+   "log_odds": 6.299,
+   "freq_oficial": 62,
+   "docs_oficiais": 42,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "juros abaixo",
+   "log_odds": 6.299,
+   "freq_oficial": 62,
+   "docs_oficiais": 42,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "prescreve política monetária",
+   "log_odds": 6.299,
+   "freq_oficial": 62,
+   "docs_oficiais": 42,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "estimulativa ou seja",
+   "log_odds": 6.299,
+   "freq_oficial": 62,
+   "docs_oficiais": 42,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "abaixo da taxa",
+   "log_odds": 6.299,
+   "freq_oficial": 62,
+   "docs_oficiais": 42,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "doméstico conjunto",
+   "log_odds": 6.299,
+   "freq_oficial": 62,
+   "docs_oficiais": 62,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "presidente ailton",
+   "log_odds": 6.299,
+   "freq_oficial": 62,
+   "docs_oficiais": 51,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "inclui ano-calendário",
+   "log_odds": 6.282,
+   "freq_oficial": 61,
+   "docs_oficiais": 55,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "seja com taxas",
+   "log_odds": 6.282,
+   "freq_oficial": 61,
+   "docs_oficiais": 42,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "economia comitê",
+   "log_odds": 6.266,
+   "freq_oficial": 60,
+   "docs_oficiais": 52,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "reflete seu cenário",
+   "log_odds": 6.266,
+   "freq_oficial": 60,
+   "docs_oficiais": 60,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "decisão compatível",
+   "log_odds": 6.266,
+   "freq_oficial": 60,
+   "docs_oficiais": 57,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "câmbio constante",
+   "log_odds": 6.249,
+   "freq_oficial": 59,
+   "docs_oficiais": 40,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "sustentável da economia",
+   "log_odds": 6.232,
+   "freq_oficial": 58,
+   "docs_oficiais": 54,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "parte de países",
+   "log_odds": 6.232,
+   "freq_oficial": 58,
+   "docs_oficiais": 58,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "hiato do produto",
+   "log_odds": 6.204,
+   "freq_oficial": 170,
+   "docs_oficiais": 69,
+   "freq_noticias": 1,
+   "docs_noticias": 1
+  },
+  {
+   "termo": "extraídas da pesquisa",
+   "log_odds": 6.198,
+   "freq_oficial": 56,
+   "docs_oficiais": 49,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "reunião comitê",
+   "log_odds": 6.198,
+   "freq_oficial": 56,
+   "docs_oficiais": 43,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "trajetória prospectiva",
+   "log_odds": 6.18,
+   "freq_oficial": 55,
+   "docs_oficiais": 42,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "grau de ociosidade",
+   "log_odds": 6.18,
+   "freq_oficial": 55,
+   "docs_oficiais": 42,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "monetária que inclui",
+   "log_odds": 6.162,
+   "freq_oficial": 54,
+   "docs_oficiais": 52,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "economia brasileira essencial",
+   "log_odds": 6.162,
+   "freq_oficial": 54,
+   "docs_oficiais": 45,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "atividade econômica global",
+   "log_odds": 6.162,
+   "freq_oficial": 54,
+   "docs_oficiais": 52,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "taxas de inflação",
+   "log_odds": 6.162,
+   "freq_oficial": 54,
+   "docs_oficiais": 40,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "variância",
+   "log_odds": 6.162,
+   "freq_oficial": 54,
+   "docs_oficiais": 48,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "seguintes observações",
+   "log_odds": 6.143,
+   "freq_oficial": 53,
+   "docs_oficiais": 53,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "monetária as expectativas",
+   "log_odds": 6.143,
+   "freq_oficial": 53,
+   "docs_oficiais": 53,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "economia comitê ressalta",
+   "log_odds": 6.143,
+   "freq_oficial": 53,
+   "docs_oficiais": 49,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "recuperação da economia",
+   "log_odds": 6.143,
+   "freq_oficial": 53,
+   "docs_oficiais": 40,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "passos futuros",
+   "log_odds": 6.143,
+   "freq_oficial": 53,
+   "docs_oficiais": 49,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "cenário prospectivo",
+   "log_odds": 6.143,
+   "freq_oficial": 53,
+   "docs_oficiais": 35,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "acumulada em quatro",
+   "log_odds": 6.124,
+   "freq_oficial": 52,
+   "docs_oficiais": 35,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "apenas processo",
+   "log_odds": 6.124,
+   "freq_oficial": 52,
+   "docs_oficiais": 45,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "consolide não apenas",
+   "log_odds": 6.124,
+   "freq_oficial": 52,
+   "docs_oficiais": 45,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "compatível com cumprimento",
+   "log_odds": 6.124,
+   "freq_oficial": 52,
+   "docs_oficiais": 49,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "câmbio extraídas",
+   "log_odds": 6.105,
+   "freq_oficial": 51,
+   "docs_oficiais": 44,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "continuarão dependendo",
+   "log_odds": 6.105,
+   "freq_oficial": 51,
+   "docs_oficiais": 36,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "projeções condicionais",
+   "log_odds": 6.105,
+   "freq_oficial": 51,
+   "docs_oficiais": 27,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "resiliência na inflação",
+   "log_odds": 6.105,
+   "freq_oficial": 51,
+   "docs_oficiais": 51,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "projetada em função",
+   "log_odds": 6.105,
+   "freq_oficial": 51,
+   "docs_oficiais": 51,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "futuros da política",
+   "log_odds": 6.105,
+   "freq_oficial": 51,
+   "docs_oficiais": 44,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "reancoragem",
+   "log_odds": 6.105,
+   "freq_oficial": 51,
+   "docs_oficiais": 25,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "frustração das expectativas",
+   "log_odds": 6.085,
+   "freq_oficial": 50,
+   "docs_oficiais": 32,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "câmbio us observada",
+   "log_odds": 6.085,
+   "freq_oficial": 50,
+   "docs_oficiais": 50,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "andar do edifício-sede",
+   "log_odds": 6.085,
+   "freq_oficial": 50,
+   "docs_oficiais": 50,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "rodapé",
+   "log_odds": 6.085,
+   "freq_oficial": 50,
+   "docs_oficiais": 50,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "maior persistência",
+   "log_odds": 6.085,
+   "freq_oficial": 50,
+   "docs_oficiais": 48,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "trajetória de inflação",
+   "log_odds": 6.085,
+   "freq_oficial": 50,
+   "docs_oficiais": 45,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "divulgações mais recentes",
+   "log_odds": 6.065,
+   "freq_oficial": 49,
+   "docs_oficiais": 46,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "sessões membros",
+   "log_odds": 6.045,
+   "freq_oficial": 48,
+   "docs_oficiais": 48,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "cautela por parte",
+   "log_odds": 6.045,
+   "freq_oficial": 48,
+   "docs_oficiais": 48,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "presente na tarde",
+   "log_odds": 6.045,
+   "freq_oficial": 48,
+   "docs_oficiais": 36,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "usual para inflação",
+   "log_odds": 6.045,
+   "freq_oficial": 48,
+   "docs_oficiais": 48,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "abaixo da meta",
+   "log_odds": 6.024,
+   "freq_oficial": 47,
+   "docs_oficiais": 30,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "cenário doméstico conjunto",
+   "log_odds": 6.024,
+   "freq_oficial": 47,
+   "docs_oficiais": 47,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "cenários avaliados",
+   "log_odds": 6.024,
+   "freq_oficial": 47,
+   "docs_oficiais": 44,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "termos do artigo",
+   "log_odds": 6.003,
+   "freq_oficial": 46,
+   "docs_oficiais": 33,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "produzir trajetória",
+   "log_odds": 6.003,
+   "freq_oficial": 46,
+   "docs_oficiais": 44,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "cenário com trajetórias",
+   "log_odds": 6.003,
+   "freq_oficial": 46,
+   "docs_oficiais": 44,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "ajustes de preços",
+   "log_odds": 6.003,
+   "freq_oficial": 46,
+   "docs_oficiais": 24,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "ajustes na economia",
+   "log_odds": 6.003,
+   "freq_oficial": 46,
+   "docs_oficiais": 27,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "acumulada em doze",
+   "log_odds": 6.003,
+   "freq_oficial": 46,
+   "docs_oficiais": 33,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "câmbio usd",
+   "log_odds": 6.003,
+   "freq_oficial": 46,
+   "docs_oficiais": 46,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "câmbio usd brl",
+   "log_odds": 6.003,
+   "freq_oficial": 46,
+   "docs_oficiais": 46,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "respectivamente no cenário",
+   "log_odds": 6.003,
+   "freq_oficial": 46,
+   "docs_oficiais": 46,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "prospectiva abaixo",
+   "log_odds": 5.981,
+   "freq_oficial": 45,
+   "docs_oficiais": 40,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "expectativas projeções",
+   "log_odds": 5.981,
+   "freq_oficial": 45,
+   "docs_oficiais": 32,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "monetária continuarão",
+   "log_odds": 5.981,
+   "freq_oficial": 45,
+   "docs_oficiais": 30,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "política monetária continuarão",
+   "log_odds": 5.981,
+   "freq_oficial": 45,
+   "docs_oficiais": 30,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "monetária continuarão dependendo",
+   "log_odds": 5.981,
+   "freq_oficial": 45,
+   "docs_oficiais": 30,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "disposto no artigo",
+   "log_odds": 5.959,
+   "freq_oficial": 44,
+   "docs_oficiais": 40,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "cumprimento ao disposto",
+   "log_odds": 5.959,
+   "freq_oficial": 44,
+   "docs_oficiais": 42,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "algumas economias",
+   "log_odds": 5.959,
+   "freq_oficial": 44,
+   "docs_oficiais": 40,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "monetária poderão",
+   "log_odds": 5.959,
+   "freq_oficial": 44,
+   "docs_oficiais": 42,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "dinâmica da inflação",
+   "log_odds": 5.959,
+   "freq_oficial": 44,
+   "docs_oficiais": 31,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "política monetária poderão",
+   "log_odds": 5.959,
+   "freq_oficial": 44,
+   "docs_oficiais": 42,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "poderão ser ajustados",
+   "log_odds": 5.959,
+   "freq_oficial": 44,
+   "docs_oficiais": 42,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "ciclo de ajuste",
+   "log_odds": 5.959,
+   "freq_oficial": 44,
+   "docs_oficiais": 32,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "avaliados balanço",
+   "log_odds": 5.959,
+   "freq_oficial": 44,
+   "docs_oficiais": 44,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "cenários avaliados balanço",
+   "log_odds": 5.959,
+   "freq_oficial": 44,
+   "docs_oficiais": 44,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "inflação baixa",
+   "log_odds": 5.936,
+   "freq_oficial": 43,
+   "docs_oficiais": 22,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "desancoragem",
+   "log_odds": 5.936,
+   "freq_oficial": 130,
+   "docs_oficiais": 67,
+   "freq_noticias": 1,
+   "docs_noticias": 1
+  },
+  {
+   "termo": "cenários para inflação",
+   "log_odds": 5.936,
+   "freq_oficial": 43,
+   "docs_oficiais": 43,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "reunião valor obtido",
+   "log_odds": 5.936,
+   "freq_oficial": 43,
+   "docs_oficiais": 43,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "juros câmbio extraídas",
+   "log_odds": 5.913,
+   "freq_oficial": 42,
+   "docs_oficiais": 36,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "juros que encerra",
+   "log_odds": 5.913,
+   "freq_oficial": 42,
+   "docs_oficiais": 42,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "aprovação implementação",
+   "log_odds": 5.913,
+   "freq_oficial": 42,
+   "docs_oficiais": 31,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "divulgados desde última",
+   "log_odds": 5.913,
+   "freq_oficial": 42,
+   "docs_oficiais": 41,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "firme compromisso",
+   "log_odds": 5.913,
+   "freq_oficial": 42,
+   "docs_oficiais": 26,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "inflação envolve",
+   "log_odds": 5.913,
+   "freq_oficial": 42,
+   "docs_oficiais": 42,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "envolve fatores",
+   "log_odds": 5.913,
+   "freq_oficial": 42,
+   "docs_oficiais": 42,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "inflação envolve fatores",
+   "log_odds": 5.913,
+   "freq_oficial": 42,
+   "docs_oficiais": 42,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "elevar trajetória",
+   "log_odds": 5.889,
+   "freq_oficial": 41,
+   "docs_oficiais": 40,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "econômica prescreve",
+   "log_odds": 5.889,
+   "freq_oficial": 41,
+   "docs_oficiais": 41,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "inclusive os componentes",
+   "log_odds": 5.889,
+   "freq_oficial": 41,
+   "docs_oficiais": 38,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "conjuntura econômica prescreve",
+   "log_odds": 5.889,
+   "freq_oficial": 41,
+   "docs_oficiais": 41,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "básico do balanço",
+   "log_odds": 5.889,
+   "freq_oficial": 41,
+   "docs_oficiais": 28,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "desinflacionários",
+   "log_odds": 5.889,
+   "freq_oficial": 41,
+   "docs_oficiais": 38,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "custo de desinflação",
+   "log_odds": 5.889,
+   "freq_oficial": 41,
+   "docs_oficiais": 27,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "emergentes em relação",
+   "log_odds": 5.889,
+   "freq_oficial": 41,
+   "docs_oficiais": 41,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "intervalo compatível",
+   "log_odds": 5.889,
+   "freq_oficial": 41,
+   "docs_oficiais": 41,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "risco se intensifica",
+   "log_odds": 5.865,
+   "freq_oficial": 40,
+   "docs_oficiais": 40,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "intensifica no caso",
+   "log_odds": 5.865,
+   "freq_oficial": 40,
+   "docs_oficiais": 40,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "juros em comitê",
+   "log_odds": 5.865,
+   "freq_oficial": 40,
+   "docs_oficiais": 40,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "reavaliadas",
+   "log_odds": 5.865,
+   "freq_oficial": 40,
+   "docs_oficiais": 31,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "reavaliadas pelo",
+   "log_odds": 5.865,
+   "freq_oficial": 40,
+   "docs_oficiais": 31,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "fatores de produção",
+   "log_odds": 5.865,
+   "freq_oficial": 40,
+   "docs_oficiais": 37,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "reavaliadas pelo comitê",
+   "log_odds": 5.865,
+   "freq_oficial": 40,
+   "docs_oficiais": 31,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "centrais das principais",
+   "log_odds": 5.865,
+   "freq_oficial": 40,
+   "docs_oficiais": 40,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "unanimidade elevar",
+   "log_odds": 5.865,
+   "freq_oficial": 40,
+   "docs_oficiais": 28,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "unanimidade elevar taxa",
+   "log_odds": 5.865,
+   "freq_oficial": 40,
+   "docs_oficiais": 28,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "tange",
+   "log_odds": 5.84,
+   "freq_oficial": 39,
+   "docs_oficiais": 34,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "conjuntura internacional",
+   "log_odds": 5.84,
+   "freq_oficial": 39,
+   "docs_oficiais": 37,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "monetária considerando cenário",
+   "log_odds": 5.84,
+   "freq_oficial": 39,
+   "docs_oficiais": 39,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "medidas subjacentes",
+   "log_odds": 5.84,
+   "freq_oficial": 39,
+   "docs_oficiais": 32,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "global mais acentuada",
+   "log_odds": 5.84,
+   "freq_oficial": 39,
+   "docs_oficiais": 39,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "internacionais em moeda",
+   "log_odds": 5.84,
+   "freq_oficial": 39,
+   "docs_oficiais": 36,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "desde sua reunião",
+   "log_odds": 5.84,
+   "freq_oficial": 39,
+   "docs_oficiais": 28,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "lado nível",
+   "log_odds": 5.814,
+   "freq_oficial": 38,
+   "docs_oficiais": 38,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "anterior reunião",
+   "log_odds": 5.814,
+   "freq_oficial": 38,
+   "docs_oficiais": 38,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "econômica prescreve política",
+   "log_odds": 5.814,
+   "freq_oficial": 38,
+   "docs_oficiais": 38,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "continuidade da agenda",
+   "log_odds": 5.814,
+   "freq_oficial": 38,
+   "docs_oficiais": 26,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "trabalho comitê",
+   "log_odds": 5.814,
+   "freq_oficial": 38,
+   "docs_oficiais": 36,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "decidiu manter",
+   "log_odds": 5.814,
+   "freq_oficial": 38,
+   "docs_oficiais": 34,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "resiliência na atividade",
+   "log_odds": 5.814,
+   "freq_oficial": 38,
+   "docs_oficiais": 29,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "inflação do hiato",
+   "log_odds": 5.814,
+   "freq_oficial": 38,
+   "docs_oficiais": 27,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "produto do balanço",
+   "log_odds": 5.814,
+   "freq_oficial": 38,
+   "docs_oficiais": 27,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "inflação para horizonte",
+   "log_odds": 5.814,
+   "freq_oficial": 38,
+   "docs_oficiais": 32,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "percentual para comitê",
+   "log_odds": 5.814,
+   "freq_oficial": 38,
+   "docs_oficiais": 38,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "relação atividade",
+   "log_odds": 5.814,
+   "freq_oficial": 38,
+   "docs_oficiais": 38,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "relação atividade econômica",
+   "log_odds": 5.814,
+   "freq_oficial": 38,
+   "docs_oficiais": 38,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "declarações prospectivas",
+   "log_odds": 5.814,
+   "freq_oficial": 38,
+   "docs_oficiais": 7,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "inflação de preços",
+   "log_odds": 5.797,
+   "freq_oficial": 113,
+   "docs_oficiais": 85,
+   "freq_noticias": 1,
+   "docs_noticias": 1
+  },
+  {
+   "termo": "inscrita",
+   "log_odds": 5.788,
+   "freq_oficial": 37,
+   "docs_oficiais": 21,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "reformas afeta",
+   "log_odds": 5.788,
+   "freq_oficial": 37,
+   "docs_oficiais": 26,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "macroeconômicas correntes",
+   "log_odds": 5.788,
+   "freq_oficial": 37,
+   "docs_oficiais": 26,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "percepção de continuidade",
+   "log_odds": 5.788,
+   "freq_oficial": 37,
+   "docs_oficiais": 26,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "expectativas projeções macroeconômicas",
+   "log_odds": 5.788,
+   "freq_oficial": 37,
+   "docs_oficiais": 26,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "projeções macroeconômicas correntes",
+   "log_odds": 5.788,
+   "freq_oficial": 37,
+   "docs_oficiais": 26,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "então discussão",
+   "log_odds": 5.788,
+   "freq_oficial": 37,
+   "docs_oficiais": 37,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "passou então discussão",
+   "log_odds": 5.788,
+   "freq_oficial": 37,
+   "docs_oficiais": 37,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "inflação no cenário",
+   "log_odds": 5.788,
+   "freq_oficial": 37,
+   "docs_oficiais": 37,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "evolução da dinâmica",
+   "log_odds": 5.788,
+   "freq_oficial": 37,
+   "docs_oficiais": 26,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "especial dos componentes",
+   "log_odds": 5.788,
+   "freq_oficial": 37,
+   "docs_oficiais": 26,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "estímulos monetários",
+   "log_odds": 5.788,
+   "freq_oficial": 37,
+   "docs_oficiais": 23,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "favorável para economias",
+   "log_odds": 5.788,
+   "freq_oficial": 37,
+   "docs_oficiais": 26,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "inflação votaram",
+   "log_odds": 5.761,
+   "freq_oficial": 36,
+   "docs_oficiais": 36,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "ritmo de flexibilização",
+   "log_odds": 5.761,
+   "freq_oficial": 36,
+   "docs_oficiais": 16,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "meta comitê",
+   "log_odds": 5.761,
+   "freq_oficial": 36,
+   "docs_oficiais": 26,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "considerando conjunto",
+   "log_odds": 5.761,
+   "freq_oficial": 36,
+   "docs_oficiais": 36,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "projeções analisado",
+   "log_odds": 5.761,
+   "freq_oficial": 36,
+   "docs_oficiais": 36,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "analisado assim",
+   "log_odds": 5.761,
+   "freq_oficial": 36,
+   "docs_oficiais": 36,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "discussão da condução",
+   "log_odds": 5.761,
+   "freq_oficial": 36,
+   "docs_oficiais": 36,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "monetária considerando conjunto",
+   "log_odds": 5.761,
+   "freq_oficial": 36,
+   "docs_oficiais": 36,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "conjunto de projeções",
+   "log_odds": 5.761,
+   "freq_oficial": 36,
+   "docs_oficiais": 36,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "projeções analisado assim",
+   "log_odds": 5.761,
+   "freq_oficial": 36,
+   "docs_oficiais": 36,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "período bastante",
+   "log_odds": 5.761,
+   "freq_oficial": 36,
+   "docs_oficiais": 11,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "bastante prolongado",
+   "log_odds": 5.761,
+   "freq_oficial": 36,
+   "docs_oficiais": 11,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "período bastante prolongado",
+   "log_odds": 5.761,
+   "freq_oficial": 36,
+   "docs_oficiais": 11,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "decidiu manter taxa",
+   "log_odds": 5.761,
+   "freq_oficial": 36,
+   "docs_oficiais": 32,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "destacam-se uma maior",
+   "log_odds": 5.761,
+   "freq_oficial": 36,
+   "docs_oficiais": 36,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "persistência das pressões",
+   "log_odds": 5.761,
+   "freq_oficial": 36,
+   "docs_oficiais": 36,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "preços das internacionais",
+   "log_odds": 5.761,
+   "freq_oficial": 36,
+   "docs_oficiais": 34,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "estimativas dessa",
+   "log_odds": 5.761,
+   "freq_oficial": 36,
+   "docs_oficiais": 24,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "dessa taxa",
+   "log_odds": 5.761,
+   "freq_oficial": 36,
+   "docs_oficiais": 24,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "estimativas dessa taxa",
+   "log_odds": 5.761,
+   "freq_oficial": 36,
+   "docs_oficiais": 24,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "apropriados",
+   "log_odds": 5.733,
+   "freq_oficial": 35,
+   "docs_oficiais": 21,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "afetar prêmios",
+   "log_odds": 5.733,
+   "freq_oficial": 35,
+   "docs_oficiais": 34,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "risco elevar",
+   "log_odds": 5.733,
+   "freq_oficial": 35,
+   "docs_oficiais": 34,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "trajetória prospectiva abaixo",
+   "log_odds": 5.733,
+   "freq_oficial": 35,
+   "docs_oficiais": 35,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "expectativas sobre continuidade",
+   "log_odds": 5.733,
+   "freq_oficial": 35,
+   "docs_oficiais": 32,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "risco elevar trajetória",
+   "log_odds": 5.733,
+   "freq_oficial": 35,
+   "docs_oficiais": 34,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "ociosidade dos fatores",
+   "log_odds": 5.733,
+   "freq_oficial": 35,
+   "docs_oficiais": 32,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "inclui os anos-calendário",
+   "log_odds": 5.733,
+   "freq_oficial": 35,
+   "docs_oficiais": 35,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "econômicas externa",
+   "log_odds": 5.733,
+   "freq_oficial": 35,
+   "docs_oficiais": 35,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "externa interna",
+   "log_odds": 5.733,
+   "freq_oficial": 35,
+   "docs_oficiais": 35,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "tenham impacto",
+   "log_odds": 5.733,
+   "freq_oficial": 35,
+   "docs_oficiais": 35,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "câmbio persistentemente",
+   "log_odds": 5.733,
+   "freq_oficial": 35,
+   "docs_oficiais": 35,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "reunião salas",
+   "log_odds": 5.733,
+   "freq_oficial": 35,
+   "docs_oficiais": 35,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "atual horizonte relevante",
+   "log_odds": 5.733,
+   "freq_oficial": 35,
+   "docs_oficiais": 29,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "destacam-se uma desancoragem",
+   "log_odds": 5.733,
+   "freq_oficial": 35,
+   "docs_oficiais": 35,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "inflação por período",
+   "log_odds": 5.733,
+   "freq_oficial": 35,
+   "docs_oficiais": 35,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "iii uma conjunção",
+   "log_odds": 5.733,
+   "freq_oficial": 35,
+   "docs_oficiais": 35,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "conjunção de políticas",
+   "log_odds": 5.733,
+   "freq_oficial": 35,
+   "docs_oficiais": 35,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "políticas econômicas externa",
+   "log_odds": 5.733,
+   "freq_oficial": 35,
+   "docs_oficiais": 35,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "econômicas externa interna",
+   "log_odds": 5.733,
+   "freq_oficial": 35,
+   "docs_oficiais": 35,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "interna que tenham",
+   "log_odds": 5.733,
+   "freq_oficial": 35,
+   "docs_oficiais": 35,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "tenham impacto inflacionário",
+   "log_odds": 5.733,
+   "freq_oficial": 35,
+   "docs_oficiais": 35,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "exemplo por meio",
+   "log_odds": 5.733,
+   "freq_oficial": 35,
+   "docs_oficiais": 35,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "persistentemente mais depreciada",
+   "log_odds": 5.733,
+   "freq_oficial": 35,
+   "docs_oficiais": 35,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "elevar os prêmios",
+   "log_odds": 5.733,
+   "freq_oficial": 35,
+   "docs_oficiais": 35,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "externo permanece",
+   "log_odds": 5.704,
+   "freq_oficial": 34,
+   "docs_oficiais": 34,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "brasileira pode afetar",
+   "log_odds": 5.704,
+   "freq_oficial": 34,
+   "docs_oficiais": 34,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "unanimidade pela redução",
+   "log_odds": 5.704,
+   "freq_oficial": 34,
+   "docs_oficiais": 34,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "referência variação",
+   "log_odds": 5.704,
+   "freq_oficial": 34,
+   "docs_oficiais": 34,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "trimestres índice",
+   "log_odds": 5.704,
+   "freq_oficial": 34,
+   "docs_oficiais": 34,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "andar manhã",
+   "log_odds": 5.704,
+   "freq_oficial": 34,
+   "docs_oficiais": 34,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "andar tarde",
+   "log_odds": 5.704,
+   "freq_oficial": 34,
+   "docs_oficiais": 34,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "quatro trimestres índice",
+   "log_odds": 5.704,
+   "freq_oficial": 34,
+   "docs_oficiais": 34,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "manhã do andar",
+   "log_odds": 5.704,
+   "freq_oficial": 34,
+   "docs_oficiais": 34,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "tarde do edifício-sede",
+   "log_odds": 5.704,
+   "freq_oficial": 34,
+   "docs_oficiais": 34,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "relevante sem prejuízo",
+   "log_odds": 5.704,
+   "freq_oficial": 34,
+   "docs_oficiais": 34,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "inflação elevadas",
+   "log_odds": 5.704,
+   "freq_oficial": 34,
+   "docs_oficiais": 21,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "suavização",
+   "log_odds": 5.685,
+   "freq_oficial": 101,
+   "docs_oficiais": 93,
+   "freq_noticias": 1,
+   "docs_noticias": 1
+  },
+  {
+   "termo": "manter taxa selic",
+   "log_odds": 5.675,
+   "freq_oficial": 33,
+   "docs_oficiais": 32,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "economia segue",
+   "log_odds": 5.675,
+   "freq_oficial": 33,
+   "docs_oficiais": 31,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "respectivamente cenários",
+   "log_odds": 5.675,
+   "freq_oficial": 33,
+   "docs_oficiais": 33,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "respectivamente cenários análise",
+   "log_odds": 5.675,
+   "freq_oficial": 33,
+   "docs_oficiais": 33,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "inerciais",
+   "log_odds": 5.675,
+   "freq_oficial": 33,
+   "docs_oficiais": 31,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "avalia que conjuntura",
+   "log_odds": 5.675,
+   "freq_oficial": 33,
+   "docs_oficiais": 28,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "presentes em alan",
+   "log_odds": 5.675,
+   "freq_oficial": 33,
+   "docs_oficiais": 33,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "variância maior",
+   "log_odds": 5.675,
+   "freq_oficial": 33,
+   "docs_oficiais": 32,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "subjacente em níveis",
+   "log_odds": 5.675,
+   "freq_oficial": 33,
+   "docs_oficiais": 26,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "alterada lei",
+   "log_odds": 5.645,
+   "freq_oficial": 32,
+   "docs_oficiais": 23,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "conforme alterada lei",
+   "log_odds": 5.645,
+   "freq_oficial": 32,
+   "docs_oficiais": 23,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "continuidade ao fato",
+   "log_odds": 5.645,
+   "freq_oficial": 32,
+   "docs_oficiais": 32,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "reitera que conjuntura",
+   "log_odds": 5.645,
+   "freq_oficial": 32,
+   "docs_oficiais": 32,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "encerrados na sexta-feira",
+   "log_odds": 5.645,
+   "freq_oficial": 32,
+   "docs_oficiais": 32,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "sexta-feira anterior reunião",
+   "log_odds": 5.645,
+   "freq_oficial": 32,
+   "docs_oficiais": 32,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "evolução recente",
+   "log_odds": 5.645,
+   "freq_oficial": 97,
+   "docs_oficiais": 88,
+   "freq_noticias": 1,
+   "docs_noticias": 1
+  },
+  {
+   "termo": "perseverança",
+   "log_odds": 5.645,
+   "freq_oficial": 32,
+   "docs_oficiais": 26,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "riscos comitê",
+   "log_odds": 5.645,
+   "freq_oficial": 32,
+   "docs_oficiais": 27,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "desinflação em termos",
+   "log_odds": 5.645,
+   "freq_oficial": 32,
+   "docs_oficiais": 25,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "significativamente contracionista",
+   "log_odds": 5.645,
+   "freq_oficial": 32,
+   "docs_oficiais": 21,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "inflação em particular",
+   "log_odds": 5.645,
+   "freq_oficial": 32,
+   "docs_oficiais": 25,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "enfatizou-se",
+   "log_odds": 5.645,
+   "freq_oficial": 32,
+   "docs_oficiais": 20,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "usual comitê",
+   "log_odds": 5.645,
+   "freq_oficial": 32,
+   "docs_oficiais": 30,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "esperado comitê",
+   "log_odds": 5.645,
+   "freq_oficial": 32,
+   "docs_oficiais": 32,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "promover convergência",
+   "log_odds": 5.645,
+   "freq_oficial": 32,
+   "docs_oficiais": 32,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "determinados em promover",
+   "log_odds": 5.645,
+   "freq_oficial": 32,
+   "docs_oficiais": 32,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "convergência das taxas",
+   "log_odds": 5.645,
+   "freq_oficial": 32,
+   "docs_oficiais": 32,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "altista no balanço",
+   "log_odds": 5.645,
+   "freq_oficial": 32,
+   "docs_oficiais": 29,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "parte de usd",
+   "log_odds": 5.645,
+   "freq_oficial": 32,
+   "docs_oficiais": 32,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "acima do projetado",
+   "log_odds": 5.645,
+   "freq_oficial": 32,
+   "docs_oficiais": 32,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "riscos de variância",
+   "log_odds": 5.645,
+   "freq_oficial": 32,
+   "docs_oficiais": 32,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "cenário com taxa",
+   "log_odds": 5.645,
+   "freq_oficial": 32,
+   "docs_oficiais": 30,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "cenário as projeções",
+   "log_odds": 5.634,
+   "freq_oficial": 96,
+   "docs_oficiais": 67,
+   "freq_noticias": 1,
+   "docs_noticias": 1
+  },
+  {
+   "termo": "monetária comitê",
+   "log_odds": 5.624,
+   "freq_oficial": 95,
+   "docs_oficiais": 61,
+   "freq_noticias": 1,
+   "docs_noticias": 1
+  },
+  {
+   "termo": "objetivo fundamental",
+   "log_odds": 5.613,
+   "freq_oficial": 94,
+   "docs_oficiais": 89,
+   "freq_noticias": 1,
+   "docs_noticias": 1
+  },
+  {
+   "termo": "emergentes comitê",
+   "log_odds": 5.613,
+   "freq_oficial": 31,
+   "docs_oficiais": 31,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "economia segue operando",
+   "log_odds": 5.613,
+   "freq_oficial": 31,
+   "docs_oficiais": 31,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "ambiente com expectativas",
+   "log_odds": 5.613,
+   "freq_oficial": 31,
+   "docs_oficiais": 18,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "esmorecimento",
+   "log_odds": 5.613,
+   "freq_oficial": 31,
+   "docs_oficiais": 31,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "desancoragem das expectativas",
+   "log_odds": 5.613,
+   "freq_oficial": 94,
+   "docs_oficiais": 61,
+   "freq_noticias": 1,
+   "docs_noticias": 1
+  },
+  {
+   "termo": "condicionalidades",
+   "log_odds": 5.613,
+   "freq_oficial": 31,
+   "docs_oficiais": 22,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "metas comitê",
+   "log_odds": 5.613,
+   "freq_oficial": 31,
+   "docs_oficiais": 26,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "artigo parágrafo",
+   "log_odds": 5.581,
+   "freq_oficial": 30,
+   "docs_oficiais": 20,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "disposto na resolução",
+   "log_odds": 5.581,
+   "freq_oficial": 30,
+   "docs_oficiais": 30,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "caso de iii",
+   "log_odds": 5.581,
+   "freq_oficial": 30,
+   "docs_oficiais": 30,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "natureza fiscal",
+   "log_odds": 5.581,
+   "freq_oficial": 30,
+   "docs_oficiais": 27,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "segue acompanhando",
+   "log_odds": 5.581,
+   "freq_oficial": 30,
+   "docs_oficiais": 28,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "esmorecimento no esforço",
+   "log_odds": 5.581,
+   "freq_oficial": 30,
+   "docs_oficiais": 30,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "esforço de reformas",
+   "log_odds": 5.581,
+   "freq_oficial": 30,
+   "docs_oficiais": 30,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "potencial de elevar",
+   "log_odds": 5.581,
+   "freq_oficial": 30,
+   "docs_oficiais": 30,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "produto mais positivo",
+   "log_odds": 5.581,
+   "freq_oficial": 30,
+   "docs_oficiais": 29,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "política monetária comitê",
+   "log_odds": 5.581,
+   "freq_oficial": 91,
+   "docs_oficiais": 58,
+   "freq_noticias": 1,
+   "docs_noticias": 1
+  },
+  {
+   "termo": "mercados de trabalho",
+   "log_odds": 5.581,
+   "freq_oficial": 30,
+   "docs_oficiais": 28,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "relação mecânica",
+   "log_odds": 5.581,
+   "freq_oficial": 30,
+   "docs_oficiais": 22,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "atual estágio",
+   "log_odds": 5.581,
+   "freq_oficial": 30,
+   "docs_oficiais": 24,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "irá perseverar",
+   "log_odds": 5.581,
+   "freq_oficial": 30,
+   "docs_oficiais": 26,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "subjacente apresentam-se",
+   "log_odds": 5.581,
+   "freq_oficial": 30,
+   "docs_oficiais": 30,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "inflação subjacente apresentam-se",
+   "log_odds": 5.581,
+   "freq_oficial": 30,
+   "docs_oficiais": 30,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "básico um balanço",
+   "log_odds": 5.581,
+   "freq_oficial": 30,
+   "docs_oficiais": 30,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "relação continuidade",
+   "log_odds": 5.581,
+   "freq_oficial": 30,
+   "docs_oficiais": 28,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "valor para câmbio",
+   "log_odds": 5.581,
+   "freq_oficial": 30,
+   "docs_oficiais": 30,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "atingir as metas",
+   "log_odds": 5.57,
+   "freq_oficial": 90,
+   "docs_oficiais": 86,
+   "freq_noticias": 1,
+   "docs_noticias": 1
+  },
+  {
+   "termo": "assegurar estabilidade",
+   "log_odds": 5.57,
+   "freq_oficial": 90,
+   "docs_oficiais": 86,
+   "freq_noticias": 1,
+   "docs_noticias": 1
+  },
+  {
+   "termo": "continuidade aos fatos",
+   "log_odds": 5.548,
+   "freq_oficial": 29,
+   "docs_oficiais": 29,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "externo para economias",
+   "log_odds": 5.548,
+   "freq_oficial": 29,
+   "docs_oficiais": 28,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "tange conjuntura",
+   "log_odds": 5.548,
+   "freq_oficial": 29,
+   "docs_oficiais": 29,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "monetária discussão",
+   "log_odds": 5.548,
+   "freq_oficial": 29,
+   "docs_oficiais": 28,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "andar do andar",
+   "log_odds": 5.548,
+   "freq_oficial": 29,
+   "docs_oficiais": 29,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "operando com alto",
+   "log_odds": 5.548,
+   "freq_oficial": 29,
+   "docs_oficiais": 29,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "tange conjuntura internacional",
+   "log_odds": 5.548,
+   "freq_oficial": 29,
+   "docs_oficiais": 29,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "internacional os membros",
+   "log_odds": 5.548,
+   "freq_oficial": 29,
+   "docs_oficiais": 27,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "situando-se",
+   "log_odds": 5.548,
+   "freq_oficial": 29,
+   "docs_oficiais": 24,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "positivo iii",
+   "log_odds": 5.548,
+   "freq_oficial": 29,
+   "docs_oficiais": 29,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "moderação no crescimento",
+   "log_odds": 5.548,
+   "freq_oficial": 29,
+   "docs_oficiais": 23,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "mecanismos inerciais",
+   "log_odds": 5.548,
+   "freq_oficial": 29,
+   "docs_oficiais": 28,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "desinflação global",
+   "log_odds": 5.548,
+   "freq_oficial": 29,
+   "docs_oficiais": 28,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "reduzir taxa selic",
+   "log_odds": 5.548,
+   "freq_oficial": 29,
+   "docs_oficiais": 28,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "alterações de caráter",
+   "log_odds": 5.548,
+   "freq_oficial": 29,
+   "docs_oficiais": 27,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "permanente no processo",
+   "log_odds": 5.548,
+   "freq_oficial": 29,
+   "docs_oficiais": 27,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "unanimidade reduzir",
+   "log_odds": 5.548,
+   "freq_oficial": 29,
+   "docs_oficiais": 25,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "unanimidade reduzir taxa",
+   "log_odds": 5.548,
+   "freq_oficial": 29,
+   "docs_oficiais": 25,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "continuamente reavaliadas",
+   "log_odds": 5.548,
+   "freq_oficial": 29,
+   "docs_oficiais": 23,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "continuamente reavaliadas pelo",
+   "log_odds": 5.548,
+   "freq_oficial": 29,
+   "docs_oficiais": 23,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "evolução da atividade",
+   "log_odds": 5.534,
+   "freq_oficial": 145,
+   "docs_oficiais": 83,
+   "freq_noticias": 2,
+   "docs_noticias": 2
+  },
+  {
+   "termo": "dia da semana",
+   "log_odds": 5.525,
+   "freq_oficial": 86,
+   "docs_oficiais": 86,
+   "freq_noticias": 1,
+   "docs_noticias": 1
+  },
+  {
+   "termo": "regulamentação aplicáveis",
+   "log_odds": 5.513,
+   "freq_oficial": 28,
+   "docs_oficiais": 23,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "emissão da emae",
+   "log_odds": 5.513,
+   "freq_oficial": 28,
+   "docs_oficiais": 4,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "legislação regulamentação",
+   "log_odds": 5.513,
+   "freq_oficial": 28,
+   "docs_oficiais": 22,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "unanimidade manter",
+   "log_odds": 5.513,
+   "freq_oficial": 28,
+   "docs_oficiais": 24,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "unanimidade manter taxa",
+   "log_odds": 5.513,
+   "freq_oficial": 28,
+   "docs_oficiais": 24,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "câmbio que termina",
+   "log_odds": 5.513,
+   "freq_oficial": 28,
+   "docs_oficiais": 28,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "estrutural para recuperação",
+   "log_odds": 5.513,
+   "freq_oficial": 28,
+   "docs_oficiais": 28,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "produção refletido",
+   "log_odds": 5.513,
+   "freq_oficial": 28,
+   "docs_oficiais": 28,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "indústria principalmente",
+   "log_odds": 5.513,
+   "freq_oficial": 28,
+   "docs_oficiais": 28,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "economias centrais",
+   "log_odds": 5.513,
+   "freq_oficial": 28,
+   "docs_oficiais": 21,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "capacidade da indústria",
+   "log_odds": 5.513,
+   "freq_oficial": 28,
+   "docs_oficiais": 28,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "estimativa da extensão",
+   "log_odds": 5.513,
+   "freq_oficial": 28,
+   "docs_oficiais": 16,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "monetária consequentemente",
+   "log_odds": 5.513,
+   "freq_oficial": 28,
+   "docs_oficiais": 28,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "prospectiva comitê",
+   "log_odds": 5.513,
+   "freq_oficial": 28,
+   "docs_oficiais": 28,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "cheia as medidas",
+   "log_odds": 5.513,
+   "freq_oficial": 28,
+   "docs_oficiais": 28,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "política monetária consequentemente",
+   "log_odds": 5.513,
+   "freq_oficial": 28,
+   "docs_oficiais": 28,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "global mais pronunciada",
+   "log_odds": 5.513,
+   "freq_oficial": 28,
+   "docs_oficiais": 28,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "procedimento que passou",
+   "log_odds": 5.513,
+   "freq_oficial": 28,
+   "docs_oficiais": 28,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "passou ser adotado",
+   "log_odds": 5.513,
+   "freq_oficial": 28,
+   "docs_oficiais": 28,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "adotado na reunião",
+   "log_odds": 5.513,
+   "freq_oficial": 28,
+   "docs_oficiais": 28,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "reunião de arredondar",
+   "log_odds": 5.513,
+   "freq_oficial": 28,
+   "docs_oficiais": 28,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "ajuste caso",
+   "log_odds": 5.513,
+   "freq_oficial": 28,
+   "docs_oficiais": 22,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "notou-se",
+   "log_odds": 5.513,
+   "freq_oficial": 28,
+   "docs_oficiais": 18,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "percentual para entende",
+   "log_odds": 5.513,
+   "freq_oficial": 28,
+   "docs_oficiais": 28,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "riscos votaram",
+   "log_odds": 5.513,
+   "freq_oficial": 28,
+   "docs_oficiais": 28,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "trabalho comitê avalia",
+   "log_odds": 5.513,
+   "freq_oficial": 28,
+   "docs_oficiais": 28,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "política monetária discussão",
+   "log_odds": 5.513,
+   "freq_oficial": 28,
+   "docs_oficiais": 27,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "câmbio partindo",
+   "log_odds": 5.513,
+   "freq_oficial": 28,
+   "docs_oficiais": 24,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "resposta pandemia",
+   "log_odds": 5.513,
+   "freq_oficial": 28,
+   "docs_oficiais": 28,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "fiscais de resposta",
+   "log_odds": 5.513,
+   "freq_oficial": 28,
+   "docs_oficiais": 28,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "essencial para permitir",
+   "log_odds": 5.513,
+   "freq_oficial": 28,
+   "docs_oficiais": 28,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "devidamente informados",
+   "log_odds": 5.478,
+   "freq_oficial": 27,
+   "docs_oficiais": 27,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "informados acerca",
+   "log_odds": 5.478,
+   "freq_oficial": 27,
+   "docs_oficiais": 27,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "inscrito",
+   "log_odds": 5.478,
+   "freq_oficial": 27,
+   "docs_oficiais": 7,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "duzentos",
+   "log_odds": 5.478,
+   "freq_oficial": 27,
+   "docs_oficiais": 13,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "níveis apropriados",
+   "log_odds": 5.478,
+   "freq_oficial": 27,
+   "docs_oficiais": 14,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "outras hipóteses",
+   "log_odds": 5.478,
+   "freq_oficial": 27,
+   "docs_oficiais": 27,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "atualização leva",
+   "log_odds": 5.478,
+   "freq_oficial": 82,
+   "docs_oficiais": 82,
+   "freq_noticias": 1,
+   "docs_noticias": 1
+  },
+  {
+   "termo": "índices de utilização",
+   "log_odds": 5.478,
+   "freq_oficial": 27,
+   "docs_oficiais": 27,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "cenário inflacionário",
+   "log_odds": 5.478,
+   "freq_oficial": 82,
+   "docs_oficiais": 72,
+   "freq_noticias": 1,
+   "docs_noticias": 1
+  },
+  {
+   "termo": "inflacionário maior",
+   "log_odds": 5.478,
+   "freq_oficial": 27,
+   "docs_oficiais": 27,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "tendo impactos",
+   "log_odds": 5.478,
+   "freq_oficial": 27,
+   "docs_oficiais": 27,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "neutra da economia",
+   "log_odds": 5.478,
+   "freq_oficial": 27,
+   "docs_oficiais": 27,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "impacto inflacionário maior",
+   "log_odds": 5.478,
+   "freq_oficial": 27,
+   "docs_oficiais": 27,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "esperado por exemplo",
+   "log_odds": 5.478,
+   "freq_oficial": 27,
+   "docs_oficiais": 27,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "doméstica mais acentuada",
+   "log_odds": 5.478,
+   "freq_oficial": 27,
+   "docs_oficiais": 27,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "impactos sobre cenário",
+   "log_odds": 5.478,
+   "freq_oficial": 27,
+   "docs_oficiais": 27,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "inflação prospectiva comitê",
+   "log_odds": 5.478,
+   "freq_oficial": 27,
+   "docs_oficiais": 27,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "compromisso de convergência",
+   "log_odds": 5.478,
+   "freq_oficial": 27,
+   "docs_oficiais": 17,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "retomar ciclo",
+   "log_odds": 5.478,
+   "freq_oficial": 27,
+   "docs_oficiais": 20,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "hesitará em retomar",
+   "log_odds": 5.478,
+   "freq_oficial": 27,
+   "docs_oficiais": 20,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "sensíveis política monetária",
+   "log_odds": 5.478,
+   "freq_oficial": 27,
+   "docs_oficiais": 20,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "próxima reunião comitê",
+   "log_odds": 5.478,
+   "freq_oficial": 27,
+   "docs_oficiais": 27,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "economias permanecem",
+   "log_odds": 5.478,
+   "freq_oficial": 27,
+   "docs_oficiais": 27,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "permanecem determinados",
+   "log_odds": 5.478,
+   "freq_oficial": 27,
+   "docs_oficiais": 27,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "principais economias permanecem",
+   "log_odds": 5.478,
+   "freq_oficial": 27,
+   "docs_oficiais": 27,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "economias permanecem determinados",
+   "log_odds": 5.478,
+   "freq_oficial": 27,
+   "docs_oficiais": 27,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "risco de desancoragem",
+   "log_odds": 5.478,
+   "freq_oficial": 27,
+   "docs_oficiais": 14,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "ancoragem",
+   "log_odds": 5.441,
+   "freq_oficial": 132,
+   "docs_oficiais": 78,
+   "freq_noticias": 2,
+   "docs_noticias": 2
+  },
+  {
+   "termo": "vem informar",
+   "log_odds": 5.44,
+   "freq_oficial": 26,
+   "docs_oficiais": 26,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "economias emergentes comitê",
+   "log_odds": 5.44,
+   "freq_oficial": 26,
+   "docs_oficiais": 26,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "econômica divulgados",
+   "log_odds": 5.44,
+   "freq_oficial": 26,
+   "docs_oficiais": 26,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "inflação apuradas",
+   "log_odds": 5.44,
+   "freq_oficial": 26,
+   "docs_oficiais": 24,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "econômica luz",
+   "log_odds": 5.44,
+   "freq_oficial": 26,
+   "docs_oficiais": 26,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "atividade econômica divulgados",
+   "log_odds": 5.44,
+   "freq_oficial": 26,
+   "docs_oficiais": 26,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "econômica divulgados desde",
+   "log_odds": 5.44,
+   "freq_oficial": 26,
+   "docs_oficiais": 26,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "inflação apuradas pela",
+   "log_odds": 5.44,
+   "freq_oficial": 26,
+   "docs_oficiais": 24,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "condicionais para inflação",
+   "log_odds": 5.44,
+   "freq_oficial": 26,
+   "docs_oficiais": 18,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "supõe entre outras",
+   "log_odds": 5.44,
+   "freq_oficial": 26,
+   "docs_oficiais": 26,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "atividade econômica luz",
+   "log_odds": 5.44,
+   "freq_oficial": 26,
+   "docs_oficiais": 26,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "revés no cenário",
+   "log_odds": 5.44,
+   "freq_oficial": 26,
+   "docs_oficiais": 22,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "implementação das reformas",
+   "log_odds": 5.44,
+   "freq_oficial": 26,
+   "docs_oficiais": 21,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "desenvolvimento da economia",
+   "log_odds": 5.44,
+   "freq_oficial": 26,
+   "docs_oficiais": 26,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "deletérios",
+   "log_odds": 5.44,
+   "freq_oficial": 26,
+   "docs_oficiais": 26,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "impactos deletérios",
+   "log_odds": 5.44,
+   "freq_oficial": 26,
+   "docs_oficiais": 26,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "atividade comitê",
+   "log_odds": 5.44,
+   "freq_oficial": 26,
+   "docs_oficiais": 24,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "efeitos desinflacionários",
+   "log_odds": 5.44,
+   "freq_oficial": 26,
+   "docs_oficiais": 26,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "inflação meta comitê",
+   "log_odds": 5.44,
+   "freq_oficial": 26,
+   "docs_oficiais": 18,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "direcionado as incertezas",
+   "log_odds": 5.44,
+   "freq_oficial": 26,
+   "docs_oficiais": 26,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "incertezas sobre estabilização",
+   "log_odds": 5.44,
+   "freq_oficial": 26,
+   "docs_oficiais": 26,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "pública têm potencial",
+   "log_odds": 5.44,
+   "freq_oficial": 26,
+   "docs_oficiais": 26,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "economia com impactos",
+   "log_odds": 5.44,
+   "freq_oficial": 26,
+   "docs_oficiais": 26,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "deletérios sobre potência",
+   "log_odds": 5.44,
+   "freq_oficial": 26,
+   "docs_oficiais": 26,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "desde reunião anterior",
+   "log_odds": 5.44,
+   "freq_oficial": 26,
+   "docs_oficiais": 25,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "impactam política",
+   "log_odds": 5.44,
+   "freq_oficial": 26,
+   "docs_oficiais": 26,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "impactam política monetária",
+   "log_odds": 5.44,
+   "freq_oficial": 26,
+   "docs_oficiais": 26,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "monetária os ativos",
+   "log_odds": 5.44,
+   "freq_oficial": 26,
+   "docs_oficiais": 26,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "segue exigindo cautela",
+   "log_odds": 5.44,
+   "freq_oficial": 26,
+   "docs_oficiais": 26,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "inflação em especial",
+   "log_odds": 5.44,
+   "freq_oficial": 26,
+   "docs_oficiais": 22,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "grau menor",
+   "log_odds": 5.44,
+   "freq_oficial": 26,
+   "docs_oficiais": 19,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "piorem trajetória",
+   "log_odds": 5.44,
+   "freq_oficial": 26,
+   "docs_oficiais": 26,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "piorem trajetória fiscal",
+   "log_odds": 5.44,
+   "freq_oficial": 26,
+   "docs_oficiais": 26,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "projetado no horizonte",
+   "log_odds": 5.44,
+   "freq_oficial": 26,
+   "docs_oficiais": 26,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "serão continuamente",
+   "log_odds": 5.44,
+   "freq_oficial": 26,
+   "docs_oficiais": 20,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "serão continuamente reavaliadas",
+   "log_odds": 5.44,
+   "freq_oficial": 26,
+   "docs_oficiais": 20,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "ajustes necessários",
+   "log_odds": 5.43,
+   "freq_oficial": 183,
+   "docs_oficiais": 82,
+   "freq_noticias": 3,
+   "docs_noticias": 3
+  },
+  {
+   "termo": "decisão reflete",
+   "log_odds": 5.428,
+   "freq_oficial": 78,
+   "docs_oficiais": 78,
+   "freq_noticias": 1,
+   "docs_noticias": 1
+  },
+  {
+   "termo": "quinhentas",
+   "log_odds": 5.402,
+   "freq_oficial": 25,
+   "docs_oficiais": 12,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "ociosidade elevado",
+   "log_odds": 5.402,
+   "freq_oficial": 25,
+   "docs_oficiais": 24,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "esperado por outro",
+   "log_odds": 5.402,
+   "freq_oficial": 25,
+   "docs_oficiais": 25,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "refletido nos baixos",
+   "log_odds": 5.402,
+   "freq_oficial": 25,
+   "docs_oficiais": 25,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "esforços são fundamentais",
+   "log_odds": 5.402,
+   "freq_oficial": 25,
+   "docs_oficiais": 25,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "consequentemente sobre custo",
+   "log_odds": 5.402,
+   "freq_oficial": 25,
+   "docs_oficiais": 25,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "confirmando cenário",
+   "log_odds": 5.402,
+   "freq_oficial": 25,
+   "docs_oficiais": 24,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "confirmando cenário esperado",
+   "log_odds": 5.402,
+   "freq_oficial": 25,
+   "docs_oficiais": 24,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "dependerão da evolução",
+   "log_odds": 5.402,
+   "freq_oficial": 25,
+   "docs_oficiais": 24,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "monetária atividade",
+   "log_odds": 5.402,
+   "freq_oficial": 25,
+   "docs_oficiais": 18,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "política monetária atividade",
+   "log_odds": 5.402,
+   "freq_oficial": 25,
+   "docs_oficiais": 18,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "monetária atividade econômica",
+   "log_odds": 5.402,
+   "freq_oficial": 25,
+   "docs_oficiais": 18,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "tarde de andré",
+   "log_odds": 5.402,
+   "freq_oficial": 25,
+   "docs_oficiais": 25,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "inflação situam-se",
+   "log_odds": 5.402,
+   "freq_oficial": 25,
+   "docs_oficiais": 24,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "estágio do processo",
+   "log_odds": 5.402,
+   "freq_oficial": 25,
+   "docs_oficiais": 21,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "parcial do aumento",
+   "log_odds": 5.402,
+   "freq_oficial": 25,
+   "docs_oficiais": 22,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "contas públicas podem",
+   "log_odds": 5.402,
+   "freq_oficial": 25,
+   "docs_oficiais": 25,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "públicas podem elevar",
+   "log_odds": 5.402,
+   "freq_oficial": 25,
+   "docs_oficiais": 25,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "podem elevar taxa",
+   "log_odds": 5.402,
+   "freq_oficial": 25,
+   "docs_oficiais": 25,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "inflação em direção",
+   "log_odds": 5.402,
+   "freq_oficial": 25,
+   "docs_oficiais": 13,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "estratégia de convergência",
+   "log_odds": 5.376,
+   "freq_oficial": 74,
+   "docs_oficiais": 69,
+   "freq_noticias": 1,
+   "docs_noticias": 1
+  },
+  {
+   "termo": "acionistas da emae",
+   "log_odds": 5.362,
+   "freq_oficial": 24,
+   "docs_oficiais": 4,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "quaisquer desdobramentos",
+   "log_odds": 5.362,
+   "freq_oficial": 24,
+   "docs_oficiais": 24,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "parágrafo único",
+   "log_odds": 5.362,
+   "freq_oficial": 24,
+   "docs_oficiais": 13,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "riscos prescreve",
+   "log_odds": 5.362,
+   "freq_oficial": 24,
+   "docs_oficiais": 24,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "algumas economias avançadas",
+   "log_odds": 5.362,
+   "freq_oficial": 24,
+   "docs_oficiais": 23,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "produzir trajetória prospectiva",
+   "log_odds": 5.362,
+   "freq_oficial": 24,
+   "docs_oficiais": 23,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "monetária esse risco",
+   "log_odds": 5.362,
+   "freq_oficial": 24,
+   "docs_oficiais": 24,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "extensão do ciclo",
+   "log_odds": 5.362,
+   "freq_oficial": 73,
+   "docs_oficiais": 28,
+   "freq_noticias": 1,
+   "docs_noticias": 1
+  },
+  {
+   "termo": "recentes inflação",
+   "log_odds": 5.362,
+   "freq_oficial": 24,
+   "docs_oficiais": 24,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "meta situando-se",
+   "log_odds": 5.362,
+   "freq_oficial": 24,
+   "docs_oficiais": 24,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "estruturais disciplina",
+   "log_odds": 5.362,
+   "freq_oficial": 24,
+   "docs_oficiais": 24,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "projetada tendo",
+   "log_odds": 5.362,
+   "freq_oficial": 24,
+   "docs_oficiais": 24,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "pronunciada decorrente",
+   "log_odds": 5.362,
+   "freq_oficial": 24,
+   "docs_oficiais": 24,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "incerteza iii",
+   "log_odds": 5.362,
+   "freq_oficial": 24,
+   "docs_oficiais": 24,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "incerto em função",
+   "log_odds": 5.362,
+   "freq_oficial": 24,
+   "docs_oficiais": 24,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "emergentes em ambiente",
+   "log_odds": 5.362,
+   "freq_oficial": 24,
+   "docs_oficiais": 24,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "recentes inflação cheia",
+   "log_odds": 5.362,
+   "freq_oficial": 24,
+   "docs_oficiais": 24,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "pesquisa focus permanecem",
+   "log_odds": 5.362,
+   "freq_oficial": 24,
+   "docs_oficiais": 24,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "permanecem em valores",
+   "log_odds": 5.362,
+   "freq_oficial": 24,
+   "docs_oficiais": 24,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "situando-se em respectivamente",
+   "log_odds": 5.362,
+   "freq_oficial": 24,
+   "docs_oficiais": 24,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "reformas estruturais disciplina",
+   "log_odds": 5.362,
+   "freq_oficial": 24,
+   "docs_oficiais": 24,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "estruturais disciplina fiscal",
+   "log_odds": 5.362,
+   "freq_oficial": 24,
+   "docs_oficiais": 24,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "disciplina fiscal aumento",
+   "log_odds": 5.362,
+   "freq_oficial": 24,
+   "docs_oficiais": 24,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "ressaltam-se uma eventual",
+   "log_odds": 5.362,
+   "freq_oficial": 24,
+   "docs_oficiais": 24,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "projetada tendo impactos",
+   "log_odds": 5.362,
+   "freq_oficial": 24,
+   "docs_oficiais": 24,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "maior incerteza iii",
+   "log_odds": 5.362,
+   "freq_oficial": 24,
+   "docs_oficiais": 24,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "iii uma redução",
+   "log_odds": 5.362,
+   "freq_oficial": 24,
+   "docs_oficiais": 24,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "redução nos preços",
+   "log_odds": 5.362,
+   "freq_oficial": 24,
+   "docs_oficiais": 24,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "trabalho segue",
+   "log_odds": 5.362,
+   "freq_oficial": 24,
+   "docs_oficiais": 22,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "seguirá acompanhando",
+   "log_odds": 5.362,
+   "freq_oficial": 24,
+   "docs_oficiais": 19,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "reancoragem das expectativas",
+   "log_odds": 5.362,
+   "freq_oficial": 24,
+   "docs_oficiais": 14,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "manhã de alan",
+   "log_odds": 5.362,
+   "freq_oficial": 24,
+   "docs_oficiais": 24,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "pressões nos mercados",
+   "log_odds": 5.362,
+   "freq_oficial": 24,
+   "docs_oficiais": 24,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "taxa neutra",
+   "log_odds": 5.362,
+   "freq_oficial": 24,
+   "docs_oficiais": 8,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "ressaltam-se uma desaceleração",
+   "log_odds": 5.362,
+   "freq_oficial": 24,
+   "docs_oficiais": 24,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "impactos do aperto",
+   "log_odds": 5.362,
+   "freq_oficial": 24,
+   "docs_oficiais": 24,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "global se mostrarem",
+   "log_odds": 5.362,
+   "freq_oficial": 24,
+   "docs_oficiais": 24,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "mostrarem mais fortes",
+   "log_odds": 5.362,
+   "freq_oficial": 24,
+   "docs_oficiais": 24,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "produto mais apertado",
+   "log_odds": 5.362,
+   "freq_oficial": 24,
+   "docs_oficiais": 22,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "países avançados",
+   "log_odds": 5.362,
+   "freq_oficial": 24,
+   "docs_oficiais": 16,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  },
+  {
+   "termo": "serenidade moderação",
+   "log_odds": 5.362,
+   "freq_oficial": 24,
+   "docs_oficiais": 18,
+   "freq_noticias": 0,
+   "docs_noticias": 0
+  }
+ ],
+ "bcb_no_corpus": [
+  {
+   "termo": "Inflação",
+   "freq": 5843
+  },
+  {
+   "termo": "Ibovespa",
+   "freq": 3104
+  },
+  {
+   "termo": "EUA",
+   "freq": 3009
+  },
+  {
+   "termo": "Copom",
+   "freq": 2311
+  },
+  {
+   "termo": "Futuros",
+   "freq": 1119
+  },
+  {
+   "termo": "Reuters",
+   "freq": 1092
+  },
+  {
+   "termo": "CVM",
+   "freq": 978
+  },
+  {
+   "termo": "Fed",
+   "freq": 918
+  },
+  {
+   "termo": "Emissão",
+   "freq": 695
+  },
+  {
+   "termo": "Bloomberg",
+   "freq": 676
+  },
+  {
+   "termo": "Bradesco",
+   "freq": 605
+  },
+  {
+   "termo": "Selic",
+   "freq": 565
+  },
+  {
+   "termo": "Era",
+   "freq": 556
+  },
+  {
+   "termo": "PIB",
+   "freq": 528
+  },
+  {
+   "termo": "Nasdaq",
+   "freq": 513
+  },
+  {
+   "termo": "a.a",
+   "freq": 497
+  },
+  {
+   "termo": "IPCA",
+   "freq": 466
+  },
+  {
+   "termo": "BBA",
+   "freq": 454
+  },
+  {
+   "termo": "Segmento",
+   "freq": 432
+  },
+  {
+   "termo": "CNPJ",
+   "freq": 412
+  },
+  {
+   "termo": "Resolução",
+   "freq": 409
+  },
+  {
+   "termo": "Taxa de câmbio",
+   "freq": 399
+  },
+  {
+   "termo": "DE",
+   "freq": 393
+  },
+  {
+   "termo": "Série",
+   "freq": 352
+  },
+  {
+   "termo": "Agência",
+   "freq": 312
+  },
+  {
+   "termo": "BB",
+   "freq": 272
+  },
+  {
+   "termo": "Petróleo Brent",
+   "freq": 254
+  },
+  {
+   "termo": "Inadimplência",
+   "freq": 252
+  },
+  {
+   "termo": "Taxa Selic",
+   "freq": 230
+  },
+  {
+   "termo": "CSN",
+   "freq": 217
+  },
+  {
+   "termo": "Indice de preços",
+   "freq": 212
+  },
+  {
+   "termo": "Dólar futuro",
+   "freq": 200
+  },
+  {
+   "termo": "Liquidação",
+   "freq": 179
+  },
+  {
+   "termo": "Alívio",
+   "freq": 177
+  },
+  {
+   "termo": "DI",
+   "freq": 165
+  },
+  {
+   "termo": "Garantia",
+   "freq": 160
+  },
+  {
+   "termo": "Preços administrados",
+   "freq": 157
+  },
+  {
+   "termo": "Curva de juros",
+   "freq": 151
+  },
+  {
+   "termo": "BCE",
+   "freq": 151
+  },
+  {
+   "termo": "Paridade",
+   "freq": 150
+  },
+  {
+   "termo": "Valor de mercado",
+   "freq": 137
+  },
+  {
+   "termo": "IBGE",
+   "freq": 137
+  },
+  {
+   "termo": "CAC",
+   "freq": 129
+  },
+  {
+   "termo": "Zona do Euro",
+   "freq": 121
+  },
+  {
+   "termo": "Petróleo WTI",
+   "freq": 121
+  },
+  {
+   "termo": "Cade",
+   "freq": 120
+  },
+  {
+   "termo": "Reservas internacionais",
+   "freq": 120
+  },
+  {
+   "termo": "Concessões",
+   "freq": 115
+  },
+  {
+   "termo": "VaR",
+   "freq": 109
+  },
+  {
+   "termo": "CBO",
+   "freq": 105
+  },
+  {
+   "termo": "Valor nominal",
+   "freq": 104
+  },
+  {
+   "termo": "Saneamento",
+   "freq": 102
+  },
+  {
+   "termo": "bpd",
+   "freq": 95
+  },
+  {
+   "termo": "Capital de giro",
+   "freq": 94
+  },
+  {
+   "termo": "BDR",
+   "freq": 94
+  },
+  {
+   "termo": "DAX",
+   "freq": 93
+  },
+  {
+   "termo": "PTAX",
+   "freq": 87
+  },
+  {
+   "termo": "Mensagem",
+   "freq": 83
+  },
+  {
+   "termo": "Hedge",
+   "freq": 82
+  },
+  {
+   "termo": "Protocolo",
+   "freq": 80
+  },
+  {
+   "termo": "ETF",
+   "freq": 80
+  },
+  {
+   "termo": "PEC",
+   "freq": 78
+  },
+  {
+   "termo": "CDI",
+   "freq": 76
+  },
+  {
+   "termo": "Nymex",
+   "freq": 73
+  },
+  {
+   "termo": "IPCA-15",
+   "freq": 70
+  },
+  {
+   "termo": "Swap",
+   "freq": 67
+  },
+  {
+   "termo": "Bônus",
+   "freq": 63
+  },
+  {
+   "termo": "CME",
+   "freq": 63
+  },
+  {
+   "termo": "IBC-Br",
+   "freq": 61
+  },
+  {
+   "termo": "Opep",
+   "freq": 60
+  },
+  {
+   "termo": "FMI",
+   "freq": 56
+  },
+  {
+   "termo": "Pix",
+   "freq": 53
+  },
+  {
+   "termo": "Cisão",
+   "freq": 51
+  },
+  {
+   "termo": "Spread",
+   "freq": 51
+  },
+  {
+   "termo": "BoJ",
+   "freq": 51
+  },
+  {
+   "termo": "NYSE",
+   "freq": 50
+  },
+  {
+   "termo": "Custódia",
+   "freq": 49
+  },
+  {
+   "termo": "BNDES",
+   "freq": 48
+  },
+  {
+   "termo": "Consórcio",
+   "freq": 47
+  },
+  {
+   "termo": "CSLL",
+   "freq": 47
+  },
+  {
+   "termo": "Beta",
+   "freq": 43
+  },
+  {
+   "termo": "Compensação",
+   "freq": 42
+  },
+  {
+   "termo": "Prova",
+   "freq": 42
+  },
+  {
+   "termo": "BP",
+   "freq": 41
+  },
+  {
+   "termo": "Resultado operacional",
+   "freq": 39
+  },
+  {
+   "termo": "BoE",
+   "freq": 39
+  },
+  {
+   "termo": "CMN",
+   "freq": 38
+  },
+  {
+   "termo": "IGP-M",
+   "freq": 37
+  },
+  {
+   "termo": "Resultado primário",
+   "freq": 36
+  },
+  {
+   "termo": "IPC",
+   "freq": 34
+  },
+  {
+   "termo": "Rating",
+   "freq": 34
+  },
+  {
+   "termo": "Emissor",
+   "freq": 30
+  },
+  {
+   "termo": "IGP-DI",
+   "freq": 30
+  },
+  {
+   "termo": "Controladores",
+   "freq": 30
+  },
+  {
+   "termo": "Cofins",
+   "freq": 30
+  },
+  {
+   "termo": "Ajuste sazonal",
+   "freq": 29
+  },
+  {
+   "termo": "Painel",
+   "freq": 28
+  },
+  {
+   "termo": "OCDE",
+   "freq": 28
+  },
+  {
+   "termo": "ADR",
+   "freq": 26
+  },
+  {
+   "termo": "Lavagem de dinheiro",
+   "freq": 26
+  },
+  {
+   "termo": "CNT",
+   "freq": 25
+  },
+  {
+   "termo": "Recolhimento",
+   "freq": 24
+  },
+  {
+   "termo": "Prazo médio",
+   "freq": 22
+  },
+  {
+   "termo": "Benchmark",
+   "freq": 22
+  },
+  {
+   "termo": "Balanço de Pagamentos",
+   "freq": 21
+  },
+  {
+   "termo": "Mercosul",
+   "freq": 21
+  },
+  {
+   "termo": "FGC",
+   "freq": 21
+  },
+  {
+   "termo": "Relatório de Inflação",
+   "freq": 20
+  },
+  {
+   "termo": "Circular",
+   "freq": 19
+  },
+  {
+   "termo": "Risco de crédito",
+   "freq": 18
+  },
+  {
+   "termo": "BPC",
+   "freq": 18
+  },
+  {
+   "termo": "Febraban",
+   "freq": 18
+  },
+  {
+   "termo": "Bordo",
+   "freq": 17
+  },
+  {
+   "termo": "Aplicações financeiras",
+   "freq": 16
+  },
+  {
+   "termo": "Deságio",
+   "freq": 16
+  },
+  {
+   "termo": "TIR",
+   "freq": 16
+  },
+  {
+   "termo": "Fipe",
+   "freq": 16
+  },
+  {
+   "termo": "Brics",
+   "freq": 16
+  },
+  {
+   "termo": "Reverso",
+   "freq": 16
+  },
+  {
+   "termo": "OMC",
+   "freq": 16
+  },
+  {
+   "termo": "IFRS",
+   "freq": 15
+  },
+  {
+   "termo": "Inscrição",
+   "freq": 15
+  },
+  {
+   "termo": "IEA",
+   "freq": 15
+  },
+  {
+   "termo": "Legenda",
+   "freq": 15
+  },
+  {
+   "termo": "CO",
+   "freq": 14
+  },
+  {
+   "termo": "CAIXA",
+   "freq": 14
+  },
+  {
+   "termo": "Data-base",
+   "freq": 14
+  },
+  {
+   "termo": "Fed funds",
+   "freq": 14
+  },
+  {
+   "termo": "BBC",
+   "freq": 14
+  },
+  {
+   "termo": "Meios de pagamento",
+   "freq": 13
+  },
+  {
+   "termo": "Mercado de câmbio",
+   "freq": 13
+  },
+  {
+   "termo": "Manager",
+   "freq": 13
+  },
+  {
+   "termo": "Cepea",
+   "freq": 13
+  },
+  {
+   "termo": "Participante",
+   "freq": 13
+  },
+  {
+   "termo": "Banco de Investimento",
+   "freq": 13
+  },
+  {
+   "termo": "Debênture",
+   "freq": 12
+  },
+  {
+   "termo": "Cédula",
+   "freq": 12
+  },
+  {
+   "termo": "Susep",
+   "freq": 12
+  },
+  {
+   "termo": "EUR",
+   "freq": 12
+  },
+  {
+   "termo": "a.m.",
+   "freq": 11
+  },
+  {
+   "termo": "IPA",
+   "freq": 11
+  },
+  {
+   "termo": "FAO",
+   "freq": 11
+  },
+  {
+   "termo": "Limite de crédito",
+   "freq": 11
+  },
+  {
+   "termo": "DOU",
+   "freq": 11
+  },
+  {
+   "termo": "Taxa Interna de Retorno (TIR)",
+   "freq": 11
+  },
+  {
+   "termo": "CDS",
+   "freq": 11
+  },
+  {
+   "termo": "Puma",
+   "freq": 11
+  },
+  {
+   "termo": "CRI",
+   "freq": 10
+  },
+  {
+   "termo": "Custo de oportunidade",
+   "freq": 10
+  },
+  {
+   "termo": "CNI",
+   "freq": 10
+  },
+  {
+   "termo": "Jurisdição",
+   "freq": 10
+  },
+  {
+   "termo": "Liquidação extrajudicial",
+   "freq": 10
+  },
+  {
+   "termo": "Camex",
+   "freq": 10
+  },
+  {
+   "termo": "NTN-F",
+   "freq": 10
+  },
+  {
+   "termo": "CE",
+   "freq": 9
+  },
+  {
+   "termo": "DAS",
+   "freq": 9
+  },
+  {
+   "termo": "Planejamento estratégico",
+   "freq": 9
+  },
+  {
+   "termo": "União Europeia (UE)",
+   "freq": 9
+  },
+  {
+   "termo": "CBIC",
+   "freq": 9
+  },
+  {
+   "termo": "Vinculação",
+   "freq": 8
+  },
+  {
+   "termo": "ISIN",
+   "freq": 8
+  },
+  {
+   "termo": "AP",
+   "freq": 8
+  },
+  {
+   "termo": "Posição financeira",
+   "freq": 8
+  },
+  {
+   "termo": "Nuci",
+   "freq": 8
+  },
+  {
+   "termo": "FGTS",
+   "freq": 8
+  },
+  {
+   "termo": "Taxa DI",
+   "freq": 8
+  },
+  {
+   "termo": "NTN-B",
+   "freq": 8
+  },
+  {
+   "termo": "Copas",
+   "freq": 8
+  },
+  {
+   "termo": "CCJ",
+   "freq": 8
+  },
+  {
+   "termo": "LTN",
+   "freq": 8
+  },
+  {
+   "termo": "ICC",
+   "freq": 7
+  },
+  {
+   "termo": "ESM",
+   "freq": 7
+  },
+  {
+   "termo": "Prime",
+   "freq": 7
+  },
+  {
+   "termo": "Coaf",
+   "freq": 7
+  },
+  {
+   "termo": "Fibras",
+   "freq": 7
+  },
+  {
+   "termo": "PIS/Pasep",
+   "freq": 7
+  },
+  {
+   "termo": "CDB",
+   "freq": 7
+  },
+  {
+   "termo": "CAC-40",
+   "freq": 7
+  },
+  {
+   "termo": "CPV",
+   "freq": 6
+  },
+  {
+   "termo": "Proof",
+   "freq": 6
+  },
+  {
+   "termo": "IC-Br",
+   "freq": 6
+  },
+  {
+   "termo": "Valor de face",
+   "freq": 6
+  },
+  {
+   "termo": "Endosso",
+   "freq": 6
+  },
+  {
+   "termo": "Cupom",
+   "freq": 6
+  },
+  {
+   "termo": "INCC",
+   "freq": 5
+  },
+  {
+   "termo": "Risco financeiro",
+   "freq": 5
+  },
+  {
+   "termo": "Broker",
+   "freq": 5
+  },
+  {
+   "termo": "OTC",
+   "freq": 5
+  },
+  {
+   "termo": "Dealers",
+   "freq": 5
+  },
+  {
+   "termo": "Default",
+   "freq": 5
+  },
+  {
+   "termo": "BLS",
+   "freq": 5
+  },
+  {
+   "termo": "INPI",
+   "freq": 5
+  },
+  {
+   "termo": "FDA",
+   "freq": 5
+  },
+  {
+   "termo": "Atributo",
+   "freq": 5
+  },
+  {
+   "termo": "Condicionalidade",
+   "freq": 4
+  },
+  {
+   "termo": "Carregamento estatístico",
+   "freq": 4
+  },
+  {
+   "termo": "LSPA",
+   "freq": 4
+  },
+  {
+   "termo": "Indicador fiscal",
+   "freq": 4
+  },
+  {
+   "termo": "Hedge cambial",
+   "freq": 4
+  },
+  {
+   "termo": "Novação",
+   "freq": 4
+  },
+  {
+   "termo": "Instituição de Pagamento",
+   "freq": 4
+  },
+  {
+   "termo": "CDC",
+   "freq": 4
+  },
+  {
+   "termo": "Cooperativa",
+   "freq": 4
+  },
+  {
+   "termo": "IOF",
+   "freq": 4
+  },
+  {
+   "termo": "Bear market",
+   "freq": 4
+  },
+  {
+   "termo": "Denominação",
+   "freq": 4
+  },
+  {
+   "termo": "Circuit breaker",
+   "freq": 4
+  },
+  {
+   "termo": "CRC",
+   "freq": 3
+  },
+  {
+   "termo": "FOB",
+   "freq": 3
+  },
+  {
+   "termo": "Agência de fomento",
+   "freq": 3
+  },
+  {
+   "termo": "FDIC",
+   "freq": 3
+  },
+  {
+   "termo": "BEA",
+   "freq": 3
+  },
+  {
+   "termo": "Banco de Desenvolvimento",
+   "freq": 3
+  },
+  {
+   "termo": "EIA",
+   "freq": 3
+  },
+  {
+   "termo": "Banco Múltiplo",
+   "freq": 3
+  },
+  {
+   "termo": "CCR",
+   "freq": 3
+  },
+  {
+   "termo": "CadÚnico",
+   "freq": 3
+  },
+  {
+   "termo": "Crédito pessoal",
+   "freq": 3
+  },
+  {
+   "termo": "Cide",
+   "freq": 3
+  },
+  {
+   "termo": "SFN",
+   "freq": 3
+  },
+  {
+   "termo": "Centena",
+   "freq": 3
+  },
+  {
+   "termo": "Liquidação antecipada",
+   "freq": 3
+  },
+  {
+   "termo": "ESF",
+   "freq": 3
+  },
+  {
+   "termo": "LDO",
+   "freq": 2
+  },
+  {
+   "termo": "Cusip",
+   "freq": 2
+  },
+  {
+   "termo": "IASB",
+   "freq": 2
+  },
+  {
+   "termo": "CNAE",
+   "freq": 2
+  },
+  {
+   "termo": "APP",
+   "freq": 2
+  },
+  {
+   "termo": "CIF",
+   "freq": 2
+  },
+  {
+   "termo": "Letra Financeira",
+   "freq": 2
+  },
+  {
+   "termo": "CNC",
+   "freq": 2
+  },
+  {
+   "termo": "Senacon",
+   "freq": 2
+  },
+  {
+   "termo": "Financiamento externo",
+   "freq": 2
+  },
+  {
+   "termo": "CBOE",
+   "freq": 2
+  },
+  {
+   "termo": "Dívida externa",
+   "freq": 2
+  },
+  {
+   "termo": "EC",
+   "freq": 2
+  },
+  {
+   "termo": "Exposição cambial",
+   "freq": 2
+  },
+  {
+   "termo": "Risco país",
+   "freq": 2
+  },
+  {
+   "termo": "Cooperativas de crédito",
+   "freq": 2
+  },
+  {
+   "termo": "TED",
+   "freq": 2
+  },
+  {
+   "termo": "Inadimplência da carteira",
+   "freq": 2
+  },
+  {
+   "termo": "CRA",
+   "freq": 2
+  },
+  {
+   "termo": "Overnight",
+   "freq": 2
+  },
+  {
+   "termo": "BCRA",
+   "freq": 2
+  },
+  {
+   "termo": "INPC",
+   "freq": 2
+  },
+  {
+   "termo": "M3",
+   "freq": 2
+  },
+  {
+   "termo": "Spread médio",
+   "freq": 2
+  },
+  {
+   "termo": "LFT",
+   "freq": 2
+  },
+  {
+   "termo": "ICEI",
+   "freq": 2
+  },
+  {
+   "termo": "CGI",
+   "freq": 2
+  },
+  {
+   "termo": "PRE",
+   "freq": 2
+  },
+  {
+   "termo": "Relatório da Administração",
+   "freq": 2
+  },
+  {
+   "termo": "BIS",
+   "freq": 2
+  },
+  {
+   "termo": "FBCF",
+   "freq": 1
+  },
+  {
+   "termo": "CC",
+   "freq": 1
+  },
+  {
+   "termo": "NAB",
+   "freq": 1
+  },
+  {
+   "termo": "Data-limite",
+   "freq": 1
+  },
+  {
+   "termo": "Banxico",
+   "freq": 1
+  },
+  {
+   "termo": "CCE",
+   "freq": 1
+  },
+  {
+   "termo": "CCS",
+   "freq": 1
+  },
+  {
+   "termo": "Reservas Bancárias",
+   "freq": 1
+  },
+  {
+   "termo": "DR",
+   "freq": 1
+  },
+  {
+   "termo": "Dessazonalizado",
+   "freq": 1
+  },
+  {
+   "termo": "FBC",
+   "freq": 1
+  },
+  {
+   "termo": "Dieese",
+   "freq": 1
+  },
+  {
+   "termo": "Risco sistêmico",
+   "freq": 1
+  },
+  {
+   "termo": "Núcleo de inflação",
+   "freq": 1
+  },
+  {
+   "termo": "Risco de liquidez",
+   "freq": 1
+  },
+  {
+   "termo": "M4",
+   "freq": 1
+  },
+  {
+   "termo": "ACC",
+   "freq": 1
+  },
+  {
+   "termo": "DPMFi",
+   "freq": 1
+  },
+  {
+   "termo": "DPFe",
+   "freq": 1
+  },
+  {
+   "termo": "Copan",
+   "freq": 1
+  },
+  {
+   "termo": "BID",
+   "freq": 1
+  },
+  {
+   "termo": "ARM",
+   "freq": 1
+  },
+  {
+   "termo": "DPC",
+   "freq": 1
+  },
+  {
+   "termo": "LOA",
+   "freq": 1
+  },
+  {
+   "termo": "CAGED",
+   "freq": 1
+  },
+  {
+   "termo": "FAR",
+   "freq": 1
+  },
+  {
+   "termo": "DOC",
+   "freq": 1
+  },
+  {
+   "termo": "Ipea",
+   "freq": 1
+  },
+  {
+   "termo": "OEA",
+   "freq": 1
+  },
+  {
+   "termo": "CEF",
+   "freq": 1
+  },
+  {
+   "termo": "BCCh",
+   "freq": 1
+  },
+  {
+   "termo": "CDE",
+   "freq": 1
+  },
+  {
+   "termo": "IPC-Fipe",
+   "freq": 1
+  },
+  {
+   "termo": "Convexidade",
+   "freq": 1
+  },
+  {
+   "termo": "ATM",
+   "freq": 1
+  },
+  {
+   "termo": "Taxa de juros implícita",
+   "freq": 1
+  },
+  {
+   "termo": "Cheque especial",
+   "freq": 1
+  },
+  {
+   "termo": "Estampa",
+   "freq": 1
+  },
+  {
+   "termo": "CFM",
+   "freq": 1
+  },
+  {
+   "termo": "CT",
+   "freq": 1
+  },
+  {
+   "termo": "Dívida Bruta do Governo Geral (DBGG)",
+   "freq": 1
+  },
+  {
+   "termo": "Valor de referência",
+   "freq": 1
+  },
+  {
+   "termo": "Bacen",
+   "freq": 1
+  },
+  {
+   "termo": "Instituições financeiras públicas",
+   "freq": 1
+  },
+  {
+   "termo": "Apex-Brasil",
+   "freq": 1
+  },
+  {
+   "termo": "Bull market",
+   "freq": 1
+  },
+  {
+   "termo": "Arranjo de pagamento",
+   "freq": 1
+  },
+  {
+   "termo": "ACE",
+   "freq": 1
+  },
+  {
+   "termo": "CR",
+   "freq": 1
+  },
+  {
+   "termo": "SGS",
+   "freq": 1
+  },
+  {
+   "termo": "Risco de mercado",
+   "freq": 1
+  },
+  {
+   "termo": "Confaz",
+   "freq": 1
+  },
+  {
+   "termo": "Relatório de Estabilidade Financeira",
+   "freq": 1
+  },
+  {
+   "termo": "Sistema monetário",
+   "freq": 1
+  },
+  {
+   "termo": "CNseg",
+   "freq": 1
+  }
+ ]
+}

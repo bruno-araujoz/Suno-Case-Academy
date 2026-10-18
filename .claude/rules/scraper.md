@@ -25,5 +25,10 @@ paths:
   versão em `schemas/`). Nunca grave schema sem validar; nunca sobrescreva versão existente.
 - LLM nunca no caminho feliz. Não contorne bloqueios (403/WAF/paywall): registre na ficha.
 - Datas: `parse_datetime` (ingênua = America/Sao_Paulo); WordPress `date_gmt` é UTC.
+- Coleta é **sob demanda** (`ondemand.ensure_fresh`): cada fonte tem `ttl` em `sources.yaml` e só é
+  consultada vencida; trava `pg_advisory_lock`; orçamento de tempo. Não reintroduza polling fixo.
+- Healer tem cooldown (`source_checks.heal_after`: 6 h após falha, 24 h após tentativa L4).
+- Enriquecimento (PDF/artigo) só dos documentos que um evento pedido vai usar
+  (`enrich_documents`); posts "ao vivo" ficam fora da seleção de eventos.
 - Imports pesados (trafilatura, pymupdf, crawl4ai) dentro das funções que os usam: o
   `/mnt/c` torna cada import caro.

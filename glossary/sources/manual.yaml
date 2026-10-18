@@ -1,0 +1,36 @@
+# Semente manual: termos citados no TAPI + vocabulário essencial de mercado/empresas que a
+# mineração do corpus não pega (palavras comuns do português, como "dividendos").
+- {termo: dividendos, variantes: [dividendo, proventos]}
+- {termo: juros sobre capital próprio, variantes: [JCP]}
+- {termo: EBITDA, variantes: [Lajida]}
+- {termo: EBITDA ajustado}
+- {termo: covenants, variantes: [covenant, cláusulas restritivas]}
+- {termo: forward guidance, variantes: [orientação futura]}
+- {termo: taxa terminal}
+- {termo: hiato do produto, variantes: [hiato de produto, output gap]}
+- {termo: curva de juros, variantes: [estrutura a termo das taxas de juros]}
+- {termo: taxa neutra, variantes: [juro neutro, taxa de juros neutra]}
+- {termo: expectativas desancoradas, variantes: [desancoragem das expectativas]}
+- {termo: guidance}
+- {termo: lucro líquido}
+- {termo: receita líquida}
+- {termo: margem EBITDA}
+- {termo: dívida líquida}
+- {termo: alavancagem, variantes: [dívida líquida/EBITDA]}
+- {termo: payout}
+- {termo: dividend yield, variantes: [DY]}
+- {termo: recompra de ações}
+- {termo: fato relevante}
+- {termo: Ibovespa, variantes: [Ibov]}
+- {termo: renda fixa}
+- {termo: renda variável}
+- {termo: Tesouro Direto}
+- {termo: Taxa Interna de Retorno, variantes: [TIR]}
+- {termo: P/L, variantes: [preço/lucro]}
+- {termo: juros futuros, variantes: [DI futuro]}
+- {termo: fundos imobiliários, variantes: [FII, FIIs]}
+- {termo: IPO, variantes: [oferta pública inicial]}
+- {termo: follow-on}
+- {termo: recuperação judicial}
+- {termo: rating, variantes: [nota de crédito]}
+- {termo: spread de crédito}

@@ -8,6 +8,7 @@ from dataclasses import dataclass
 from datetime import date, datetime
 from decimal import Decimal
 from pathlib import Path
+from typing import Any
 
 import asyncpg
 
@@ -278,6 +279,290 @@ class Database:
                 "items_new, http_status, error, duration_ms, run_at FROM source_health "
                 "ORDER BY source, run_at DESC"
             )
+
+    # ------------------------------------------------------------------ on-demand checks
+
+    async def get_checks(self) -> dict[str, datetime | None]:
+        async with self.pool.acquire() as conn:
+            rows = await conn.fetch("SELECT source, checked_at FROM source_checks")
+        return {r["source"]: r["checked_at"] for r in rows}
+
+    async def mark_checked(self, sources: list[str], at: datetime) -> None:
+        async with self.pool.acquire() as conn:
+            await conn.executemany(
+                "INSERT INTO source_checks (source, checked_at) VALUES ($1, $2) "
+                "ON CONFLICT (source) DO UPDATE SET checked_at = EXCLUDED.checked_at",
+                [(s, at) for s in sources],
+            )
+
+    async def get_heal_after(self, source: str) -> datetime | None:
+        async with self.pool.acquire() as conn:
+            return await conn.fetchval(
+                "SELECT heal_after FROM source_checks WHERE source = $1", source
+            )
+
+    async def set_heal_after(self, source: str, until: datetime | None) -> None:
+        async with self.pool.acquire() as conn:
+            await conn.execute(
+                "INSERT INTO source_checks (source, heal_after) VALUES ($1, $2) "
+                "ON CONFLICT (source) DO UPDATE SET heal_after = EXCLUDED.heal_after",
+                source,
+                until,
+            )
+
+    async def prune_health(self, days: int = 30) -> int:
+        async with self.pool.acquire() as conn:
+            status = await conn.execute(
+                "DELETE FROM source_health WHERE run_at < now() - make_interval(days => $1)", days
+            )
+        return int(status.split()[-1])
+
+    async def documents_by_hashes(self, hashes: list[str]) -> list[Document]:
+        async with self.pool.acquire() as conn:
+            rows = await conn.fetch(
+                "SELECT source, doc_type, tier, url, title, published_at, author, content_text, "
+                "pdf_url, extraction_level, status, meta FROM documents WHERE url_hash = ANY($1)",
+                hashes,
+            )
+        return [Document(**{**dict(r), "meta": json.loads(r["meta"])}) for r in rows]
+
+    # ------------------------------------------------------------------ llm calls
+
+    async def record_llm_call(self, info: Any) -> None:
+        async with self.pool.acquire() as conn:
+            await conn.execute(
+                "INSERT INTO llm_calls (provider, model, key_label, purpose, prompt_version, "
+                "in_tokens, out_tokens, latency_ms, ok, error) "
+                "VALUES ($1,$2,$3,$4,$5,$6,$7,$8,$9,$10)",
+                info.provider,
+                info.model,
+                info.key_label,
+                info.purpose,
+                info.prompt_version,
+                info.in_tokens,
+                info.out_tokens,
+                info.latency_ms,
+                info.ok,
+                info.error,
+            )
+
+    # ------------------------------------------------------------------ generation (phase 02)
+
+    async def top_events(self, window_hours: int = 48, limit: int = 5) -> list[asyncpg.Record]:
+        """Most relevant event clusters with enough material to write about."""
+        async with self.pool.acquire() as conn:
+            return await conn.fetch(
+                """
+                WITH c AS (
+                    SELECT cluster_id,
+                           max(relevance_score) AS score,
+                           max(published_at) AS last_at,
+                           bool_or(tier = 'official') AS has_official,
+                           sum(length(coalesce(content_text, ''))) AS chars,
+                           max(coalesce((meta->'relevance'->>'publishers')::int, 1)) AS publishers,
+                           count(*) AS docs,
+                           (array_agg(title ORDER BY relevance_score DESC NULLS LAST))[1] AS title
+                    FROM documents
+                    WHERE cluster_id IS NOT NULL
+                      AND published_at > now() - make_interval(hours => $1)
+                      AND status IN ('ready', 'pending_enrich')
+                      -- live blogs mix many unrelated stories in one document
+                      AND url NOT ILIKE '%ao-vivo%' AND title NOT ILIKE '%ao vivo%'
+                    GROUP BY cluster_id
+                )
+                SELECT * FROM c WHERE chars >= 1200 OR has_official
+                ORDER BY score DESC NULLS LAST, has_official DESC, publishers DESC
+                LIMIT $2
+                """,
+                window_hours,
+                limit,
+            )
+
+    async def search_events(
+        self, query: str, window_days: int = 21, limit: int = 8, min_rank: float = 0.05
+    ) -> list[asyncpg.Record]:
+        """Events (clusters) matching a free-text topic — Portuguese full text, accent-insensitive.
+
+        Ranking: best text match × (0.5 + event relevance), with a small bonus for clusters that
+        contain an official document. Same card fields as `top_events`, plus `rank` and `snippet`.
+        """
+        async with self.pool.acquire() as conn:
+            return await conn.fetch(
+                """
+                WITH q AS (SELECT websearch_to_tsquery('portuguese', f_unaccent($1)) AS query),
+                hits AS (
+                    SELECT d.cluster_id, d.title, d.published_at, d.relevance_score, d.tier,
+                           d.content_text, d.meta, ts_rank(d.search, q.query) AS rank
+                    FROM documents d, q
+                    WHERE d.search @@ q.query
+                      AND d.cluster_id IS NOT NULL
+                      AND d.published_at > now() - make_interval(days => $2)
+                      AND d.status IN ('ready', 'pending_enrich')
+                      AND d.url NOT ILIKE '%ao-vivo%' AND d.title NOT ILIKE '%ao vivo%'
+                    ORDER BY rank DESC
+                    LIMIT 300
+                ),
+                clusters AS (
+                    SELECT cluster_id,
+                           max(rank) AS rank,
+                           max(relevance_score) AS score,
+                           count(*) AS docs,
+                           bool_or(tier = 'official') AS has_official,
+                           max(published_at) AS last_at,
+                           max(coalesce((meta->'relevance'->>'publishers')::int, 1)) AS publishers,
+                           (array_agg(title ORDER BY rank DESC))[1] AS title,
+                           (array_agg(left(coalesce(content_text, ''), 2500)
+                                      ORDER BY rank DESC))[1] AS best_text
+                    FROM hits GROUP BY cluster_id
+                )
+                SELECT c.cluster_id, c.title, c.score, c.docs, c.has_official, c.last_at,
+                       c.publishers, c.rank,
+                       ts_headline('portuguese', c.best_text, q.query,
+                                   'MaxWords=30, MinWords=12, ShortWord=3, MaxFragments=1, '
+                                   'StartSel=«, StopSel=»') AS snippet
+                FROM clusters c, q
+                WHERE c.rank >= $4
+                ORDER BY c.rank * (0.5 + coalesce(c.score, 0))
+                         * (CASE WHEN c.has_official THEN 1.2 ELSE 1.0 END) DESC
+                LIMIT $3
+                """,
+                query,
+                window_days,
+                limit,
+                min_rank,
+            )
+
+    async def event_info(self, cluster_id: str) -> asyncpg.Record | None:
+        async with self.pool.acquire() as conn:
+            return await conn.fetchrow(
+                "SELECT cluster_id, max(relevance_score) AS score, "
+                "max(coalesce((meta->'relevance'->>'publishers')::int, 1)) AS publishers, "
+                "count(*) AS docs, (array_agg(title ORDER BY relevance_score DESC NULLS LAST))[1] "
+                "AS title FROM documents WHERE cluster_id = $1 GROUP BY cluster_id",
+                cluster_id,
+            )
+
+    async def cluster_documents(self, cluster_id: str, limit: int = 5) -> list[Document]:
+        """Best sources of an event: official first, then most relevant, then longest."""
+        async with self.pool.acquire() as conn:
+            rows = await conn.fetch(
+                "SELECT source, doc_type, tier, url, title, published_at, author, content_text, "
+                "pdf_url, extraction_level, status, meta FROM documents WHERE cluster_id = $1 "
+                "AND url NOT ILIKE '%ao-vivo%' AND title NOT ILIKE '%ao vivo%' "
+                "ORDER BY (tier = 'official') DESC, relevance_score DESC NULLS LAST, "
+                "length(coalesce(content_text, '')) DESC LIMIT $2",
+                cluster_id,
+                limit,
+            )
+        return [Document(**{**dict(r), "meta": json.loads(r["meta"])}) for r in rows]
+
+    async def get_anchors(
+        self, cluster_id: str, docs_hash: str, prompt_version: str
+    ) -> asyncpg.Record | None:
+        async with self.pool.acquire() as conn:
+            return await conn.fetchrow(
+                "SELECT id, anchors, evidence, dropped FROM anchors "
+                "WHERE cluster_id=$1 AND docs_hash=$2 AND prompt_version=$3",
+                cluster_id,
+                docs_hash,
+                prompt_version,
+            )
+
+    async def save_anchors(
+        self,
+        cluster_id: str,
+        docs_hash: str,
+        prompt_version: str,
+        anchors: dict,
+        evidence: list,
+        dropped: list,
+        provider: str | None,
+        model: str | None,
+    ) -> int:
+        async with self.pool.acquire() as conn:
+            return await conn.fetchval(
+                "INSERT INTO anchors (cluster_id, docs_hash, prompt_version, anchors, evidence, "
+                "dropped, provider, model) VALUES ($1,$2,$3,$4::jsonb,$5::jsonb,$6::jsonb,$7,$8) "
+                "ON CONFLICT (cluster_id, docs_hash, prompt_version) DO UPDATE SET "
+                "anchors=EXCLUDED.anchors, evidence=EXCLUDED.evidence, dropped=EXCLUDED.dropped "
+                "RETURNING id",
+                cluster_id,
+                docs_hash,
+                prompt_version,
+                json.dumps(anchors, ensure_ascii=False),
+                json.dumps(evidence, ensure_ascii=False),
+                json.dumps(dropped, ensure_ascii=False),
+                provider,
+                model,
+            )
+
+    async def find_generation(
+        self, cluster_id: str, fmt: str, level: str, prompt_versions: str
+    ) -> asyncpg.Record | None:
+        async with self.pool.acquire() as conn:
+            return await conn.fetchrow(
+                "SELECT * FROM generations WHERE cluster_id=$1 AND fmt=$2 AND level=$3 "
+                "AND prompt_versions=$4",
+                cluster_id,
+                fmt,
+                level,
+                prompt_versions,
+            )
+
+    async def generation_attempts(self, generation_id: int) -> list[asyncpg.Record]:
+        async with self.pool.acquire() as conn:
+            return await conn.fetch(
+                "SELECT * FROM generation_attempts WHERE generation_id=$1 ORDER BY n", generation_id
+            )
+
+    async def save_generation(self, row: dict, attempts: list[dict]) -> int:
+        """Insert (or replace, on --force) a generation and all its attempts atomically."""
+        async with self.pool.acquire() as conn, conn.transaction():
+            await conn.execute(
+                "DELETE FROM generations WHERE cluster_id=$1 AND fmt=$2 AND level=$3 "
+                "AND prompt_versions=$4",
+                row["cluster_id"],
+                row["fmt"],
+                row["level"],
+                row["prompt_versions"],
+            )
+            gen_id = await conn.fetchval(
+                "INSERT INTO generations (cluster_id, event_title, fmt, level, prompt_versions, "
+                "anchors_id, content, eval, passed, score, attempts, best_attempt, latency_ms, "
+                "topic) VALUES ($1,$2,$3,$4,$5,$6,$7::jsonb,$8::jsonb,$9,$10,$11,$12,$13,$14) "
+                "RETURNING id",
+                row["cluster_id"],
+                row["event_title"],
+                row["fmt"],
+                row["level"],
+                row["prompt_versions"],
+                row["anchors_id"],
+                json.dumps(row["content"], ensure_ascii=False),
+                json.dumps(row["eval"], ensure_ascii=False, default=str),
+                row["passed"],
+                row["score"],
+                row["attempts"],
+                row["best_attempt"],
+                row["latency_ms"],
+                row.get("topic"),
+            )
+            await conn.executemany(
+                "INSERT INTO generation_attempts (generation_id, n, content, eval, provider, "
+                "model, latency_ms) VALUES ($1,$2,$3::jsonb,$4::jsonb,$5,$6,$7)",
+                [
+                    (
+                        gen_id,
+                        a["n"],
+                        json.dumps(a["content"], ensure_ascii=False),
+                        json.dumps(a["eval"], ensure_ascii=False, default=str),
+                        a.get("provider"),
+                        a.get("model"),
+                        a.get("latency_ms"),
+                    )
+                    for a in attempts
+                ],
+            )
+        return gen_id
 
     # ------------------------------------------------------------------ market series
 

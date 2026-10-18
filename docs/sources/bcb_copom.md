@@ -10,4 +10,10 @@
 - Datas: `AAAA-MM-DD` sem hora (assumido America/Sao_Paulo).
 - Fragilidades: API interna do site (não documentada); se mudar, cai para `urlPdfAta` + pymupdf.
 - Relevância para o TAPI: insumo central (atas do Copom = documento-alvo do case).
-- Verificado em: 2026-10-09
+- **Incidente 2026-10-17:** toda a API `api/servico/sitebcb/*` (inclusive o glossário) passou a
+  responder `400 Requisição Inválida` com qualquer cabeçalho, embora a documentação de dados
+  abertos ainda liste as mesmas URLs; o SGS (`api.bcb.gov.br`), a página pública e os PDFs das atas
+  (`/content/copom/atascopom/...pdf`) seguiram funcionando. O scraper marca a fonte como `failed`
+  e segue com as demais; o banco mantém o histórico já coletado (86 atas, 2016→2026).
+  Não há fallback automático: sem a API não há listagem descobrível dos PDFs (a página é SPA).
+- Verificado em: 2026-10-09 (reverificado em 2026-10-17)

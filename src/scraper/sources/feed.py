@@ -20,7 +20,7 @@ import fastfeedparser
 from ..core.db import SourceState
 from ..core.http import FetchResult
 from ..core.models import Document, first, html_to_text, parse_datetime
-from .base import Source, SourceContext
+from .base import Source, SourceContext, SourceReport
 from .registry import FeedConfig
 
 WP_FIELDS = "id,date_gmt,modified_gmt,link,title,excerpt,content"
@@ -245,3 +245,44 @@ def parse_feed(result: FetchResult) -> list[dict[str, Any]] | None:
         return list(fastfeedparser.parse(result.content).entries)
     except Exception:  # malformed XML / not a feed (e.g. HTML error page)
         return None
+
+
+def search_url(config: FeedConfig) -> str | None:
+    """WordPress search endpoint of a portal (None if the portal is not searchable)."""
+    if not config.searchable:
+        return None
+    if config.kind == "wpjson" and config.url:
+        return config.url
+    if config.homepage:
+        return config.homepage.rstrip("/") + "/wp-json/wp/v2/posts"
+    return None
+
+
+async def search_wpjson(
+    ctx: SourceContext, config: FeedConfig, query: str, per_page: int = 20
+) -> tuple[list[Document], SourceReport]:
+    """On-demand topic search on a WordPress portal (`?search=`), full text included.
+
+    Does not touch the feed's watermark/state: it is a side lookup, not an incremental poll.
+    """
+    source = FeedSource(ctx, config)
+    url = search_url(config)
+    if url is None:
+        source.report.status = "failed"
+        source.report.error = "portal sem busca"
+        return [], source.report
+    params = {
+        "search": query,
+        "per_page": per_page,
+        "_fields": WP_FIELDS,
+        "after": ctx.since.astimezone(UTC).strftime("%Y-%m-%dT%H:%M:%S"),
+    }
+    result = await ctx.http.get(url, params=params)
+    source.report.http_status = result.status
+    posts = result.json() if result.ok else None
+    if not isinstance(posts, list):
+        source.fail(result, "busca wp-json")
+        return [], source.report
+    source.report.items_seen = len(posts)
+    docs = [d for post in posts if (d := source._post_to_doc(post))]
+    return docs, source.report
